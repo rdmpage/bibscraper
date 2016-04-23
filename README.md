@@ -1,2 +1,3 @@
 # bibscraper
-Scraping bibliographic data from the web
+
+Scripts to extract bibliographic data from the web.
