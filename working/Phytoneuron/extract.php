@@ -24,51 +24,9 @@ mso-bidi-font-size:12.0pt;font-family:Tahoma'>.</span><span style='font-size:
 12.0pt;font-family:Tahoma'><span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
 ";
 
-$html = file_get_contents('html/Phytoneuron 2010 publications.html');
+$html = file_get_contents('html/2011.html');
 
-/*
-$html = "<p class=MsoNormal style='margin-top:0in;margin-right:2.4in;margin-bottom:0in;
-margin-left:39.9pt;margin-bottom:.0001pt;text-indent:-19.95pt'><span
-style='font-size:12.0pt;font-family:Tahoma;color:navy'>Turner, B. L.<span
-style='mso-spacerun:yes'>  </span>2010.<span style='mso-spacerun:yes'>  </span><a
-href=\"http://www.phytoneuron.net/PhytoN-Phaceliapatuliflora.pdf\"><span
-style='color:navy'>Systematic reevaluation of the <i style='mso-bidi-font-style:
-normal'>Phacelia patuliflora</i> (Hydrophyllaceae) complex</span></a>.<span
-style='mso-spacerun:yes'>  </span>Phytoneuron 2010-21: 1–3.</span><span
-style='font-size:12.0pt;font-family:Tahoma'><span style='mso-spacerun:yes'> 
-</span></span><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
-font-family:Tahoma'>Mailed </span><st1:date Month=\"6\" Day=\"21\" Year=\"2010\"><span
- style='font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma'>21 June
- 2010</span></st1:date><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt;
-font-family:Tahoma'>.</span><span style='font-size:12.0pt;font-family:Tahoma'><span
-style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>";
-*/
 
-/*$files = scandir('html/');
-foreach ($files as $filename)
-{
-	if (preg_match('/\.html$/', $filename))
-	{			
-		$html = file_get_contents('html/' . $filename);
-*/
-
-/*
-$html = "<p class=MsoNormal style='margin-top:0in;margin-right:2.4in;margin-bottom:0in;
-margin-left:39.9pt;margin-bottom:.0001pt;text-indent:-19.95pt'><span
-style='font-size:12.0pt;mso-bidi-font-size:8.0pt;font-family:Tahoma;color:navy'>Averett,
-J. E.<span style='mso-spacerun:yes'>  </span>2010.<span
-style='mso-spacerun:yes'>  </span><a
-href=\"http://www.phytoneuron.net/PhytoN-Chamaeconiodes.pdf\"><span
-style='color:navy'>The status of </span><i><span style='mso-bidi-font-size:
-8.5pt;color:navy'>Chamaesaracha coniodes</span></i><span style='mso-bidi-font-size:
-8.5pt;color:navy'> </span><span style='color:navy'>and </span><i><span
-style='mso-bidi-font-size:8.5pt;color:navy'>C. coronopus</span></i><span
-style='mso-bidi-font-size:8.5pt;color:navy'> </span><span style='color:navy'>(Solanaceae)</span></a>.<span
-style='mso-spacerun:yes'>  </span>Phytoneuron 2010-57: 1–5. <o:p></o:p></span></p>
-
-";
-
-*/
 
 $dom = str_get_html($html);
 
