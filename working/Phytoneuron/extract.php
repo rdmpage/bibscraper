@@ -24,8 +24,13 @@ mso-bidi-font-size:12.0pt;font-family:Tahoma'>.</span><span style='font-size:
 12.0pt;font-family:Tahoma'><span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
 ";
 
+$html = file_get_contents('html/2010.html');
 $html = file_get_contents('html/2011.html');
-
+$html = file_get_contents('html/2012.html');
+$html = file_get_contents('html/2013.html');
+$html = file_get_contents('html/2014.html');
+$html = file_get_contents('html/2015.html');
+$html = file_get_contents('html/2016.html');
 
 
 $dom = str_get_html($html);
@@ -44,8 +49,11 @@ foreach ($ps as $p)
 		{
 			$authorstring = $m['authorstring'];
 			
+			$authorstring = preg_replace('/\.([A-Z])/', '. $1', $authorstring);
+			
 			$authorstring = preg_replace('/ and /', '|', $authorstring);
-			$authorstring = preg_replace('/\.,\s*/', '|', $authorstring);
+			$authorstring = preg_replace('/\.,\s*/', '.|', $authorstring);
+			
 			
 			$reference->authors = explode("|", $authorstring);
 		}
@@ -84,30 +92,52 @@ foreach ($ps as $p)
 			{
 				//print_r($m);
 				$authorstring = $m['authorstring'];
+				
+				$authorstring = preg_replace('/\x{00a0}/u', ' ', $authorstring);
+				$authorstring = preg_replace('/\.([A-Z])/', '. $1', $authorstring);
+				$authorstring = preg_replace('/\.\s*$/', '', $authorstring);
+
 			
 				$authorstring = preg_replace('/ and /', '|', $authorstring);
-				$authorstring = preg_replace('/\.,\s*/', '|', $authorstring);
-			
-				$reference->authors = explode("|", $authorstring);
+				$authorstring = preg_replace('/\.,\s*/', '.|', $authorstring);
 				
-				$n = count($reference->authors);
+				//echo $authorstring . "\n";
+			
+				$authors = explode("|", $authorstring);
+				
+				$n = count($authors);
 				for ($i = 0; $i < $n; $i++)
 				{
-					$a = $reference->authors[$i];
+					$a = $authors[$i];
 					$a = preg_replace('/\x{00a0}/u', ' ', $a);
 					$a = preg_replace('/,$/u', '', $a);
-					$a = preg_replace('/\.\s*$/u', '', $a);
+					//$a = preg_replace('/\.\s*$/u', '', $a);
 					$a = preg_replace('/’\s/u', '\'', $a);
 					$a = preg_replace('/\s\s+/u', ' ', $a);
 					
-					$reference->authors[$i] = $a;
+					$a = preg_replace('/, Jr$/u', '', $a);
+					
+					if ($i > 0)
+					{
+						$parts = explode(",", $a);
+						foreach ($parts as $part)
+						{
+							$reference->authors[] = trim($part);
+						}
+						
+					}
+					else
+					{					
+						$reference->authors[] = $a;
+					}
 				}
-				
 				
 				$reference->title = $m['title'];
 				$reference->title = preg_replace('/\x{00a0}/u', ' ', $reference->title);
 			    $reference->title = preg_replace('/^\s+/u', '', $reference->title);
 				$reference->title = preg_replace('/\.\s$/u', '', $reference->title);
+				$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
+				
 				$reference->journal = $m['journal'];
 				$reference->issn = '2153-733X';
 				$reference->volume = $m['volume']; 
