@@ -20,6 +20,7 @@ function reference_to_ris($reference)
 		'spage' 	=> 'SP',
 		'epage' 	=> 'EP',
 		'year' 		=> 'Y1',
+		'data'		=> 'PY',
 		'abstract'	=> 'N2',
 		'url'		=> 'UR',
 		'pdf'		=> 'L1',
@@ -40,6 +41,16 @@ function reference_to_ris($reference)
 				{
 					$ris .= "AU  - " . $a ."\n";
 				}
+				break;
+				
+			case 'date':
+				//echo "|$v|\n";
+				if (preg_match("/^(?<year>[0-9]{4})\-(?<month>[0-9]{2})\-(?<day>[0-9]{2})$/", $v, $matches))
+				{
+					//print_r($matches);
+					$ris .= "PY  - " . $matches['year'] . "/" . $matches['month'] . "/" . $matches['day']  . "/" . "\n";
+					$ris .= "Y1  - " . $matches['year'] . "\n";
+				}			
 				break;
 				
 			default:
@@ -74,6 +85,7 @@ function reference_to_tsv($reference)
 		'spage',
 		'epage',
 		'year',
+		'date',
 		'doi',
 		'url',
 		'pdf'
@@ -110,6 +122,81 @@ function reference_to_tsv($reference)
 	
 	return $row;
 }
+
+//----------------------------------------------------------------------------------------
+function reference2openurl($reference)
+{
+	$openurl = '';
+	$openurl .= 'ctx_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal';
+	//$openurl .= '&genre=article';
+	
+	if (isset($reference->authors))
+	{
+		foreach ($reference->authors as $author)
+		{
+			$openurl .= '&rft.au=' . urlencode($author);
+		}	
+	}
+	$openurl .= '&rft.atitle=' . urlencode($reference->title);
+	$openurl .= '&rft.jtitle=' . urlencode($reference->journal);
+	if (isset($reference->issn))
+	{
+		$openurl .= '&rft.issn=' . $reference->issn;
+	}
+	if (isset($reference->series))
+	{
+		$openurl .= '&rft.series=' . $reference->series;
+	}
+	$openurl .= '&rft.volume=' . $reference->volume;
+	
+	if (isset($reference->issue))
+	{
+		$openurl .= '&amp;rft.issue=' . $reference->issue;
+	}		
+	
+	if (isset($reference->spage))
+	{
+		$openurl .= '&rft.spage=' . $reference->spage;
+	}
+	if (isset($reference->epage))
+	{
+		$openurl .= '&rft.epage=' . $reference->epage;
+	}
+	if (isset($reference->pagination))
+	{
+		$openurl .= '&rft.pages=' . $reference->pagination;
+	}
+	
+	if (isset($reference->date))
+	{
+		$openurl .= '&rft.date=' . $reference->date;
+	}
+	else
+	{
+		$openurl .= '&rft.date=' . $reference->year;	
+	}
+	if (isset($reference->lsid))
+	{
+		$openurl .= '&rft_id=' . $reference->lsid;
+	}
+	
+	if (isset($reference->doi))
+	{
+		$openurl .= '&rft_id=info:doi/' . $reference->doi;
+	}
+	
+	
+	if (isset($reference->url))
+	{
+		if (preg_match('/http:\/\/hdl.handle.net\//', $reference->url))
+		{
+			$openurl .= '&rft_id=' . $reference->url;
+		}
+	}	
+
+	return $openurl;
+}
+
 
 //----------------------------------------------------------------------------------------
 // Create a guid from metadata
