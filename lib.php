@@ -147,7 +147,7 @@ function get($url, $userAgent = '', $content_type = '', $cookie = null)
 	curl_setopt ($ch, CURLOPT_HEADER,		  1);  
 	
 	// timeout (seconds)
-	curl_setopt ($ch, CURLOPT_TIMEOUT, 120);
+	curl_setopt ($ch, CURLOPT_TIMEOUT, 240);
 
 	curl_setopt ($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
 	
