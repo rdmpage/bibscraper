@@ -2,6 +2,7 @@
 cache
 
 cookie.txt
+.DS_Store
 
 data
 dialnet
@@ -31,6 +32,11 @@ simplehtmldom_1_5/testcase/html/.svn
 simplehtmldom_1_5/testcase/reader/.svn
 
 
-working
+working/*
+!working/Journal of Ethnobiology/
+!working/Journal of Ethnobiology/*
+
+working/Journal of Ethnobiology/.DS_Store
+working/Journal of Ethnobiology/cookie.txt
 
 www.biodiversitylibrary.org
