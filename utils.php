@@ -170,6 +170,34 @@ function reference_from_matches($matches, &$reference = null)
 		}
 	}
 	
+	// editors
+	if (isset($matches['editorstring']))
+	{
+		$editorstring = $matches['editorstring'];
+		$reference->editors = authors_from_string($editorstring);
+	
+	
+		for ($i = 0; $i < count($reference->editors); $i++)
+		{
+			$reference->editors[$i]	= preg_replace('/\.$/u', '', $reference->editors[$i]);
+			$reference->editors[$i]	= preg_replace('/\.\s+/u', ' ', $reference->editors[$i]);
+			$reference->editors[$i]	= preg_replace('/\./u', ' ', $reference->editors[$i]);
+			if (strpos($reference->editors[$i], ",") === false)
+			{
+				$reference->editors[$i]	 = preg_replace('/([A-Z])\.([A-Z])/', '$1 $2', $reference->editors[$i]);
+			}
+			else
+			{
+				$author_parts = explode(",", $reference->editors[$i]);
+				$forename = $author_parts[1];
+				$forename = preg_replace('/([A-Z])\.([A-Z])/u', '$1. $2', trim($forename));
+				
+				$reference->editors[$i] = $forename . ' ' . $author_parts[0];
+			}
+		}
+	}
+
+	
 	$reference->genre = 'generic';
 	if (isset($matches['journal']))
 	{
@@ -178,6 +206,10 @@ function reference_from_matches($matches, &$reference = null)
 	if (isset($matches['publisher']))
 	{
 		$reference->genre = 'book';
+	}
+	if (isset($matches['editors']))
+	{
+		$reference->genre = 'chapter';
 	}
 	
 	$reference->title = $title;
@@ -247,6 +279,12 @@ function reference_from_matches($matches, &$reference = null)
 		$reference->publoc = $matches['publoc'];
 	}
 	
+	if (isset($matches['book']))
+	{
+		$reference->book = $matches['book'];
+	}
+	
+	
 	
 	if (isset($matches['url']))
 	{
@@ -278,6 +316,7 @@ function reference_to_ris($reference)
 		'title' 	=> 'TI',
 		'journal' 	=> 'JO',
 		'secondary_title' 	=> 'JO',
+		'book' 		=> 'T2',
 		'issn' 		=> 'SN',
 		'volume' 	=> 'VL',
 		'issue' 	=> 'IS',
@@ -295,7 +334,25 @@ function reference_to_ris($reference)
 		
 	$ris = '';
 	
-	$ris .= "TY  - JOUR\n";
+	switch ($reference->genre)
+	{
+		case 'article':
+			$ris .= "TY  - JOUR\n";
+			break;
+
+		case 'chapter':
+			$ris .= "TY  - CHAP\n";
+			break;
+
+		case 'book':
+			$ris .= "TY  - BOOK\n";
+			break;
+
+		default:
+			$ris .= "TY  - GEN\n";
+			break;
+	}
+
 	//$ris .= "ID  - " . $result->fields['guid'] . "\n";
 
 	foreach ($reference as $k => $v)
@@ -311,6 +368,16 @@ function reference_to_ris($reference)
 					}
 				}
 				break;
+				
+			case 'editors':
+				foreach ($v as $a)
+				{
+					if ($a != '')
+					{
+						$ris .= "ED  - " . $a ."\n";
+					}
+				}
+				break;				
 				
 			case 'date':
 				//echo "|$v|\n";
@@ -445,7 +512,15 @@ function reference2openurl($reference)
 	{
 		case 'article':
 			$openurl .= '&rft.atitle=' . urlencode($reference->title);
-			$openurl .= '&rft.jtitle=' . urlencode($reference->journal);
+			
+			if (isset($reference->journal))
+			{
+				$openurl .= '&rft.jtitle=' . urlencode($reference->journal);
+			}
+			if (isset($reference->secondary_title))
+			{
+				$openurl .= '&rft.jtitle=' . urlencode($reference->secondary_title);
+			}
 			break;
 			
 		default:
