@@ -77,17 +77,18 @@ function biostor_import($reference)
 	// Ignore things we don't have
 	if ($reference->year > 1922) return;
 
-	print_r($reference);
+	//print_r($reference);
 
 	$openurl = reference2openurl($reference);
 	
 	
-	
+	/*
 	// BHL -fudge PageID in Notes field
 	if (isset($reference->notes) && is_numeric($reference->notes))
 	{
 		$openurl .= '&id=http://biodiversitylibrary.org/page/' . $reference->notes;
 	}
+	*/
 	
 	echo "-- " . $openurl . "\n";
 	echo "-- " . $reference->title . "\n";	
@@ -96,13 +97,23 @@ function biostor_import($reference)
 				
 	if ($biostor_id == 0)
 	{
-		echo " *** Not found ***\n";
+		echo "-- *** Not found ***\n";
 		$not_found[] = $reference->publisher_id;
 	}
 	else
 	{
-		echo "Found: $biostor_id\n";
+		echo "-- Found: $biostor_id\n";
 		$ids[] = $biostor_id;
+		
+		if (1)
+		{
+			if (preg_match('/http:\/\/www.jstor.org\/stable\/(?<jstor>\d+)/', $reference->url, $m))
+			{
+				$sql = 'UPDATE rdmp_reference SET jstor=' . $m['jstor'] . ' WHERE reference_id="' . $biostor_id . '";';
+				echo $sql . "\n";
+			}
+		}			
+		
 	}
 	
 	
