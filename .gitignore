@@ -45,5 +45,8 @@ working/Journal of Ethnobiology/cookie.txt
 working/Historia naturalis bulgarica/.DS_Store
 working/Historia naturalis bulgarica/cookie.txt
 
+!working/tsv/*
+
+
 
 www.biodiversitylibrary.org

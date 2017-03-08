@@ -76,6 +76,11 @@ function authors_from_string($authorstring, $split_on_commas = false)
 	}
     //echo $authorstring . "\n";
     */
+    
+    if ($split_on_commas)
+    {
+    	$authorstring = preg_replace("/,\s*/u", "|", trim($authorstring));
+    }
 
 
 	$authorstring = preg_replace("/,$/u", "", trim($authorstring));
@@ -102,14 +107,30 @@ function authors_from_string($authorstring, $split_on_commas = false)
 	$a = array();
 	for ($i = 0; $i < count($authors); $i++)
 	{
-		if (preg_match('/^([A-Z]\.?((\s+[A-Z]\.?)+)?)$/', $authors[$i]))
+		if ($split_on_commas)
 		{
-			$a[$j-1] = $authors[$i] . ' ' . $a[$j-1];
+			if (preg_match('/^(?<lastname>\\p{L}+(-\\p{L}+)?)\s+(?<firstname>[A-Z]\.(\s*[A-Z]\.)?)$/u', $authors[$i], $m))
+			{
+				$a[$j] = $m['lastname'] . ', ' . $m['firstname'];
+				$j++;
+			}	
+			else
+			{
+				$a[$j] = $authors[$i];
+				$j++;
+			}	
 		}
 		else
-		{
-			$a[$j] = $authors[$i];
-			$j++;
+		{	
+			if (preg_match('/^([A-Z]\.?((\s+[A-Z]\.?)+)?)$/', $authors[$i]))
+			{
+				$a[$j-1] = $authors[$i] . ' ' . $a[$j-1];
+			}
+			else
+			{
+				$a[$j] = $authors[$i];
+				$j++;
+			}
 		}
 	}
 	$authors = $a;
@@ -131,6 +152,8 @@ function reference_from_matches($matches, &$reference = null)
 	//print_r($matches);
 
 	// title
+	$title = '';
+	
 	if (isset($matches['title']))
 	{
 		if ($matches['title'] != '')
@@ -212,7 +235,10 @@ function reference_from_matches($matches, &$reference = null)
 		$reference->genre = 'chapter';
 	}
 	
-	$reference->title = $title;
+	if ($title != '')
+	{
+		$reference->title = $title;
+	}
 	
 	if (isset($matches['journal']))
 	{
@@ -329,7 +355,11 @@ function reference_to_ris($reference)
 		'pdf'		=> 'L1',
 		'doi'		=> 'DO',
 		'notes'		=> 'N1',
-		'oai'		=> 'ID'
+		'oai'		=> 'ID',
+		'publisher_id' => 'ID'
+		
+		// correspondence
+		
 		);
 		
 	$ris = '';
@@ -581,7 +611,19 @@ function reference2openurl($reference)
 		{
 			$openurl .= '&rft_id=' . $reference->url;
 		}
+		if (preg_match('/http:\/\/www.jstor.org\/stable/', $reference->url))
+		{
+			$openurl .= '&rft_id=' . $reference->url;
+		}
+		
 	}	
+	
+	// hack
+	if (isset($reference->contributor))
+	{
+		$openurl .= '&contributor=' . urlencode($reference->contributor);
+	}
+	
 
 	return $openurl;
 }

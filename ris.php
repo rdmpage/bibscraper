@@ -35,7 +35,9 @@ $key_map = array(
 	'N1' => 'notes',
 	'L2' => 'fulltext', // check this, we want to have a link to the PDF...
 	'L4' => 'thumbnail', 
-	'DO' => 'doi' // Mendeley 0.9.9.2
+	'DO' => 'doi', // Mendeley 0.9.9.2
+	
+	'DP' => 'contributor' // database provencance for BHL
 	);
 	
 //--------------------------------------------------------------------------------------------------

@@ -56,7 +56,9 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 			$found = $j->reference_id;
 		}
 	}
-	//echo "Found $found\n";
+	echo "Found $found\n";
+	
+	//exit();
 	
 	return $found;
 }
@@ -75,23 +77,26 @@ function biostor_import($reference)
 	$reference->genre = 'article';
 	
 	// Ignore things we don't have
-	if ($reference->year > 1922) return;
+	//if ($reference->year > 1922) return;
+	// if (!in_array($reference->volume, array(71,74,77))) return;
 
 	//print_r($reference);
 
 	$openurl = reference2openurl($reference);
+
 	
 	
-	/*
 	// BHL -fudge PageID in Notes field
 	if (isset($reference->notes) && is_numeric($reference->notes))
 	{
 		$openurl .= '&id=http://biodiversitylibrary.org/page/' . $reference->notes;
 	}
-	*/
+	
 	
 	echo "-- " . $openurl . "\n";
 	echo "-- " . $reference->title . "\n";	
+	
+	//exit();
 	
 	$biostor_id = import_from_openurl($openurl, 0.5, true);
 				

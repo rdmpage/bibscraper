@@ -276,6 +276,16 @@ class MetaOai extends OaiHarvester
 					$reference->year = $year;
 				}
 				
+				
+				if (isset($reference->issue))
+				{
+					if ($reference->issue == 0)
+					{
+						unset($reference->issue);
+					}
+				}
+				
+				
 				echo reference_to_ris($reference);
 			}
 			
