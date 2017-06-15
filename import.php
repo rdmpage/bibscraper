@@ -79,10 +79,51 @@ function biostor_import($reference)
 	// Ignore things we don't have
 	//if ($reference->year > 1922) return;
 	// if (!in_array($reference->volume, array(71,74,77))) return;
+	
+	// Tropicos
+	$reference->title =  preg_replace('/~/Uu', '', $reference->title);	
+	$reference->title =  preg_replace('/---/Uu', ' ', $reference->title);	
+	
 
 	//print_r($reference);
+	
+	//exit();
+	
+	
+	
+	// clean
+	if (isset($reference->issn))
+	{
+		if ($reference->issn == '0193-4406')
+		{
+			if (isset($reference->issue))
+			{
+				if (isset($reference->volume))
+				{
+					if ($reference->volume == 0)
+					{
+						$reference->volume = $reference->issue;
+						unset($reference->issue);
+					}
+				}
+				else
+				{
+					$reference->volume = $reference->issue;
+					unset($reference->issue);
+				}
+				
+				 //print_r($reference);
+				 //exit();
+			}
+		}
+	}
+	
+	
+	
 
 	$openurl = reference2openurl($reference);
+	
+	
 
 	
 	
