@@ -16,6 +16,8 @@ class MetaOai extends OaiHarvester
 		$this->xml = preg_replace('/<OAI-PMH(.*)>/Uu', '<OAI-PMH>', $this->xml);
 		
 		//echo $this->xml;
+		
+		//exit();
 
 		$dom = new DOMDocument;
 		$dom->loadXML($this->xml);
@@ -27,278 +29,316 @@ class MetaOai extends OaiHarvester
 		
 		$count = 0;
 		
-		$url = '';
-		$doi = '';
-		$year = '';
 		
-		$nodeCollection = $xpath->query ('//ListRecords/record/metadata');
-		foreach($nodeCollection as $node)
+		$records = $xpath->query ('//ListRecords/record');
+		foreach($records as $record)
 		{
-			// DOI and URLs
-			$nc = $xpath->query ('oaidc:dc/dc:identifier', $node);
-			foreach($nc as $n)
-			{
-				if (preg_match('/^10/', $n->firstChild->nodeValue))
-				{
-					$doi = $n->firstChild->nodeValue;
-				}
-				if (preg_match('/http:\/\/dx.doi.org\//', $n->firstChild->nodeValue))
-				{
-					$doi = $n->firstChild->nodeValue;
-					$doi = str_replace('http://dx.doi.org/', '', $reference->doi);
-				}
-				if (preg_match('/view/', $n->firstChild->nodeValue))
-				{
-					$url = $n->firstChild->nodeValue;
-				}
-			}
+			$url = '';
+			$doi = '';
+			$year = '';
+		
+			$id = '';
 			
-			// try and get year in case this is missing from metadata (sigh)
-			$nc = $xpath->query ('oaidc:dc/dc:source', $node);
-			foreach($nc as $n)
+			$nodeCollection = $xpath->query ('header/identifier', $record);
+			foreach($nodeCollection as $node)
 			{
-				if (preg_match('/\((?<year>[0-9]{4})\)/', $n->firstChild->nodeValue, $m))
-				{
-					$year = $m['year'];
-				}
+				$id = $node->firstChild->nodeValue;
 			}
 		
-		
-			if ($url != '')
+			$nodeCollection = $xpath->query ('metadata', $record);
+			foreach($nodeCollection as $node)
 			{
-				$html = get($url);
-				
-				$reference = new stdclass;
-				$reference->authors = array();
-				//$reference->id = $id;
-	
-	
-				$dom = str_get_html($html);
-
-				$metas = $dom->find('meta');
-				
-				/*
-				foreach ($metas as $meta)
+				// DOI and URLs
+				$nc = $xpath->query ('oaidc:dc/dc:identifier', $node);
+				foreach($nc as $n)
 				{
-					echo $meta->name . " " . $meta->content . "\n";
-				}
-				*/				
-				
-				foreach ($metas as $meta)
-				{
-					switch ($meta->name)
+					if (preg_match('/^10/', $n->firstChild->nodeValue))
 					{
-	
-						// DC
+						$doi = $n->firstChild->nodeValue;
+					}
+					if (preg_match('/http:\/\/dx.doi.org\//', $n->firstChild->nodeValue))
+					{
+						$doi = $n->firstChild->nodeValue;
+						$doi = str_replace('http://dx.doi.org/', '', $reference->doi);
+					}
+					if (preg_match('/view/', $n->firstChild->nodeValue))
+					{
+						$url = $n->firstChild->nodeValue;
+					}
+				}
+			
+				// try and get year in case this is missing from metadata (sigh)
+				$nc = $xpath->query ('oaidc:dc/dc:source', $node);
+				foreach($nc as $n)
+				{
+					if (preg_match('/\((?<year>[0-9]{4})\)/', $n->firstChild->nodeValue, $m))
+					{
+						$year = $m['year'];
+					}
+				}
 		
-						case 'DC.title':
-							$reference->title =  $meta->content;
-							$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
-							break;
+		
+				if ($url != '')
+				{
+					$html = get($url);
+				
+					$reference = new stdclass;
+					$reference->authors = array();
+					
+					$reference->oai = $id;
+					
+	
+	
+					$dom = str_get_html($html);
 
-						case 'DC.description':
-						case 'DC.Description':
-							$reference->abstract =  $meta->content;
-							$reference->abstract = str_replace("\n", "", $reference->abstract);
-							$reference->abstract = str_replace("&amp;", "&", $reference->abstract);
-							$reference->abstract = preg_replace('/\s\s+/u', ' ', $reference->abstract);		
-							$reference->abstract = html_entity_decode($reference->abstract);
-							break;
+					$metas = $dom->find('meta');
+				
+					/*
+					foreach ($metas as $meta)
+					{
+						echo $meta->name . " " . $meta->content . "\n";
+					}
+					*/				
+				
+					foreach ($metas as $meta)
+					{
+						switch ($meta->name)
+						{
+	
+							// DC
+		
+							case 'DC.title':
+								$reference->title =  $meta->content;
+								$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
+								break;
+
+							case 'DC.description':
+							case 'DC.Description':
+								$reference->abstract =  $meta->content;
+								$reference->abstract = str_replace("\n", "", $reference->abstract);
+								$reference->abstract = str_replace("&amp;", "&", $reference->abstract);
+								$reference->abstract = preg_replace('/\s\s+/u', ' ', $reference->abstract);		
+								$reference->abstract = preg_replace('/^\s+/u', '', $reference->abstract);		
+								$reference->abstract = html_entity_decode($reference->abstract);
+								break;
 							
-						case 'DC.Creator.PersonalName':
-							if (!in_array($meta->content, $reference->authors))
-							{
-								$reference->authors[] =  $meta->content;
-							}
-							break;	
+							case 'DC.Creator.PersonalName':
+								if (!in_array($meta->content, $reference->authors))
+								{
+									$reference->authors[] =  $meta->content;
+								}
+								break;	
 							
-						case 'DC.Source.ISSN':
-							$reference->issn =  $meta->content;
-							break;	
-	
-						// eprints
-		
-						case 'eprints.creators_name':
-							$author = $meta->content;
-			
-							// clean
-							if (preg_match('/^(?<lastname>.*),\s+(?<firstname>[A-Z][A-Z]+)$/u', $author, $m))
-							{
-								$parts = str_split($m['firstname']);
-								$author = $m['lastname'] . ', ' . join(". ", $parts) . '.';
-							}
-							if (!in_array($author, $reference->authors))
-							{
-								$reference->authors[] =  $meta->content;
-							}
-							break;
-		
-						case 'eprints.publication':
-							$reference->journal =  $meta->content;
-							break;
-		
-						case 'eprints.issn':
-							$reference->issn =  $meta->content;
-							break;
-		
-		
-						case 'eprints.volume':
-							$reference->volume =  $meta->content;
-							break;
-			
-						case 'eprints.pagerange':
-							$pages =  $meta->content;
-							$parts = explode("-", $pages);
-							if (count($parts) > 1)
-							{
-								$reference->spage = $parts[0];
-								$reference->epage = $parts[1];
-							}
-							else
-							{
-								$reference->spage = $pages;
-							}
-							break;
-			
-						case 'eprints.date':
-							if (preg_match('/^[0-9]{4}$/', $meta->content))
-							{
-								$reference->year = $meta->content;
-							}
-			
-							if (preg_match('/^(?<year>[0-9]{4})\//', $meta->content, $m))
-							{
-								$reference->year = $m['year'];
-							}
-							break;
-			
-						case 'eprints.document_url':
-							$reference->pdf =  urldecode($meta->content);
-							break;
-	
-						// Google	
-						case 'citation_author':
-//							$reference->authors[] =  mb_convert_case($meta->content, MB_CASE_TITLE);
-
-							if (!in_array($meta->content, $reference->authors))
-							{
-								$reference->authors[] =  $meta->content;
-							}
-							break;
-	
-						case 'citation_title':
-							$reference->title = trim($meta->content);
-							$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
-							break;
-
-						case 'citation_doi':
-							$reference->doi =  $meta->content;
-							break;
-
-						case 'citation_journal_title':
-							$reference->journal =  $meta->content;
-							$reference->genre = 'article';
-							break;
-
-						case 'citation_issn':
-						    if (!isset($reference->issn))
-						    {
+							case 'DC.Source.ISSN':
 								$reference->issn =  $meta->content;
-							}
-							break;
-
-						case 'citation_volume':
-							$reference->volume =  $meta->content;
-							break;
-
-						case 'citation_issue':
-							$reference->issue =  $meta->content;
-							break;
-
-						case 'citation_firstpage':
-							$reference->spage =  $meta->content;
-							
-							if (preg_match('/(?<spage>\d+)[-|-](?<epage>\d+)/u', $meta->content, $m))
-							{
-								$reference->spage =  $m['spage'];
-								$reference->epage =  $m['epage'];
-							}
-							break;
-
-						case 'citation_lastpage':
-							$reference->epage =  $meta->content;
-							break;
-
-						case 'citation_abstract_html_url':
-							$reference->url =  $meta->content;
-							break;
-
-						case 'citation_pdf_url':
-							$reference->pdf =  $meta->content;
-							break;
-							
-						case 'citation_fulltext_html_url':
-							$reference->pdf =  $meta->content;
-							//$reference->pdf = str_replace('/view/', '/download/', $reference->pdf);
-							break;
-							
-
-						case 'citation_date':
-							if (preg_match('/^[0-9]{4}$/', $meta->content))
-							{
-								$reference->year = $meta->content;
-							}
+								break;	
+	
+							// eprints
+		
+							case 'eprints.creators_name':
+								$author = $meta->content;
 			
-							if (preg_match('/^(?<year>[0-9]{4})\//', $meta->content, $m))
-							{
-								$reference->year = $m['year'];
-							}
-							break;
+								// clean
+								if (preg_match('/^(?<lastname>.*),\s+(?<firstname>[A-Z][A-Z]+)$/u', $author, $m))
+								{
+									$parts = str_split($m['firstname']);
+									$author = $m['lastname'] . ', ' . join(". ", $parts) . '.';
+								}
+								if (!in_array($author, $reference->authors))
+								{
+									$reference->authors[] =  $meta->content;
+								}
+								break;
+		
+							case 'eprints.publication':
+								$reference->journal =  $meta->content;
+								break;
+		
+							case 'eprints.issn':
+								$reference->issn =  $meta->content;
+								break;
+		
+		
+							case 'eprints.volume':
+								$reference->volume =  $meta->content;
+								break;
+			
+							case 'eprints.pagerange':
+								$pages =  $meta->content;
+								$parts = explode("-", $pages);
+								if (count($parts) > 1)
+								{
+									$reference->spage = $parts[0];
+									$reference->epage = $parts[1];
+								}
+								else
+								{
+									$reference->spage = $pages;
+								}
+								break;
+			
+							case 'eprints.date':
+								if (preg_match('/^[0-9]{4}$/', $meta->content))
+								{
+									$reference->year = $meta->content;
+								}
+			
+								if (preg_match('/^(?<year>[0-9]{4})\//', $meta->content, $m))
+								{
+									$reference->year = $m['year'];
+								}
+								break;
+			
+							case 'eprints.document_url':
+								$reference->pdf =  urldecode($meta->content);
+								break;
+	
+							// Google	
+							case 'citation_author':
+	//							$reference->authors[] =  mb_convert_case($meta->content, MB_CASE_TITLE);
 
-						case 'DC.Date':
-							$reference->date = $meta->content;
-							break;
+								if (!in_array($meta->content, $reference->authors))
+								{
+									$reference->authors[] =  $meta->content;
+								}
+								break;
+	
+							case 'citation_title':
+								$reference->title = trim($meta->content);
+								$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
+								break;
+
+							case 'citation_doi':
+								$reference->doi =  $meta->content;
+								break;
+
+							case 'citation_journal_title':
+								$reference->journal =  $meta->content;
+								$reference->genre = 'article';
+								break;
+
+							case 'citation_issn':
+								if (!isset($reference->issn))
+								{
+									$reference->issn =  $meta->content;
+								}
+								break;
+
+							case 'citation_volume':
+								$reference->volume =  $meta->content;
+								break;
+
+							case 'citation_issue':
+								$reference->issue =  $meta->content;
+								break;
+
+							case 'citation_firstpage':
+								$reference->spage =  $meta->content;
+							
+								if (preg_match('/(?<spage>\d+)[-|-](?<epage>\d+)/u', $meta->content, $m))
+								{
+									$reference->spage =  $m['spage'];
+									$reference->epage =  $m['epage'];
+								}
+								break;
+
+							case 'citation_lastpage':
+								$reference->epage =  $meta->content;
+								break;
+
+							case 'citation_abstract_html_url':
+								$reference->url =  $meta->content;
+								break;
+
+							case 'citation_pdf_url':
+								$reference->pdf =  $meta->content;
+								break;
+							
+							case 'citation_fulltext_html_url':
+								$reference->pdf =  $meta->content;
+								//$reference->pdf = str_replace('/view/', '/download/', $reference->pdf);
+								break;
+							
+
+							case 'citation_date':
+								if (preg_match('/^[0-9]{4}$/', $meta->content))
+								{
+									$reference->year = $meta->content;
+								}
+			
+								if (preg_match('/^(?<year>[0-9]{4})\//', $meta->content, $m))
+								{
+									$reference->year = $m['year'];
+								}
+								break;
+
+							case 'DC.Date':
+								$reference->date = $meta->content;
+								break;
 
 			
-						default:
-							break;
-					}
-				}		
-				//print_r($reference);
+							default:
+								break;
+						}
+					}		
+					//print_r($reference);
 				
-				if (isset($reference->pdf))
-				{
-					$reference->pdf = str_replace('/view/', '/download/', $reference->pdf);
-				}
-				
-				if (($year != '') && !isset($reference->year))
-				{
-					$reference->year = $year;
-				}
-				
-				
-				if (isset($reference->issue))
-				{
-					if ($reference->issue == 0)
+					if ($reference->issn == '2413-3299')
 					{
-						unset($reference->issue);
+						unset($reference->doi);
+						$reference->issn = '1815-8242';
+					}				
+				
+					if (isset($reference->pdf))
+					{
+						$reference->pdf = str_replace('/view/', '/download/', $reference->pdf);
 					}
+				
+					if (($year != '') && !isset($reference->year))
+					{
+						$reference->year = $year;
+					}
+				
+					// handle volume="0"
+					if (isset($reference->volume))
+					{
+						if ($reference->volume == 0)
+						{
+							if (isset($reference->issue))
+							{
+								if ($reference->issue != 0)
+								{
+									$reference->volume = $reference->issue;
+									unset($reference->issue);
+								}
+							}
+						}
+					}
+				
+				
+					if (isset($reference->issue))
+					{
+						if ($reference->issue == 0)
+						{
+							unset($reference->issue);
+						}
+					}
+				
+				
+					echo reference_to_ris($reference);
 				}
-				
-				
-				echo reference_to_ris($reference);
-			}
 			
-			// Give server a break every 10 items
-			if (($count++ % 10) == 0)
-			{
-				$rand = rand(1000000, 3000000);
-				echo "\n...sleeping for " . round(($rand / 1000000),2) . ' seconds' . "\n\n";
-				usleep($rand);
-			}
+				// Give server a break every 10 items
+				if (($count++ % 10) == 0)
+				{
+					$rand = rand(1000000, 3000000);
+					echo "\n...sleeping for " . round(($rand / 1000000),2) . ' seconds' . "\n\n";
+					usleep($rand);
+				}
 		
 
 
+			}
 		}	
 	}
 	
@@ -310,6 +350,19 @@ class MetaOai extends OaiHarvester
 
 //$mz = new MetaOai('http://www.raco.cat/index.php/Mzoologica/oai', 'oai_dc','Mzoologica');
 //$mz->harvest();
+
+
+
+//$mz = new MetaOai('http://journal.upao.edu.pe/Arnaldoa/oai', 'oai_dc','ARNALDOA');
+
+//$mz = new MetaOai('http://www.revistascientificas.udg.mx/index.php/DUG/oai', 'oai_dc','Dugesiana');
+
+//$mz = new MetaOai('http://www.tci-thaijo.org/index.php/ThaiForestBulletin/oai', 'oai_dc', 'ThaiForestBulletin');
+
+
+//$mz->harvest();
+
+
 
 
 ?>
