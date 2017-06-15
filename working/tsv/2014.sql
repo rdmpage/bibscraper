@@ -236,3 +236,125 @@ UPDATE `bibliography` SET doi='10.1016/j.ympev.2014.07.018' WHERE id='37248';
 UPDATE `bibliography` SET doi='10.1016/j.ympev.2013.11.011' WHERE id='34416';
 UPDATE `bibliography` SET doi='10.1016/j.ympev.2014.03.013' WHERE id='35635';
 UPDATE `bibliography` SET doi='10.1016/j.ympev.2014.06.007' WHERE id='35947';
+UPDATE `bibliography` SET doi='10.1016/j.ympev.2014.06.013' WHERE id='36198';
+UPDATE `bibliography` SET doi='10.1016/j.ympev.2014.07.019' WHERE id='37226';
+UPDATE `bibliography` SET doi='10.1016/j.ympev.2014.08.023' WHERE id='37236';
+UPDATE `bibliography` SET doi='10.1016/j.ympev.2014.03.025' WHERE id='35634';
+UPDATE `bibliography` SET doi='10.1016/j.ympev.2014.10.005' WHERE id='37225';
+-- skip Nat. Croat.
+UPDATE `bibliography` SET doi='10.1898/nwn12-24.1' WHERE id='35846';
+-- skip Occ. Pap. Mus. Nat. Sci. Louisiana State Univ.
+-- skip Ophidia
+UPDATE `bibliography` SET doi='10.1007/s13127-014-0168-4' WHERE id='35258';
+UPDATE `bibliography` SET doi='10.1017/S0030605313001518' WHERE id='35662';
+-- skip Phyllomedusa
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0092274' WHERE id='35651';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0091570' WHERE id='35652';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0085912' WHERE id='35247';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0086478' WHERE id='35248';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0090616' WHERE id='35355';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0091674' WHERE id='35358';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0096992' WHERE id='35877';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0097494' WHERE id='35879';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0097682' WHERE id='35786';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0098082' WHERE id='35878';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0100173' WHERE id='36529';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0107528' WHERE id='37537';
+UPDATE `bibliography` SET doi='10.1371/journal.pone.0095226' WHERE id='35661';
+UPDATE `bibliography` SET doi='10.2988/0006-324X-126.4.379' WHERE id='35136';
+UPDATE `bibliography` SET doi='10.2988/10-21.1' WHERE id='36328';
+UPDATE `bibliography` SET doi='10.2988/09-32.1' WHERE id='36329';
+UPDATE `bibliography` SET doi='10.2988/10-23.1' WHERE id='36330';
+UPDATE `bibliography` SET doi='10.2988/0006-324X-126.4.393' WHERE id='35359';
+-- skip Radiata (English edition)
+-- skip Radiata
+-- skip Reptilia (Münster)
+-- skip Russ. J. Herpetol.
+-- skip Russian Journal of Herpetology
+-- skip Salamandra
+-- skip Sauria
+-- skip Schildkröten im Fokus
+UPDATE `bibliography` SET doi='10.1126/science.1255718' WHERE id='36929';
+-- skip Sekretär
+UPDATE `bibliography` SET doi='10.2994/SAJH-D-14-00004.1' WHERE id='35676';
+UPDATE `bibliography` SET doi='10.2994/SAJH-D-12-00004.1' WHERE id='36563';
+UPDATE `bibliography` SET doi='10.2994/SAJH-D-13-00013.1' WHERE id='36564';
+UPDATE `bibliography` SET doi='10.2994/SAJH-D-13-00030.1' WHERE id='36565';
+UPDATE `bibliography` SET doi='10.1093/sysbio/syu018' WHERE id='35875';
+UPDATE `bibliography` SET doi='10.abstract.html' WHERE id='35874';
+UPDATE `bibliography` SET doi='10.1093/sysbio/syt069' WHERE id='34440';
+UPDATE `bibliography` SET doi='10.1093/sysbio/syt099' WHERE id='34441';
+UPDATE `bibliography` SET doi='10.1080/14772000.2013.877999' WHERE id='35269';
+UPDATE `bibliography` SET doi='10.1080/14772000.2013.878000' WHERE id='35210';
+-- skip Taprobanica
+-- skip Testudo
+-- skip Testudo.
+UPDATE `bibliography` SET doi='10.1086/675303' WHERE id='35573';
+UPDATE `bibliography` SET doi='10.1086/678084' WHERE id='37535';
+-- skip The Canadian Herpetologist
+-- skip The Herpetological Journal
+-- skip The Journal of North American Herpetology
+UPDATE `bibliography` SET doi='10.1007/978-94-007-6288-6_50-4' WHERE id='36545';
+-- skip Turtle Survival
+-- skip Vertebrate Zoology
+UPDATE `bibliography` SET doi='10.3897/zookeys.373.5994' WHERE id='35092';
+UPDATE `bibliography` SET doi='10.3897/zookeys.410.7401' WHERE id='35852';
+UPDATE `bibliography` SET doi='10.1111/zsc.12045' WHERE id='35203';
+UPDATE `bibliography` SET doi='10.1111/zsc.12052' WHERE id='35620';
+UPDATE `bibliography` SET doi='10.1111/zsc.12053' WHERE id='35670';
+UPDATE `bibliography` SET doi='10.1111/zsc.12055' WHERE id='35619';
+UPDATE `bibliography` SET doi='10.1111/zsc.12070' WHERE id='36403';
+UPDATE `bibliography` SET doi='10.1111/zsc.12062' WHERE id='35855';
+UPDATE `bibliography` SET doi='10.1111/zoj.12128' WHERE id='35677';
+UPDATE `bibliography` SET doi='10.1111/zoj.12159' WHERE id='36582';
+UPDATE `bibliography` SET doi='10.1111/zoj.12170' WHERE id='36918';
+UPDATE `bibliography` SET doi='10.1111/zoj.12147' WHERE id='35870';
+UPDATE `bibliography` SET doi='10.1111/zoj.12187' WHERE id='38077';
+UPDATE `bibliography` SET doi='10.2108/zs130201' WHERE id='35774';
+UPDATE `bibliography` SET doi='10.2108/zs130267' WHERE id='36254';
+UPDATE `bibliography` SET doi='10.2108/zsj.31.14' WHERE id='35060';
+UPDATE `bibliography` SET doi='10.2108/zs130179' WHERE id='35608';
+UPDATE `bibliography` SET doi='10.2108/zs130180' WHERE id='35609';
+UPDATE `bibliography` SET doi='10.1080/09397140.2014.892354' WHERE id='35262';
+UPDATE `bibliography` SET doi='10.1080/09397140.2014.944428' WHERE id='36390';
+UPDATE `bibliography` SET doi='10.1080/09397140.2014.962833' WHERE id='38071';
+UPDATE `bibliography` SET doi='10.1080/09397140.2014.966518' WHERE id='38072';
+UPDATE `bibliography` SET doi='10.1080/09397140.2014.966519' WHERE id='38073';
+UPDATE `bibliography` SET doi='10.1080/09397140.2014.970379' WHERE id='36920';
+UPDATE `bibliography` SET doi='10.3897/zse.90.8705' WHERE id='37534';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3755.3.5' WHERE id='35108';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3755.5.3' WHERE id='35216';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3755.5.4' WHERE id='35213';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3755.6.4' WHERE id='35218';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3755.6.5' WHERE id='35217';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3760.4.3' WHERE id='35253';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3765.5.5' WHERE id='35223';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3768.2.3' WHERE id='35254';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3774.3.1' WHERE id='35336';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3774.4.6' WHERE id='35339';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3785.1.5' WHERE id='35611';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3785.2.4' WHERE id='35612';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3785.4.2' WHERE id='35614';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3785.4.7' WHERE id='35623';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3786.2.7' WHERE id='35663';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3786.3.6' WHERE id='35626';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3793.1.4' WHERE id='35700';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3794.2.4' WHERE id='35763';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3795.5.2' WHERE id='35770';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3811.2.6' WHERE id='35853';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3811.4.8' WHERE id='35858';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3814.1.3' WHERE id='35859';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3821.2.5' WHERE id='36163';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3821.4.7' WHERE id='36161';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3829.1.1' WHERE id='36388';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3846.4.1' WHERE id='36433';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3847.3.4' WHERE id='36440';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3860.4.6' WHERE id='36628';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3862.1.1' WHERE id='36854';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3869.4.1' WHERE id='36914';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3873.1.4' WHERE id='36960';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3878.1.3' WHERE id='37216';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3880.1.1' WHERE id='37259';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3881.3.1' WHERE id='37532';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3881.6.3' WHERE id='37540';
+UPDATE `bibliography` SET doi='10.11646/zootaxa.3881.6.5' WHERE id='37542';

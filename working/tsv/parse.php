@@ -9,9 +9,42 @@ require_once(dirname(__FILE__) . '/lcs.php');
 require_once(dirname(dirname(dirname(__FILE__))) . '/utils.php');
 
 //----------------------------------------------------------------------------------------
+function biostor_openurl (&$reference)
+{
+	if (isset($reference->journal) && isset($reference->volume) && isset($reference->spage))
+	{
+		print_r($reference);
+		
+		$openurl = reference2openurl($reference);
+
+		$url = 'http://direct.biostor.org/openurl.php?' . $openurl . '&format=json';
+		$json = get($url);
+		
+		$obj = json_decode($json);
+		
+		if (isset($obj->reference_id))
+		{
+			$reference->biostor = $obj->reference_id;
+			
+			if (isset($obj->doi))
+			{			
+				$reference->doi = $obj->doi;
+			}		
+		}
+		else
+		{
+			echo str_replace('&format=json', '', $url) . "\n";
+		}
+		//print_r($obj);
+	}
+}	
+
+//----------------------------------------------------------------------------------------
 function search($citation)
 {
 	$result = crossref_search($citation);
+	
+	//print_r($result);
 	
 	$double_check = true;
 	$theshhold = 0.8;
@@ -26,7 +59,8 @@ function search($citation)
 		  list($key, $value) = explode('=', $param);
 		  
 		  $key = preg_replace('/^\?/', '', urldecode($key));
-		  $params[$key][] = trim(urldecode($value));
+		  $value = strip_tags(urldecode($value));
+		  $params[$key][] = trim($value);
 		}
 		
 		//print_r($params);
@@ -103,6 +137,8 @@ while (!feof($file_handle))
 		
 	$parts = explode("\t",$row);
 	
+	//print_r($parts);
+	
 	
 	$keys = array(
 		'id' => 0, 
@@ -116,7 +152,7 @@ while (!feof($file_handle))
 	$reference = new stdclass;
 	$reference->publisher_id = $parts[$keys['id']];
 	
-	if ($parts['year'] != '')
+	if ($parts[$keys['year']] != '')
 	{
 		$reference->year = $parts[$keys['year']];
 	}
@@ -184,7 +220,7 @@ while (!feof($file_handle))
 		}
 	}
 		
-	if (preg_match('/(?<doi>10\..*)\b/i', $parts[$keys['url']], $m))
+	if (preg_match('/(?<doi>10\.\d+\/.*)\b/i', $parts[$keys['url']], $m))
 	{
 		$reference->doi = $m['doi'];
 		
@@ -192,6 +228,11 @@ while (!feof($file_handle))
 		
 		$reference->doi = preg_replace('/\/abstract(.*)/i', '', $reference->doi);
 		$reference->doi = preg_replace('/\/pdf(.*)/i', '', $reference->doi);
+		$reference->doi = preg_replace('/\/assert(.*)/i', '', $reference->doi);
+		$reference->doi = preg_replace('/\/suppinfo(.*)/i', '', $reference->doi);
+		
+		
+		
 		$reference->doi = preg_replace('/#(.*)/i', '', $reference->doi);
 		$reference->doi = preg_replace('/\?(.*)/i', '', $reference->doi);
 		$reference->doi = preg_replace('/&(.*)/i', '', $reference->doi);
@@ -205,6 +246,11 @@ while (!feof($file_handle))
 	
 	
 	if (1)
+	{
+		biostor_openurl($reference);
+	}
+	
+	if (0)
 	{
 		if (!isset($reference->doi))
 		{
@@ -252,6 +298,11 @@ while (!feof($file_handle))
 		{
 			echo "UPDATE `bibliography` SET doi='" . $reference->doi . "' WHERE id='" . $reference->publisher_id . "';" . "\n";
 		}
+		if (isset($reference->biostor))
+		{
+			echo "UPDATE `bibliography` SET biostor='" . $reference->biostor . "' WHERE id='" . $reference->publisher_id . "';" . "\n";
+		}
+		
 	}
 	
 
