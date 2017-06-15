@@ -170,7 +170,7 @@ function reference_from_matches($matches, &$reference = null)
 	if (isset($matches['authorstring']))
 	{
 		$authorstring = $matches['authorstring'];
-		$reference->authors = authors_from_string($authorstring);
+		$reference->authors = authors_from_string($authorstring, false);
 	
 	
 		for ($i = 0; $i < count($reference->authors); $i++)
@@ -356,6 +356,10 @@ function reference_to_ris($reference)
 		'doi'		=> 'DO',
 		'notes'		=> 'N1',
 		'oai'		=> 'ID',
+
+		'publisher'	=> 'PB',
+		'publoc'	=> 'PP',
+		
 		'publisher_id' => 'ID'
 		
 		// correspondence
@@ -453,6 +457,7 @@ function reference_to_tsv($reference, $k = null)
 	else
 	{
 		$keys = array(
+			'id',
 			'authors',
 			'title',
 			'journal',
@@ -462,14 +467,15 @@ function reference_to_tsv($reference, $k = null)
 			'issue',
 			'spage',
 			'epage',
-			'year' /*,
+			'year' ,
 			'date',
 			'publisher',
 			'publoc',
 			'doi',
 			'url',
-			'pdf'*/
-			);
+			'pdf',
+			'notes'
+		);
 	}
 		
 	$row = array();
@@ -480,7 +486,8 @@ function reference_to_tsv($reference, $k = null)
 			case 'authors':
 				if (isset($reference->{$k}))
 				{
-					$row[] = join("&au=", $reference->{$k});
+					//$row[] = join("&au=", $reference->{$k});
+					$row[] = join(";", $reference->{$k});
 				}
 				else
 				{
