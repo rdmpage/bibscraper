@@ -114,6 +114,18 @@ function process_endnote_key($key, $value, &$obj)
 			$obj->$key_map[$key] = $value;
 			break;
 			
+		case 'VL':
+			$value = trim($value);
+			$value = preg_replace("/No.\s+/i", "", $value);
+			$obj->$key_map[$key] = $value;
+			break;
+
+		case 'IS':
+			$value = trim($value);
+			$value = preg_replace("/Part /i", "", $value);
+			$obj->$key_map[$key] = $value;
+			break;
+			
 		case 'PS':
 			$value = preg_replace('/^pp. /', '', $value);
 			$parts = explode('-', $value);
@@ -285,6 +297,8 @@ function import_endnote_file($filename, $callback_func = '')
 				
 				//$current_value = mb_strtolower($current_value, mb_detect_encoding($current_value));
 				
+				$current_value = preg_replace("/\s*\(.*\)/", "", $current_value);
+				
 				add_author($obj, $current_value);
 			}
 			
@@ -335,6 +349,7 @@ function import_endnote_file($filename, $callback_func = '')
 			if (isset($obj->spage))
 			{
 				$obj->spage = preg_replace('/^\(/', '', $obj->spage);
+				$obj->spage = preg_replace('/^p\.\s+/', '', $obj->spage);
 			}
 			if (isset($obj->epage))
 			{
