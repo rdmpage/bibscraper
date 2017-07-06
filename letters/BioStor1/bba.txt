@@ -1,0 +1,2756 @@
+﻿TY  - letter
+AU  - Babcock, Leander
+DP  - Harvard University Botany Libraries
+DA  - 1836-08-17
+SP  - 52991579
+EP  - 52991582
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babcock, Leander Aug. 17, 1836
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babcock, Leander
+DP  - Harvard University Botany Libraries
+DA  - 18-Aug
+SP  - 52991583
+EP  - 52991584
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babcock, Leander Aug. 18 [no year] [fragment]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babington, Charles C.
+DP  - Harvard University Botany Libraries
+DA  - 1849-11-17
+SP  - 52991585
+EP  - 52991586
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babington, Charles C. Nov. 17, 1849
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babington, Charles C.
+DP  - Harvard University Botany Libraries
+DA  - 1868-10-16
+SP  - 52991587
+EP  - 52991588
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babington, Charles C. Oct. 16, 1868
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babington, Charles C.
+DP  - Harvard University Botany Libraries
+DA  - 1869-09-30
+SP  - 52991589
+EP  - 52991590
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babington, Charles C. Sept. 30, 1869
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babington, Charles C.
+DP  - Harvard University Botany Libraries
+DA  - 1880-12-13
+SP  - 52991591
+EP  - 52991592
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babington, Charles C. Dec. 13, 1880
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babington, Charles C.
+DP  - Harvard University Botany Libraries
+DA  - 1880-12-16
+SP  - 52991593
+EP  - 52991594
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babington, Charles C. Dec. 16, 1880
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babington, Charles C.
+DP  - Harvard University Botany Libraries
+DA  - 1881-01-16
+SP  - 52991595
+EP  - 52991596
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babington, Charles C. Jan. 16, 1881
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babington, Charles C.
+DP  - Harvard University Botany Libraries
+DA  - 1885-07-18
+SP  - 52991597
+EP  - 52991598
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babington, Charles C. July 18, 1885
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babington, Churchill
+DP  - Harvard University Botany Libraries
+DA  - 1851-07-16
+SP  - 52991599
+EP  - 52991600
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babington, Churchill July 16, 1851
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Babington, Churchill
+DP  - Harvard University Botany Libraries
+DA  - 1851-07-28
+SP  - 52991601
+EP  - 52991602
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Babington, Churchill July 28, 1851
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bache, Alexander D.
+DP  - Harvard University Botany Libraries
+DA  - 1864-05-20
+SP  - 52991603
+EP  - 52991603
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bache, Alexander D. May 20, 1864
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1870-04-11
+SP  - 52991604
+EP  - 52991605
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Apr. 11, 1870
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1870-11-22
+SP  - 52991606
+EP  - 52991607
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Nov. 22, 1870
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1871-02-08
+SP  - 52991608
+EP  - 52991609
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Feb. 8, 1871
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1871-06-02
+SP  - 52991610
+EP  - 52991611
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James June 2, 1871
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1871-07-07
+SP  - 52991612
+EP  - 52991613
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James July 7, 1871
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-02-20
+SP  - 52991614
+EP  - 52991617
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Feb. 20, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-04-08
+SP  - 52991618
+EP  - 52991619
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Apr. 8, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-05-28
+SP  - 52991620
+EP  - 52991621
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James May 28, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-07-29
+SP  - 52991622
+EP  - 52991623
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James July 29, 1872 [envelope]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-07-29
+SP  - 52991624
+EP  - 52991625
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James July 29, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-08-19
+SP  - 52991626
+EP  - 52991627
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Aug. 19, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-10-05
+SP  - 52991628
+EP  - 52991629
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Oct. 5, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-10-08
+SP  - 52991630
+EP  - 52991632
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Oct. 8, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-10-25
+SP  - 52991633
+EP  - 52991634
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Oct. 25, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-10-31
+SP  - 52991635
+EP  - 52991636
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Oct. 31, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-11-12
+SP  - 52991637
+EP  - 52991638
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Nov. 12, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-11-19
+SP  - 52991639
+EP  - 52991640
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Nov. 19, 1872 [on letter from C. C. Parry]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-11-27
+SP  - 52991641
+EP  - 52991642
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Nov. 27, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-12-05
+SP  - 52991643
+EP  - 52991644
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Dec. 5, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-12-09
+SP  - 52991645
+EP  - 52991646
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Dec. 9, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1872-12-20
+SP  - 52991647
+EP  - 52991648
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Dec. 20, 1872
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1873-01-02
+SP  - 52991649
+EP  - 52991650
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Jan. 2, 1873
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1873-02-10
+SP  - 52991651
+EP  - 52991652
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Feb. 10, 1873
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1873-04-03
+SP  - 52991653
+EP  - 52991654
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Apr. 3, 1873
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1873-05-12
+SP  - 52991655
+EP  - 52991656
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James May 12, 1873
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1873-06-07
+SP  - 52991657
+EP  - 52991658
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James June 7, 1873
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1873-09-22
+SP  - 52991659
+EP  - 52991660
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Sept. 22, 1873
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1873-11-03
+SP  - 52991661
+EP  - 52991662
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Nov. 3, 1873
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1873-11-18
+SP  - 52991663
+EP  - 52991664
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Nov. 18, 1873
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Kellogg, Albert
+DP  - Harvard University Botany Libraries
+DA  - 1874-04-03
+SP  - 52991665
+EP  - 52991665
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Kellogg, Albert Apr. 3, 1874
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1874-06-04
+SP  - 52991666
+EP  - 52991667
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James June 4, 1874
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1874-06-08
+SP  - 52991668
+EP  - 52991671
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James June 8, 1874
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1874-08-01
+SP  - 52991672
+EP  - 52991673
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Aug. 1, 1874
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1874-09-11
+SP  - 52991674
+EP  - 52991675
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Sept. 11, 1874
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1874-10-30
+SP  - 52991676
+EP  - 52991677
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Oct. 30, 1874
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1874-01-12
+SP  - 52991678
+EP  - 52991678
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Jan. 12, [1874]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1875-05-10
+SP  - 52991679
+EP  - 52991680
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James May 10, 1875
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1875-10-21
+SP  - 52991681
+EP  - 52991682
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Oct. 21, 1875
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1881-01-18
+SP  - 52991683
+EP  - 52991683
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Jan. 18, 1881
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1881-02-17
+SP  - 52991684
+EP  - 52991685
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Feb. 17, 1881
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1881-08-23
+SP  - 52991686
+EP  - 52991687
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Aug. 23, 1881
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1882-10-24
+SP  - 52991688
+EP  - 52991691
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Oct. 24, 1882
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1883-01-04
+SP  - 52991692
+EP  - 52991693
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Jan. 4, 1883
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1884-01-01
+SP  - 52991694
+EP  - 52991695
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James Jan. 1, 1884
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - 1884-06-13
+SP  - 52991696
+EP  - 52991697
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James June 13, 1884
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52991698
+EP  - 52991698
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James undated [quotation]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Backhouse, James
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52991699
+EP  - 52991699
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Backhouse, James undated [fragment]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bacon, Leonard
+DP  - Harvard University Botany Libraries
+DA  - 1880-02-12
+SP  - 52991700
+EP  - 52991701
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bacon, Leonard Feb. 12, 1880
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1840-01-07
+SP  - 52991702
+EP  - 52991705
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. Jan. 7, 1840
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1842-11-01
+SP  - 52991706
+EP  - 52991708
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. Nov. 1842
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1844-06-28
+SP  - 52991709
+EP  - 52991711
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. June 28, 1844
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1844-10-14
+SP  - 52991712
+EP  - 52991714
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. Oct. 14, 1844
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1844-10-14
+SP  - 52991715
+EP  - 52991715
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. Oct. 14, 1844 [enclosed drawing]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1848-07-03
+SP  - 52991716
+EP  - 52991718
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. July 3, 1848
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1852-03-24
+SP  - 52991719
+EP  - 52991721
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. Mar. 24, 1852
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1854-05-23
+SP  - 52991722
+EP  - 52991723
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. May 23, 1854
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1856-02-07
+SP  - 52991724
+EP  - 52991725
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. Feb. 7, 1856
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1856-02-17
+SP  - 52991726
+EP  - 52991726
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. Feb. 17, 1856
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Jacob W.
+DP  - Harvard University Botany Libraries
+DA  - 1856-05-04
+SP  - 52991727
+EP  - 52991728
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Jacob W. May 4, 1856
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1885-07-16
+SP  - 52991729
+EP  - 52991730
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. July 16, 1885 [postcard]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1885-07-23
+SP  - 52991731
+EP  - 52991732
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. July 23, 1885 [to S. Watson] [postcard]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1886-02-11
+SP  - 52991733
+EP  - 52991735
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Feb. 11, 1886 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1886-03-08
+SP  - 52991736
+EP  - 52991736
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Mar. 8, 1886 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1886-04-15
+SP  - 52991737
+EP  - 52991737
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Apr. 15, 1886 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1886-05-14
+SP  - 52991738
+EP  - 52991738
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. May 14, 1886 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1886-05-20
+SP  - 52991739
+EP  - 52991739
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. May 20, 1886 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1886-05-20
+SP  - 52991740
+EP  - 52991740
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. May 20, 1886 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1886-05-28
+SP  - 52991741
+EP  - 52991742
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. May 28, 1886 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1886-07-01
+SP  - 52991743
+EP  - 52991744
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. July 1, 1886
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-04-19
+SP  - 52991745
+EP  - 52991745
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Apr. 19, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-06-09
+SP  - 52991746
+EP  - 52991747
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. June 9, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-07-04
+SP  - 52991748
+EP  - 52991749
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. July 4, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-09-19
+SP  - 52991750
+EP  - 52991750
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Sept. 19, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-10-18
+SP  - 52991751
+EP  - 52991752
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Oct. 18, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-01
+SP  - 52991753
+EP  - 52991754
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Nov. 1, 1888 [to S. Watson] [postcard]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-05
+SP  - 52991755
+EP  - 52991756
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Nov. 5, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-25
+SP  - 52991757
+EP  - 52991757
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Jan. 25, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-07
+SP  - 52991758
+EP  - 52991758
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Feb. 7, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-19
+SP  - 52991759
+EP  - 52991759
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Feb. 19, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-26
+SP  - 52991760
+EP  - 52991761
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Feb. 26, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-27
+SP  - 52991762
+EP  - 52991762
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Feb. 27, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-03-04
+SP  - 52991763
+EP  - 52991764
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Mar. 4, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-03-11
+SP  - 52991765
+EP  - 52991765
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Mar. 11, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-03-16
+SP  - 52991766
+EP  - 52991766
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Mar. 16, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-03-29
+SP  - 52991767
+EP  - 52991767
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Mar. 29, [1889] [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-04-03
+SP  - 52991768
+EP  - 52991769
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Apr. 3, 1889 [to S. Watson] [postcard]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-08-24
+SP  - 52991770
+EP  - 52991771
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Aug. 24, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-09-23
+SP  - 52991772
+EP  - 52991775
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Sept. 23, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-04
+SP  - 52991776
+EP  - 52991776
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Feb. 4, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-18
+SP  - 52991777
+EP  - 52991777
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Feb. 18, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-24
+SP  - 52991778
+EP  - 52991778
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Feb. 24, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-02
+SP  - 52991779
+EP  - 52991779
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. June 2, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-19
+SP  - 52991780
+EP  - 52991780
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. June 19, 1890 [to M. L. Fernald]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-05
+SP  - 52991781
+EP  - 52991781
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. July 5, 1890 [to unknown]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-05
+SP  - 52991782
+EP  - 52991782
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. July 5, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-14
+SP  - 52991783
+EP  - 52991783
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. July 14, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-28
+SP  - 52991784
+EP  - 52991784
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. July 28, 1890 [to M. L. Fernald]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-08-06
+SP  - 52991785
+EP  - 52991786
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Aug. 6, 1890 [to M. L. Fernald]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52991787
+EP  - 52991788
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. undated [list]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-09-22
+SP  - 52991789
+EP  - 52991789
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Sept. 22, 1890 [to M. L. Fernald] [postcard]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-09-22
+SP  - 52991790
+EP  - 52991790
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Sept. 22, 1890 [to M. L. Fernald] [postcard verso]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-09-29
+SP  - 52991791
+EP  - 52991791
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Sept. 29, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-10
+SP  - 52991792
+EP  - 52991793
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Oct. 10, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-27
+SP  - 52991794
+EP  - 52991794
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Oct. 27, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-28
+SP  - 52991795
+EP  - 52991796
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Oct. 28, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-31
+SP  - 52991797
+EP  - 52991798
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Oct. 31, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1891-06-08
+SP  - 52991799
+EP  - 52991799
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. June 8, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1891-06-23
+SP  - 52991800
+EP  - 52991800
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. June 23, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1891-06-29
+SP  - 52991801
+EP  - 52991802
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. June 29, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-28
+SP  - 52991803
+EP  - 52991803
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Sept. 28, 1891 [to unknown]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1891-11-09
+SP  - 52991804
+EP  - 52991804
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Nov. 9, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, Liberty H.
+DP  - Harvard University Botany Libraries
+DA  - 1891-12-10
+SP  - 52991805
+EP  - 52991806
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, Liberty H. Dec. 10, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1867-12-10
+SP  - 52991807
+EP  - 52991812
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Dec. 10, 1867
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1877-08-12
+SP  - 52991813
+EP  - 52991814
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Aug. 12, 1877 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-05
+SP  - 52991815
+EP  - 52991816
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Oct. 5, 1878 [to G. E. Davenport]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1883-10-13
+SP  - 52991817
+EP  - 52991818
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Oct. 13, 1883 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1883-10-18
+SP  - 52991819
+EP  - 52991820
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Oct. 18, 1883 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-26
+SP  - 52991821
+EP  - 52991821
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Feb. 26, 1884 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1888-09-17
+SP  - 52991822
+EP  - 52991823
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Sept. 17, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-04
+SP  - 52991824
+EP  - 52991824
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Nov. 4, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-06
+SP  - 52991825
+EP  - 52991825
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Jan. 6, 1889 [to J. Gray]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-06
+SP  - 52991826
+EP  - 52991826
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Jan. 6, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-03
+SP  - 52991827
+EP  - 52991827
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Feb. 3, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1889-11-28
+SP  - 52991828
+EP  - 52991829
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Nov. 28, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-08-18
+SP  - 52991830
+EP  - 52991831
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Aug. 18, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1891-03-03
+SP  - 52991832
+EP  - 52991833
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Mar. 3, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1895-03-05
+SP  - 52991834
+EP  - 52991835
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Mar. 5, 1895 [to J. Gray]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1895-03-08
+SP  - 52991836
+EP  - 52991836
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Mar. 8, 1895 [to J. Gray]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1895-03-08
+SP  - 52991837
+EP  - 52991838
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Mar. 8, 1895 [to J. Gray] [enclosed list]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1895-03-19
+SP  - 52991839
+EP  - 52991839
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Mar. 19, 1895 [to J. Gray]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1895-03-26
+SP  - 52991840
+EP  - 52991840
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Mar. 26, 1895 [to J. Gray]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1895-07-24
+SP  - 52991841
+EP  - 52991841
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. July 24, 1895 [to J. Gray]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1896-01-17
+SP  - 52991842
+EP  - 52991843
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Jan. 17, 1896 [to J. Gray]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1896-01-20
+SP  - 52991844
+EP  - 52991844
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Jan. 20, 1896 [to J. Gray]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1896-02-02
+SP  - 52991845
+EP  - 52991845
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. Feb. 2, 1896 [to J. Gray]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bailey, William W.
+DP  - Harvard University Botany Libraries
+DA  - 1902-05-29
+SP  - 52991846
+EP  - 52991847
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Bailey, William W. May 29, 1902 [to unknown]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baillière, Hippolyte E.
+DP  - Harvard University Botany Libraries
+DA  - 1855-10-01
+SP  - 52991848
+EP  - 52991849
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baillière, Hippolyte E. Oct. 1855
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baillière, Hippolyte E.
+DP  - Harvard University Botany Libraries
+DA  - 1856-01-07
+SP  - 52991850
+EP  - 52991851
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baillière, Hippolyte E. Jan. 7, 1856
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baillon, Henri E.
+DP  - Harvard University Botany Libraries
+DA  - 1870-04-02
+SP  - 52991852
+EP  - 52991853
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baillon, Henri E. Apr. 2, 1870
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baillon, Henri E.
+DP  - Harvard University Botany Libraries
+DA  - 1870-06-13
+SP  - 52991854
+EP  - 52991855
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baillon, Henri E. June 13, 1870
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baillon, Henri E.
+DP  - Harvard University Botany Libraries
+DA  - 1871-05-08
+SP  - 52991856
+EP  - 52991857
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baillon, Henri E. May 8, 1871
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baker, John G.
+DP  - Harvard University Botany Libraries
+DA  - 1870-08-26
+SP  - 52991858
+EP  - 52991859
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baker, John G. Aug. 26, 1870
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baker, John G.
+DP  - Harvard University Botany Libraries
+DA  - 1891-05-20
+SP  - 52991860
+EP  - 52991861
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baker, John G. May 20, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baldwin, Henry I.
+DP  - Harvard University Botany Libraries
+DA  - 1884-07-13
+SP  - 52991862
+EP  - 52991863
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baldwin, Henry I. July 13, 1884
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Balfour, Isaac B.
+DP  - Harvard University Botany Libraries
+DA  - 1885-12-21
+SP  - 52991864
+EP  - 52991869
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Balfour, Isaac B. Dec. 21, 1885
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Balfour, Isaac B.
+DP  - Harvard University Botany Libraries
+DA  - 1886-02-08
+SP  - 52991870
+EP  - 52991875
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Balfour, Isaac B. Feb. 8, 1886
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Balfour, Isaac B.
+DP  - Harvard University Botany Libraries
+DA  - 1891-01-06
+SP  - 52991876
+EP  - 52991877
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Balfour, Isaac B. Jan. 6, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Balfour, John H.
+DP  - Harvard University Botany Libraries
+DA  - 1860-12-12
+SP  - 52991878
+EP  - 52991879
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Balfour, John H. Dec. 12, 1860
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Balfour, John H.
+DP  - Harvard University Botany Libraries
+DA  - 1861-04-11
+SP  - 52991880
+EP  - 52991881
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Balfour, John H. Apr. 11, 1861
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Balfour, John H.
+DP  - Harvard University Botany Libraries
+DA  - 1870-03-31
+SP  - 52991882
+EP  - 52991883
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Balfour, John H. Mar. 31, 1870
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Balfour, John H.
+DP  - Harvard University Botany Libraries
+DA  - 1881-06-27
+SP  - 52991884
+EP  - 52991885
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Balfour, John H. June 27, 1881
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Balfour, John H.
+DP  - Harvard University Botany Libraries
+DA  - 1881-06-30
+SP  - 52991886
+EP  - 52991887
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Balfour, John H. June 30, 1881
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1874-03-18
+SP  - 52991888
+EP  - 52991889
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Mar. 18, 1874
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1874-12-23
+SP  - 52991890
+EP  - 52991891
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Dec. 23, 1874
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1875-02-26
+SP  - 52991892
+EP  - 52991893
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Feb. 26, 1875
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1875-07-08
+SP  - 52991894
+EP  - 52991895
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William July 8, 1875
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1875-08-17
+SP  - 52991896
+EP  - 52991897
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Aug. 17, 1875
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1876-10-10
+SP  - 52991898
+EP  - 52991899
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Oct. 10, 1876
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1878-05-22
+SP  - 52991900
+EP  - 52991901
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William May 22, 1878
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1878-06-25
+SP  - 52991902
+EP  - 52991903
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William June 25, 1878
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1878-08-13
+SP  - 52991904
+EP  - 52991905
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Aug. 13, 1878
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1882-07-15
+SP  - 52991906
+EP  - 52991907
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William July 15, 1882
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1882-08-16
+SP  - 52991908
+EP  - 52991909
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Aug. 16, 1882
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1886-06-14
+SP  - 52991910
+EP  - 52991911
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William June 14, 1886
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1886-08-24
+SP  - 52991912
+EP  - 52991913
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Aug. 24, 1886
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1889-10-03
+SP  - 52991914
+EP  - 52991914
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Oct. 3, 1889 [to unknown]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbey, William
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-13
+SP  - 52991915
+EP  - 52991915
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbey, William Oct. 13, 1890 [to unknown]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbour, John H.
+DP  - Harvard University Botany Libraries
+DA  - 1887-08-02
+SP  - 52991916
+EP  - 52991917
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbour, John H. Aug. 2, 1887 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbour, John H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-07
+SP  - 52991918
+EP  - 52991918
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbour, John H. Nov. 7, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbour, John H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-08-29
+SP  - 52991919
+EP  - 52991919
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbour, John H. Aug. 29, 1889 [to unknown]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbour, John H.
+DP  - Harvard University Botany Libraries
+DA  - 1889-09-03
+SP  - 52991920
+EP  - 52991920
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbour, John H. Sept. 3, 1889 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barbour, John H.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52991921
+EP  - 52991921
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barbour, John H. undated [fragment]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baring Brothers Co.
+DP  - Harvard University Botany Libraries
+DA  - 1839-09-19
+SP  - 52991922
+EP  - 52991923
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baring Brothers Co. Sept. 19, 1839
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baring Brothers Co.
+DP  - Harvard University Botany Libraries
+DA  - 1856-06-02
+SP  - 52991924
+EP  - 52991924
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baring Brothers Co. June 2, 1856 [to F. Boott]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Baring Brothers Co.
+DP  - Harvard University Botany Libraries
+DA  - 1856-06-03
+SP  - 52991925
+EP  - 52991926
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Baring Brothers Co. June 3, 1856 [receipt]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnard, Frederick A.
+DP  - Harvard University Botany Libraries
+DA  - 1874-09-08
+SP  - 52991927
+EP  - 52991928
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnard, Frederick A. Sept. 8, 1874
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1888-05-21
+SP  - 52991929
+EP  - 52991930
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. May 21, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1888-06-06
+SP  - 52991931
+EP  - 52991932
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. June 6, 1888 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-11
+SP  - 52991933
+EP  - 52991934
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. June 11, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-14
+SP  - 52991935
+EP  - 52991936
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Watson, Sereno June 14, 1890 [to C. R. Barnes]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-25
+SP  - 52991937
+EP  - 52991938
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. July 25, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1890-08-11
+SP  - 52991939
+EP  - 52991940
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Aug. 11, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-16
+SP  - 52991942
+EP  - 52991944
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Oct. 16, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1890-11-03
+SP  - 52991945
+EP  - 52991946
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Nov. 3, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1890-11-29
+SP  - 52991947
+EP  - 52991949
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Nov. 29, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1890-12-05
+SP  - 52991950
+EP  - 52991952
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Dec. 5, 1890 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1891-03-27
+SP  - 52991953
+EP  - 52991954
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Mar. 27, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1891-08-18
+SP  - 52991955
+EP  - 52991956
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Aug. 18, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-17
+SP  - 52991957
+EP  - 52991958
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Sept. 17, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-22
+SP  - 52991959
+EP  - 52991960
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Sept. 22, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barnes, Charles R.
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-28
+SP  - 52991961
+EP  - 52991962
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barnes, Charles R. Sept. 28, 1891 [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52991963
+EP  - 52991968
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Watson, Sereno undated [to C. R. Barnes] [draft]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barratte, Gustave
+DP  - Harvard University Botany Libraries
+DA  - 1885-09-01
+SP  - 52991969
+EP  - 52991970
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barratte, Gustave Sept. 1, 1885
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barratte, Gustave
+DP  - Harvard University Botany Libraries
+DA  - 1890-11-14
+SP  - 52991971
+EP  - 52991972
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barratte, Gustave Nov. 14, 1890 [to unknown]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barrett, Alameda H.
+DP  - Harvard University Botany Libraries
+DA  - 1882-09-23
+SP  - 52991973
+EP  - 52991976
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barrett, Alameda H. Sept. 23, 1882
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barrett, Alameda H.
+DP  - Harvard University Botany Libraries
+DA  - 7-Jun
+SP  - 52991977
+EP  - 52991980
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barrett, Alameda H. June 7 [no year]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barrett, Alameda H.
+DP  - Harvard University Botany Libraries
+DA  - 16-May
+SP  - 52991981
+EP  - 52991982
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barrett, Alameda H. May 16 [no year] [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barrett, Alameda H.
+DP  - Harvard University Botany Libraries
+DA  - 13-Jul
+SP  - 52991983
+EP  - 52991984
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barrett, Alameda H. July 13 [no year] [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barrett, Alameda H.
+DP  - Harvard University Botany Libraries
+DA  - 11-Dec
+SP  - 52991985
+EP  - 52991986
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barrett, Alameda H. Dec. 11 [no year] [to S. Watson]
+VL  - 221276
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Barroeta, Gregorio
+DP  - Harvard University Botany Libraries
+DA  - 1878-04-29
+SP  - 52991987
+EP  - 52991988
+JO  - Asa Gray correspondence. Senders B-Ba
+ID  - 127658
+TI  - Barroeta, Gregorio Apr. 29, 1878
+VL  - 221276
+OC  - 878725232
+ER  - 
+

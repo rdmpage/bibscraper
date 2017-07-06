@@ -1,0 +1,2430 @@
+﻿TY  - letter
+AU  - Acland, Henry W.
+DP  - Harvard University Botany Libraries
+DA  - 1881-10-11
+SP  - 53003069
+EP  - 53003070
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Acland, Henry W. Oct. 11, 1881
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Acland, Henry W.
+DP  - Harvard University Botany Libraries
+DA  - 1881-10-24
+SP  - 53003071
+EP  - 53003072
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Acland, Henry W. Oct. 24, 1881
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Acland, Thomas D.
+DP  - Harvard University Botany Libraries
+DA  - 1887-07-13
+SP  - 53003073
+EP  - 53003076
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Acland, Thomas D. July 13, 1887
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Acland, Thomas D.
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-01
+SP  - 53003077
+EP  - 53003080
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Acland, Thomas D. Nov. 1, 1887
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Adair, D. L.
+DP  - Harvard University Botany Libraries
+DA  - 1873-01-31
+SP  - 53003081
+EP  - 53003082
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Adair, D. L. Jan. 31, 1873
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Adams, Charles F., Jr.
+DP  - Harvard University Botany Libraries
+DA  - 1882-12-20
+SP  - 53003083
+EP  - 53003084
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Adams, Charles F., Jr. Dec. 20, 1882
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Adams, Charles F., Jr.
+DP  - Harvard University Botany Libraries
+DA  - 1891-10-07
+SP  - 53003085
+EP  - 53003086
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Adams, Charles F., Jr. Oct. 7, 1891 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Adams, Henry B.
+DP  - Harvard University Botany Libraries
+DA  - 1871-04-22
+SP  - 53003087
+EP  - 53003088
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Adams, Henry B. Apr. 22, 1871
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Adams, Henry B.
+DP  - Harvard University Botany Libraries
+DA  - 1874-04-08
+SP  - 53003089
+EP  - 53003090
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Adams, Henry B. Apr. 8, 1874
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Adams, John Q.
+DP  - Harvard University Botany Libraries
+DA  - 1886-06-14
+SP  - 53003091
+EP  - 53003091
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Adams, John Q. June 14, 1886
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Agardh, Jakob G.
+DP  - Harvard University Botany Libraries
+DA  - 1863-12-16
+SP  - 53003092
+EP  - 53003093
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Agardh, Jakob G. Dec. 16, 1863
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Agassiz, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1873-12-29
+SP  - 53003094
+EP  - 53003094
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Agassiz, Alexander Dec. 29, 1873
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Agassiz, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1874-06-02
+SP  - 53003095
+EP  - 53003095
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Agassiz, Alexander June 2, 1874
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Agassiz, Alexander
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53003096
+EP  - 53003099
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Agassiz, Alexander undated
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Agassiz, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1886-11-22
+SP  - 53003100
+EP  - 53003100
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Agassiz, Alexander Nov. 22, 1886
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Agassiz, Elizabeth C.
+DP  - Harvard University Botany Libraries
+DA  - 1886-01-05
+SP  - 53003101
+EP  - 53003102
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Agassiz, Elizabeth C. Jan. 5, 1886
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Agassiz, Louis
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53003103
+EP  - 53003104
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Agassiz, Louis undated [Mon.]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Agassiz, Louis
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53003105
+EP  - 53003106
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Agassiz, Louis undated [Thurs.]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, John A.
+DP  - Harvard University Botany Libraries
+DA  - 1889-07-26
+SP  - 53003107
+EP  - 53003108
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, John A. July 26, 1889 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, John A.
+DP  - Harvard University Botany Libraries
+DA  - 1889-08-13
+SP  - 53003109
+EP  - 53003110
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, John A. Aug. 13, 1889 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, John A.
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-11
+SP  - 53003111
+EP  - 53003112
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, John A. Sept. 11, 1891 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, John A.
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-13
+SP  - 53003113
+EP  - 53003114
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, John A. Sept. 13, 1891 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, John A.
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-16
+SP  - 53003115
+EP  - 53003115
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, John A. Sept. 16, 1891 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, Joel A.
+DP  - Harvard University Botany Libraries
+DA  - 1873-10-14
+SP  - 53003116
+EP  - 53003117
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, Joel A. Oct. 14, 1873
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, Oscar D.
+DP  - Harvard University Botany Libraries
+DA  - 1882-02-18
+SP  - 53003118
+EP  - 53003119
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, Oscar D. Feb. 18, 1882 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, Timothy F.
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-30
+SP  - 53003120
+EP  - 53003121
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, Timothy F. Jan. 30, 1880 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, Timothy F.
+DP  - Harvard University Botany Libraries
+DA  - 1881-02-01
+SP  - 53003122
+EP  - 53003122
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, Timothy F. Feb. 1, 1881 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, Timothy F.
+DP  - Harvard University Botany Libraries
+DA  - 1882-03-27
+SP  - 53003123
+EP  - 53003123
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, Timothy F. Mar. 27, 1882 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Allen, Timothy F.
+DP  - Harvard University Botany Libraries
+DA  - 1889-08-19
+SP  - 53003124
+EP  - 53003125
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Allen, Timothy F. Aug. 19, 1889 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Alvord, Benjamin
+DP  - Harvard University Botany Libraries
+DA  - 1849-08-24
+SP  - 53003126
+EP  - 53003128
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Alvord, Benjamin Aug. 24, 1849
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Harrower, Henry D.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-07
+SP  - 53003129
+EP  - 53003129
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Harrower, Henry D. Oct. 7, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Harrower, Henry D.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-07
+SP  - 53003130
+EP  - 53003130
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Harrower, Henry D. Oct. 7, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-10
+SP  - 53003131
+EP  - 53003132
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Watson, Sereno Oct. 10, 1890 [memorandum]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Harrower, Henry D.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-11
+SP  - 53003133
+EP  - 53003135
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Harrower, Henry D. Oct. 11, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Harrower, Henry D.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-14
+SP  - 53003136
+EP  - 53003137
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Harrower, Henry D. Oct. 14, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Harrower, Henry D.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-17
+SP  - 53003138
+EP  - 53003140
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Harrower, Henry D. Oct. 17, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Harrower, Henry D.
+DP  - Harvard University Botany Libraries
+DA  - 1890-11-14
+SP  - 53003141
+EP  - 53003141
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Harrower, Henry D. Nov. 14, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Harrower, Henry D.
+DP  - Harvard University Botany Libraries
+DA  - 1891-03-17
+SP  - 53003142
+EP  - 53003144
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Harrower, Henry D. Mar. 17, 1891 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - American Book Co.
+DP  - Harvard University Botany Libraries
+DA  - 1891-05-04
+SP  - 53003145
+EP  - 53003145
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - American Book Co. May 4, 1891 [to the Estate of Asa Gray]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - American Book Co.
+DP  - Harvard University Botany Libraries
+DA  - 1891-06-10
+SP  - 53003146
+EP  - 53003146
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - American Book Co. June 10, 1891 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ames, Mary E.
+DP  - Harvard University Botany Libraries
+DA  - 1875-07-06
+SP  - 53003147
+EP  - 53003148
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ames, Mary E. July 6, 1875
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ames, Mary E.
+DP  - Harvard University Botany Libraries
+DA  - 1875-08-16
+SP  - 53003149
+EP  - 53003150
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ames, Mary E. Aug. 16, 1875
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ames, Mary E.
+DP  - Harvard University Botany Libraries
+DA  - 1876-04-08
+SP  - 53003151
+EP  - 53003152
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ames, Mary E. Apr. 8, 1876 [to G. E. Davenport]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ames, Mary E.
+DP  - Harvard University Botany Libraries
+DA  - 1876-05-23
+SP  - 53003153
+EP  - 53003154
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ames, Mary E. May 23, 1876 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ames, Mary E.
+DP  - Harvard University Botany Libraries
+DA  - 1876-06-24
+SP  - 53003155
+EP  - 53003156
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ames, Mary E. June 24, 1876 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ames, Mary E.
+DP  - Harvard University Botany Libraries
+DA  - 1886-06-21
+SP  - 53003157
+EP  - 53003158
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ames, Mary E. June 21, 1886
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ames, Mary E.
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-24
+SP  - 53003159
+EP  - 53003159
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ames, Mary E. July 24, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ames, Mary E.
+DP  - Harvard University Botany Libraries
+DA  - 1891-12-01
+SP  - 53003160
+EP  - 53003161
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ames, Mary E. Dec. 1, 1891 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Charles L.
+DP  - Harvard University Botany Libraries
+DA  - 1864-03-09
+SP  - 53003162
+EP  - 53003162
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Charles L. Mar. 9, 1864
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Charles L.
+DP  - Harvard University Botany Libraries
+DA  - 1866-04-14
+SP  - 53003163
+EP  - 53003164
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Charles L. Apr. 14, 1866
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Charles L.
+DP  - Harvard University Botany Libraries
+DA  - 1873-04-25
+SP  - 53003165
+EP  - 53003166
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Charles L. Apr. 25, 1873
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Charles L.
+DP  - Harvard University Botany Libraries
+DA  - 1873-04-29
+SP  - 53003167
+EP  - 53003168
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Charles L. Apr. 29, 1873
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Charles L.
+DP  - Harvard University Botany Libraries
+DA  - 1875-09-02
+SP  - 53003169
+EP  - 53003170
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Charles L. Sept. 2, 1875
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Charles L.
+DP  - Harvard University Botany Libraries
+DA  - 1876-02-15
+SP  - 53003171
+EP  - 53003172
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Charles L. Feb. 15, 1876
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Charles L.
+DP  - Harvard University Botany Libraries
+DA  - 1877-10-15
+SP  - 53003173
+EP  - 53003176
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Charles L. Oct. 15, 1877
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Charles L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-12-03
+SP  - 53003177
+EP  - 53003179
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Charles L. Dec. 3, 1888 [to J. Gray]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Frederick W.
+DP  - Harvard University Botany Libraries
+DA  - 1889-07-06
+SP  - 53003180
+EP  - 53003180
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Frederick W. July 6, 1889 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Rufus
+DP  - Harvard University Botany Libraries
+DA  - 1837-02-01
+SP  - 53003181
+EP  - 53003183
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Rufus Feb. 1, 1837
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Anderson, Rufus
+DP  - Harvard University Botany Libraries
+DA  - 1837-12-05
+SP  - 53003184
+EP  - 53003185
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Anderson, Rufus Dec. 5, 1837
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1857-02-17
+SP  - 53003186
+EP  - 53003188
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Feb. 17, 1857
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1857-06-02
+SP  - 53003189
+EP  - 53003191
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. June 2, 1857
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1857-12-02
+SP  - 53003192
+EP  - 53003194
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Dec. 2, 1857
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1858-02-18
+SP  - 53003195
+EP  - 53003197
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Feb. 18, 1858
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - [1858]
+SP  - 53003198
+EP  - 53003221
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. [1858] [draft]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1858-03-06
+SP  - 53003222
+EP  - 53003223
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Mar. 6, 1858
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1858-04-22
+SP  - 53003224
+EP  - 53003226
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Apr. 22, 1858
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1858-05-14
+SP  - 53003227
+EP  - 53003228
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. May 14, 1858
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1858-07-05
+SP  - 53003229
+EP  - 53003230
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. July 5, 1858
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1858-09-07
+SP  - 53003231
+EP  - 53003232
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Sept. 7, 1858
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1858-09-12
+SP  - 53003233
+EP  - 53003235
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Sept. 12, 1858
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1858-10-21
+SP  - 53003236
+EP  - 53003237
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Oct. 21, 1858
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1859-01-13
+SP  - 53003238
+EP  - 53003240
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Jan. 13, 1859
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1859-02-13
+SP  - 53003241
+EP  - 53003245
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Feb. 13, 1859 [draft]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1859-02-14
+SP  - 53003246
+EP  - 53003248
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Feb. 14, 1859
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1859-05-01
+SP  - 53003249
+EP  - 53003250
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. May 1, 1859
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1859-06-03
+SP  - 53003251
+EP  - 53003252
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. June 3, 1859
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1860-08-08
+SP  - 53003253
+EP  - 53003254
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Aug. 8, 1860
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1861-09-27
+SP  - 53003255
+EP  - 53003256
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Sept. 27, 1861
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1861-12-30
+SP  - 53003257
+EP  - 53003258
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Dec. 30, 1861
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1865-07-25
+SP  - 53003259
+EP  - 53003260
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. July 25, 1865
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1865-10-19
+SP  - 53003261
+EP  - 53003262
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Oct. 19, 1865
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1866-01-04
+SP  - 53003263
+EP  - 53003264
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Jan. 4, 1866
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1868-05-26
+SP  - 53003265
+EP  - 53003266
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. May 26, 1868
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1868-10-10
+SP  - 53003267
+EP  - 53003268
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Oct. 10, 1868
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1869-10-16
+SP  - 53003269
+EP  - 53003270
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Oct. 16, 1869
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1870-05-05
+SP  - 53003271
+EP  - 53003272
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. May 5, 1870
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1872-05-09
+SP  - 53003273
+EP  - 53003275
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. May 9, 1872
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andersson, Nils J.
+DP  - Harvard University Botany Libraries
+DA  - 1874-08-03
+SP  - 53003276
+EP  - 53003277
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andersson, Nils J. Aug. 3, 1874
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - André, Édouard F.
+DP  - Harvard University Botany Libraries
+DA  - 1880-05-21
+SP  - 53003278
+EP  - 53003279
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - André, Édouard F. May 21, 1880
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - André, Édouard F.
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-03
+SP  - 53003280
+EP  - 53003281
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - André, Édouard F. Feb. 3, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andrews, Ebenezer B.
+DP  - Harvard University Botany Libraries
+DA  - 1876-07-31
+SP  - 53003282
+EP  - 53003283
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andrews, Ebenezer B. July 31, 1876
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Andrews, William E.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53003284
+EP  - 53003284
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Andrews, William E. undated [c. 1890] [fragment]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1859-01-19
+SP  - 53003285
+EP  - 53003285
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Jan. 19, 1859
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1860-02-07
+SP  - 53003286
+EP  - 53003287
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Feb. 7, 1860
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1877-03-08
+SP  - 53003288
+EP  - 53003289
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Mar. 8, 1877 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1877-08-01
+SP  - 53003290
+EP  - 53003291
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Aug. 1, 1877 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1878-02-01
+SP  - 53003292
+EP  - 53003293
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Feb. 1, 1878 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1879-02-01
+SP  - 53003294
+EP  - 53003295
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Feb. 1, 1879 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1880-02-01
+SP  - 53003296
+EP  - 53003297
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Feb. 1, 1880 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1881-02-01
+SP  - 53003298
+EP  - 53003299
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Feb. 1, 1881 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1882-02-01
+SP  - 53003300
+EP  - 53003301
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Feb. 1, 1882 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1883-02-01
+SP  - 53003302
+EP  - 53003303
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Feb. 1, 1883 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-01
+SP  - 53003304
+EP  - 53003305
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Feb. 1, 1884 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - D. Appleton & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1885-02-01
+SP  - 53003306
+EP  - 53003307
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - D. Appleton & Co. Feb. 1, 1885 [receipt]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Appleton, Francis H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-12-13
+SP  - 53003308
+EP  - 53003308
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Appleton, Francis H. Dec. 13, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Armstrong & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1885-11-19
+SP  - 53003309
+EP  - 53003309
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Armstrong & Co. Nov. 19, 1885
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Armstrong & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1885-11-21
+SP  - 53003310
+EP  - 53003310
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Armstrong & Co. Nov. 21, 1885
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Armstrong & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1886-05-06
+SP  - 53003311
+EP  - 53003312
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Armstrong & Co. May 6, 1886
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Arnott, George A.
+DP  - Harvard University Botany Libraries
+DA  - 1838-12-14
+SP  - 53003313
+EP  - 53003315
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Arnott, George A. Dec. 14, 1838
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Arnott, George A.
+DP  - Harvard University Botany Libraries
+DA  - 1846-01-19
+SP  - 53003316
+EP  - 53003319
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Arnott, George A. Jan. 19, 1846
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Arnott, George A.
+DP  - Harvard University Botany Libraries
+DA  - 1859-05-07
+SP  - 53003320
+EP  - 53003321
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Arnott, George A. May 7, 1859
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Arthur, Joseph C.
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-10
+SP  - 53003322
+EP  - 53003322
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Arthur, Joseph C. Nov. 10, 1888 [to J. Gray]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Arthur, Joseph C.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-20
+SP  - 53003323
+EP  - 53003323
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Arthur, Joseph C. Oct. 20, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Arthur, Joseph C.
+DP  - Harvard University Botany Libraries
+DA  - 1890-12-05
+SP  - 53003324
+EP  - 53003324
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Arthur, Joseph C. Dec. 5, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Arthur, Joseph C.
+DP  - Harvard University Botany Libraries
+DA  - 1893-01-10
+SP  - 53003325
+EP  - 53003325
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Arthur, Joseph C. Jan. 10, 1893 [to J. A. Allen]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ascherson, Paul F.
+DP  - Harvard University Botany Libraries
+DA  - 1873-08-18
+SP  - 53003326
+EP  - 53003327
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ascherson, Paul F. Aug. 18, 1873
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Ascherson, Paul F.
+DP  - Harvard University Botany Libraries
+DA  - 1881-05-09
+SP  - 53003328
+EP  - 53003329
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Ascherson, Paul F. May 9, 1881
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1866-02-21
+SP  - 53003330
+EP  - 53003331
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Feb. 21, 1866
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1866-09-08
+SP  - 53003332
+EP  - 53003333
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Sept. 8, 1866
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1873-07-19
+SP  - 53003334
+EP  - 53003335
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. July 19, 1873
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1873-09-23
+SP  - 53003336
+EP  - 53003337
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Sept. 23, 1873
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1876-01-03
+SP  - 53003338
+EP  - 53003341
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Jan. 3, 1876
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-28
+SP  - 53003342
+EP  - 53003343
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Oct. 28, 1878 [to S. Watson] [postcard]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1879-11-29
+SP  - 53003344
+EP  - 53003345
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Nov. 29, 1879 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1879-12-05
+SP  - 53003346
+EP  - 53003347
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Dec. 5, 1879 [to S. Watson] [postcard]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1879-12-24
+SP  - 53003348
+EP  - 53003349
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Dec. 24, 1879 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1880-02-22
+SP  - 53003350
+EP  - 53003351
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Feb. 22, 1880 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1880-03-04
+SP  - 53003352
+EP  - 53003354
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Mar. 4, 1880 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 1880-03-06
+SP  - 53003355
+EP  - 53003356
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Mar. 6, 1880 [to S. Watson] [postcard]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Hannah C.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53003357
+EP  - 53003357
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Hannah C. undated [1880]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53003358
+EP  - 53003358
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. undated [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Hannah C.
+DP  - Harvard University Botany Libraries
+DA  - 29-Apr
+SP  - 53003359
+EP  - 53003359
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Hannah C. Apr. 29 [no year]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53003360
+EP  - 53003360
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. undated [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Coe F.
+DP  - Harvard University Botany Libraries
+DA  - 19-Nov
+SP  - 53003361
+EP  - 53003362
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Coe F. Nov. 19 [no year] [to S. Watson] [postcard]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1875-05-11
+SP  - 53003363
+EP  - 53003364
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. May 11, 1875
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1875-08-01
+SP  - 53003365
+EP  - 53003366
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Aug. 1, 1875
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1875-10-24
+SP  - 53003367
+EP  - 53003368
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Oct. 24, 1875 [to G. E. Davenport]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1876-04-08
+SP  - 53003369
+EP  - 53003370
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Apr. 8, 1876
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1876-04-24
+SP  - 53003371
+EP  - 53003372
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Apr. 24, 1876 [to G. E. Davenport]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1876-06-06
+SP  - 53003373
+EP  - 53003374
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. June 6, 1876
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1876-07-15
+SP  - 53003375
+EP  - 53003376
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. July 15, 1876
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1876-08-07
+SP  - 53003377
+EP  - 53003378
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Aug. 7, 1876 [to G. E. Davenport]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1876-08-16
+SP  - 53003379
+EP  - 53003380
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Aug. 16, 1876
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1877-09-22
+SP  - 53003381
+EP  - 53003382
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Sept. 22, 1877
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1878-03-21
+SP  - 53003383
+EP  - 53003384
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Mar. 21, 1878 [to G. E. Davenport]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1878-05-20
+SP  - 53003385
+EP  - 53003386
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. May 20, 1878 [to G. E. Davenport]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1878-07-11
+SP  - 53003387
+EP  - 53003388
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. July 11, 1878 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1878-09-17
+SP  - 53003389
+EP  - 53003390
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Sept. 17, 1878
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1878-04-26
+SP  - 53003391
+EP  - 53003392
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Apr. 26, 1878 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1881-06-06
+SP  - 53003393
+EP  - 53003394
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. June 6, 1881 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1881-07-21
+SP  - 53003395
+EP  - 53003396
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. July 21, 1881 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Austin, Rebecca M.
+DP  - Harvard University Botany Libraries
+DA  - 1882-08-12
+SP  - 53003397
+EP  - 53003398
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Austin, Rebecca M. Aug. 12, 1882 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-27
+SP  - 53003399
+EP  - 53003399
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. Feb. 27, 1889 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1889-04-09
+SP  - 53003400
+EP  - 53003400
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. Apr. 9, 1889 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1890-01-15
+SP  - 53003401
+EP  - 53003401
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. Jan. 15, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-20
+SP  - 53003402
+EP  - 53003402
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. Feb. 20, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-12
+SP  - 53003403
+EP  - 53003403
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. July 12, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1890-08-15
+SP  - 53003404
+EP  - 53003405
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. Aug. 15, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1890-12-19
+SP  - 53003406
+EP  - 53003407
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. Dec. 19, 1890 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1891-07-22
+SP  - 53003408
+EP  - 53003408
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. July 22, 1891 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1891-08-22
+SP  - 53003409
+EP  - 53003410
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. Aug. 22, 1891 [to S. Watson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+
+TY  - letter
+AU  - Autran, Eugene J.
+DP  - Harvard University Botany Libraries
+DA  - 1894-06-01
+SP  - 53003411
+EP  - 53003411
+JO  - Asa Gray correspondence. Senders A
+ID  - 127690
+TI  - Autran, Eugene J. June 1, 1894 [to B. L. Robinson]
+VL  - 221343
+OC  - 878725232
+ER  - 
+
+
+

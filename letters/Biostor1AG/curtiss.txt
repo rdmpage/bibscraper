@@ -1,0 +1,988 @@
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1867-06-25
+SP - 53403327
+EP - 53403328
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. June 25, 1867 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1867-07-18
+SP - 53403329
+EP - 53403332
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 18, 1867 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1867-08-11
+SP - 53403333
+EP - 53403335
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Aug. 11, 1867 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1873-07-12
+SP - 53403336
+EP - 53403337
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 12, 1873 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1873-07-26
+SP - 53403338
+EP - 53403339
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 26, 1873 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1873-11-15
+SP - 53403340
+EP - 53403341
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Nov. 15, 1873 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1874-10-19
+SP - 53403342
+EP - 53403343
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Oct. 19, 1874 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1876-09-30
+SP - 53403344
+EP - 53403345
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Sept. 30, 1876 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-02-18
+SP - 53403346
+EP - 53403347
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Feb. 18, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-03-25
+SP - 53403348
+EP - 53403349
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Mar. 25, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-04-23
+SP - 53403350
+EP - 53403351
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Apr. 23, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-05-25
+SP - 53403352
+EP - 53403353
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. May 25, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-06-09
+SP - 53403354
+EP - 53403355
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. June 9, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-07-20
+SP - 53403356
+EP - 53403357
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 20, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-08-18
+SP - 53403358
+EP - 53403359
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Aug. 18, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-10-02
+SP - 53403360
+EP - 53403361
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Oct. 2, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-10-22
+SP - 53403362
+EP - 53403363
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Oct. 22, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1878-12-30
+SP - 53403364
+EP - 53403365
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Dec. 30, 1878 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1879-03-03
+SP - 53403366
+EP - 53403367
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Mar. 3, 1879 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1879-03-17
+SP - 53403368
+EP - 53403369
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Mar. 17, 1879 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1879-03-31
+SP - 53403370
+EP - 53403371
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Mar. 31, 1879 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1879-05-09
+SP - 53403372
+EP - 53403374
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. May 9, 1879 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1879-10-28
+SP - 53403375
+EP - 53403376
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Oct. 28, 1879 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1879-11-24
+SP - 53403377
+EP - 53403378
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Nov. 24, 1879 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Baldwin Bros. & Co. 
+PB - Harvard University Botany Libraries
+DA - 1880-01-05
+SP - 53403379
+EP - 53403379
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Baldwin Bros. & Co. Jan. 5, 1880 [to S. Watson] [receipt] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1880-03-15
+SP - 53403380
+EP - 53403381
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Mar. 15, 1880 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1880-04-22
+SP - 53403382
+EP - 53403383
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Apr. 22, 1880 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Floretta A. 
+PB - Harvard University Botany Libraries
+DA - 1880-06-13
+SP - 53403384
+EP - 53403385
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Floretta A. June 13, 1880 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1880-07-03
+SP - 53403386
+EP - 53403387
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 3, 1880 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1880-08-12
+SP - 53403388
+EP - 53403397
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Aug. 12, 1880 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1880-09-14
+SP - 53403398
+EP - 53403399
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Sept. 14, 1880 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1881-01-21
+SP - 53403400
+EP - 53403401
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Jan. 21, 1881 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1881-02-12
+SP - 53403402
+EP - 53403403
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Feb. 12, 1881 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1881-05-04
+SP - 53403404
+EP - 53403404
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. May 4, 1881 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1881-07-06
+SP - 53403405
+EP - 53403406
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 6, 1881 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1881-08-25
+SP - 53403407
+EP - 53403408
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Aug. 25, 1881 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1881-09-09
+SP - 53403409
+EP - 53403409
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Sept. 9, 1881 [to A. B. Langlois] [receipt] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1881-12-31
+SP - 53403410
+EP - 53403411
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Dec. 31, 1881 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-02-11
+SP - 53403412
+EP - 53403412
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Feb. 11, 1882 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-03-01
+SP - 53403413
+EP - 53403413
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Mar. 1, 1882 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-04-30
+SP - 53403414
+EP - 53403415
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Apr. 30, 1882 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-05-09
+SP - 53403416
+EP - 53403416
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. May 9, 1882 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Hoysradt, Lyman H. 
+PB - Harvard University Botany Libraries
+DA - 1882-05-15
+SP - 53403417
+EP - 53403417
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Hoysradt, Lyman H. May 15, 1882 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-05-28
+SP - 53403418
+EP - 53403419
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. May 28, 1882 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-07-02
+SP - 53403420
+EP - 53403421
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 2, 1882 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-07-19
+SP - 53403422
+EP - 53403422
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 19, 1882 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-09-28
+SP - 53403423
+EP - 53403424
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Sept. 28, 1882 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-12-18
+SP - 53403425
+EP - 53403426
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Dec. 18, 1882 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1882-12-26
+SP - 53403427
+EP - 53403428
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Dec. 26, 1882 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-01-14
+SP - 53403429
+EP - 53403430
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Jan. 14, 1883 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-01-22
+SP - 53403431
+EP - 53403432
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Jan. 22, 1883 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-02-03
+SP - 53403433
+EP - 53403433
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Feb. 3, 1883 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-02-19
+SP - 53403434
+EP - 53403435
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Feb. 19, 1883 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-03-13
+SP - 53403436
+EP - 53403437
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Mar. 13, 1883 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-03-26
+SP - 53403438
+EP - 53403439
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Mar. 26, 1883 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-04-02
+SP - 53403440
+EP - 53403441
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Apr. 2, 1883 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-04-08
+SP - 53403442
+EP - 53403443
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Apr. 8, 1883 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-05-17
+SP - 53403444
+EP - 53403445
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. May 17, 1883 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1883-08-13
+SP - 53403446
+EP - 53403448
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Aug. 13, 1883 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Unknown Sender 
+PB - Harvard University Botany Libraries
+DA - 1883-11-21
+SP - 53403449
+EP - 53403450
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Unknown Sender Nov. 21, 1883 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1884-01-28
+SP - 53403451
+EP - 53403452
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Jan. 28, 1884 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1884-07-11
+SP - 53403453
+EP - 53403453
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 11, 1884 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1885-08-04
+SP - 53403454
+EP - 53403455
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Aug. 4, 1885 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1885-09-02
+SP - 53403456
+EP - 53403457
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Sept. 2, 1885 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1886-02-15
+SP - 53403458
+EP - 53403459
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Feb. 15, 1886 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1886-06-01
+SP - 53403460
+EP - 53403460
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. June 1, 1886 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1886-07-01
+SP - 53403461
+EP - 53403461
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. July 1, 1886 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1886-09-06
+SP - 53403462
+EP - 53403465
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Sept. 6, 1886 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1886-09-29
+SP - 53403466
+EP - 53403467
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Sept. 29, 1886 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1887-05-28
+SP - 53403468
+EP - 53403469
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. May 28, 1887 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1887-05-28
+SP - 53403470
+EP - 53403470
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. May 28, 1887 [to S. Watson] [photocopy] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1888-12-29
+SP - 53403471
+EP - 53403472
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Dec. 29, 1888 [to S. Watson] [postcard] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 1889-01-05
+SP - 53403473
+EP - 53403474
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Jan. 5, 1889 [to S. Watson] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53403475
+EP - 53403476
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. undated 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Curtiss, Allen H. 
+PB - Harvard University Botany Libraries
+DA - 04-18
+SP - 53403477
+EP - 53403478
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Curtiss, Allen H. Apr. 18 [no year] 
+VL - 225476
+OC - 878725232
+
+
+TY - letter
+AU - Watson, Sereno 
+PB - Harvard University Botany Libraries
+DA - 02-17
+SP - 53403479
+EP - 53403486
+T1 - Allen Hirum Curtiss letters to Asa Gray, 1867-1889
+ID - 130556
+TI - Watson, Sereno Feb. 17 [no year] [to Curtiss] 
+VL - 225476
+OC - 878725232
+
+

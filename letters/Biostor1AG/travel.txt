@@ -1,0 +1,2405 @@
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1838-11
+SP - 53446216
+EP - 53446217
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Nov. 1838 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1838-12-01
+SP - 53446218
+EP - 53446220
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Dec. 1, 1838 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1838-12-12
+SP - 53446221
+EP - 53446226
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Dec. 12, 1838 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1838-12-31
+SP - 53446227
+EP - 53446235
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Dec. 31, 1838 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-01-02
+SP - 53446236
+EP - 53446238
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Jan. 2, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-01-10
+SP - 53446239
+EP - 53446244
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Jan. 10, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-01-17
+SP - 53446245
+EP - 53446247
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Jan. 17, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-01-18
+SP - 53446248
+EP - 53446250
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Jan. 18, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-01-23
+SP - 53446251
+EP - 53446253
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Jan. 23, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-01-24
+SP - 53446254
+EP - 53446256
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Jan. 24, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-01-30
+SP - 53446257
+EP - 53446259
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Jan. 30, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-02-02
+SP - 53446260
+EP - 53446262
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Feb. 2, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-02-04
+SP - 53446263
+EP - 53446265
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Feb. 4, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-02-05
+SP - 53446266
+EP - 53446271
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Feb. 5, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-02-05
+SP - 53446272
+EP - 53446274
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Feb. 5, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-02-09
+SP - 53446275
+EP - 53446277
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Feb. 9, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-02-12
+SP - 53446278
+EP - 53446280
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Feb. 12, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-02-12
+SP - 53446281
+EP - 53446284
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Feb. 12, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-02-20
+SP - 53446285
+EP - 53446290
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Feb. 20, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-03-05
+SP - 53446291
+EP - 53446296
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Mar. 5, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-03-14
+SP - 53446297
+EP - 53446299
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Mar. 14, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-03-18
+SP - 53446300
+EP - 53446302
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Mar. 18, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-03-28
+SP - 53446303
+EP - 53446312
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Mar. 28, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-04-01
+SP - 53446313
+EP - 53446328
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Apr. 1, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-04-17
+SP - 53446329
+EP - 53446330
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Apr. 17, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-04-17
+SP - 53446331
+EP - 53446334
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Apr. 17, 1839 [to Torrey] [enclosed note] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-04-18
+SP - 53446335
+EP - 53446345
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Apr. 18, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-04-27
+SP - 53446346
+EP - 53446364
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Apr. 27, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-05-07
+SP - 53446365
+EP - 53446370
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa May 7, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-05-08
+SP - 53446371
+EP - 53446384
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa May 8, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-05-24
+SP - 53446385
+EP - 53446389
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa May 24, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-05-29
+SP - 53446390
+EP - 53446392
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa May 29, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-05-31
+SP - 53446393
+EP - 53446399
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa May 31, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-06-10
+SP - 53446400
+EP - 53446404
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa June 10, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-06-12
+SP - 53446405
+EP - 53446415
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa June 12, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-06-27
+SP - 53446416
+EP - 53446418
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa June 27, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-07-04
+SP - 53446419
+EP - 53446425
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa July 4, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-06-22
+SP - 53446426
+EP - 53446428
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa June 22, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-07-23
+SP - 53446429
+EP - 53446431
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa July 23, 1839 [to Torrey] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-06-21
+SP - 53446432
+EP - 53446439
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane June 21, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-06-30
+SP - 53446440
+EP - 53446444
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane June 30, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-07-17
+SP - 53446445
+EP - 53446448
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 17, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-07-17
+SP - 53446449
+EP - 53446451
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 17, 1850 [to Loring] [enclosed sketch] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1850-07-19
+SP - 53446452
+EP - 53446457
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa July 19, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1850-07-24
+SP - 53446458
+EP - 53446463
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa July 24, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-08-11
+SP - 53446464
+EP - 53446472
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Aug. 11, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-08-18
+SP - 53446473
+EP - 53446478
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Aug. 18, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-09-01
+SP - 53446479
+EP - 53446481
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 1, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-09-15
+SP - 53446482
+EP - 53446484
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 15, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-09-19
+SP - 53446485
+EP - 53446493
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 19, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-09-29
+SP - 53446494
+EP - 53446497
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 29, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-10-07
+SP - 53446498
+EP - 53446499
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 7, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1850-10-07
+SP - 53446500
+EP - 53446500
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa [Oct. 7], 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-10-14
+SP - 53446501
+EP - 53446505
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 14, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-10-17
+SP - 53446506
+EP - 53446510
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 17, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-10-18
+SP - 53446511
+EP - 53446516
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 18, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-10-29
+SP - 53446517
+EP - 53446522
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 29, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-11-03
+SP - 53446523
+EP - 53446525
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 3, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-11-10
+SP - 53446526
+EP - 53446527
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 10, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-11-16
+SP - 53446528
+EP - 53446531
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 16, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-12-12
+SP - 53446532
+EP - 53446534
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Dec. 12, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-12-18
+SP - 53446535
+EP - 53446543
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Dec. 18, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1850-12-29
+SP - 53446544
+EP - 53446548
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Dec. 29, 1850 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-01-06
+SP - 53446549
+EP - 53446553
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Jan. 6, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-01-12
+SP - 53446554
+EP - 53446558
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Jan. 12, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-01-21
+SP - 53446559
+EP - 53446563
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Jan. 21, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-01-21
+SP - 53446564
+EP - 53446568
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Jan. 21, 1851 [to Loring] [enclosed from Jane to Asa] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-01-30
+SP - 53446569
+EP - 53446574
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Jan. 30, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-02-11
+SP - 53446575
+EP - 53446580
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Feb. 11, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-02-21
+SP - 53446581
+EP - 53446586
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Feb. 21, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-02-24
+SP - 53446587
+EP - 53446592
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Feb. 24, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-03-04
+SP - 53446593
+EP - 53446598
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Mar. 4, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-03-12
+SP - 53446599
+EP - 53446601
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Mar. 12, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-03-19
+SP - 53446602
+EP - 53446609
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Mar. 19, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-03-24
+SP - 53446610
+EP - 53446610
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Mar. 24, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-03-24
+SP - 53446611
+EP - 53446619
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Mar. 24, 1851 [to Loring] [enclosed map] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-03-28
+SP - 53446620
+EP - 53446628
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Mar. 28, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-04-11
+SP - 53446629
+EP - 53446640
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Apr. 11, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-04-13
+SP - 53446641
+EP - 53446646
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Apr. 13, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-04-20
+SP - 53446647
+EP - 53446649
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Apr. 20, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-04-29
+SP - 53446650
+EP - 53446657
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Apr. 29, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-05-09
+SP - 53446658
+EP - 53446663
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane May 9, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-05-22
+SP - 53446664
+EP - 53446669
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane May 22, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-06-03
+SP - 53446670
+EP - 53446672
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane June 3, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-06-12
+SP - 53446673
+EP - 53446675
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane June 12, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-06-15
+SP - 53446676
+EP - 53446681
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane June 15, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-06-24
+SP - 53446682
+EP - 53446689
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane June 24, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-07-03
+SP - 53446690
+EP - 53446692
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 3, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-07-11
+SP - 53446693
+EP - 53446697
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 11, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1851-07-11
+SP - 53446698
+EP - 53446703
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - July 11, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-07-18
+SP - 53446704
+EP - 53446708
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 18, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-07-25
+SP - 53446709
+EP - 53446713
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 25, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-08-05
+SP - 53446714
+EP - 53446718
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Aug. 5, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-08-10
+SP - 53446719
+EP - 53446721
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Aug. 10, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1851-08-18
+SP - 53446722
+EP - 53446724
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Aug. 18, 1851 [to Loring] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Lowell, Elizabeth 
+PB - Harvard University Botany Libraries
+DA - 1850-07-10
+SP - 53446725
+EP - 53446726
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Lowell, Elizabeth July 10, 1850 [to J. Gray] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Lowell, Elizabeth 
+PB - Harvard University Botany Libraries
+DA - 1850-09-08
+SP - 53446727
+EP - 53446728
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Lowell, Elizabeth Sept. 8, 1850 [to J. Gray] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Lowell, Elizabeth 
+PB - Harvard University Botany Libraries
+DA - 1850-11-10
+SP - 53446729
+EP - 53446730
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Lowell, Elizabeth Nov. 10, 1850 [to J. Gray] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Lowell, Elizabeth 
+PB - Harvard University Botany Libraries
+DA - 1851-01-05
+SP - 53446731
+EP - 53446732
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Lowell, Elizabeth Jan. 5, 1851 [to J. Gray] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Lowell, Elizabeth 
+PB - Harvard University Botany Libraries
+DA - 1851-01-18
+SP - 53446733
+EP - 53446734
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Lowell, Elizabeth Jan. 18, 1851 [to J. Gray] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Lowell, Elizabeth 
+PB - Harvard University Botany Libraries
+DA - 1851-03-10
+SP - 53446735
+EP - 53446736
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Lowell, Elizabeth Mar. 10, 1851 [to J. Gray] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53446737
+EP - 53446767
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - [undated] Biographical Notes 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-11-03
+SP - 53446768
+EP - 53446768
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Nov. 3, 1839 [to Moses W. Gray] [transcript] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 09-13
+SP - 53446769
+EP - 53446770
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Sept. 13 [to William J. Hooker] [copy] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1839-09-18
+SP - 53446771
+EP - 53446771
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Sept. 18, 1839 [to Moses W. Gray] [copy] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-07-23
+SP - 53446772
+EP - 53446773
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa July 23, [1839] [to Putnam] [transcript fragment] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1839-07-01
+SP - 53446774
+EP - 53446774
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa July 1839 [to George Bentham] [transcript] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1850-06-07
+SP - 53446775
+EP - 53446776
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - June 7, 1850 [receipt] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1850-06-07
+SP - 53446777
+EP - 53446778
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa June 7, 1850 [to Cunningham Bros.] [envelope] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53446779
+EP - 53446780
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa undated [to J. A. Cunningham] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1851-02-13
+SP - 53446781
+EP - 53446782
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Feb. 13, 1851 [to Cunningham Bros.] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1851-01-27
+SP - 53446783
+EP - 53446785
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Asa Jan. 27, 1851 1851 [to Jane Gray] [transcript] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1868
+SP - 53446786
+EP - 53446787
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - 1868 Journal Inventory 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-09-17
+SP - 53446788
+EP - 53446793
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 17, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-09-23
+SP - 53446794
+EP - 53446797
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 23, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-09-29
+SP - 53446798
+EP - 53446801
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 29, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-10-07
+SP - 53446802
+EP - 53446807
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 7, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-10-14
+SP - 53446808
+EP - 53446811
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 14, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-10-17
+SP - 53446812
+EP - 53446813
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 17, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-10-22
+SP - 53446814
+EP - 53446819
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 22, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-10-28
+SP - 53446820
+EP - 53446827
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 28, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-11-06
+SP - 53446828
+EP - 53446829
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 6, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-11-07
+SP - 53446830
+EP - 53446831
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 7, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-11-12
+SP - 53446832
+EP - 53446835
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 12, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-11-19
+SP - 53446836
+EP - 53446839
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 19, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-11-22
+SP - 53446840
+EP - 53446843
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 22, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-11-26
+SP - 53446844
+EP - 53446849
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 26, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-11-30
+SP - 53446850
+EP - 53446855
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 30, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-12-05
+SP - 53446856
+EP - 53446857
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Dec. 5, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-12-23
+SP - 53446858
+EP - 53446869
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Dec. 23, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53446870
+EP - 53446870
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - The Heron to the Ibis [poem] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53446871
+EP - 53446872
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - The Heron to the Ibis [envelope] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53446873
+EP - 53446873
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - [poem] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53446874
+EP - 53446874
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - untitled poem 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53446875
+EP - 53446876
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - address in Arabic 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1868
+SP - 53446877
+EP - 53446878
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - 1868 note 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1868-12-25
+SP - 53446879
+EP - 53446880
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Dec. 25, 1868 [menu] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1868
+SP - 53446881
+EP - 53446882
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - 1868 list [on envelope] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1868-12-31
+SP - 53446883
+EP - 53446894
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Dec. 31, 1868 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-01-12
+SP - 53446895
+EP - 53446898
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Jan. 12, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-01-19
+SP - 53446899
+EP - 53446910
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Jan. 19, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-02-18
+SP - 53446911
+EP - 53446916
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Feb. 18, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-02-18
+SP - 53446917
+EP - 53446928
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Feb. 18, 1869 [travel journal] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-02-28
+SP - 53446929
+EP - 53446942
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Feb. 28, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-01
+SP - 53446943
+EP - 53446944
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - [Jan. 1869] [travel journal] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-02-22
+SP - 53446945
+EP - 53446948
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Feb. 22, 1869 [travel journal] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-02
+SP - 53446949
+EP - 53446952
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - [Feb. 1869] [travel journal] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-03-14
+SP - 53446953
+EP - 53446966
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Mar. 14, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-03-25
+SP - 53446967
+EP - 53446972
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Mar. 25, 1869 [travel journal] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-04-08
+SP - 53446973
+EP - 53446980
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Apr. 8, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-04-18
+SP - 53446981
+EP - 53446984
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Apr. 18, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-04-26
+SP - 53446985
+EP - 53446990
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Apr. 26, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-05-02
+SP - 53446991
+EP - 53446996
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane May 2, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-05-09
+SP - 53446997
+EP - 53447004
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane May 9, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-05-28
+SP - 53447005
+EP - 53447006
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane May 28, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869
+SP - 53447007
+EP - 53447007
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - 1869 map 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Motley, John L. 
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53447008
+EP - 53447008
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Motley, John L. visiting card 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-06
+SP - 53447009
+EP - 53447010
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - June 1869 Patrick T. Jackson] [envelope] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-05-30
+SP - 53447011
+EP - 53447018
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane May 30, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-06-06
+SP - 53447019
+EP - 53447026
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane June 6, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-06-10
+SP - 53447027
+EP - 53447028
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - June 10, 1869 [travel journal] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-06-20
+SP - 53447029
+EP - 53447032
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane June 20, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-06-27
+SP - 53447033
+EP - 53447036
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane June 27, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-07-02
+SP - 53447037
+EP - 53447046
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 2, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-07
+SP - 53447047
+EP - 53447050
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - July 1869 [travel journal] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-07-15
+SP - 53447051
+EP - 53447054
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 15, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-07-18
+SP - 53447055
+EP - 53447060
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 18, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-07-26
+SP - 53447061
+EP - 53447066
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane July 26, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-08-01
+SP - 53447067
+EP - 53447074
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Aug. 1, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-08-21
+SP - 53447075
+EP - 53447076
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Aug. 21, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-09-04
+SP - 53447077
+EP - 53447080
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 4, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-09-10
+SP - 53447081
+EP - 53447084
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 10, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-09-17
+SP - 53447085
+EP - 53447090
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 17, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-09-22
+SP - 53447091
+EP - 53447094
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Sept. 22, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-10-02
+SP - 53447095
+EP - 53447100
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 2, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-10-07
+SP - 53447101
+EP - 53447104
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 7, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-10-07
+SP - 53447105
+EP - 53447106
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 7, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-10-15
+SP - 53447107
+EP - 53447108
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 15, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-10-20
+SP - 53447109
+EP - 53447110
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 20, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-10-22
+SP - 53447111
+EP - 53447116
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 22, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-10-28
+SP - 53447117
+EP - 53447120
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Oct. 28, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane 
+PB - Harvard University Botany Libraries
+DA - 1869-11-05
+SP - 53447121
+EP - 53447126
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Gray, Jane Nov. 5, 1869 [to Susan M. Jackson] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-11-18
+SP - 53447127
+EP - 53447127
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Nov. 18 1869 [poem] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - 1869-11-25
+SP - 53447128
+EP - 53447129
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Nov. 25, 1869 [travel journal] 
+VL - 225927
+OC - 878725232
+
+
+TY - letter
+AU - Putnam, Elizabeth C. 
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53447130
+EP - 53447131
+T1 - Asa Gray correspondence : travel correspondence of Asa and Jane Gray, 1838-1869
+ID - 130918
+TI - Putnam, Elizabeth C. [visiting card] 
+VL - 225927
+OC - 878725232
+
+

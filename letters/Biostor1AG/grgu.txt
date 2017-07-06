@@ -1,0 +1,1248 @@
+TY - letter
+AU - Grady, Benjamin F.
+PB - Harvard University Botany Libraries
+DA - 1873-02
+SP - 53114788
+EP - 53114789
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grady, Benjamin F. Feb. 27, 1873 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grady, Benjamin F.
+PB - Harvard University Botany Libraries
+DA - 1873-10
+SP - 53114790
+EP - 53114791
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grady, Benjamin F. Oct. 10, 1873 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1851-07
+SP - 53114792
+EP - 53114794
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. July 4, 1851 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1852-03
+SP - 53114795
+EP - 53114797
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. Mar. 11, 1852 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1852-03
+SP - 53114798
+EP - 53114799
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. Mar. 24, 1852 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1852-04
+SP - 53114800
+EP - 53114800
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. Apr. 5, 1852 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1852-05
+SP - 53114801
+EP - 53114803
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. May 17, 1852 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1852-08
+SP - 53114804
+EP - 53114805
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. Aug. 1, 1852 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1853-01
+SP - 53114806
+EP - 53114808
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. Jan. 17, 1853 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1853-03
+SP - 53114809
+EP - 53114810
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. Mar. 8, 1853 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1853-03
+SP - 53114811
+EP - 53114813
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. Mar. 14, 1853 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, James D.
+PB - Harvard University Botany Libraries
+DA - 1853-04
+SP - 53114814
+EP - 53114816
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, James D. Apr. 13, 1853 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graham, Robert
+PB - Harvard University Botany Libraries
+DA - 1840-01
+SP - 53114817
+EP - 53114819
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graham, Robert Jan. 15, 1840 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Graves, Charles B.
+PB - Harvard University Botany Libraries
+DA - 1890-10
+SP - 53114820
+EP - 53114820
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Graves, Charles B. Oct. 27, 1890 [to S. Watson]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane L. and Asa
+PB - Harvard University Botany Libraries
+DA - 1881-07
+SP - 53114821
+EP - 53114822
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, Jane L. and Asa July 23, 1881 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane L.
+PB - Harvard University Botany Libraries
+DA - 1881-09
+SP - 53114823
+EP - 53114824
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, Jane L. Sept. 21, 1881 [to S. Watson]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Jane L.
+PB - Harvard University Botany Libraries
+DA - 1881-10
+SP - 53114825
+EP - 53114826
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, Jane L. Oct. 4, 1881 [to S. Watson]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, George Z.
+PB - Harvard University Botany Libraries
+DA - 10-16
+SP - 53114827
+EP - 53114828
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, George Z. Oct. 16 [no year]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, George Z.
+PB - Harvard University Botany Libraries
+DA - 1880-05
+SP - 53114829
+EP - 53114830
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, George Z. May 30, 1880 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, John E.
+PB - Harvard University Botany Libraries
+DA - 1860-04
+SP - 53114831
+EP - 53114834
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, John E. Apr. 12, 1860 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, John E.
+PB - Harvard University Botany Libraries
+DA - 1860-05
+SP - 53114835
+EP - 53114836
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, John E. May 15, 1860 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, John E.
+PB - Harvard University Botany Libraries
+DA - 1866-05
+SP - 53114837
+EP - 53114838
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, John E. May 2, 1866 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, John E.
+PB - Harvard University Botany Libraries
+DA - 1866-06
+SP - 53114839
+EP - 53114844
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, John E. June 9, 1866 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, John E.
+PB - Harvard University Botany Libraries
+DA - 1866-09
+SP - 53114845
+EP - 53114846
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, John E. Sept. 22, 1866 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, John E.
+PB - Harvard University Botany Libraries
+DA - 1869-09
+SP - 53114847
+EP - 53114848
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, John E. Sept. 30, 1869 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, John E.
+PB - Harvard University Botany Libraries
+DA - 1869-10
+SP - 53114849
+EP - 53114849
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, John E. Oct. 7, 1869 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Joseph H.
+PB - Harvard University Botany Libraries
+DA - 1858-04
+SP - 53114850
+EP - 53114851
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, Joseph H. Apr. 7, 1858 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Joseph H.
+PB - Harvard University Botany Libraries
+DA - 1858-04
+SP - 53114852
+EP - 53114853
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, Joseph H. Apr. 28, 1858 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Joseph H.
+PB - Harvard University Botany Libraries
+DA - 1858-12
+SP - 53114854
+EP - 53114855
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, Joseph H. Dec. 8, 1858 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Joseph H.
+PB - Harvard University Botany Libraries
+DA - 1859-07
+SP - 53114856
+EP - 53114857
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, Joseph H. July 2, 1859 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Rev. W. A. G.
+PB - Harvard University Botany Libraries
+DA - 1884-07
+SP - 53114858
+EP - 53114859
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, Rev. W. A. G. July 31, 1884 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greely, Adolphus W.
+PB - Harvard University Botany Libraries
+DA - 1885-02
+SP - 53114860
+EP - 53114861
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greely, Adolphus W. Feb. 13, 1885 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greely, Adolphus W.
+PB - Harvard University Botany Libraries
+DA - 1885-05
+SP - 53114862
+EP - 53114863
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greely, Adolphus W. May 21, 1885 [to S. F. Baird]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greely, Adolphus W.
+PB - Harvard University Botany Libraries
+DA - 1885-05
+SP - 53114864
+EP - 53114865
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greely, Adolphus W. May 25, 1885 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Baird, Spencer F.
+PB - Harvard University Botany Libraries
+DA - 1885-06
+SP - 53114866
+EP - 53114866
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Baird, Spencer F. June 2, 1885 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Green, Traill
+PB - Harvard University Botany Libraries
+DA - 1858-09
+SP - 53114867
+EP - 53114868
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Green, Traill Sept. 15, 1858 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greene, Benjamin D.
+PB - Harvard University Botany Libraries
+DA - 1841-11
+SP - 53114869
+EP - 53114871
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greene, Benjamin D. Nov. 30, 1841 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greene, Benjamin D.
+PB - Harvard University Botany Libraries
+DA - 1841-12
+SP - 53114872
+EP - 53114874
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greene, Benjamin D. Dec. 24, 1841 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greene, Benjamin D.
+PB - Harvard University Botany Libraries
+DA - 1842-07
+SP - 53114875
+EP - 53114877
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greene, Benjamin D. July 19, 1842 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greene, Margaret M. Q.
+PB - Harvard University Botany Libraries
+DA - 04-09
+SP - 53114878
+EP - 53114879
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greene, Margaret M. Q. Apr. 9 [no year]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greene, Margaret M. Q.
+PB - Harvard University Botany Libraries
+DA - 05-04
+SP - 53114880
+EP - 53114880
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greene, Margaret M. Q. May 4 [no year]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greenough, Frances B.
+PB - Harvard University Botany Libraries
+DA - 1882-11
+SP - 53114881
+EP - 53114882
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greenough, Frances B. Nov. 10, 1882 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Austin, Benjamin W.
+PB - Harvard University Botany Libraries
+DA - 1890-09
+SP - 53114883
+EP - 53114883
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Austin, Benjamin W. Sept. 1, 1890 [to S. Watson]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Watson, Sereno
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53114884
+EP - 53114884
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Watson, Sereno undated [to F. B. Greenough] [draft]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greenough, Frances B.
+PB - Harvard University Botany Libraries
+DA - 1882-11
+SP - 53114885
+EP - 53114886
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greenough, Frances B. Nov. 11, [1882] 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gregory, Emily L.
+PB - Harvard University Botany Libraries
+DA - 1889-03
+SP - 53114887
+EP - 53114888
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gregory, Emily L. Mar. 2, 1889 [to S. Watson]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greville, Robert K.
+PB - Harvard University Botany Libraries
+DA - 1839-01
+SP - 53114889
+EP - 53114890
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greville, Robert K. Jan. 15, 1839 [to R. J. Shuttleworth]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greville, Robert K.
+PB - Harvard University Botany Libraries
+DA - 1839-01
+SP - 53114891
+EP - 53114893
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greville, Robert K. Jan. 26, 1839 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Greville, Robert K.
+PB - Harvard University Botany Libraries
+DA - 1851-04
+SP - 53114894
+EP - 53114895
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Greville, Robert K. Apr. 5, 1851 [to Dr. Harvey]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1853-08
+SP - 53114896
+EP - 53114897
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Aug. 11, 1853 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1854-01
+SP - 53114898
+EP - 53114899
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Jan. 4, 1854 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1854-10
+SP - 53114900
+EP - 53114901
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Oct. 15, 1854 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1857-06
+SP - 53114902
+EP - 53114903
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August June 11, 1857 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1857-07
+SP - 53114904
+EP - 53114905
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August July 25, 1857 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1857-10
+SP - 53114906
+EP - 53114907
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Gray, Asa Oct. 20, 1857 [Gray to A. Grisebach] [copy]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1857-12
+SP - 53114908
+EP - 53114909
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Dec. 10, 1857 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1857-12
+SP - 53114910
+EP - 53114911
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Dec. 23, 1857 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1858-02
+SP - 53114912
+EP - 53114913
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Feb. 17, 1858 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1858-08
+SP - 53114914
+EP - 53114915
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Aug. 12, 1858 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1859-02
+SP - 53114916
+EP - 53114917
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Feb. 13, 1859 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1860-05
+SP - 53114918
+EP - 53114919
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August May 21, 1860 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1860-09
+SP - 53114920
+EP - 53114921
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Sept. 24, 1860 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1860-10
+SP - 53114922
+EP - 53114922
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Oct. 3, 1860 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1860-12
+SP - 53114923
+EP - 53114924
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Dec. 31, 1860 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1861-03
+SP - 53114925
+EP - 53114926
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Mar. 16, 1861 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1861-08
+SP - 53114927
+EP - 53114928
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Aug. 13, 1861 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1861-12
+SP - 53114929
+EP - 53114930
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Dec. 23, 1861 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1862-05
+SP - 53114931
+EP - 53114932
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August May 9, 1862 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1862-09
+SP - 53114933
+EP - 53114934
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Sept. 10, 1862 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1862-12
+SP - 53114935
+EP - 53114936
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Dec. 22, 1862 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1862-12
+SP - 53114937
+EP - 53114938
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Dec. 22, 1862 [enclosed list]
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1863-05
+SP - 53114939
+EP - 53114940
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August May 20, 1863 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1863-11
+SP - 53114941
+EP - 53114942
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Nov. 23, 1863 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1864-08
+SP - 53114943
+EP - 53114943
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Aug. 12, 1864 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1865-02
+SP - 53114944
+EP - 53114945
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Feb. 20, 1865 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1865-04
+SP - 53114946
+EP - 53114947
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Apr. 7, 1865 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1865-05
+SP - 53114948
+EP - 53114949
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August May 31, 1865 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1865-06
+SP - 53114950
+EP - 53114951
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August June 15, 1865 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1865-08
+SP - 53114952
+EP - 53114953
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Aug. 13, 1865 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1866-02
+SP - 53114954
+EP - 53114955
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Feb. 21, 1866 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1866-04
+SP - 53114956
+EP - 53114957
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Apr. 22, 1866 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1866-07
+SP - 53114958
+EP - 53114959
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August July 9, 1866 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1867-02
+SP - 53114960
+EP - 53114961
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Feb. 11, 1867 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1868-10
+SP - 53114962
+EP - 53114963
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Oct. 23, 1868 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grisebach, August
+PB - Harvard University Botany Libraries
+DA - 1872-03
+SP - 53114964
+EP - 53114965
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grisebach, August Mar. 12, 1872 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grunow, Julius & William
+PB - Harvard University Botany Libraries
+DA - 1856-11
+SP - 53114966
+EP - 53114967
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grunow, Julius & William Nov. 22, 1856 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grunow, Julius & William Dec.
+PB - Harvard University Botany Libraries
+DA - 1856-12
+SP - 53114968
+EP - 53114968
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grunow, Julius & William Dec. Dec. 2, 1856 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Grunow, Julius & William Dec.
+PB - Harvard University Botany Libraries
+DA - 1856-12
+SP - 53114969
+EP - 53114970
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Grunow, Julius & William Dec. Dec. 8, 1856 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Guyot, Arnold H.
+PB - Harvard University Botany Libraries
+DA - 1850-06
+SP - 53114971
+EP - 53114972
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Guyot, Arnold H. June 18, 1850 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Guyot, Arnold H.
+PB - Harvard University Botany Libraries
+DA - 1855-03
+SP - 53114973
+EP - 53114974
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Guyot, Arnold H. Mar. 30, [1855] 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Guyot, Arnold H.
+PB - Harvard University Botany Libraries
+DA - 1856-02
+SP - 53114975
+EP - 53114976
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Guyot, Arnold H. Feb. 6, 1856 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Guyot, Arnold H.
+PB - Harvard University Botany Libraries
+DA - 1856-06
+SP - 53114977
+EP - 53114978
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Guyot, Arnold H. June 14, 1856 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Guyot, Arnold H.
+PB - Harvard University Botany Libraries
+DA - 1858-05
+SP - 53114979
+EP - 53114980
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Guyot, Arnold H. May 27, 1858 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Guyot, Arnold H.
+PB - Harvard University Botany Libraries
+DA - 1860-04
+SP - 53114981
+EP - 53114982
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Guyot, Arnold H. Apr. 20, 1860 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Guyot, Arnold H.
+PB - Harvard University Botany Libraries
+DA - 1860-05
+SP - 53114983
+EP - 53114984
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Guyot, Arnold H. May 24, [1860] 
+VL - 222878
+OC - 878725232
+
+
+TY - letter
+AU - Guyot, Arnold H.
+PB - Harvard University Botany Libraries
+DA - 1861-02
+SP - 53114985
+EP - 53114986
+T1 - Asa Gray correspondence. Senders Gr-Gu, 1839-1890 (inclusive)
+ID - 128573
+TI - Guyot, Arnold H. Feb. 13, 1861 
+VL - 222878
+OC - 878725232
+
+

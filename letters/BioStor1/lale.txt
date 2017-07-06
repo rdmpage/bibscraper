@@ -1,0 +1,1443 @@
+﻿TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-29
+SP  - 53210629
+EP  - 53210629
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Nov. 29, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-30
+SP  - 53210630
+EP  - 53210631
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Nov. 30, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-12-01
+SP  - 53210632
+EP  - 53210633
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Dec. 1, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-03-03
+SP  - 53210634
+EP  - 53210634
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Mar. 3, 1888 [to S. Watson] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-08
+SP  - 53210635
+EP  - 53210635
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Nov. 8, 1888 [to J. Gray] [receipt] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-12
+SP  - 53210636
+EP  - 53210638
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Nov. 12, 1888 [to C. W. Eliot] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-10-18
+SP  - 53210639
+EP  - 53210639
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Oct. 18, 1889 [to S. Watson] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-11-21
+SP  - 53210640
+EP  - 53210640
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Nov. 21, 1889 [to S. Watson] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-05-06
+SP  - 53210641
+EP  - 53210641
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. May 6, 1890 [to S. Watson] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-04-13
+SP  - 53210642
+EP  - 53210642
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Apr. 13, 1891 [to S. Watson] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-10-12
+SP  - 53210643
+EP  - 53210644
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Oct. 12, 1891 [to S. Watson] [postcard] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1897-12-22
+SP  - 53210645
+EP  - 53210645
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Dec. 22, 1897 [to J. Gray] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langlois, Auguste B. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-09-29
+SP  - 53210646
+EP  - 53210646
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langlois, Auguste B. Sept. 29, 1884 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lapham, Increase A. 
+DP  - Harvard University Botany Libraries
+DA  - 1843-05-11
+SP  - 53210647
+EP  - 53210649
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lapham, Increase A. May 11, 1843 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lapham, Increase A. 
+DP  - Harvard University Botany Libraries
+DA  - 1844-12-21
+SP  - 53210650
+EP  - 53210652
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lapham, Increase A. Dec. 21, 1844 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lapham, Julia A. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53210653
+EP  - 53210656
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lapham, Julia A. undated [to J. Gray] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lapham, Julia A. 
+DP  - Harvard University Botany Libraries
+DA  - 1894-06-08
+SP  - 53210657
+EP  - 53210658
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lapham, Julia A. June 8, 1894 [to J. Gray] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lavallée, Alphonse 
+DP  - Harvard University Botany Libraries
+DA  - 1881-02-08
+SP  - 53210659
+EP  - 53210660
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lavallée, Alphonse Feb. 8, 1881 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-11
+SP  - 53210662
+EP  - 53210661
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Nov. 11, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-04
+SP  - 53210663
+EP  - 53210663
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Nov. 4, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-04
+SP  - 53210665
+EP  - 53210664
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Nov. 4, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-03
+SP  - 53210667
+EP  - 53210666
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Nov. 3, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-10-28
+SP  - 53210669
+EP  - 53210668
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Oct. 28, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-10-13
+SP  - 53210671
+EP  - 53210670
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Oct. 13, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-01-13
+SP  - 53210673
+EP  - 53210672
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Jan. 13, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Langley, Samuel P. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-12-05
+SP  - 53210674
+EP  - 53210674
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Langley, Samuel P. Dec. 5, 1886 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1886-02-24
+SP  - 53210676
+EP  - 53210675
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan Feb. 24, 1886 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1882-02-20
+SP  - 53210678
+EP  - 53210677
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan Feb. 20, 1882 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1882-01-10
+SP  - 53210680
+EP  - 53210679
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan Jan. 10, 1882 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1877-07-15
+SP  - 53210682
+EP  - 53210681
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan July 15, 1877 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1870-11-14
+SP  - 53210684
+EP  - 53210683
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan Nov. 14, 1870 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1870-07-03
+SP  - 53210686
+EP  - 53210685
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan July 3, 1870 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1867-04-17
+SP  - 53210688
+EP  - 53210687
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan Apr. 17, 1867 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1866-09-21
+SP  - 53210690
+EP  - 53210689
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan Sept. 21, 1866 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1866-04-27
+SP  - 53210692
+EP  - 53210691
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan Apr. 27, 1866 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lange, Johan 
+DP  - Harvard University Botany Libraries
+DA  - 1866-02-26
+SP  - 53210694
+EP  - 53210693
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lange, Johan Feb. 26, 1866 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lamhofer, Edward 
+DP  - Harvard University Botany Libraries
+DA  - 1887-08-24
+SP  - 53210696
+EP  - 53210695
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lamhofer, Edward Aug. 24, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lamhofer, Edward 
+DP  - Harvard University Botany Libraries
+DA  - 1887-08-20
+SP  - 53210697
+EP  - 53210697
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lamhofer, Edward Aug. 20, 1887 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lavallée, Alphonse 
+DP  - Harvard University Botany Libraries
+DA  - 1884-04-19
+SP  - 53210698
+EP  - 53210699
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lavallée, Alphonse Apr. 19, 1884 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lavallée, Alphonse 
+DP  - Harvard University Botany Libraries
+DA  - 1884-05
+SP  - 53210700
+EP  - 53210701
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lavallée, Alphonse May 1884 [envelope] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lavallée Family 
+DP  - Harvard University Botany Libraries
+DA  - 1884-05
+SP  - 53210702
+EP  - 53210702
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lavallée Family May 1884 [death announcement] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lawrence, Abbott 
+DP  - Harvard University Botany Libraries
+DA  - 1851-07-15
+SP  - 53210703
+EP  - 53210705
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lawrence, Abbott July 15, 1851 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lawson, George 
+DP  - Harvard University Botany Libraries
+DA  - 1859-10-24
+SP  - 53210706
+EP  - 53210707
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lawson, George Oct. 24, 1859 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lawson, George 
+DP  - Harvard University Botany Libraries
+DA  - 1859-11-04
+SP  - 53210708
+EP  - 53210708
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lawson, George Nov. 4, 1859 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lawson, George 
+DP  - Harvard University Botany Libraries
+DA  - 1861-09-24
+SP  - 53210709
+EP  - 53210710
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lawson, George Sept. 24, 1861 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lawson, George 
+DP  - Harvard University Botany Libraries
+DA  - 1865-07-28
+SP  - 53210711
+EP  - 53210712
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lawson, George July 28, 1865 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lawson, George 
+DP  - Harvard University Botany Libraries
+DA  - 1867-12-23
+SP  - 53210713
+EP  - 53210714
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lawson, George Dec. 23, 1867 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lawson, Marmaduke A. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-09-07
+SP  - 53210715
+EP  - 53210716
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lawson, Marmaduke A. Sept. 7, 1880 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lawson, Marmaduke A. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-07-25
+SP  - 53210717
+EP  - 53210718
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lawson, Marmaduke A. July 25, 1881 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - LeConte, John L. 
+DP  - Harvard University Botany Libraries
+DA  - 1877-03-08
+SP  - 53210719
+EP  - 53210720
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - LeConte, John L. Mar. 8, 1877 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - LeConte, John L. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-03-08
+SP  - 53210721
+EP  - 53210721
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - LeConte, John L. Mar. 8, 1878 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - LeConte, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-29
+SP  - 53210722
+EP  - 53210722
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - LeConte, Joseph Nov. 29, 1888 [to J. Gray] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - LeConte, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1891-02-27
+SP  - 53210723
+EP  - 53210724
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - LeConte, Joseph Feb. 27, 1891 [to S. Watson] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - LeConte, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1896-11-03
+SP  - 53210725
+EP  - 53210725
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - LeConte, Joseph Nov. 3, 1896 [to J. Gray] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ledebour, Karl F. von 
+DP  - Harvard University Botany Libraries
+DA  - 1846-07-03
+SP  - 53210726
+EP  - 53210727
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Ledebour, Karl F. von July 3, 1846 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ledebour, Karl F. von 
+DP  - Harvard University Botany Libraries
+DA  - 1850-05-20
+SP  - 53210728
+EP  - 53210729
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Ledebour, Karl F. von May 20, 1850 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lefroy, John H. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-06-16
+SP  - 53210730
+EP  - 53210731
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lefroy, John H. June 16, 1874 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lefroy, John H. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-11-24
+SP  - 53210732
+EP  - 53210733
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lefroy, John H. Nov. 24, 1874 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lefroy, John H. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-12-29
+SP  - 53210734
+EP  - 53210735
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lefroy, John H. Dec. 29, 1874 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lefroy, John H. 
+DP  - Harvard University Botany Libraries
+DA  - 1875-09-12
+SP  - 53210736
+EP  - 53210739
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lefroy, John H. Sept. 12, 1875 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lefroy, John H. 
+DP  - Harvard University Botany Libraries
+DA  - 1877-04-18
+SP  - 53210740
+EP  - 53210741
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lefroy, John H. Apr. 18, 1877 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lefroy, John H. 
+DP  - Harvard University Botany Libraries
+DA  - 1877-07-06
+SP  - 53210742
+EP  - 53210743
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lefroy, John H. July 6, 1877 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lefroy, John H. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-03-25
+SP  - 53210744
+EP  - 53210745
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lefroy, John H. Mar. 25, 1879 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lefroy, John H. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-06-12
+SP  - 53210746
+EP  - 53210747
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lefroy, John H. June 12, 1879 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lefroy, John H. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-06
+SP  - 53210748
+EP  - 53210749
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lefroy, John H. Nov. 6, 1884 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Leggett, William H. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-09-21
+SP  - 53210750
+EP  - 53210751
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Leggett, William H. Sept. 21, 1878 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Leggett, William H. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-19
+SP  - 53210752
+EP  - 53210758
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Leggett, William H. Oct. 19, 1878 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Leggett, William H. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-08-24
+SP  - 53210759
+EP  - 53210760
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Leggett, William H. Aug. 24, 1880 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Leggett, William H. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-04-10
+SP  - 53210761
+EP  - 53210762
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Leggett, William H. Apr. 10, 1882 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1833-10-06
+SP  - 53210763
+EP  - 53210765
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Oct. 6, 1833 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1834-12-03
+SP  - 53210766
+EP  - 53210766
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Dec. 3, 1834 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53210767
+EP  - 53210767
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. undated note 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53210768
+EP  - 53210768
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. undated note [verso] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1835-07-15
+SP  - 53210769
+EP  - 53210770
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. July 15, 1835 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1835-09-10
+SP  - 53210771
+EP  - 53210771
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Sept. 10, 1835 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1836-02-14
+SP  - 53210772
+EP  - 53210773
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Feb. 14, 1836 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1837-07-10
+SP  - 53210774
+EP  - 53210775
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. July 10, 1837 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1839-01-11
+SP  - 53210776
+EP  - 53210777
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Jan. 11, 1839 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1839-06-18
+SP  - 53210778
+EP  - 53210780
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. June 18, 1839 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1841-04-25
+SP  - 53210781
+EP  - 53210782
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Apr. 25, 1841 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1847-02-24
+SP  - 53210783
+EP  - 53210784
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Feb. 24, 1847 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1848-07-22
+SP  - 53210785
+EP  - 53210786
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. July 22, 1848 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1848-09-30
+SP  - 53210787
+EP  - 53210789
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Sept. 30, 1848 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1849-03-04
+SP  - 53210790
+EP  - 53210791
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Mar. 4, 1849 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1850-05-09
+SP  - 53210792
+EP  - 53210794
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. May 9, 1850 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1850-10-18
+SP  - 53210795
+EP  - 53210797
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Oct. 18, 1850 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1851-02-12
+SP  - 53210798
+EP  - 53210799
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Feb. 12, 1851 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1851-03-24
+SP  - 53210800
+EP  - 53210802
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Mar. 24, 1851 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1854-07-04
+SP  - 53210803
+EP  - 53210804
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. July 4, 1854 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1854-10-03
+SP  - 53210805
+EP  - 53210806
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Oct. 3, 1854 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lehmann, J. G. C. 
+DP  - Harvard University Botany Libraries
+DA  - 1855-04-14
+SP  - 53210807
+EP  - 53210808
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lehmann, J. G. C. Apr. 14, 1855 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Leighton, William A. 
+DP  - Harvard University Botany Libraries
+DA  - 1836-06-10
+SP  - 53210809
+EP  - 53210811
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Leighton, William A. June 10, 1836 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Leighton, William A. 
+DP  - Harvard University Botany Libraries
+DA  - 1864-08-25
+SP  - 53210812
+EP  - 53210813
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Leighton, William A. Aug. 25, 1864 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Leighton, William A. 
+DP  - Harvard University Botany Libraries
+DA  - 1865-01-07
+SP  - 53210814
+EP  - 53210815
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Leighton, William A. Jan. 7, 1865 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Leighton, William A. 
+DP  - Harvard University Botany Libraries
+DA  - 1865-03-16
+SP  - 53210816
+EP  - 53210817
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Leighton, William A. Mar. 16, 1865 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Leighton, William A. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-11-28
+SP  - 53210818
+EP  - 53210819
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Leighton, William A. Nov. 28, 1871 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1867-08-17
+SP  - 53210820
+EP  - 53210821
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René Aug. 17, 1867 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1867-10-25
+SP  - 53210822
+EP  - 53210823
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René Oct. 25, 1867 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1868-04-07
+SP  - 53210824
+EP  - 53210825
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René Apr. 7, 1868 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1868-06-10
+SP  - 53210826
+EP  - 53210827
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René June 10, 1868 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1868-10-20
+SP  - 53210828
+EP  - 53210829
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René Oct. 20, 1868 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1869-08-08
+SP  - 53210830
+EP  - 53210831
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René Aug. 8, 1869 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1869-10-31
+SP  - 53210832
+EP  - 53210833
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René Oct. 31, 1869 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1871-01-18
+SP  - 53210834
+EP  - 53210835
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René Jan. 18, 1871 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1871-01-18
+SP  - 53210836
+EP  - 53210837
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René Jan. 18, 1871 [enclosure] 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, S. René 
+DP  - Harvard University Botany Libraries
+DA  - 1871-05-21
+SP  - 53210838
+EP  - 53210839
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, S. René May 21, 1871 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, Mélite 
+DP  - Harvard University Botany Libraries
+DA  - 1872-04-24
+SP  - 53210840
+EP  - 53210843
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, Mélite Apr. 24, 1872 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, Mélite 
+DP  - Harvard University Botany Libraries
+DA  - 1873-01-16
+SP  - 53210844
+EP  - 53210847
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, Mélite Jan. 16, 1873 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lenormand, Mélite 
+DP  - Harvard University Botany Libraries
+DA  - 1874-03-30
+SP  - 53210848
+EP  - 53210853
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lenormand, Mélite Mar. 30, 1874 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - LeRoy, Peter V. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53210854
+EP  - 53210855
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - LeRoy, Peter V. undated 
+VL  - 223796
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lewenhaupt, Carl 
+DP  - Harvard University Botany Libraries
+DA  - 1880-06-14
+SP  - 53210856
+EP  - 53210857
+JO  - Asa Gray correspondence. Senders La-Le, 1833-1897 (inclusive)
+ID  - 129234
+TI  - Lewenhaupt, Carl June 14, 1880 
+VL  - 223796
+OC  - 878725232
+ER  - 
+

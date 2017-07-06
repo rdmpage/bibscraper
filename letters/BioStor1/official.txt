@@ -1,0 +1,871 @@
+TY  - letter
+AU  - Richardson, Edward 
+DP  - Harvard University Botany Libraries
+DA  - 1844-11-30
+SP  - 53444061
+EP  - 53444029
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Richardson, Edward Nov. 30, 1844 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Walker, James 
+DP  - Harvard University Botany Libraries
+DA  - 1848-10-12
+SP  - 53444030
+EP  - 53444030
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Walker, James Oct. 12, 1848 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Everett, Edward 
+DP  - Harvard University Botany Libraries
+DA  - 1848-10-19
+SP  - 53444031
+EP  - 53444032
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Everett, Edward Oct. 19, 1848 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Sparks, Jared 
+DP  - Harvard University Botany Libraries
+DA  - 1850-01-29
+SP  - 53444033
+EP  - 53444034
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Sparks, Jared Jan. 29, 1850 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Asa 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53444035
+EP  - 53444036
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Asa undated draft [to J. Sparks] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hill, Thomas 
+DP  - Harvard University Botany Libraries
+DA  - 1865-01-06
+SP  - 53444037
+EP  - 53444038
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Hill, Thomas Jan. 6, 1865 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Asa 
+DP  - Harvard University Botany Libraries
+DA  - 1871-12-15
+SP  - 53444039
+EP  - 53444044
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Asa Dec. 15, 1871 [to C.W. Eliot] [draft] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Asa 
+DP  - Harvard University Botany Libraries
+DA  - 1873-01-01
+SP  - 53444045
+EP  - 53444046
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Asa Jan. 1, 1873 [to C.W. Eliot] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Asa 
+DP  - Harvard University Botany Libraries
+DA  - 1873-01-01
+SP  - 53444047
+EP  - 53444047
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Asa Jan. 1, 1873 [to Harvard College] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Asa 
+DP  - Harvard University Botany Libraries
+DA  - 1873-01-01
+SP  - 53444048
+EP  - 53444049
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Asa Jan. 1, 1873 [to C.W. Eliot] [draft] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Asa 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53444050
+EP  - 53444053
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Asa undated draft [to Harvard College] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W. 
+DP  - Harvard University Botany Libraries
+DA  - 1883-04-12
+SP  - 53444054
+EP  - 53444054
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Eliot, Charles W. Apr. 12, 1883 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hooper, Edward W. 
+DP  - Harvard University Botany Libraries
+DA  - 1883-05-08
+SP  - 53444055
+EP  - 53444056
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Hooper, Edward W. May 8, 1883 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Quincy, Josiah 
+DP  - Harvard University Botany Libraries
+DA  - 1842-06-02
+SP  - 53444063
+EP  - 53444062
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Quincy, Josiah June 2, 1842 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Quincy, Josiah 
+DP  - Harvard University Botany Libraries
+DA  - 1842-05-04
+SP  - 53444066
+EP  - 53444064
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Quincy, Josiah May 4, 1842 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Quincy, Josiah 
+DP  - Harvard University Botany Libraries
+DA  - 1842-03-26
+SP  - 53444068
+EP  - 53444067
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Quincy, Josiah Mar. 26, 1842 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - U.S. Geol. Survey 
+DP  - Harvard University Botany Libraries
+DA  - 1887-10-31
+SP  - 53444069
+EP  - 53444069
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - U.S. Geol. Survey Oct. 31, 1887 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Acad. Imp. Sci. St. Petersbourg 
+DP  - Harvard University Botany Libraries
+DA  - 1880-04-07
+SP  - 53444071
+EP  - 53444070
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Acad. Imp. Sci. St. Petersbourg Apr. 7, 1880 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Mass. Hist. Soc. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-04-13
+SP  - 53444072
+EP  - 53444072
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Mass. Hist. Soc. Apr. 13, 1871 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Acad. Nat. Sci. 
+DP  - Harvard University Botany Libraries
+DA  - 1863-12-01
+SP  - 53444073
+EP  - 53444073
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Acad. Nat. Sci. Dec. 1, 1863 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Amer. Acad. Arts & Sci. 
+DP  - Harvard University Botany Libraries
+DA  - 1861-05-28
+SP  - 53444074
+EP  - 53444074
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Amer. Acad. Arts & Sci. May 28, 1861 [to A. P. Peabody] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - K. B. Akademie der Wissenschaften 
+DP  - Harvard University Botany Libraries
+DA  - 1858-12-29
+SP  - 53444076
+EP  - 53444075
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - K. B. Akademie der Wissenschaften Dec. 29, 1858 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Acad. Roy. Sci. Stockholm 
+DP  - Harvard University Botany Libraries
+DA  - 1858-11-15
+SP  - 53444077
+EP  - 53444077
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Acad. Roy. Sci. Stockholm Nov. 15, 1858 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - K. L. C. Akad. Naturforscher 
+DP  - Harvard University Botany Libraries
+DA  - 1857-03-04
+SP  - 53444078
+EP  - 53444078
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - K. L. C. Akad. Naturforscher Mar. 4, 1857 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - K. L. C. Akad. Naturforscher 
+DP  - Harvard University Botany Libraries
+DA  - 1855-10-01
+SP  - 53444080
+EP  - 53444079
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - K. L. C. Akad. Naturforscher Oct. 1, 1855 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brit. Assoc. Advance. Sci. 
+DP  - Harvard University Botany Libraries
+DA  - 1856-03-01
+SP  - 53444082
+EP  - 53444081
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Brit. Assoc. Advance. Sci. Mar. 1, 1856 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - K. Acad. Wissenschaft. Berlin 
+DP  - Harvard University Botany Libraries
+DA  - 1855-10-02
+SP  - 53444084
+EP  - 53444083
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - K. Acad. Wissenschaft. Berlin Oct. 2, 1855 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - K. B. Akademie der Wissenschaften 
+DP  - Harvard University Botany Libraries
+DA  - 1855-05-30
+SP  - 53444086
+EP  - 53444085
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - K. B. Akademie der Wissenschaften May 30, 1855 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Am. Philos. Society 
+DP  - Harvard University Botany Libraries
+DA  - 1856-09-12
+SP  - 53444087
+EP  - 53444087
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Am. Philos. Society Sept. 12, 1856 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - K. B. Akademie der Wissenschaften 
+DP  - Harvard University Botany Libraries
+DA  - 1853-06-04
+SP  - 53444088
+EP  - 53444088
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - K. B. Akademie der Wissenschaften June 4, 1853 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Acad. Sci. 
+DP  - Harvard University Botany Libraries
+DA  - 1853-04-20
+SP  - 53444090
+EP  - 53444089
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Acad. Sci. Apr. 20, 1853 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Asa 
+DP  - Harvard University Botany Libraries
+DA  - 1880-08-29
+SP  - 53444057
+EP  - 53444092
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Asa Aug. 29, 1880 [to L. Agassiz] [copy] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Farnsworth, Elon 
+DP  - Harvard University Botany Libraries
+DA  - 1838-07-30
+SP  - 53444093
+EP  - 53444095
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Farnsworth, Elon July 30, 1838 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ten Eyck, Anthony 
+DP  - Harvard University Botany Libraries
+DA  - 1842-05-28
+SP  - 53444096
+EP  - 53444098
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Ten Eyck, Anthony May 28, 1842 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Putnam, Samuel 
+DP  - Harvard University Botany Libraries
+DA  - 1851-11-10
+SP  - 53444099
+EP  - 53444099
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Putnam, Samuel Nov. 10, 1851 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-03-18
+SP  - 53444100
+EP  - 53444101
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Bentham, George Mar. 18, 1852 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Boott, Francis 
+DP  - Harvard University Botany Libraries
+DA  - 1852-06-25
+SP  - 53444102
+EP  - 53444103
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Boott, Francis June 25, 1852 [to A. and J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1853-04-22
+SP  - 53444104
+EP  - 53444105
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Carey, John Apr. 22, 1853 [to A. and J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Darwin, Emma 
+DP  - Harvard University Botany Libraries
+DA  - 1871-10-28
+SP  - 53444106
+EP  - 53444109
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Darwin, Emma Oct. 28, 1871 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Flower, G. Rosetta 
+DP  - Harvard University Botany Libraries
+DA  - 1881-10-10
+SP  - 53444110
+EP  - 53444111
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Flower, G. Rosetta Oct. 10, 1881 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, Annette S. 
+DP  - Harvard University Botany Libraries
+DA  - 1895-12-18
+SP  - 53444112
+EP  - 53444113
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Carey, Annette S. Dec. 18, 1895 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Sulivan, Charlotte A. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-07-25
+SP  - 53444114
+EP  - 53444114
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Sulivan, Charlotte A. July 25, 1887 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Torrey, Eliza 
+DP  - Harvard University Botany Libraries
+DA  - 02-23
+SP  - 53444115
+EP  - 53444117
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Torrey, Eliza Feb. 23 [no year] [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Torrey, Eliza 
+DP  - Harvard University Botany Libraries
+DA  - 07-29
+SP  - 53444118
+EP  - 53444120
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Torrey, Eliza July 29 [no year] [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring, Elizabeth S. 
+DP  - Harvard University Botany Libraries
+DA  - 1848-11
+SP  - 53444121
+EP  - 53444122
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Loring, Elizabeth S. Nov. 1848 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring, Elizabeth S. 
+DP  - Harvard University Botany Libraries
+DA  - 1848-12
+SP  - 53444123
+EP  - 53444124
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Loring, Elizabeth S. Dec. 1848 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring, Elizabeth S. 
+DP  - Harvard University Botany Libraries
+DA  - 1849-07-29
+SP  - 53444125
+EP  - 53444127
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Loring, Elizabeth S. July 29, 1849 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring, Elizabeth S. 
+DP  - Harvard University Botany Libraries
+DA  - 1849-10-23
+SP  - 53444128
+EP  - 53444129
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Loring, Elizabeth S. Oct. 23, 1849 [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring, Elizabeth S. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53444130
+EP  - 53444131
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Loring, Elizabeth S. undated [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Jane 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53444132
+EP  - 53444133
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Jane undated [Fri.] [to E. S. Loring] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Jackson, Susan M. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53444134
+EP  - 53444135
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Jackson, Susan M. undated [1864] [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Jackson, Susan M. 
+DP  - Harvard University Botany Libraries
+DA  - 1864-10-02
+SP  - 53444136
+EP  - 53444137
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Jackson, Susan M. Oct. 2, [1864] [to J. Gray] [envelope] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Jackson, Susan M. 
+DP  - Harvard University Botany Libraries
+DA  - 1864-10-02
+SP  - 53444138
+EP  - 53444139
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Jackson, Susan M. Oct. 2, [1864] [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Jane 
+DP  - Harvard University Botany Libraries
+DA  - 1865-03-05
+SP  - 53444140
+EP  - 53444141
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Jane Mar. 5, 1865 [to S. M. Jackson] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Jane 
+DP  - Harvard University Botany Libraries
+DA  - 1865-03-10
+SP  - 53444142
+EP  - 53444145
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Jane Mar. 10, 1865 [to A. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Jane 
+DP  - Harvard University Botany Libraries
+DA  - 1865-03-13
+SP  - 53444146
+EP  - 53444151
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Jane Mar. 13, 1865 [to A. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Jane 
+DP  - Harvard University Botany Libraries
+DA  - 1865-03-17
+SP  - 53444152
+EP  - 53444153
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Jane Mar. 17, 1865 [to A. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Jane 
+DP  - Harvard University Botany Libraries
+DA  - 1865-03-19
+SP  - 53444154
+EP  - 53444155
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Jane Mar. 19, 1865 [to A. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Jane 
+DP  - Harvard University Botany Libraries
+DA  - 1865-03-23
+SP  - 53444156
+EP  - 53444157
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Jane Mar. 23, 1865 [to A. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Jane 
+DP  - Harvard University Botany Libraries
+DA  - 1867-07-18
+SP  - 53444158
+EP  - 53444159
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Gray, Jane July 18, 1867 [to S. M. Jackson] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - North, Marianne 
+DP  - Harvard University Botany Libraries
+DA  - 12-26
+SP  - 53444160
+EP  - 53444161
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - North, Marianne Dec. 26 [no year] [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - North, Marianne 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53444162
+EP  - 53444162
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - North, Marianne undated [Fri.] [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - North, Marianne 
+DP  - Harvard University Botany Libraries
+DA  - 10-15
+SP  - 53444163
+EP  - 53444164
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - North, Marianne Oct. 15 [no year] [to unknown] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - North, Marianne 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53444165
+EP  - 53444166
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - North, Marianne undated [Mon.] [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Burr, Anne-Margaretta 
+DP  - Harvard University Botany Libraries
+DA  - 07-28
+SP  - 53444167
+EP  - 53444168
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - Burr, Anne-Margaretta July 28 [no year] [to M. North] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - North, Marianne 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53444169
+EP  - 53444170
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - North, Marianne undated [Fri.] [to J. Gray] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - North, Marianne 
+DP  - Harvard University Botany Libraries
+DA  - 1881-07-05
+SP  - 53444171
+EP  - 53444172
+JO  - Asa Gray correspondence : official correspondence, and correspondence of Jane Gray, 1838-1895
+ID  - 130911
+TI  - North, Marianne July 5, 1881 [to J. Gray] [postcard] 
+VL  - 225920
+OC  - 878725232
+ER  - 
+

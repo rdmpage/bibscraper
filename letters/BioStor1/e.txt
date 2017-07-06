@@ -1,0 +1,1638 @@
+TY  - letter
+AU  - Eastwood, Alice
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-07
+SP  - 53107463
+EP  - 53107463
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eastwood, Alice Oct. 7, 1890 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eastwood, Alice
+DP  - Harvard University Botany Libraries
+DA  - 1891-10-16
+SP  - 53107464
+EP  - 53107464
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eastwood, Alice Oct. 16, 1891 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eastwood, Alice
+DP  - Harvard University Botany Libraries
+DA  - 1891-11-05
+SP  - 53107465
+EP  - 53107465
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eastwood, Alice Nov. 5, 1891 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eastwood, Alice
+DP  - Harvard University Botany Libraries
+DA  - 1891-11-17
+SP  - 53107466
+EP  - 53107467
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eastwood, Alice Nov. 17, 1891 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eastwood, Alice
+DP  - Harvard University Botany Libraries
+DA  - 1891-11-27
+SP  - 53107468
+EP  - 53107469
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eastwood, Alice Nov. 27, 1891 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eaton, Alvah A.
+DP  - Harvard University Botany Libraries
+DA  - 1897-07-14
+SP  - 53107470
+EP  - 53107471
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eaton, Alvah A. July 14, 1897 [to G. E. Davenport]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eaton, Amos
+DP  - Harvard University Botany Libraries
+DA  - 1842-02-10
+SP  - 53107472
+EP  - 53107473
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eaton, Amos Feb. 10, 1842 [forwarded by B. Silliman]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Silliman, Benjamin
+DP  - Harvard University Botany Libraries
+DA  - 1842-02-14
+SP  - 53107474
+EP  - 53107474
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Silliman, Benjamin Feb. 14, 1842 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eaton, Amos
+DP  - Harvard University Botany Libraries
+DA  - 1842-02-18
+SP  - 53107475
+EP  - 53107476
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eaton, Amos Feb. 18, 1842 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1878-09-16
+SP  - 53107477
+EP  - 53107478
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Sept. 16, 1878 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-31
+SP  - 53107479
+EP  - 53107479
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Oct. 31, 1878 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1879-04-19
+SP  - 53107480
+EP  - 53107481
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Apr. 19, 1879 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1879-05-21
+SP  - 53107482
+EP  - 53107482
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von May 21, 1879 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1879-06-17
+SP  - 53107483
+EP  - 53107484
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von June 17, 1879 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1879-08-20
+SP  - 53107485
+EP  - 53107486
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Aug. 20, 1879 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1879-09-17
+SP  - 53107487
+EP  - 53107488
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Sept. 17, 1879 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-06
+SP  - 53107489
+EP  - 53107490
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Jan. 6, 1880 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-15
+SP  - 53107491
+EP  - 53107492
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Jan. 15, 1880 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1880-03-21
+SP  - 53107493
+EP  - 53107494
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Mar. 21, 1880 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1880-04-30
+SP  - 53107495
+EP  - 53107497
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Apr. 30, 1880 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1880-06-20
+SP  - 53107498
+EP  - 53107499
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von June 20, 1880 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1880-07-20
+SP  - 53107500
+EP  - 53107501
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von July 20, 1880 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1880-08-19
+SP  - 53107502
+EP  - 53107503
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Aug. 19, 1880 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggers, Baron von
+DP  - Harvard University Botany Libraries
+DA  - 1881-01-14
+SP  - 53107504
+EP  - 53107505
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggers, Baron von Jan. 14, 1881 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggert, Henry
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-26
+SP  - 53107506
+EP  - 53107506
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggert, Henry Feb. 26, 1884 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eggert, Henry
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-26
+SP  - 53107507
+EP  - 53107508
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eggert, Henry Jan. 26, 1889 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eights, James
+DP  - Harvard University Botany Libraries
+DA  - 1838-09-17
+SP  - 53107509
+EP  - 53107510
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eights, James Sept. 17, 1838 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1878-06-03
+SP  - 53107511
+EP  - 53107512
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. June 3, 1878 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Samuel A. and Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1885-02-02
+SP  - 53107513
+EP  - 53107514
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Samuel A. and Charles W. Feb. 2, 1885 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-07
+SP  - 53107515
+EP  - 53107515
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Nov. 7, 1887 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1887-12-02
+SP  - 53107516
+EP  - 53107516
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Dec. 2, 1887 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1888-02-29
+SP  - 53107517
+EP  - 53107518
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Feb. 29, 1888 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1888-06-01
+SP  - 53107519
+EP  - 53107520
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. June 1, 1888 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - 1888-05-23
+SP  - 53107521
+EP  - 53107524
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Watson, Sereno May 23, 1888 [to C. W. Eliot] [draft]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1888-06-04
+SP  - 53107525
+EP  - 53107526
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. June 4, 1888 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Harvard College
+DP  - Harvard University Botany Libraries
+DA  - 1888-06-16
+SP  - 53107527
+EP  - 53107527
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Harvard College June 16, 1888 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1888-08-04
+SP  - 53107528
+EP  - 53107529
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Aug. 4, 1888 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - 1881-08-13
+SP  - 53107530
+EP  - 53107531
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Watson, Sereno Aug. 13, 1881 [to C. W. Eliot] [draft]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-07
+SP  - 53107532
+EP  - 53107532
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Feb. 7, 1889 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1889-11-27
+SP  - 53107533
+EP  - 53107533
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Nov. 27, 1889 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1889-11-29
+SP  - 53107534
+EP  - 53107534
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Nov. 29, 1889 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-04-18
+SP  - 53107535
+EP  - 53107535
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Apr. 18, 1890 [to J. Gray]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53107536
+EP  - 53107539
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Watson, Sereno undated [to C. W. Eliot]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-20
+SP  - 53107540
+EP  - 53107540
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. June 20, 1890 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-23
+SP  - 53107541
+EP  - 53107542
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. June 23, 1890 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53107543
+EP  - 53107543
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Watson, Sereno undated [to C. W. Eliot]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53107544
+EP  - 53107548
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Watson, Sereno undated [to C. W. Eliot]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-02
+SP  - 53107549
+EP  - 53107550
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Watson, Sereno June 2, 1890 [to C. W. Eliot] [draft]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-10
+SP  - 53107551
+EP  - 53107552
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. July 10, 1890 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-19
+SP  - 53107553
+EP  - 53107554
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Watson, Sereno July 19, 1890 [to C. W. Eliot] [draft]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-08-19
+SP  - 53107555
+EP  - 53107555
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Aug. 19, 1890 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - 1890-08-24
+SP  - 53107556
+EP  - 53107556
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Watson, Sereno Aug. 24, 1890 [to C. W. Eliot] [draft]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - 1890-08-24
+SP  - 53107557
+EP  - 53107557
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Watson, Sereno Aug. 24, 1890 [to C. W. Eliot] [draft verso]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-09-04
+SP  - 53107558
+EP  - 53107559
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Sept. 4, 1890 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-09-11
+SP  - 53107560
+EP  - 53107561
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Sept. 11, 1890 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-11-13
+SP  - 53107562
+EP  - 53107562
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Nov. 13, 1890 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1891-03-25
+SP  - 53107563
+EP  - 53107563
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Mar. 25, 1891 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1891-10-08
+SP  - 53107564
+EP  - 53107564
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Oct. 8, 1891 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Charles W.
+DP  - Harvard University Botany Libraries
+DA  - 1892-08-06
+SP  - 53107565
+EP  - 53107566
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Charles W. Aug. 6, 1892 [to B. L. Robinson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Grace H.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53107567
+EP  - 53107567
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Grace H. undated fragment [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, Samuel A.
+DP  - Harvard University Botany Libraries
+DA  - 1846-03-18
+SP  - 53107568
+EP  - 53107568
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, Samuel A. Mar. 18, 1846 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, William G.
+DP  - Harvard University Botany Libraries
+DA  - 1884-07-04
+SP  - 53107569
+EP  - 53107570
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, William G. July 4, 1884 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, William G.
+DP  - Harvard University Botany Libraries
+DA  - 1884-12-20
+SP  - 53107571
+EP  - 53107572
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, William G. Dec. 20, 1884 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, William G.
+DP  - Harvard University Botany Libraries
+DA  - 1884-12-31
+SP  - 53107573
+EP  - 53107574
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, William G. Dec. 31, 1884 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, William G.
+DP  - Harvard University Botany Libraries
+DA  - 1885-05-24
+SP  - 53107575
+EP  - 53107576
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, William G. May 24, 1885 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Eliot, William G.
+DP  - Harvard University Botany Libraries
+DA  - 1885-11-14
+SP  - 53107577
+EP  - 53107577
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Eliot, William G. Nov. 14, 1885 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Elliott, Stephen
+DP  - Harvard University Botany Libraries
+DA  - 1865-08-17
+SP  - 53107578
+EP  - 53107578
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Elliott, Stephen Aug. 17, 1865 [to unknown]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Elliott, Stephen
+DP  - Harvard University Botany Libraries
+DA  - 1865-08-17
+SP  - 53107579
+EP  - 53107579
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Elliott, Stephen Aug. 17, 1865 [to unknown]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ellis, Eugene A.
+DP  - Harvard University Botany Libraries
+DA  - 1890-04-21
+SP  - 53107580
+EP  - 53107580
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ellis, Eugene A. Apr. 21, 1890 [to unknown]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ellsworth, William J.
+DP  - Harvard University Botany Libraries
+DA  - 1891-08-07
+SP  - 53107581
+EP  - 53107581
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ellsworth, William J. Aug. 7, 1891 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Elwes, Henry J.
+DP  - Harvard University Botany Libraries
+DA  - 1880-08-10
+SP  - 53107582
+EP  - 53107583
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Elwes, Henry J. Aug. 10, 1880 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Elwes, Henry J.
+DP  - Harvard University Botany Libraries
+DA  - 1882-09-30
+SP  - 53107584
+EP  - 53107585
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Elwes, Henry J. Sept. 30, 1882 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Elwes, Henry J.
+DP  - Harvard University Botany Libraries
+DA  - 1888-10-24
+SP  - 53107586
+EP  - 53107586
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Elwes, Henry J. Oct. 24, 1888 [to J. Gray]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Elwes, Henry J.
+DP  - Harvard University Botany Libraries
+DA  - 1888-10-24
+SP  - 53107587
+EP  - 53107587
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Elwes, Henry J. Oct. 24, 1888 [to J. Gray]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emerson, Edward W.
+DP  - Harvard University Botany Libraries
+DA  - 1882-04-28
+SP  - 53107588
+EP  - 53107589
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emerson, Edward W. Apr. 28, 1882 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emerson, George B.
+DP  - Harvard University Botany Libraries
+DA  - 1846-12-26
+SP  - 53107590
+EP  - 53107590
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emerson, George B. Dec. 26, 1846 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emerson, George B.
+DP  - Harvard University Botany Libraries
+DA  - 1846-12-26
+SP  - 53107591
+EP  - 53107591
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emerson, George B. Dec. 26, 1846 [enclosed note]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emerson, George B.
+DP  - Harvard University Botany Libraries
+DA  - 1857-03-31
+SP  - 53107592
+EP  - 53107593
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emerson, George B. Mar. 31, 1857 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emerson, George B.
+DP  - Harvard University Botany Libraries
+DA  - 1864-05-27
+SP  - 53107594
+EP  - 53107594
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emerson, George B. May 27, 1864 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emerson, George B.
+DP  - Harvard University Botany Libraries
+DA  - 1870-04-29
+SP  - 53107595
+EP  - 53107596
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emerson, George B. Apr. 29, 1870 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emerson, George B.
+DP  - Harvard University Botany Libraries
+DA  - 1874-01-30
+SP  - 53107597
+EP  - 53107598
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emerson, George B. Jan. 30, 1874 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emory, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1849-02-04
+SP  - 53107599
+EP  - 53107599
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emory, William H. Feb. 4, 1849 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emory, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1849-02-17
+SP  - 53107600
+EP  - 53107602
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emory, William H. Feb. 17, 1849 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Emory, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1857-01-05
+SP  - 53107603
+EP  - 53107603
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Emory, William H. Jan. 5, 1857 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1884-06-28
+SP  - 53107604
+EP  - 53107611
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. June 28, 1884 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1884-07-17
+SP  - 53107612
+EP  - 53107615
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. July 17, 1884 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1885-06-03
+SP  - 53107616
+EP  - 53107617
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. June 3, 1885 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1885-08-09
+SP  - 53107618
+EP  - 53107621
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. Aug. 9, 1885 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1885-09-30
+SP  - 53107622
+EP  - 53107624
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. Sept. 30, 1885 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1885-10-03
+SP  - 53107625
+EP  - 53107626
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. Oct. 3, 1885 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1885-11-12
+SP  - 53107627
+EP  - 53107630
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. Nov. 12, 1885 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1886-02-15
+SP  - 53107631
+EP  - 53107634
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. Feb. 15, 1886 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1886-07-01
+SP  - 53107635
+EP  - 53107638
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. July 1, 1886 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1886-09-09
+SP  - 53107639
+EP  - 53107640
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. Sept. 9, 1886 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-23
+SP  - 53107641
+EP  - 53107642
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. Nov. 23, 1887 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-18
+SP  - 53107643
+EP  - 53107643
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. [Nov.] 18, 1888 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, Emily E.
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-04
+SP  - 53107644
+EP  - 53107645
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, Emily E. Feb. 4, 1889 [to J. Gray]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1889-10-07
+SP  - 53107646
+EP  - 53107647
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. Oct. 7, 1889 [to J. Gray]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, George J.
+DP  - Harvard University Botany Libraries
+DA  - 1898-03-03
+SP  - 53107648
+EP  - 53107649
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, George J. Mar. 3, 1898 [to J. Gray]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engelmann, Henry
+DP  - Harvard University Botany Libraries
+DA  - 1858-03-16
+SP  - 53107650
+EP  - 53107651
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engelmann, Henry Mar. 16, 1858 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engler, Adolf
+DP  - Harvard University Botany Libraries
+DA  - 1883-01-20
+SP  - 53107652
+EP  - 53107652
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engler, Adolf Jan. 20, 1883 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Engler, Adolf
+DP  - Harvard University Botany Libraries
+DA  - 1889-07-09
+SP  - 53107653
+EP  - 53107654
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Engler, Adolf July [9], 1889 [to S. Watson] [postcard]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1854-07-21
+SP  - 53107655
+EP  - 53107655
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. July 21, 1854 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1854-10-08
+SP  - 53107656
+EP  - 53107660
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Oct. 8, 1854 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1854-11-08
+SP  - 53107661
+EP  - 53107662
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Nov. 8, 1854 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1854-12-10
+SP  - 53107663
+EP  - 53107663
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Dec. 10, 1854 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1855-01-08
+SP  - 53107664
+EP  - 53107664
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Jan. 8, 1855 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1856-03-04
+SP  - 53107665
+EP  - 53107667
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Mar. 4, 1856 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1857-01-26
+SP  - 53107668
+EP  - 53107669
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Jan. 26, 1857 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1858-01-10
+SP  - 53107670
+EP  - 53107672
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Jan. 10, 1858 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1858-10-14
+SP  - 53107673
+EP  - 53107675
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Oct. 14, 1858 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1859-03-11
+SP  - 53107676
+EP  - 53107678
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Mar. 11, 1859 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1860-04-12
+SP  - 53107679
+EP  - 53107680
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Apr. 12, 1860 [duplicate]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1860-04-12
+SP  - 53107681
+EP  - 53107683
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Apr. 12, 1860 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1860-10-24
+SP  - 53107684
+EP  - 53107685
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Oct. 24, 1860 [invoice]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - 1857-01-31
+SP  - 53107686
+EP  - 53107687
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. Jan. 31, 1857 [invoice]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53107688
+EP  - 53107688
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. undated [map overlay]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53107689
+EP  - 53107689
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. undated [map reproduction]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ervendberg, C. F. L. C.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53107690
+EP  - 53107690
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Ervendberg, C. F. L. C. undated [map reproduction with overlay]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Evans, John, Sir
+DP  - Harvard University Botany Libraries
+DA  - 1885-07-21
+SP  - 53107691
+EP  - 53107692
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Evans, John, Sir July 21, 1885 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Evans, Walter H.
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-02
+SP  - 53107693
+EP  - 53107693
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Evans, Walter H. Oct. 2, 1890 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Evans, Walter H.
+DP  - Harvard University Botany Libraries
+DA  - 1891-03-24
+SP  - 53107694
+EP  - 53107694
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Evans, Walter H. Mar. 24, 1891 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Everett, Edward
+DP  - Harvard University Botany Libraries
+DA  - 1846-02-07
+SP  - 53107695
+EP  - 53107696
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Everett, Edward Feb. 7, 1846 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Everett, Edward
+DP  - Harvard University Botany Libraries
+DA  - 1846-05-01
+SP  - 53107697
+EP  - 53107698
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Everett, Edward May 1, 1846 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Everett, Edward
+DP  - Harvard University Botany Libraries
+DA  - 1847-06-03
+SP  - 53107699
+EP  - 53107700
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Everett, Edward June 3, 1847 
+VL  - 222795
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Easton, Morton W.
+DP  - Harvard University Botany Libraries
+DA  - 1889-11-05
+SP  - 53107462
+EP  - 53107462
+JO  - Asa Gray correspondence. Senders E, 1838-1898 (inclusive)
+ID  - 128555
+TI  - Easton, Morton W. Nov. 5, 1889 [to S. Watson]
+VL  - 222795
+OC  - 878725232
+ER  - 
+

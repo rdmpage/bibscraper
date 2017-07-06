@@ -1,0 +1,2236 @@
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1852-05-14
+SP - 53399498
+EP - 53399500
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 14, 1852 [to unknown] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1848-04
+SP - 53399501
+EP - 53399502
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 1848 [no year] [to unknown] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1880-08-24
+SP - 53399503
+EP - 53399503
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 24, 1880 [to unknown] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 06-04
+SP - 53399504
+EP - 53399505
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 4 [no year] [to unknown] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399506
+EP - 53399507
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated [to unknown] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399508
+EP - 53399509
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated note 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 07-13
+SP - 53399510
+EP - 53399511
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 13, [18--] [to Paul Allen] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 08-21
+SP - 53399512
+EP - 53399512
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 21, [18--] [to Paul Allen] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 09-13
+SP - 53399513
+EP - 53399513
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 13 [18--] [to Paul Allen] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1864-07-02
+SP - 53399514
+EP - 53399515
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 2, 1864 [to Paul Allen] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1864-09-29
+SP - 53399516
+EP - 53399516
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 29, 1864 [to Paul Allen] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1870-07-26
+SP - 53399517
+EP - 53399518
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 26, 1870 [to Paul Allen] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1872-08-01
+SP - 53399519
+EP - 53399520
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 1, [1872] [to Paul Allen] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1846
+SP - 53399521
+EP - 53399521
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa [1846] [to Samuel Batchelder] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399522
+EP - 53399522
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated [to Isabella Batchelder] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1866-12-10
+SP - 53399523
+EP - 53399524
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Dec. 10, 1866 [to Samuel Batchelder] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1883-01-27
+SP - 53399525
+EP - 53399525
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 27, 1883 [to Michael S. Bebb] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1850-02-15
+SP - 53399526
+EP - 53399527
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Feb. 15, 1850 [to Charles L. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1861
+SP - 53399528
+EP - 53399530
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa [1861] [to Charles L. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1862-11-17
+SP - 53399531
+EP - 53399532
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 17, 1862 [to Charles L. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1862-04-22
+SP - 53399533
+EP - 53399534
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 22, [1862] [to Charles L. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1863-07-06
+SP - 53399535
+EP - 53399536
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 6, 1863 [to Charles L. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1853-12-22
+SP - 53399537
+EP - 53399538
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Dec. 22, 1853 [to John P. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1855-04-20
+SP - 53399539
+EP - 53399540
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 20, 1855 [to John P. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1855-08-03
+SP - 53399541
+EP - 53399542
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 3, 1855 [to John P. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1857-01-07
+SP - 53399543
+EP - 53399543
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 7, 1857 [to John P. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1857-03-20
+SP - 53399544
+EP - 53399546
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Mar. 20, 1857 [to John P. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1857-07-14
+SP - 53399547
+EP - 53399548
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 14, 1857 [to John P. Brace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1886-12-24
+SP - 53399549
+EP - 53399550
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Dec. 24, 1886 [to William Brewster] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-11-27
+SP - 53399551
+EP - 53399552
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 27, 1887 [to Nathaniel L. Britton] [envelope] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Britton, Nathaniel L. 
+PB - Harvard University Botany Libraries
+DA - 1888-01-21
+SP - 53399553
+EP - 53399553
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Britton, Nathaniel L. Jan. 21 1888 [to J. Gray] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-11-27
+SP - 53399554
+EP - 53399556
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 27, 1887 [to Nathaniel L. Britton] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1878-04-22
+SP - 53399557
+EP - 53399558
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 22, 1878 [to Franz Buchenau] [envelope] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1878-04-22
+SP - 53399559
+EP - 53399560
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 22, 1878 [to Franz Buchenau] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1879-03-02
+SP - 53399561
+EP - 53399562
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Mar. 2, 1879 [to Chamberlain] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1845-08-05
+SP - 53399563
+EP - 53399565
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 5, 1845 [to Parker Cleaveland] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1878-05-30
+SP - 53399566
+EP - 53399567
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 30, 1878 [to Allen H. Curtiss] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1880-03-16
+SP - 53399568
+EP - 53399568
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Mar. 16, 1880 [to William C. Cusick] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1862-09-29
+SP - 53399569
+EP - 53399571
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 29, 1862 [to William Darlington] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1863-06-10
+SP - 53399572
+EP - 53399573
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 10, 1863 [to Darlington] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1873-10-17
+SP - 53399574
+EP - 53399574
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 17, 1873 [to George E. Davenport] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1873-11-10
+SP - 53399575
+EP - 53399576
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 10, 1873 [to George E. Davenport] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1874-06-10
+SP - 53399577
+EP - 53399577
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 10, 1874 [to George E. Davenport] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1876-01-18
+SP - 53399578
+EP - 53399579
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 18, 1876 [to George E. Davenport] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1878-09-17
+SP - 53399580
+EP - 53399580
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 17, 1878 [to George E. Davenport] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1880-05-01
+SP - 53399581
+EP - 53399582
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 1, 1880 [to George E. Davenport] [copy] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1883-05-14
+SP - 53399583
+EP - 53399583
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 14, 1883 [to George E. Davenport] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1885-11-19
+SP - 53399584
+EP - 53399585
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 19, 1885 [to George E. Davenport] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1878-04-22
+SP - 53399586
+EP - 53399587
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 22, 1878 [to August W. Eichler] [envelope] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1878-04-22
+SP - 53399588
+EP - 53399589
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 22, 1878 [to August W. Eichler] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1863-12-24
+SP - 53399590
+EP - 53399591
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Dec. 24, 1863 [to George B. Emerson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1870-06-15
+SP - 53399592
+EP - 53399592
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 15, 1870 [to Merritt C. Fernald] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399593
+EP - 53399594
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated [to Jane Gray] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1841-12-14
+SP - 53399595
+EP - 53399596
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Dec. 14, 1841 [to Benjamin D. Greene] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 08-22
+SP - 53399597
+EP - 53399598
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 22 [no year] [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1838-11-05
+SP - 53399599
+EP - 53399601
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 5, 1838 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1866-11-24
+SP - 53399602
+EP - 53399603
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 24, 1866 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1867-03-17
+SP - 53399604
+EP - 53399607
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Mar. 17, 1867 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1867-11-21
+SP - 53399608
+EP - 53399609
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 21, 1867 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1868-09-22
+SP - 53399610
+EP - 53399610
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 22, 1868 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1868-11-18
+SP - 53399611
+EP - 53399612
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 18, 1868 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1869-12-18
+SP - 53399613
+EP - 53399615
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Dec. 18, 1869 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1870-10-18
+SP - 53399616
+EP - 53399617
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 18, 1870 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1873-10-17
+SP - 53399618
+EP - 53399619
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 17, 1873 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1874-04-11
+SP - 53399620
+EP - 53399621
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 11, 1874 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1876-11-12
+SP - 53399622
+EP - 53399623
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 12, 1876 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1877-02-21
+SP - 53399624
+EP - 53399625
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Feb. 21, 1877 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1877-10-13
+SP - 53399626
+EP - 53399627
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 13, 1877 [to Joseph Henry] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1867-08-15
+SP - 53399628
+EP - 53399629
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 15, 1867 [to Ivison (Publishers)] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399630
+EP - 53399630
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated [to T. P. and I. B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1863-04-30
+SP - 53399631
+EP - 53399632
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 30, 1863 [to T. P. and I. B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1864-01-05
+SP - 53399633
+EP - 53399634
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 5, 1864 [to T. P. and I. B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1864-11-08
+SP - 53399635
+EP - 53399636
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 8, 1864 [to T. P. and I. B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1865-01-29
+SP - 53399637
+EP - 53399638
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 29, 1865 [to Isabella B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1865-09-04
+SP - 53399639
+EP - 53399640
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 4, 1865 [to Isabella B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1875-05-30
+SP - 53399641
+EP - 53399641
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 30, 1875 [to Thomas P. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1880-06-05
+SP - 53399642
+EP - 53399643
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 5, 1880 [to T. P. and I. B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1883-04-16
+SP - 53399644
+EP - 53399645
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 16, 1883 [to Isabella B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1883-07-19
+SP - 53399646
+EP - 53399647
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 19, 1883 [to Isabella B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1883-12-31
+SP - 53399648
+EP - 53399649
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Dec. 31, 1883 [to Isabella B. James] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1883-02-14
+SP - 53399650
+EP - 53399651
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Feb. 14, 1883 [to Friedrich W. Klatt] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1878-09-27
+SP - 53399652
+EP - 53399653
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 27, 1878 [to Louise Loring] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1866-01-29
+SP - 53399654
+EP - 53399654
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 29, 1866 [to Charles E. Norton] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Oliver, Francis W. 
+PB - Harvard University Botany Libraries
+DA - 1931-09-05
+SP - 53399655
+EP - 53399656
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Oliver, Francis W. Sept. 5, 1931 [to B. L. Robinson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1862-04-14
+SP - 53399657
+EP - 53399658
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 14, 1862 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1862-09-20
+SP - 53399659
+EP - 53399660
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 20, 1862 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1862-10-27
+SP - 53399661
+EP - 53399662
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 27, 1862 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1863-01-05
+SP - 53399663
+EP - 53399664
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 5, 1863 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1863-02-09
+SP - 53399665
+EP - 53399666
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Feb. 9, 1863 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1863-05-11
+SP - 53399667
+EP - 53399668
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 11, 1863 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1863-07-21
+SP - 53399669
+EP - 53399670
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 21, 1863 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1865-01-09
+SP - 53399671
+EP - 53399672
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 9, 1865 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1865-09-12
+SP - 53399673
+EP - 53399674
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 12, 1865 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1865-10-16
+SP - 53399675
+EP - 53399676
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 16, 1865 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1865-11-17
+SP - 53399677
+EP - 53399678
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 17, 1865 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1865-12-05
+SP - 53399679
+EP - 53399680
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Dec. 5, 1865 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1865-12-11
+SP - 53399681
+EP - 53399682
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Dec. 11, 1865 - Jan. 1, 1866 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1866-01-22
+SP - 53399683
+EP - 53399684
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 22, 1866 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1866-04-02
+SP - 53399685
+EP - 53399686
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 2, 1866 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1866-05-10
+SP - 53399687
+EP - 53399688
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 10, 1866 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1866-09-10
+SP - 53399689
+EP - 53399690
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 10, 1866 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1866-10-29
+SP - 53399691
+EP - 53399692
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 29, 1866 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1868-11-20
+SP - 53399693
+EP - 53399694
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 20, 1868 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1868-11-24
+SP - 53399695
+EP - 53399696
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 24, 1868 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1870-10-14
+SP - 53399697
+EP - 53399698
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 14, 1870 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1871-01-10
+SP - 53399699
+EP - 53399700
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 10, 1871 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Savage, Thomas S. 
+PB - Harvard University Botany Libraries
+DA - 1871-03-08
+SP - 53399701
+EP - 53399702
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Savage, Thomas S. Mar. 8, 1871 [to D. Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1871-04-08
+SP - 53399703
+EP - 53399704
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 8, 1871 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1871-10-16
+SP - 53399705
+EP - 53399706
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 16, 1871 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1872-01-18
+SP - 53399707
+EP - 53399708
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 18, 1872 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1873-07-07
+SP - 53399709
+EP - 53399710
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 7, 1873 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1877-06-18
+SP - 53399711
+EP - 53399712
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 18, 1877 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-11-30
+SP - 53399713
+EP - 53399714
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 30, 1881 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1882-02-20
+SP - 53399715
+EP - 53399715
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Feb. 20, 1882 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-01-17
+SP - 53399716
+EP - 53399716
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 17, 1887 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-08-20
+SP - 53399717
+EP - 53399718
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 20, 1887 [to Daniel Oliver] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1868-11-24
+SP - 53399719
+EP - 53399720
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 24, 1868 [to Andrew P. Peabody] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1878-04-21
+SP - 53399721
+EP - 53399722
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 21, 1878 [to Heinrich G. Reichenbach] [envelope] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1878-04-21
+SP - 53399723
+EP - 53399724
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 21, 1878 [to Heinrich G. Reichenbach] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1885-08-28
+SP - 53399725
+EP - 53399726
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 28, 1885 [to Benjamin L. Robinson] [envelope] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1885-08-28
+SP - 53399727
+EP - 53399727
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 28, 1885 [to Benjamin L. Robinson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-06-14
+SP - 53399728
+EP - 53399729
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 14, 1881 [to Charles S. Sargent] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-06-14
+SP - 53399730
+EP - 53399730
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 14, 1881 [to Charles S. Sargent] [forwarding letter] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-06-14
+SP - 53399731
+EP - 53399732
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 14, 1881 [to Charles S. Sargent] [forwarding envelope] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399733
+EP - 53399733
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399734
+EP - 53399735
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated [Thurs.] [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1875-05-01
+SP - 53399736
+EP - 53399737
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 1, 1875 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1876
+SP - 53399738
+EP - 53399739
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa [1876] [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1880-10-22
+SP - 53399740
+EP - 53399741
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 22, 1880 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-01-06
+SP - 53399742
+EP - 53399743
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 6, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-02-13
+SP - 53399744
+EP - 53399746
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Feb. 13, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-03-23
+SP - 53399747
+EP - 53399748
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Mar. 23, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-03-28
+SP - 53399749
+EP - 53399749
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Mar. 28, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-05-07
+SP - 53399750
+EP - 53399751
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 7, [1881] [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-05-16
+SP - 53399752
+EP - 53399753
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 16, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-05-25
+SP - 53399754
+EP - 53399755
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 25, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-06-17
+SP - 53399756
+EP - 53399758
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 17, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-06-22
+SP - 53399759
+EP - 53399760
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 22, 1881 [to Sereno Watson] [postcard] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-06-24
+SP - 53399761
+EP - 53399762
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 24, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-06-25
+SP - 53399763
+EP - 53399764
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 25, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-07-01
+SP - 53399765
+EP - 53399766
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 1, 1881 [to Sereno Watson] [postcard] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-07-26
+SP - 53399767
+EP - 53399768
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 26, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-07-26
+SP - 53399769
+EP - 53399770
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 26, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-08-25
+SP - 53399771
+EP - 53399773
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 25, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-08-26
+SP - 53399774
+EP - 53399775
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 26, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-08-26
+SP - 53399776
+EP - 53399777
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 26, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-09-16
+SP - 53399778
+EP - 53399779
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 16, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1881-10-18
+SP - 53399780
+EP - 53399780
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 18, 1881 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-04-25
+SP - 53399781
+EP - 53399782
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 25, 1887 [to Sereno Watson] [postcard] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-05-01
+SP - 53399783
+EP - 53399784
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 1, 1887 [to Sereno Watson] [postcard] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-05-10
+SP - 53399785
+EP - 53399786
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 10, 1887 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-05-30
+SP - 53399787
+EP - 53399788
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa May 30, 1887 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-06-11
+SP - 53399789
+EP - 53399790
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 11, 1887 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-06-26
+SP - 53399791
+EP - 53399792
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa June 26, 1887 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-07-19
+SP - 53399793
+EP - 53399794
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 19, 1887 [to Sereno Watson] [postcard] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-07-19
+SP - 53399795
+EP - 53399796
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 19, 1887 [to Sereno Watson] [postcard] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-07-27
+SP - 53399797
+EP - 53399798
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 27, 1887 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-08-03
+SP - 53399799
+EP - 53399800
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 3, 1887 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-08-20
+SP - 53399801
+EP - 53399802
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 20, 1887 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-08-23
+SP - 53399803
+EP - 53399804
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Aug. 23, 1887 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1887-09-06
+SP - 53399805
+EP - 53399806
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 6, 1887 [to Sereno Watson] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1862-09-01
+SP - 53399807
+EP - 53399807
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 1, 1862 [to M. Smith] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1862-09-01
+SP - 53399808
+EP - 53399809
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Sept. 1, 1862 [to M. Smith] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1865-11-14
+SP - 53399810
+EP - 53399810
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Nov. 14, 1865 [to M. Smith] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 03-02
+SP - 53399811
+EP - 53399811
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Mar. 2 [no year] [to George Thurber] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1872-04-05
+SP - 53399812
+EP - 53399812
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Apr. 5, 1872 [to George Thurber] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 1868-01-30
+SP - 53399813
+EP - 53399813
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Jan. 30, 1868 [to Achille Vogue] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399814
+EP - 53399815
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated [to Alfred R. Wallace] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399816
+EP - 53399817
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated [to John Wiley] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 10-21
+SP - 53399818
+EP - 53399819
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa Oct. 21 [no year] [to Charles Wilkes] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - 07-09
+SP - 53399820
+EP - 53399821
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa July 9 [no year] [to Charles Wright] 
+VL - 225451
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53399822
+EP - 53399822
+T1 - Asa Gray correspondence : letters from Asa Gray to various individuals, 1838-1931 (inclusive), 1838-1888 (bulk)
+ID - 130537
+TI - Gray, Asa undated [to Charles Wright] 
+VL - 225451
+OC - 878725232
+
+

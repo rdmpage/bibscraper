@@ -1,0 +1,1690 @@
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-12-04
+SP  - 53402106
+EP  - 53402074
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Dec. 4, 1874 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1875-08-19
+SP  - 53402075
+EP  - 53402076
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 19, 1875 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1875-12-15
+SP  - 53402077
+EP  - 53402080
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Dec. 15, 1875 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1876-06-17
+SP  - 53402081
+EP  - 53402082
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. June 17, 1876 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1876-06-28
+SP  - 53402083
+EP  - 53402084
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. June 28, 1876 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1876-07-10
+SP  - 53402085
+EP  - 53402086
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 10, 1876 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1876-08-03
+SP  - 53402087
+EP  - 53402090
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 3, 1876 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1876-08-03
+SP  - 53402091
+EP  - 53402092
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 3, 1876 [to J. H. Redfield] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1876-11-05
+SP  - 53402093
+EP  - 53402094
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 5, 1876 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1876-11-16
+SP  - 53402095
+EP  - 53402096
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 16, 1876 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1877-06-13
+SP  - 53402097
+EP  - 53402098
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. June 13, 1877 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1877-11-07
+SP  - 53402099
+EP  - 53402100
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 7, 1877 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1877-11-18
+SP  - 53402101
+EP  - 53402102
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 18, 1877 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-01-18
+SP  - 53402103
+EP  - 53402104
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Jan. 18, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-11-30
+SP  - 53402108
+EP  - 53402107
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 30, 1874 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-07-20
+SP  - 53402110
+EP  - 53402109
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 20, 1874 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-07-14
+SP  - 53402112
+EP  - 53402111
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 14, 1874 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-05-04
+SP  - 53402114
+EP  - 53402113
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 4, 1874 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-04-21
+SP  - 53402116
+EP  - 53402115
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Apr. 21, 1874 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-02-25
+SP  - 53402118
+EP  - 53402117
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 25, 1874 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1873-08-12
+SP  - 53402120
+EP  - 53402119
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 12, 1873 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1870-04-26
+SP  - 53402122
+EP  - 53402121
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Apr. 26, 1870 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1869-12-25
+SP  - 53402124
+EP  - 53402123
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Dec. 25, 1869 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1868-06-29
+SP  - 53402127
+EP  - 53402125
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. June 29, 1868 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1868-02-17
+SP  - 53402129
+EP  - 53402128
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 17, 1868 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1868-02-17
+SP  - 53402130
+EP  - 53402130
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 17, 1868 [enclosed list] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1867-10-28
+SP  - 53402132
+EP  - 53402131
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 28, 1867 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1867-10-05
+SP  - 53402134
+EP  - 53402133
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 5, 1867 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1867-09-16
+SP  - 53402136
+EP  - 53402135
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Sept. 16, 1867 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1865-03-30
+SP  - 53402138
+EP  - 53402137
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Mar. 30, 1865 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1864-01-02
+SP  - 53402140
+EP  - 53402139
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Jan. 2, 1864 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1863-10-27
+SP  - 53402142
+EP  - 53402141
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 27, 1863 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1861-08-07
+SP  - 53402144
+EP  - 53402143
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 7, 1861 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1861-07-24
+SP  - 53402146
+EP  - 53402145
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 24, 1861 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-02-18
+SP  - 53402105
+EP  - 53402147
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 18, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-05-13
+SP  - 53402148
+EP  - 53402149
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 13, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-05-29
+SP  - 53402150
+EP  - 53402151
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 29, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-06-10
+SP  - 53402152
+EP  - 53402153
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. June 10, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-07-15
+SP  - 53402154
+EP  - 53402155
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 15, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-23
+SP  - 53402156
+EP  - 53402157
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 23, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-26
+SP  - 53402158
+EP  - 53402159
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 26, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-29
+SP  - 53402160
+EP  - 53402161
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 29, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-11-08
+SP  - 53402162
+EP  - 53402163
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 8, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-11-14
+SP  - 53402164
+EP  - 53402166
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 14, 1878 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-02-18
+SP  - 53402167
+EP  - 53402168
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 18, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-04-14
+SP  - 53402169
+EP  - 53402170
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Apr. 14, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-04-24
+SP  - 53402171
+EP  - 53402172
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Apr. 24, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-04-26
+SP  - 53402173
+EP  - 53402176
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Apr. 26, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-05-07
+SP  - 53402177
+EP  - 53402178
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 7, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-05-09
+SP  - 53402179
+EP  - 53402180
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 9, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-05-13
+SP  - 53402181
+EP  - 53402182
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 13, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-07-05
+SP  - 53402183
+EP  - 53402184
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 5, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-07-08
+SP  - 53402185
+EP  - 53402186
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 8, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-07-15
+SP  - 53402187
+EP  - 53402188
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 15, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-08-04
+SP  - 53402189
+EP  - 53402190
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 4, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-08-11
+SP  - 53402191
+EP  - 53402192
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 11, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-09-30
+SP  - 53402193
+EP  - 53402194
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Sept. 30, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-10-05
+SP  - 53402195
+EP  - 53402196
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 5, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-10-22
+SP  - 53402197
+EP  - 53402198
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 22, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-10-25
+SP  - 53402199
+EP  - 53402200
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 25, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-10-31
+SP  - 53402201
+EP  - 53402202
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 31, 1879 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-03-16
+SP  - 53402203
+EP  - 53402204
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Mar. 16, 1880 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-04-10
+SP  - 53402205
+EP  - 53402206
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Apr. 10, 1880 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-06-09
+SP  - 53402207
+EP  - 53402208
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. June 9, 1880 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-07-19
+SP  - 53402209
+EP  - 53402210
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 19, 1880 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-07-26
+SP  - 53402211
+EP  - 53402212
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 26, 1880 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-01-24
+SP  - 53402213
+EP  - 53402216
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Jan. 24, 1881 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-01-29
+SP  - 53402217
+EP  - 53402218
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Jan. 29, 1881 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-05-18
+SP  - 53402219
+EP  - 53402220
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 18, 1881 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-05-20
+SP  - 53402221
+EP  - 53402222
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 20, 1881 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-05-21
+SP  - 53402223
+EP  - 53402224
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 21, 1881 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-07-18
+SP  - 53402225
+EP  - 53402226
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 18, 1881 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-08-06
+SP  - 53402227
+EP  - 53402230
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 6, 1881 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-10-27
+SP  - 53402231
+EP  - 53402232
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 27, 1881 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-11-07
+SP  - 53402233
+EP  - 53402234
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 7, 1881 [to A. and J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-11-07
+SP  - 53402235
+EP  - 53402236
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 7, 1881 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-01-13
+SP  - 53402237
+EP  - 53402237
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Jan. 13, 1882 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-01-27
+SP  - 53402238
+EP  - 53402239
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Jan. 27, 1882 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Searle, L. B. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-01-27
+SP  - 53402240
+EP  - 53402243
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Searle, L. B. Jan. 27, 1882 [to Canby] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Searle, L. B. and Mary B. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53402244
+EP  - 53402245
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Searle, L. B. and Mary B. undated [to Canby] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-02-16
+SP  - 53402246
+EP  - 53402247
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 16, 1882 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-02-23
+SP  - 53402248
+EP  - 53402249
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 23, 1882 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-03-02
+SP  - 53402250
+EP  - 53402250
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Mar. 2, 1882 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-03-10
+SP  - 53402251
+EP  - 53402252
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Mar. 10, 1882 [to C. S. Sargent] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-03-15
+SP  - 53402253
+EP  - 53402254
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Mar. 15, 1882 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-10-19
+SP  - 53402255
+EP  - 53402256
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 19, 1882 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-11-11
+SP  - 53402257
+EP  - 53402258
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 11, 1882 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-11-11
+SP  - 53402259
+EP  - 53402260
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 11, 1882 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1883-12-28
+SP  - 53402261
+EP  - 53402261
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Dec. 28, 1883 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1883-12-28
+SP  - 53402262
+EP  - 53402263
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Dec. 28, 1883 [enclosure] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-04
+SP  - 53402264
+EP  - 53402264
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 4, 1884 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-14
+SP  - 53402265
+EP  - 53402265
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 14, 1884 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-27
+SP  - 53402266
+EP  - 53402267
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 27, 1884 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-07-03
+SP  - 53402268
+EP  - 53402269
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 3, 1884 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-07-22
+SP  - 53402270
+EP  - 53402271
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. July 22, 1884 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-10-23
+SP  - 53402272
+EP  - 53402273
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 23, 1884 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-10-27
+SP  - 53402274
+EP  - 53402275
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 27, 1884 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-04
+SP  - 53402276
+EP  - 53402277
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 4, 1884 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-06
+SP  - 53402278
+EP  - 53402279
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 6, 1884 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-01-20
+SP  - 53402280
+EP  - 53402281
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Jan. 20, 1885 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-05-08
+SP  - 53402282
+EP  - 53402283
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 8, 1885 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-05-09
+SP  - 53402284
+EP  - 53402285
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 9, 1885 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-08-15
+SP  - 53402286
+EP  - 53402287
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 15, 1885 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-08-29
+SP  - 53402288
+EP  - 53402289
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Aug. 29, 1885 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-09-22
+SP  - 53402290
+EP  - 53402291
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Sept. 22, 1885 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-09-29
+SP  - 53402292
+EP  - 53402293
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Sept. 29, 1885 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-11-06
+SP  - 53402294
+EP  - 53402295
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 6, 1885 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-11-13
+SP  - 53402296
+EP  - 53402297
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 13, 1885 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-09-09
+SP  - 53402298
+EP  - 53402299
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Sept. 9, 1886 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-09-22
+SP  - 53402300
+EP  - 53402301
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Sept. 22, 1886 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-09-27
+SP  - 53402302
+EP  - 53402303
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Sept. 27, 1886 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-09-29
+SP  - 53402304
+EP  - 53402304
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Sept. 29, 1886 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, W. M. & Edith D. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-03-29
+SP  - 53402305
+EP  - 53402305
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, W. M. & Edith D. Mar. 29, 1887 [to A. & J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-05-07
+SP  - 53402306
+EP  - 53402307
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 7, 1888 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-06-21
+SP  - 53402308
+EP  - 53402309
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. June 21, 1888 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-12-14
+SP  - 53402310
+EP  - 53402311
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Dec. 14, 1888 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-25
+SP  - 53402312
+EP  - 53402313
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 25, 1890 [to J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-25
+SP  - 53402314
+EP  - 53402314
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Oct. 25, 1890 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-02-18
+SP  - 53402315
+EP  - 53402316
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Feb. 18, 1891 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-04-27
+SP  - 53402317
+EP  - 53402318
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Apr. 27, 1891 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-04-30
+SP  - 53402319
+EP  - 53402320
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Apr. 30, 1891 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-05-27
+SP  - 53402321
+EP  - 53402321
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 27, 1891 [to S. Watson] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1892-12-01
+SP  - 53402322
+EP  - 53402323
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Dec. 1, 1892 [to J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1894-11-14
+SP  - 53402324
+EP  - 53402325
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 14, 1894 [to J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1894-11-25
+SP  - 53402326
+EP  - 53402327
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Nov. 25, 1894 [to J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1895-03-31
+SP  - 53402328
+EP  - 53402329
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Mar. 31, 1895 [to J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53402330
+EP  - 53402331
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. undated fragment [to J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1895-04-29
+SP  - 53402332
+EP  - 53402333
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. Apr. 29, 1895 [to J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - 1895-05-04
+SP  - 53402334
+EP  - 53402335
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. May 4, 1895 [to J. Gray] 
+VL  - 225465
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Canby, William M. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53402336
+EP  - 53402336
+JO  - William Marriot Canby letters to Asa Gray, 1861-1895
+ID  - 130548
+TI  - Canby, William M. undated postscript 
+VL  - 225465
+OC  - 878725232
+ER  - 
+

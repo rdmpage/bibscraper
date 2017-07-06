@@ -1,0 +1,1404 @@
+TY  - letter
+AU  - Hoffman, Frederick 
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-10
+SP  - 53112853
+EP  - 53112853
+T1  - JO
+ID  - 128569
+TI  - Hoffman, Frederick  Nov. 10, 1888  [to J. Gray] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holm, Theo 
+DP  - Harvard University Botany Libraries
+DA  - 1889-11-02
+SP  - 53112854
+EP  - 53112854
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holm, Theo  Nov. 2, 1889  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holm, Theo 
+DP  - Harvard University Botany Libraries
+DA  - 1889-11-09
+SP  - 53112855
+EP  - 53112855
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holm, Theo  Nov. 9, 1889  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holm, Theo 
+DP  - Harvard University Botany Libraries
+DA  - 1890-01-03
+SP  - 53112856
+EP  - 53112856
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holm, Theo  Jan. 3, 1890  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holm, Theo 
+DP  - Harvard University Botany Libraries
+DA  - 1891-12-09
+SP  - 53112857
+EP  - 53112858
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holm, Theo  Dec. 9, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holm, Theo 
+DP  - Harvard University Botany Libraries
+DA  - 1891-12-14
+SP  - 53112859
+EP  - 53112860
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holm, Theo  Dec. 14, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Andrew F. 
+DP  - Harvard University Botany Libraries
+DA  - 1844-07-12
+SP  - 53112861
+EP  - 53112863
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Andrew F.  July 12, 1844  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1877-12-22
+SP  - 53112864
+EP  - 53112865
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  Dec. 22, 1877  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-07-02
+SP  - 53112866
+EP  - 53112867
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  July 2, 1878  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-07-08
+SP  - 53112868
+EP  - 53112869
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  July 8, 1878  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-07-10
+SP  - 53112870
+EP  - 53112871
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  July 10, 1878  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-08-04
+SP  - 53112872
+EP  - 53112872
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  Aug. 4, 1882  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-10-08
+SP  - 53112873
+EP  - 53112874
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  Oct. 8, 1882  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-10-25
+SP  - 53112875
+EP  - 53112876
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  Oct. 25, [1882]  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-10-29
+SP  - 53112877
+EP  - 53112877
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  Oct. 29, 1882  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-11-09
+SP  - 53112878
+EP  - 53112879
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  Nov. 9, 1882  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1883-12-23
+SP  - 53112880
+EP  - 53112880
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  Dec. 23, 1883  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holmes, Oliver W. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-09-03
+SP  - 53112881
+EP  - 53112882
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holmes, Oliver W.  Sept. 3, 1885  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holton, Isaac F. 
+DP  - Harvard University Botany Libraries
+DA  - 1848-03-30
+SP  - 53112883
+EP  - 53112884
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holton, Isaac F.  Mar. 30, 1848  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holton, Isaac F. 
+DP  - Harvard University Botany Libraries
+DA  - 1852-02-02
+SP  - 53112885
+EP  - 53112886
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holton, Isaac F.  Feb. 2, 1852  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holton, Isaac F. 
+DP  - Harvard University Botany Libraries
+DA  - 1856-02-09
+SP  - 53112887
+EP  - 53112888
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holton, Isaac F.  Feb. 9, 1856  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holton, Isaac F. 
+DP  - Harvard University Botany Libraries
+DA  - 1857-01-16
+SP  - 53112889
+EP  - 53112890
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holton, Isaac F.  Jan. 16, 1857  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holton, Isaac F. 
+DP  - Harvard University Botany Libraries
+DA  - 1857-04-18
+SP  - 53112891
+EP  - 53112892
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holton, Isaac F.  Apr. 18, 1857  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holzinger, John M. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-12-02
+SP  - 53112893
+EP  - 53112893
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holzinger, John M.  Dec. 2, 1890  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holzinger, John M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-02-20
+SP  - 53112894
+EP  - 53112894
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holzinger, John M.  Feb. 20, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holzinger, John M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-04-30
+SP  - 53112895
+EP  - 53112895
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holzinger, John M.  Apr. 30, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holzinger, John M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-23
+SP  - 53112896
+EP  - 53112897
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holzinger, John M.  Sept. 23, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holzinger, John M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-10-12
+SP  - 53112898
+EP  - 53112898
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holzinger, John M.  Oct. 12, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holzinger, John M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-11-09
+SP  - 53112899
+EP  - 53112899
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holzinger, John M.  Nov. 9, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holzinger, John M. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-12-09
+SP  - 53112900
+EP  - 53112900
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holzinger, John M.  Dec. 9, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Holzinger, John M. 
+DP  - Harvard University Botany Libraries
+DA  - 1892-02-17
+SP  - 53112901
+EP  - 53112902
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Holzinger, John M.  Feb. 17, 1892  [to B. L. Robinson] [postcard] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hooper, Edward W. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-06-09
+SP  - 53112903
+EP  - 53112903
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hooper, Edward W.  June 9, 1879  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hooper, Edward W. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-03-26
+SP  - 53112904
+EP  - 53112905
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hooper, Edward W.  [Mar. 26, 1888]  [meeting record] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hooper, Edward W. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-09-29
+SP  - 53112906
+EP  - 53112906
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hooper, Edward W.  Sept. 29, 1888  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hooper, Edward W. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-10-13
+SP  - 53112907
+EP  - 53112907
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hooper, Edward W.  Oct. 13, 1888  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hooper, Edward W. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-02
+SP  - 53112908
+EP  - 53112908
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hooper, Edward W.  Nov. 2, 1888  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hooper, Edward W. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-09-24
+SP  - 53112909
+EP  - 53112909
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hooper, Edward W.  Sept. 24, 1889  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hooper, Edward W. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-10-01
+SP  - 53112910
+EP  - 53112910
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hooper, Edward W.  Oct. 1, 1889  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hoopes, Joshua 
+DP  - Harvard University Botany Libraries
+DA  - 1871-03-14
+SP  - 53112911
+EP  - 53112911
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hoopes, Joshua  Mar. 14, 1871  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hoppin, James M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-03-22
+SP  - 53112912
+EP  - 53112913
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hoppin, James M.  Mar. 22, 1879  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hoppin, James M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-03-27
+SP  - 53112914
+EP  - 53112915
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hoppin, James M.  Mar. 27, 1879  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hoppin, Ruth 
+DP  - Harvard University Botany Libraries
+DA  - 1888-02-28
+SP  - 53112916
+EP  - 53112917
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hoppin, Ruth  Feb. 28, 1888  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horner, John F. F. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-10-20
+SP  - 53112918
+EP  - 53112921
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horner, John F. F.  Oct. 20, 1882  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horner, John F. F. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-12-03
+SP  - 53112922
+EP  - 53112923
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horner, John F. F.  Dec. 3, 1882  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horner, John F. F. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-12-23
+SP  - 53112924
+EP  - 53112925
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horner, John F. F.  Dec. 23, 1884  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Eben N. 
+DP  - Harvard University Botany Libraries
+DA  - 1855-12-02
+SP  - 53112926
+EP  - 53112926
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Eben N.  Dec. 2, 1855  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Eben N. 
+DP  - Harvard University Botany Libraries
+DA  - 1855-12-02
+SP  - 53112927
+EP  - 53112927
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Eben N.  Dec. 2, 1855  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Eben N. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-02-18
+SP  - 53112928
+EP  - 53112928
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Eben N.  Feb. 18, 1887  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Pringle & Horsford 
+DP  - Harvard University Botany Libraries
+DA  - 1887-10-04
+SP  - 53112929
+EP  - 53112929
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Pringle & Horsford  Oct. 4, 1887  [invoice] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Frederick H. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-10-11
+SP  - 53112930
+EP  - 53112931
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Frederick H.  Oct. 11, 1887  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Frederick H. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-09-04
+SP  - 53112932
+EP  - 53112933
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Frederick H.  Sept. 4, 1888  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Frederick H. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-09-25
+SP  - 53112934
+EP  - 53112934
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Frederick H.  Sept. 25, 1889  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Frederick H. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-12-24
+SP  - 53112935
+EP  - 53112935
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Frederick H.  Dec. 24, 1888  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Frederick H. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-30
+SP  - 53112936
+EP  - 53112936
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Frederick H.  June 30, 1890  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Frederick H. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-06
+SP  - 53112937
+EP  - 53112937
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Frederick H.  July 6, 1890  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Horsford, Frederick H. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-12-10
+SP  - 53112938
+EP  - 53112939
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Horsford, Frederick H.  Dec. 10, 1890  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hosmer, Alfred W. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-17
+SP  - 53112940
+EP  - 53112940
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hosmer, Alfred W.  Feb. 17, 1890  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1878-07-20
+SP  - 53112941
+EP  - 53112943
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Joseph  July 20, 1878  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1879-06-01
+SP  - 53112944
+EP  - 53112946
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Joseph  June 1879  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1884-09-12
+SP  - 53112947
+EP  - 53112948
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Joseph  Sept. 12, 1884  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1884-09-12
+SP  - 53112949
+EP  - 53112950
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Joseph  Sept. 12, 1884  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1891-06-20
+SP  - 53112951
+EP  - 53112952
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Joseph  June 20, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53112953
+EP  - 53112954
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Joseph  undated  fragment 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Thomas J. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-25
+SP  - 53112955
+EP  - 53112957
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Thomas J.  Nov. 25, 1884  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Thomas J. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-07-25
+SP  - 53112958
+EP  - 53112959
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Thomas J.  July 25, 1885  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Thomas J. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-05-14
+SP  - 53112960
+EP  - 53112961
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Thomas J.  May 14, 1885  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Thomas J. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-03-28
+SP  - 53112962
+EP  - 53112969
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Thomas J.  Mar. 28, 1887  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Thomas J. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-09-21
+SP  - 53112970
+EP  - 53112971
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Thomas J.  Sept. 21, 1887  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Thomas J. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-15
+SP  - 53112972
+EP  - 53112973
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Thomas J.  Nov. 15, 1887  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howell, Thomas J. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-04-04
+SP  - 53112974
+EP  - 53112975
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howell, Thomas J.  Apr. 4, 1891  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howland, Eliza W. 
+DP  - Harvard University Botany Libraries
+DA  - 1869-07-07
+SP  - 53112976
+EP  - 53112977
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howland, Eliza W.  July 7, 1869  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howland, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1869-06-13
+SP  - 53112978
+EP  - 53112980
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howland, Joseph  June 13, 1869  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howland, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1873-10-27
+SP  - 53112981
+EP  - 53112982
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howland, Joseph  Oct. 27, 1873  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howland, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1878-08-03
+SP  - 53112983
+EP  - 53112985
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howland, Joseph  Aug. 3, 1878  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Howson, John S. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-06-02
+SP  - 53112986
+EP  - 53112987
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Howson, John S.  June 2, 1880  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hoyle, Raphael 
+DP  - Harvard University Botany Libraries
+DA  - 1837-01-15
+SP  - 53112988
+EP  - 53112989
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hoyle, Raphael  Jan. 15, 1837  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Stephen Hoyt's Sons 
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-11
+SP  - 53112990
+EP  - 53112991
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Stephen Hoyt's Sons  Feb. 11, 1889  [to S. Watson] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Stephen Hoyt's Sons 
+DP  - Harvard University Botany Libraries
+DA  - 1889
+SP  - 53112992
+EP  - 53112994
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Stephen Hoyt's Sons  [1889]  [circular] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1853-03-09
+SP  - 53112995
+EP  - 53112996
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Carey, John  Mar. 9, 1853  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hume, Joseph B. 
+DP  - Harvard University Botany Libraries
+DA  - 1853-04-12
+SP  - 53112997
+EP  - 53112998
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hume, Joseph B.  Apr. 12, 1853  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hume, Joseph B. 
+DP  - Harvard University Botany Libraries
+DA  - 1853-06-21
+SP  - 53112999
+EP  - 53113000
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hume, Joseph B.  June 21, 1853  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hume, Joseph B. 
+DP  - Harvard University Botany Libraries
+DA  - 1855-03-29
+SP  - 53113001
+EP  - 53113004
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hume, Joseph B.  Mar. 29, 1855  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Vaughan, T. W. 
+DP  - Harvard University Botany Libraries
+DA  - 1858-05-08
+SP  - 53113005
+EP  - 53113006
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Vaughan, T. W.  May 8, 1858  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Humphreys, Andrew A. 
+DP  - Harvard University Botany Libraries
+DA  - 1855-07-01
+SP  - 53113007
+EP  - 53113007
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Humphreys, Andrew A.  July 1, 1855  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Humphreys, Andrew A. 
+DP  - Harvard University Botany Libraries
+DA  - 1855-07-25
+SP  - 53113008
+EP  - 53113008
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Humphreys, Andrew A.  July 25, 1855  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Humphreys, Andrew A. 
+DP  - Harvard University Botany Libraries
+DA  - 1855-08-01
+SP  - 53113009
+EP  - 53113010
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Humphreys, Andrew A.  Aug. 1, 1855  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Humphreys, Andrew A. 
+DP  - Harvard University Botany Libraries
+DA  - 1855-08-23
+SP  - 53113011
+EP  - 53113011
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Humphreys, Andrew A.  Aug. 23, 1855  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunnewell, Horatio H. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-03-12
+SP  - 53113012
+EP  - 53113013
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunnewell, Horatio H.  Mar. 12, [1871]  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunnewell, Horatio H. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-03-24
+SP  - 53113014
+EP  - 53113014
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunnewell, Horatio H.  Mar. 24, 1871  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunnewell, Horatio H. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-05-17
+SP  - 53113015
+EP  - 53113015
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunnewell, Horatio H.  May 17, 1871  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunnewell, Horatio H. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-05-22
+SP  - 53113016
+EP  - 53113016
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunnewell, Horatio H.  May 22, 1871  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunnewell, Horatio H. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-06-24
+SP  - 53113017
+EP  - 53113018
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunnewell, Horatio H.  June 24, 1871  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunnewell, Horatio H. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-10-02
+SP  - 53113019
+EP  - 53113020
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunnewell, Horatio H.  Oct. 2, 1871  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunt, Catharine C.H. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-05-05
+SP  - 53113021
+EP  - 53113024
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunt, Catharine C.H.  May 5, 1886  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunt, T. Sterry 
+DP  - Harvard University Botany Libraries
+DA  - 05-13
+SP  - 53113025
+EP  - 53113025
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunt, T. Sterry  May 13  [no year] 
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunt, T. Sterry 
+DP  - Harvard University Botany Libraries
+DA  - 1858-09-18
+SP  - 53113026
+EP  - 53113027
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunt, T. Sterry  Sept. 18, 1858  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunt, T. Sterry 
+DP  - Harvard University Botany Libraries
+DA  - 1860-10-04
+SP  - 53113028
+EP  - 53113029
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunt, T. Sterry  Oct. 4, 1860  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunt, T. Sterry 
+DP  - Harvard University Botany Libraries
+DA  - 1864-09-25
+SP  - 53113030
+EP  - 53113031
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunt, T. Sterry  Sept. 25, 1864  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunt, T. Sterry 
+DP  - Harvard University Botany Libraries
+DA  - 1870-05-10
+SP  - 53113032
+EP  - 53113033
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunt, T. Sterry  May 10, 1870  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunter, Cyrus L. 
+DP  - Harvard University Botany Libraries
+DA  - 1843-05-27
+SP  - 53113034
+EP  - 53113036
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunter, Cyrus L.  May 27, 1843  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunter, Cyrus L. 
+DP  - Harvard University Botany Libraries
+DA  - 1843-06-20
+SP  - 53113037
+EP  - 53113039
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunter, Cyrus L.  June 20, 1843  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunter, Cyrus L. 
+DP  - Harvard University Botany Libraries
+DA  - 1843-08-26
+SP  - 53113040
+EP  - 53113042
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunter, Cyrus L.  Aug. 26, 1843  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunter, Cyrus L. 
+DP  - Harvard University Botany Libraries
+DA  - 1846-04-20
+SP  - 53113043
+EP  - 53113045
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunter, Cyrus L.  Apr. 20, 1846  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hunter, Cyrus L. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-07-11
+SP  - 53113046
+EP  - 53113046
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hunter, Cyrus L.  July 11, 1879  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Huntington, Frederick D. 
+DP  - Harvard University Botany Libraries
+DA  - 1859-01-31
+SP  - 53113047
+EP  - 53113049
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Huntington, Frederick D.  Jan. 31, 1859  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hyams, Mordecai E. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-22
+SP  - 53113050
+EP  - 53113051
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hyams, Mordecai E.  Oct. 22, 1878  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hyams, Mordecai E. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-31
+SP  - 53113052
+EP  - 53113052
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hyams, Mordecai E.  Oct. 31, 1878  
+VL  - 222859
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Hyams, Mordecai E. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-11-05
+SP  - 53113053
+EP  - 53113053
+T1  - Asa Gray correspondence. Senders Ho-Hy, 1837-1903 (inclusive)
+ID  - 128569
+TI  - Hyams, Mordecai E.  Nov. 5, 1878  
+VL  - 222859
+OC  - 878725232
+ER  - 
+

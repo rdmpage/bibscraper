@@ -1,0 +1,715 @@
+TY - letter
+AU - Kassabian, Nushan H. 
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53210858
+EP - 53210859
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kassabian, Nushan H. undated [visiting card] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kassabian, Nushan H. 
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53210860
+EP - 53210861
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kassabian, Nushan H. undated [envelope] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kassabian, Nushan H. 
+PB - Harvard University Botany Libraries
+DA - 1889-05-18
+SP - 53210862
+EP - 53210862
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kassabian, Nushan H. May 18, 1889 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Keck, Karl 
+PB - Harvard University Botany Libraries
+DA - 1879-04-16
+SP - 53210863
+EP - 53210864
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Keck, Karl Apr. 16, 1879 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Keffer, Charles A. 
+PB - Harvard University Botany Libraries
+DA - 1891-03-20
+SP - 53210865
+EP - 53210866
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Keffer, Charles A. Mar. 20, 1891 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellerman, William A. 
+PB - Harvard University Botany Libraries
+DA - 1876-06-07
+SP - 53210867
+EP - 53210868
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellerman, William A. June 7, 1876 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1864-04-13
+SP - 53210869
+EP - 53210870
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Apr. 13, 1864 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1868-03-09
+SP - 53210871
+EP - 53210872
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Mar. 9, 1868 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1872-02-01
+SP - 53210873
+EP - 53210874
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Feb. 1, 1872 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1872-10-31
+SP - 53210875
+EP - 53210877
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Oct. 31, 1872 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1872-11-03
+SP - 53210878
+EP - 53210880
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Nov. 3, 1872 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1872-11-13
+SP - 53210881
+EP - 53210882
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Nov. 13, 1872 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1872-11-23
+SP - 53210883
+EP - 53210885
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Nov. 23, 1872 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1872-12-02
+SP - 53210886
+EP - 53210888
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Dec. 2, 1872 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1872-12-28
+SP - 53210889
+EP - 53210889
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Dec. 28, 1872 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1873-01-02
+SP - 53210890
+EP - 53210891
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Jan. 2, 1873 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1873-01-27
+SP - 53210892
+EP - 53210893
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Jan. 27, 1873 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kellogg, Albert 
+PB - Harvard University Botany Libraries
+DA - 1877-10-10
+SP - 53210894
+EP - 53210897
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kellogg, Albert Oct. 10, 1877 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kennedy, George G. 
+PB - Harvard University Botany Libraries
+DA - 1888-11-17
+SP - 53210898
+EP - 53210898
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kennedy, George G. Nov. 17, 1888 [to J. Gray] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kervey, H. Rush 
+PB - Harvard University Botany Libraries
+DA - 1890-12-30
+SP - 53210899
+EP - 53210900
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kervey, H. Rush Dec. 30, 1890 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kiernan, Thomas J. 
+PB - Harvard University Botany Libraries
+DA - 1887-11-28
+SP - 53210901
+EP - 53210901
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kiernan, Thomas J. Nov. 28, 1887 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kingsley, Rose G. 
+PB - Harvard University Botany Libraries
+DA - 1874-02-23
+SP - 53210902
+EP - 53210903
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kingsley, Rose G. Feb. 23, 1874 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kingsley, Rose G. 
+PB - Harvard University Botany Libraries
+DA - 1874-04-25
+SP - 53210904
+EP - 53210906
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kingsley, Rose G. Apr. 25, 1874 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kippist, Richard 
+PB - Harvard University Botany Libraries
+DA - 1874-07-22
+SP - 53210907
+EP - 53210908
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kippist, Richard July 22, 1874 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kippist, Richard 
+PB - Harvard University Botany Libraries
+DA - 1874-11-13
+SP - 53210909
+EP - 53210910
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kippist, Richard Nov. 13, 1874 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kippist, Richard 
+PB - Harvard University Botany Libraries
+DA - 1875-01-05
+SP - 53210911
+EP - 53210912
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kippist, Richard Jan. 5, 1875 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kippist, Richard 
+PB - Harvard University Botany Libraries
+DA - 1876-12-28
+SP - 53210913
+EP - 53210914
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kippist, Richard Dec. 28, 1876 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kippist, Richard 
+PB - Harvard University Botany Libraries
+DA - 1877-02-06
+SP - 53210915
+EP - 53210916
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kippist, Richard Feb. 6, 1877 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kippist, Richard 
+PB - Harvard University Botany Libraries
+DA - 1879-04-30
+SP - 53210917
+EP - 53210918
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kippist, Richard Apr. 30, 1879 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kippist, Richard 
+PB - Harvard University Botany Libraries
+DA - 1879-04-30
+SP - 53210919
+EP - 53210919
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kippist, Richard Apr. 30, 1879 [enclosed invoice] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kippist, Richard 
+PB - Harvard University Botany Libraries
+DA - 1879-06-12
+SP - 53210920
+EP - 53210921
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kippist, Richard June 12, 1879 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kippist, Richard 
+PB - Harvard University Botany Libraries
+DA - 1879-08-07
+SP - 53210922
+EP - 53210923
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kippist, Richard Aug. 7, 1879 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kirk, Thomas 
+PB - Harvard University Botany Libraries
+DA - 1891-07-16
+SP - 53210924
+EP - 53210925
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kirk, Thomas July 16, 1891 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kirtland, Jared P. 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53210926
+EP - 53210927
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kirtland, Jared P. undated 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kirtland, Jared P. 
+PB - Harvard University Botany Libraries
+DA - 1870-11-18
+SP - 53210928
+EP - 53210930
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kirtland, Jared P. Nov. 18, 1870 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kleeberger, George R. 
+PB - Harvard University Botany Libraries
+DA - 1875-06-02
+SP - 53210931
+EP - 53210931
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kleeberger, George R. June 2, 1875 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kleeberger, George R. 
+PB - Harvard University Botany Libraries
+DA - 1880-05-09
+SP - 53210932
+EP - 53210933
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kleeberger, George R. May 9, 1880 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Knerr, Ellsworth B. 
+PB - Harvard University Botany Libraries
+DA - 1891-05-08
+SP - 53210934
+EP - 53210934
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Knerr, Ellsworth B. May 8, 1891 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Knieskern, Peter D. 
+PB - Harvard University Botany Libraries
+DA - 1844-03-29
+SP - 53210935
+EP - 53210937
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Knieskern, Peter D. Mar. 29, 1844 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Knieskern, Peter D. 
+PB - Harvard University Botany Libraries
+DA - 1845-06-10
+SP - 53210938
+EP - 53210940
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Knieskern, Peter D. June 10, 1845 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Knieskern, Peter D. 
+PB - Harvard University Botany Libraries
+DA - 1846-05-28
+SP - 53210941
+EP - 53210943
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Knieskern, Peter D. May 28, 1846 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Knieskern, Peter D. 
+PB - Harvard University Botany Libraries
+DA - 1846-07-08
+SP - 53210944
+EP - 53210946
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Knieskern, Peter D. July 8, 1846 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Knieskern, Peter D. 
+PB - Harvard University Botany Libraries
+DA - 1847-03-09
+SP - 53210947
+EP - 53210949
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Knieskern, Peter D. Mar. 9, 1847 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Knieskern, Peter D. 
+PB - Harvard University Botany Libraries
+DA - 1856-10-01
+SP - 53210950
+EP - 53210951
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Knieskern, Peter D. Oct. 1, 1856 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Knight, Francis P. 
+PB - Harvard University Botany Libraries
+DA - 1877-02-24
+SP - 53210952
+EP - 53210953
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Knight, Francis P. Feb. 24, 1877 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Williams, S. Wells 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53210954
+EP - 53210955
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Williams, S. Wells undated description [forwarded by F. P. Knight] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Knight, Francis P. 
+PB - Harvard University Botany Libraries
+DA - 1877-05-08
+SP - 53210956
+EP - 53210956
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Knight, Francis P. May 8, 1877 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kofoid, Charles A. 
+PB - Harvard University Botany Libraries
+DA - 1891-05-25
+SP - 53210957
+EP - 53210958
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kofoid, Charles A. May 25, 1891 [to S. Watson] 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Korthals, Pieter W. 
+PB - Harvard University Botany Libraries
+DA - 1850-05-16
+SP - 53210959
+EP - 53210961
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Korthals, Pieter W. May 16, 1850 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kunze, Gustav 
+PB - Harvard University Botany Libraries
+DA - 1842-02-28
+SP - 53210962
+EP - 53210963
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kunze, Gustav Feb. 28, 1842 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kunze, Gustav 
+PB - Harvard University Botany Libraries
+DA - 1843-01-07
+SP - 53210964
+EP - 53210966
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kunze, Gustav Jan. 7, 1843 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kunze, Gustav 
+PB - Harvard University Botany Libraries
+DA - 1844-10-27
+SP - 53210967
+EP - 53210968
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kunze, Gustav Oct. 27, 1844 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kunze, Gustav 
+PB - Harvard University Botany Libraries
+DA - 1846-02-03
+SP - 53210969
+EP - 53210971
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kunze, Gustav Feb. 3, 1846 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kunze, Gustav 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53210972
+EP - 53210973
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kunze, Gustav undated description 
+VL - 223797
+OC - 878725232
+
+
+TY - letter
+AU - Kunze, Gustav 
+PB - Harvard University Botany Libraries
+DA - 1847-06-24
+SP - 53210974
+EP - 53210975
+T1 - Asa Gray correspondence. Senders K, 1842-1891 (inclusive)
+ID - 129235
+TI - Kunze, Gustav June 24, 1847 
+VL - 223797
+OC - 878725232
+
+

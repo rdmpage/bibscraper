@@ -1,0 +1,2184 @@
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1870-01-04
+SP - 53112258
+EP - 53112259
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. Jan. 4, 1870 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1871-03-30
+SP - 53112260
+EP - 53112260
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. Mar. 30, 1871 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1877-04-21
+SP - 53112261
+EP - 53112262
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. Apr. 21, 1877 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1878-04-14
+SP - 53112263
+EP - 53112264
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. Apr. 14, 1878 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1878-05-03
+SP - 53112265
+EP - 53112266
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. May 3, 1878 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1879-05-02
+SP - 53112267
+EP - 53112268
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. May 2, 1879 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1879-12-17
+SP - 53112269
+EP - 53112270
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. Dec. 17, 1879 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1879-12-22
+SP - 53112271
+EP - 53112272
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. Dec. 22, 1879 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1879-12-24
+SP - 53112273
+EP - 53112274
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. Dec. 24, 1879 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1880-05-12
+SP - 53112275
+EP - 53112276
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. May 12, 1880 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1880-07
+SP - 53112277
+EP - 53112278
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. July [1880] 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garber, Abram P.
+PB - Harvard University Botany Libraries
+DA - 1880
+SP - 53112279
+EP - 53112279
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garber, Abram P. [1880] 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garrison, Wendell P.
+PB - Harvard University Botany Libraries
+DA - 1883-03-17
+SP - 53112280
+EP - 53112281
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garrison, Wendell P. Mar. 17, 1883 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Garrison, Wendell P.
+PB - Harvard University Botany Libraries
+DA - 1887-04-09
+SP - 53112282
+EP - 53112283
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Garrison, Wendell P. Apr. 9, 1887 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gattinger, Augustin
+PB - Harvard University Botany Libraries
+DA - 1878-08-17
+SP - 53112284
+EP - 53112286
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gattinger, Augustin Aug. 17, 1878 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gattinger, Augustin
+PB - Harvard University Botany Libraries
+DA - 1879-12-22
+SP - 53112287
+EP - 53112288
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gattinger, Augustin Dec. 22, 1879 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gattinger, Augustin
+PB - Harvard University Botany Libraries
+DA - 1880-05-15
+SP - 53112289
+EP - 53112290
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gattinger, Augustin May 15, 1880 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gattinger, Augustin
+PB - Harvard University Botany Libraries
+DA - 1880-05-21
+SP - 53112291
+EP - 53112292
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gattinger, Augustin May 21, 1880 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gattinger, Augustin
+PB - Harvard University Botany Libraries
+DA - 1882-07-18
+SP - 53112293
+EP - 53112294
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gattinger, Augustin July 18, 1882 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gattinger, Augustin
+PB - Harvard University Botany Libraries
+DA - 1884-08-25
+SP - 53112295
+EP - 53112295
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gattinger, Augustin Aug. 25, 1884 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gattinger, Augustin
+PB - Harvard University Botany Libraries
+DA - 1884-10-06
+SP - 53112296
+EP - 53112297
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gattinger, Augustin Oct. 6, 1884 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gattinger, Augustin
+PB - Harvard University Botany Libraries
+DA - 1884-10-18
+SP - 53112298
+EP - 53112299
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gattinger, Augustin Oct. 18, 1884 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gattinger, Augustin
+PB - Harvard University Botany Libraries
+DA - 1887-10-17
+SP - 53112300
+EP - 53112300
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gattinger, Augustin Oct. 17, 1887 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gatty, Horatia K. F.
+PB - Harvard University Botany Libraries
+DA - 09-14
+SP - 53112301
+EP - 53112304
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gatty, Horatia K. F. Sept. 14 [no year]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1844-01-12
+SP - 53112305
+EP - 53112307
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques Jan. 12, 1844 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1851-07-16
+SP - 53112308
+EP - 53112309
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques July 16, 1851 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1852-02-02
+SP - 53112310
+EP - 53112311
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques Feb. 2, 1852 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1853-05-11
+SP - 53112312
+EP - 53112313
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques May 11, 1853 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1855-09-19
+SP - 53112314
+EP - 53112316
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques Sept. 19, 1855 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1855-09-20
+SP - 53112317
+EP - 53112318
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques Sept. 20, 1855 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1860-03-28
+SP - 53112319
+EP - 53112320
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques Mar. 28, 1860 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1860-05-28
+SP - 53112321
+EP - 53112322
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques May 28, 1860 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1860-07-09
+SP - 53112323
+EP - 53112324
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques July 9, 1860 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1860-09-26
+SP - 53112325
+EP - 53112326
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques Sept. 26, 1860 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1862-05-27
+SP - 53112327
+EP - 53112328
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques May 27, 1862 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1862-07-13
+SP - 53112329
+EP - 53112330
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques July 13, 1862 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1862-10-07
+SP - 53112331
+EP - 53112332
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques Oct. 7, 1862 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - 1863-01-29
+SP - 53112333
+EP - 53112334
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques Jan. 29, 1863 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Chevreul, Michel E.
+PB - Harvard University Botany Libraries
+DA - 1864-03-16
+SP - 53112335
+EP - 53112336
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Chevreul, Michel E. Mar. 16, 1864 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Charles
+PB - Harvard University Botany Libraries
+DA - 1865-05-17
+SP - 53112337
+EP - 53112338
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Charles May 17, 1865 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gay, Jacques
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112339
+EP - 53112339
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gay, Jacques undated [Tues.]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gedney, Albert G.
+PB - Harvard University Botany Libraries
+DA - 1886-04-27
+SP - 53112340
+EP - 53112341
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gedney, Albert G. Apr. 27, 1886 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Geheeb, Adalbert
+PB - Harvard University Botany Libraries
+DA - 1878-09-15
+SP - 53112342
+EP - 53112343
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Geheeb, Adalbert Sept. 15, 1878 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Geheeb, Adalbert
+PB - Harvard University Botany Libraries
+DA - 1879-02-28
+SP - 53112344
+EP - 53112345
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Geheeb, Adalbert Feb. 28, 1879 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gerard, J. N.
+PB - Harvard University Botany Libraries
+DA - 1891-12-02
+SP - 53112346
+EP - 53112346
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gerard, J. N. Dec. 2, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gerard, William R.
+PB - Harvard University Botany Libraries
+DA - 1887-07-11
+SP - 53112347
+EP - 53112348
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gerard, William R. July 11, 1887 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1842-05-26
+SP - 53112349
+EP - 53112351
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. May 26, 1842 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1850-05-10
+SP - 53112352
+EP - 53112353
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. May 10, 1850 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1855-06-02
+SP - 53112354
+EP - 53112355
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. June 2, 1855 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1857-03-23
+SP - 53112356
+EP - 53112357
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. Mar. 23, 1857 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1857-04-10
+SP - 53112358
+EP - 53112361
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. Apr. 10, 1857 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1857-05-02
+SP - 53112362
+EP - 53112363
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. May 2, 1857 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1857-05-30
+SP - 53112364
+EP - 53112365
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. May 30, 1857 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1857-07-10
+SP - 53112366
+EP - 53112367
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. July 10, 1857 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1857-07-11
+SP - 53112368
+EP - 53112368
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. July 11, 1857 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1858-01-22
+SP - 53112369
+EP - 53112371
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. Jan. 22, 1858 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1858-05-03
+SP - 53112372
+EP - 53112375
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. May 3, 1858 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1858-09-04
+SP - 53112376
+EP - 53112377
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. Sept. 4, 1858 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1859-03-22
+SP - 53112378
+EP - 53112379
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. Mar. 22, 1859 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1882-02-08
+SP - 53112380
+EP - 53112381
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. Feb. 8, 1882 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1882-03-23
+SP - 53112382
+EP - 53112383
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. Mar. 23, 1882 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1882-07-05
+SP - 53112384
+EP - 53112385
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. July 5, 1882 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbes, Lewis R.
+PB - Harvard University Botany Libraries
+DA - 1883-11-20
+SP - 53112386
+EP - 53112387
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbes, Lewis R. Nov. 20, 1883 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbons, H.
+PB - Harvard University Botany Libraries
+DA - 1853-07-31
+SP - 53112388
+EP - 53112389
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbons, H. [July] 31, 1853 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gibbs, George
+PB - Harvard University Botany Libraries
+DA - 1871-12-01
+SP - 53112390
+EP - 53112390
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gibbs, George Dec. 1, 1871 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gilbert, Joseph H.
+PB - Harvard University Botany Libraries
+DA - 1881-06-15
+SP - 53112391
+EP - 53112391
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gilbert, Joseph H. June 15, 1881 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gilbert, Joseph H.
+PB - Harvard University Botany Libraries
+DA - 1884-10-20
+SP - 53112392
+EP - 53112393
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gilbert, Joseph H. Oct. 20, 1884 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gill, Theodore N.
+PB - Harvard University Botany Libraries
+DA - 1865-02-14
+SP - 53112394
+EP - 53112397
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gill, Theodore N. Feb. 14, 1865 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillespie, James L.
+PB - Harvard University Botany Libraries
+DA - 1855-03-14
+SP - 53112398
+EP - 53112399
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillespie, James L. Mar. 14, 1855 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillett, Edward
+PB - Harvard University Botany Libraries
+DA - 1891-07-24
+SP - 53112400
+EP - 53112401
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillett, Edward July 24, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillett, Edward
+PB - Harvard University Botany Libraries
+DA - 1891-08-22
+SP - 53112402
+EP - 53112402
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillett, Edward Aug. 22, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillett, Edward
+PB - Harvard University Botany Libraries
+DA - 1891-10-06
+SP - 53112403
+EP - 53112403
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillett, Edward Oct. 6, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillett, Edward
+PB - Harvard University Botany Libraries
+DA - 1891-11-09
+SP - 53112404
+EP - 53112404
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillett, Edward Nov. 9, 1891 [to S. Watson] [enclosed invoice]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillett, Edward
+PB - Harvard University Botany Libraries
+DA - 1891-11-09
+SP - 53112405
+EP - 53112405
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillett, Edward Nov. 9, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillett, Edward
+PB - Harvard University Botany Libraries
+DA - 1891-11-20
+SP - 53112406
+EP - 53112406
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillett, Edward Nov. 20, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillett, Edward
+PB - Harvard University Botany Libraries
+DA - 1891-11-11
+SP - 53112407
+EP - 53112407
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillett, Edward Nov. 11, 1891 [to S. Watson] [invoice]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillman, Henry
+PB - Harvard University Botany Libraries
+DA - 1867-10-26
+SP - 53112408
+EP - 53112409
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillman, Henry Oct. 26, 1867 [fragment]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillman, Henry
+PB - Harvard University Botany Libraries
+DA - 1875-07-18
+SP - 53112410
+EP - 53112411
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillman, Henry July 18, 1875 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gillman, Henry
+PB - Harvard University Botany Libraries
+DA - 1875-09-29
+SP - 53112412
+EP - 53112413
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gillman, Henry Sept. 29, 1875 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gilson, Franklin H.
+PB - Harvard University Botany Libraries
+DA - 1887-07-16
+SP - 53112414
+EP - 53112414
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gilson, Franklin H. July 16, 1887 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Girard, Joseph B.
+PB - Harvard University Botany Libraries
+DA - 1880-06-29
+SP - 53112415
+EP - 53112416
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Girard, Joseph B. June 29, 1880 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goddard, Paul B.
+PB - Harvard University Botany Libraries
+DA - 1837-09-28
+SP - 53112417
+EP - 53112418
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goddard, Paul B. Sept. 28, 1837 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1850-10-23
+SP - 53112419
+EP - 53112421
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Oct. 23, 1850 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1851-02-25
+SP - 53112422
+EP - 53112424
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Feb. 25, 1851 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1851-04-19
+SP - 53112425
+EP - 53112427
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Apr. 19, 1851 [to R. J. Shuttleworth]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1851-06-03
+SP - 53112428
+EP - 53112429
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. June 3, 1851 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1851-06
+SP - 53112430
+EP - 53112431
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. June 1851 [list]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1851-06-10
+SP - 53112432
+EP - 53112433
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. June 10, 1851 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1852-03-15
+SP - 53112434
+EP - 53112436
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Mar. 15, 1852 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1853-05-25
+SP - 53112437
+EP - 53112438
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. May 25, 1853 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1854-03-01
+SP - 53112439
+EP - 53112440
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Mar. 1, 1854 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1854-07-08
+SP - 53112441
+EP - 53112442
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. July 8, 1854 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1855-03-14
+SP - 53112443
+EP - 53112444
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Mar. 14, 1855 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112445
+EP - 53112446
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. undated note
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 04-24
+SP - 53112447
+EP - 53112450
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Apr. 24, [1855/56] 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1856-05-30
+SP - 53112451
+EP - 53112452
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. May 30, 1856 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1857-10-24
+SP - 53112453
+EP - 53112454
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Oct. 24, 1857 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1858-04-16
+SP - 53112455
+EP - 53112456
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Apr. 16, 1858 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1859-08-10
+SP - 53112457
+EP - 53112458
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Aug. 10, 1859 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1860-01-10
+SP - 53112459
+EP - 53112460
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Jan. 10, 1860 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1864-11-01
+SP - 53112461
+EP - 53112462
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Nov. 1, 1864 [extract]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1869-07-21
+SP - 53112463
+EP - 53112463
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. July 21, 1869 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112464
+EP - 53112465
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. undated 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1872-12-05
+SP - 53112466
+EP - 53112467
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Dec. 5, 1872 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1873-08-09
+SP - 53112468
+EP - 53112469
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Aug. 9, 1873 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1874-04-30
+SP - 53112470
+EP - 53112471
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Apr. 30, 1874 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1877-01-28
+SP - 53112472
+EP - 53112473
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. Jan. 28, 1877 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Godet, Charles H.
+PB - Harvard University Botany Libraries
+DA - 1879-05-15
+SP - 53112474
+EP - 53112475
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Godet, Charles H. May 15, 1879 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goldie, John
+PB - Harvard University Botany Libraries
+DA - 1846-04-10
+SP - 53112476
+EP - 53112478
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goldie, John Apr. 10, 1846 [to J. Goldie]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goldie, John
+PB - Harvard University Botany Libraries
+DA - 1846-07-15
+SP - 53112479
+EP - 53112479
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goldie, John July 15, 1846 [to J. Goldie] [envelope]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goldie, John
+PB - Harvard University Botany Libraries
+DA - 1846-07-15
+SP - 53112480
+EP - 53112480
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goldie, John July 15, 1846 [to J. Goldie] [envelope
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goldie, John
+PB - Harvard University Botany Libraries
+DA - 1846-07-15
+SP - 53112481
+EP - 53112482
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goldie, John July 15, 1846 [to J. Goldie]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1870-06-25
+SP - 53112483
+EP - 53112484
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. June 25, 1870 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1875-12-13
+SP - 53112485
+EP - 53112486
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Dec. 13, 1875 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Warren, Gretchen O.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112487
+EP - 53112487
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Warren, Gretchen O. undated [to unknown]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1880-11-16
+SP - 53112488
+EP - 53112489
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Nov. 16, 1880 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1880-11-18
+SP - 53112490
+EP - 53112491
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Nov. 18, 1880 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1881-09-01
+SP - 53112492
+EP - 53112494
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Sept. 1, 1881 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1881-09-15
+SP - 53112495
+EP - 53112496
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Sept. 15, 1881 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1870-12-17
+SP - 53112497
+EP - 53112497
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Dec. [17], 1870 [to E. Palmer]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1870-12-27
+SP - 53112498
+EP - 53112498
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Dec. 27, 1870 [to E. Palmer]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1881-10-11
+SP - 53112499
+EP - 53112500
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Oct. 11, 1881 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1889-05-08
+SP - 53112501
+EP - 53112501
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. May 8, [1889] [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1890-10-13
+SP - 53112502
+EP - 53112503
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Oct. 13, 1890 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1890-12-20
+SP - 53112504
+EP - 53112505
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Dec. 20, 1890 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1891-06-06
+SP - 53112506
+EP - 53112507
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. June 6, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 1891-08-14
+SP - 53112508
+EP - 53112508
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Aug. 14 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - 09-15
+SP - 53112509
+EP - 53112510
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Sept. 15 [no year] [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA1-20
+SP - 53112511
+EP - 53112512
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. Nov. 20 [no year] [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112513
+EP - 53112514
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. undated 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112515
+EP - 53112515
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. undated [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112516
+EP - 53112517
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. undated [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112518
+EP - 53112518
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. undated [to J. Gray]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112519
+EP - 53112519
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. undated note
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, George L.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112520
+EP - 53112522
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, George L. undated essay
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, Henrietta J.
+PB - Harvard University Botany Libraries
+DA - 1891-03-23
+SP - 53112523
+EP - 53112524
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, Henrietta J. Mar. 23, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, Henrietta J.
+PB - Harvard University Botany Libraries
+DA - 1891-02-14
+SP - 53112525
+EP - 53112525
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, Henrietta J. Feb. 14 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, Henrietta J.
+PB - Harvard University Botany Libraries
+DA - 02-14
+SP - 53112526
+EP - 53112527
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, Henrietta J. Feb. 14 [no year] [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, Henrietta J.
+PB - Harvard University Botany Libraries
+DA - 04-15
+SP - 53112528
+EP - 53112529
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, Henrietta J. Apr. 15 [no year] [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodale, Henrietta J.
+PB - Harvard University Botany Libraries
+DA0-29
+SP - 53112530
+EP - 53112530
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodale, Henrietta J. Oct. 29 [no year] [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goode, G. Brown
+PB - Harvard University Botany Libraries
+DA - 1887-10-23
+SP - 53112531
+EP - 53112544
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goode, G. Brown Oct. 23, 1887 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goode, G. Brown
+PB - Harvard University Botany Libraries
+DA - 1888-11-22
+SP - 53112545
+EP - 53112546
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goode, G. Brown Nov. 22, 1888 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goode, G. Brown
+PB - Harvard University Botany Libraries
+DA - 1889-06-18
+SP - 53112547
+EP - 53112549
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goode, G. Brown June 18, 1889 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goode, G. Brown
+PB - Harvard University Botany Libraries
+DA - 1891-06-27
+SP - 53112550
+EP - 53112551
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goode, G. Brown June 27, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goode, G. Brown
+PB - Harvard University Botany Libraries
+DA - 1891-07-22
+SP - 53112552
+EP - 53112554
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goode, G. Brown July 22, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goode, G. Brown
+PB - Harvard University Botany Libraries
+DA - 1891-08-19
+SP - 53112555
+EP - 53112556
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goode, G. Brown Aug. 19, 1891 [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodell, Abner C.
+PB - Harvard University Botany Libraries
+DA - 1877-12-11
+SP - 53112557
+EP - 53112558
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodell, Abner C. Dec. 11, 1877 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Goodrich, Jennie P.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53112559
+EP - 53112560
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Goodrich, Jennie P. undated [to S. Watson]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gottsche, Karl M.
+PB - Harvard University Botany Libraries
+DA - 1868-08-28
+SP - 53112561
+EP - 53112562
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gottsche, Karl M. Aug. 28, 1868 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gottsche, Karl M.
+PB - Harvard University Botany Libraries
+DA - 1869-09-27
+SP - 53112563
+EP - 53112564
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gottsche, Karl M. Sept. 27, 1869 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gottsche, Karl M.
+PB - Harvard University Botany Libraries
+DA - 1869
+SP - 53112565
+EP - 53112566
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gottsche, Karl M. [1869] [list]
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gottsche, Karl M.
+PB - Harvard University Botany Libraries
+DA - 1869-11-03
+SP - 53112567
+EP - 53112568
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gottsche, Karl M. Nov. 3, 1869 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gottsche, Karl M.
+PB - Harvard University Botany Libraries
+DA - 1880-07-08
+SP - 53112569
+EP - 53112570
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gottsche, Karl M. July 8, 1880 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gottsche, Karl M.
+PB - Harvard University Botany Libraries
+DA - 1880-08-15
+SP - 53112571
+EP - 53112572
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gottsche, Karl M. Aug. 15, 1880 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gould, Benjamin A.
+PB - Harvard University Botany Libraries
+DA - 1870-05-27
+SP - 53112573
+EP - 53112573
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gould, Benjamin A. May 27, 1870 
+VL - 222854
+OC - 878725232
+
+
+
+TY - letter
+AU - Gould, Benjamin A.
+PB - Harvard University Botany Libraries
+DA - 1876-08-12
+SP - 53112574
+EP - 53112574
+T1 - Asa Gray correspondence. Senders Ga-Go, 1835-1891 (inclusive)
+ID - 128568
+TI - Gould, Benjamin A. Aug. 12, 1876 
+VL - 222854
+OC - 878725232
+
+
+

@@ -1,0 +1,1547 @@
+TY - letter
+AU - Ingraham, Rollin H. 
+PB - Harvard University Botany Libraries
+DA - 1888-08-13
+SP - 53212417
+EP - 53212418
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ingraham, Rollin H. Aug. 13, 1888 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ingraham, Rollin H. 
+PB - Harvard University Botany Libraries
+DA - 1889-09-19
+SP - 53212419
+EP - 53212419
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ingraham, Rollin H. Sept. 19, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ingraham, Rollin H. 
+PB - Harvard University Botany Libraries
+DA - 1889-09-19
+SP - 53212420
+EP - 53212421
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ingraham, Rollin H. Sept. 19, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ingraham, Rollin H. 
+PB - Harvard University Botany Libraries
+DA - 1890-03-17
+SP - 53212422
+EP - 53212422
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ingraham, Rollin H. Mar. 17, 1890 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ingraham, Rollin H. 
+PB - Harvard University Botany Libraries
+DA - 1891-05-07
+SP - 53212423
+EP - 53212423
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ingraham, Rollin H. May 7, 1891 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ingraham, Rollin H. 
+PB - Harvard University Botany Libraries
+DA - 1891-07-14
+SP - 53212424
+EP - 53212425
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ingraham, Rollin H. July 14, 1891 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ingraham, Rollin H. 
+PB - Harvard University Botany Libraries
+DA - 1891-08-04
+SP - 53212426
+EP - 53212426
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ingraham, Rollin H. Aug. 4, 1891 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ingraham, Rollin H. 
+PB - Harvard University Botany Libraries
+DA - 1891-08-20
+SP - 53212427
+EP - 53212427
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ingraham, Rollin H. Aug. 20, 1891 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ingraham, Rollin H. 
+PB - Harvard University Botany Libraries
+DA - 1891-09-09
+SP - 53212428
+EP - 53212428
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ingraham, Rollin H. Sept. 9, 1891 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-01-17
+SP - 53212429
+EP - 53212429
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 17, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-01-27
+SP - 53212430
+EP - 53212430
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 27, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-02-20
+SP - 53212431
+EP - 53212432
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 20, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-03-06
+SP - 53212433
+EP - 53212434
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 6, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-03-12
+SP - 53212435
+EP - 53212435
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 12, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-04-02
+SP - 53212436
+EP - 53212436
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 2, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-04-04
+SP - 53212437
+EP - 53212438
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 4, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-04-28
+SP - 53212439
+EP - 53212439
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 28, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-05-19
+SP - 53212440
+EP - 53212441
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 19, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-07-25
+SP - 53212442
+EP - 53212442
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] July 25, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-08-08
+SP - 53212443
+EP - 53212443
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Aug. 8, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-08-10
+SP - 53212444
+EP - 53212445
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Aug. 10, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-08-13
+SP - 53212446
+EP - 53212447
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Aug. 13, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-08-31
+SP - 53212448
+EP - 53212448
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Aug. 31, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-12-07
+SP - 53212449
+EP - 53212449
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 7, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-12-19
+SP - 53212450
+EP - 53212450
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 19, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-12
+SP - 53212451
+EP - 53212451
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] [Dec. 1857] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1857-12-29
+SP - 53212452
+EP - 53212452
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 29, 1857 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-01-09
+SP - 53212453
+EP - 53212453
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 9, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-03-05
+SP - 53212454
+EP - 53212454
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 5, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-04-20
+SP - 53212455
+EP - 53212455
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 20, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-04-21
+SP - 53212456
+EP - 53212456
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 21, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-04-21
+SP - 53212457
+EP - 53212457
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 21, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-04-30
+SP - 53212458
+EP - 53212458
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 30, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-05-06
+SP - 53212459
+EP - 53212460
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 6, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-05-07
+SP - 53212461
+EP - 53212461
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 7, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-05-11
+SP - 53212462
+EP - 53212462
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 11, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-05-14
+SP - 53212463
+EP - 53212464
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 14, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1858-05-15
+SP - 53212465
+EP - 53212465
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 15, 1858 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1859-02-01
+SP - 53212466
+EP - 53212466
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 1, 1859 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1859-02-05
+SP - 53212467
+EP - 53212467
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 5, 1859 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1859-02-12
+SP - 53212468
+EP - 53212468
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 12, 1859 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1860-03-29
+SP - 53212469
+EP - 53212469
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 29, 1860 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1860-09-11
+SP - 53212470
+EP - 53212470
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Sept. 11, 1860 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1860-09-19
+SP - 53212471
+EP - 53212471
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Sept. 19, 1860 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1860-10-15
+SP - 53212472
+EP - 53212472
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Oct. 15, 1860 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1861-02-26
+SP - 53212473
+EP - 53212473
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 26, 1861 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1874-04-10
+SP - 53212474
+EP - 53212474
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 10, 1874 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1875-01-13
+SP - 53212475
+EP - 53212475
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 13, 1875 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1876-11
+SP - 53212476
+EP - 53212476
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Nov. 1876 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1876-11-01
+SP - 53212477
+EP - 53212477
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Nov. 1, 1876 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1877-11-05
+SP - 53212478
+EP - 53212478
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Nov. 5, 1877 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1881-07
+SP - 53212479
+EP - 53212480
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] July 1881 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1881-12-31
+SP - 53212481
+EP - 53212481
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 31, 1881 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1882-01
+SP - 53212482
+EP - 53212483
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 1882 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1882-07
+SP - 53212484
+EP - 53212485
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] July 1882 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1883-01-17
+SP - 53212486
+EP - 53212486
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 17, 1883 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1883-07
+SP - 53212487
+EP - 53212488
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] July 1883 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1883-11-01
+SP - 53212489
+EP - 53212490
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Nov. 1, 1883 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1884-01-01
+SP - 53212491
+EP - 53212492
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 1, 1884 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1884-05-01
+SP - 53212493
+EP - 53212493
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 1, 1884 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1884-07
+SP - 53212494
+EP - 53212495
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] July 1884 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1885-01
+SP - 53212496
+EP - 53212497
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 1885 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1885-01
+SP - 53212498
+EP - 53212499
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 1885 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1885-03-09
+SP - 53212500
+EP - 53212500
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 9, 1885 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1885-07
+SP - 53212501
+EP - 53212502
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] July 1885 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1885-12-01
+SP - 53212503
+EP - 53212503
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 1, 1885 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1885-12-09
+SP - 53212504
+EP - 53212504
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 9, 1885 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1885-12-11
+SP - 53212505
+EP - 53212505
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 11, 1885 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1885-12-31
+SP - 53212506
+EP - 53212506
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 31, 1885 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-01
+SP - 53212507
+EP - 53212508
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-03-01
+SP - 53212509
+EP - 53212509
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 1, 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-04-19
+SP - 53212510
+EP - 53212510
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 19, 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-04-19
+SP - 53212511
+EP - 53212511
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 19, 1886 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-04
+SP - 53212512
+EP - 53212512
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-04-27
+SP - 53212513
+EP - 53212513
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 27, 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-05-20
+SP - 53212514
+EP - 53212514
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 20, 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-05-25
+SP - 53212515
+EP - 53212515
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 25, 1886 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-06-02
+SP - 53212516
+EP - 53212516
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] June 2, 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-07
+SP - 53212517
+EP - 53212518
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] July 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-11-01
+SP - 53212519
+EP - 53212519
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Nov. 1, 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-12-31
+SP - 53212520
+EP - 53212520
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 31, 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1886-12-31
+SP - 53212521
+EP - 53212521
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 31, 1886 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-01
+SP - 53212522
+EP - 53212523
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 1887 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-03-09
+SP - 53212524
+EP - 53212524
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 9, 1887 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-03-29
+SP - 53212525
+EP - 53212525
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 29, 1887 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-05-24
+SP - 53212526
+EP - 53212526
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 24, 1887 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-05-26
+SP - 53212527
+EP - 53212527
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] May 26, 1887 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-07
+SP - 53212528
+EP - 53212529
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] July 1887 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-09-26
+SP - 53212530
+EP - 53212530
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Sept. 26, 1887 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-10-01
+SP - 53212531
+EP - 53212531
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Oct. 1, 1887 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-10-20
+SP - 53212532
+EP - 53212533
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Oct. 20, 1887 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-10-21
+SP - 53212534
+EP - 53212534
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Oct. 21, 1887 [invoice] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1887-10-22
+SP - 53212535
+EP - 53212536
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Oct. 22, 1887 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1888-02-21
+SP - 53212537
+EP - 53212537
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 21, 1888 [to G. L. Goodale] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1888-02-23
+SP - 53212538
+EP - 53212538
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 23, 1888 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1888-03-20
+SP - 53212539
+EP - 53212539
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 20, 1888 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1888-06-20
+SP - 53212540
+EP - 53212541
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] June 20, 1888 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1888-09-21
+SP - 53212542
+EP - 53212542
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Sept. 21, 1888 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1888-11-07
+SP - 53212543
+EP - 53212543
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Nov. 7, 1888 [to E. W. Hooper] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-01-16
+SP - 53212544
+EP - 53212544
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 16, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-01-29
+SP - 53212545
+EP - 53212546
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 29, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-02-02
+SP - 53212547
+EP - 53212547
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 2, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-02-08
+SP - 53212548
+EP - 53212548
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 8, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-04-15
+SP - 53212549
+EP - 53212549
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Apr. 15, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-06-08
+SP - 53212550
+EP - 53212550
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] June 8, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-09-21
+SP - 53212551
+EP - 53212551
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Sept. 21, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-09-28
+SP - 53212552
+EP - 53212552
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Sept. 28, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-10-10
+SP - 53212553
+EP - 53212553
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Oct. 10, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-10-23
+SP - 53212554
+EP - 53212554
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Oct. 23, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-12-14
+SP - 53212555
+EP - 53212555
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Dec. 14, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-11-14
+SP - 53212556
+EP - 53212556
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Nov. 14, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-11-20
+SP - 53212557
+EP - 53212557
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Nov. 20, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1889-11-21
+SP - 53212558
+EP - 53212558
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Nov. 21, 1889 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1890-01-06
+SP - 53212559
+EP - 53212559
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 6, 1890 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1890-01-21
+SP - 53212560
+EP - 53212560
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Jan. 21, 1890 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1890-02-04
+SP - 53212561
+EP - 53212561
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 4, 1890 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1890-02-04
+SP - 53212562
+EP - 53212562
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 4, 1890 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1890-02-11
+SP - 53212563
+EP - 53212564
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Feb. 11, 1890 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+
+TY - letter
+AU - Ivison [Publishers] 
+PB - Harvard University Botany Libraries
+DA - 1890-03-17
+SP - 53212565
+EP - 53212565
+T1 - Asa Gray correspondence. Senders In-Iv, 1857-1891 (inclusive)
+ID - 129239
+TI - Ivison [Publishers] Mar. 17, 1890 [to S. Watson] 
+VL - 223802
+OC - 878725232
+
+

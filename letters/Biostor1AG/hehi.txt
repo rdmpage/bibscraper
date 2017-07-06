@@ -1,0 +1,858 @@
+﻿TY - letter
+AU - Heimerl, Anton
+PB - Harvard University Botany Libraries
+DA - 1887-05-02
+SP - 53113288
+EP - 53113289
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Heimerl, Anton May 2, 1887 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - 1878-07-31
+SP - 53113290
+EP - 53113293
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. July 31, 1878 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - 1879-06-04
+SP - 53113294
+EP - 53113295
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. June 4, 1879 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - 1880-02-21
+SP - 53113296
+EP - 53113297
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. Feb. 21, 1880 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - 1880-03-24
+SP - 53113298
+EP - 53113299
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. Mar. 24, 1880 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - 1880-03-25
+SP - 53113300
+EP - 53113301
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. Mar. 25, 1880 [postcard]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - 07-23
+SP - 53113302
+EP - 53113303
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. July 23 [no year]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - 12-12
+SP - 53113304
+EP - 53113305
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. Dec. 12 [no year]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - 1891-05-21
+SP - 53113306
+EP - 53113307
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. May 21, 1891 [to S. Watson] [postcard]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - 1891-09-10
+SP - 53113308
+EP - 53113309
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. Sept. 10, 1891 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hemsley, William B.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53113310
+EP - 53113311
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hemsley, William B. undated [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henderson, Louis F.
+PB - Harvard University Botany Libraries
+DA - 1881-12-17
+SP - 53113312
+EP - 53113314
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henderson, Louis F. Dec. 17, 1881 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henderson, Louis F.
+PB - Harvard University Botany Libraries
+DA - 1882-03-01
+SP - 53113315
+EP - 53113318
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henderson, Louis F. Mar. 1, 1882 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henderson, Louis F.
+PB - Harvard University Botany Libraries
+DA - 1888-02-05
+SP - 53113319
+EP - 53113320
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henderson, Louis F. Feb. 5, 1888 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henderson, Louis F.
+PB - Harvard University Botany Libraries
+DA - 1888-03-19
+SP - 53113321
+EP - 53113322
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henderson, Louis F. Mar. 19, 1888 [to S. Watson] [postcard]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henderson, Louis F.
+PB - Harvard University Botany Libraries
+DA - 1888-04-09
+SP - 53113323
+EP - 53113324
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henderson, Louis F. Apr. 9, 1888 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henderson, Louis F.
+PB - Harvard University Botany Libraries
+DA - 10-05
+SP - 53113325
+EP - 53113326
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henderson, Louis F. Oct. 5 [no year]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henry, Augustine
+PB - Harvard University Botany Libraries
+DA - 1891-04-01
+SP - 53113327
+EP - 53113328
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henry, Augustine Apr. 1, 1891 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hensel, Bruckman & Lorbacher
+PB - Harvard University Botany Libraries
+DA - 1884-10-27
+SP - 53113329
+EP - 53113329
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hensel, Bruckman & Lorbacher Oct. 27, 1884 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henslow, George
+PB - Harvard University Botany Libraries
+DA - 1879-06-02
+SP - 53113330
+EP - 53113331
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henslow, George June 2, 1879 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henslow, George
+PB - Harvard University Botany Libraries
+DA - 1879-06-16
+SP - 53113332
+EP - 53113333
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henslow, George June 16, 1879 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henslow, George
+PB - Harvard University Botany Libraries
+DA - 1882-02-03
+SP - 53113334
+EP - 53113335
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henslow, George Feb. 3, 1882 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henslow, George
+PB - Harvard University Botany Libraries
+DA - 1886-06-25
+SP - 53113336
+EP - 53113337
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henslow, George June 25, 1886 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henslow, George
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53113338
+EP - 53113339
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henslow, George undated 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Henslow, John S.
+PB - Harvard University Botany Libraries
+DA - 1855-06-25
+SP - 53113340
+EP - 53113342
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Henslow, John S. June 25, 1855 [to Lester]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hérincq, François
+PB - Harvard University Botany Libraries
+DA - 1880-12-16
+SP - 53113343
+EP - 53113343
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hérincq, François Dec. 16, 1880 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hérincq, François
+PB - Harvard University Botany Libraries
+DA - 1881-01-18
+SP - 53113344
+EP - 53113345
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hérincq, François Jan. 18, 1881 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Herschel, John
+PB - Harvard University Botany Libraries
+DA - 1874-01-31
+SP - 53113346
+EP - 53113347
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Herschel, John Jan. 31, 1874 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Herschel, John
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53113348
+EP - 53113348
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Herschel, John undated note
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hervey, E. Williams
+PB - Harvard University Botany Libraries
+DA - 1890-07-26
+SP - 53113349
+EP - 53113349
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hervey, E. Williams July 26, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hervey, E. Williams
+PB - Harvard University Botany Libraries
+DA - 1890-08-27
+SP - 53113350
+EP - 53113350
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hervey, E. Williams Aug. 27, 1890 [to B. L. Robinson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hervey, E. Williams
+PB - Harvard University Botany Libraries
+DA - 1890-11-08
+SP - 53113351
+EP - 53113351
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hervey, E. Williams Nov. 8, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hervey, E. Williams
+PB - Harvard University Botany Libraries
+DA - 1891-02-24
+SP - 53113352
+EP - 53113353
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hervey, E. Williams Feb. 24, 1891 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hervey, E. Williams
+PB - Harvard University Botany Libraries
+DA - 1891-03-06
+SP - 53113354
+EP - 53113355
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hervey, E. Williams Mar. 6, 1891 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hervey, E. Williams
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53113356
+EP - 53113356
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hervey, E. Williams undated fragment
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Heward, Robert
+PB - Harvard University Botany Libraries
+DA - 1849-01-25
+SP - 53113357
+EP - 53113358
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Heward, Robert Jan. 25, 1849 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Heward, Robert
+PB - Harvard University Botany Libraries
+DA - 1849-06-19
+SP - 53113359
+EP - 53113360
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Heward, Robert June 19, 1849 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hicks, Gilbert H.
+PB - Harvard University Botany Libraries
+DA - 1890-07-21
+SP - 53113361
+EP - 53113364
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hicks, Gilbert H. July 21, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hicks, Gilbert H.
+PB - Harvard University Botany Libraries
+DA - 1890-08-14
+SP - 53113365
+EP - 53113365
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hicks, Gilbert H. Aug. 14, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hiern, William P.
+PB - Harvard University Botany Libraries
+DA - 1878-05-03
+SP - 53113366
+EP - 53113367
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hiern, William P. May 3, 1878 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Higginson, S. Storrow
+PB - Harvard University Botany Libraries
+DA - 1879-07-21
+SP - 53113368
+EP - 53113369
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Higginson, S. Storrow July 21, 1879 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Higginson, S. Storrow
+PB - Harvard University Botany Libraries
+DA - 1891-11-12
+SP - 53113370
+EP - 53113371
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Higginson, S. Storrow Nov. 12, 1891 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Higley, William K.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53113372
+EP - 53113373
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Higley, William K. undated [missing date] [to unknown]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hill, Ellsworth J.
+PB - Harvard University Botany Libraries
+DA - 1882-02-04
+SP - 53113374
+EP - 53113375
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hill, Ellsworth J. Feb. 4, 1882 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hill, Ellsworth J.
+PB - Harvard University Botany Libraries
+DA - 1890-01-29
+SP - 53113376
+EP - 53113377
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hill, Ellsworth J. Jan. 29, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hill, Thomas
+PB - Harvard University Botany Libraries
+DA - 1877
+SP - 53113378
+EP - 53113379
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hill, Thomas 1877 [poem]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hill, Thomas
+PB - Harvard University Botany Libraries
+DA - 1891-09-25
+SP - 53113380
+EP - 53113381
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hill, Thomas Sept. 25, 1891 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hillebrand, William
+PB - Harvard University Botany Libraries
+DA - 1883-03-29
+SP - 53113382
+EP - 53113387
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hillebrand, William Mar. 29, 1883 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hincks, William
+PB - Harvard University Botany Libraries
+DA - 1847-05-01
+SP - 53113388
+EP - 53113390
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hincks, William May 1847 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hincks, William
+PB - Harvard University Botany Libraries
+DA - 1857-02-17
+SP - 53113391
+EP - 53113392
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hincks, William Feb. 17, 1857 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hincks, William
+PB - Harvard University Botany Libraries
+DA - 1858-05-19
+SP - 53113393
+EP - 53113396
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hincks, William May 19, 1858 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hincks, William
+PB - Harvard University Botany Libraries
+DA - 1867-08-28
+SP - 53113397
+EP - 53113398
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hincks, William Aug. 28, 1867 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hincks, William
+PB - Harvard University Botany Libraries
+DA - 1870-11-02
+SP - 53113399
+EP - 53113400
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hincks, William Nov. 2, 1870 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hindshaw, Henry H.
+PB - Harvard University Botany Libraries
+DA - 1891-11-04
+SP - 53113401
+EP - 53113402
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hindshaw, Henry H. Nov. 4, 1891 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Albert S.
+PB - Harvard University Botany Libraries
+DA - 1889-02-03
+SP - 53113403
+EP - 53113403
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Albert S. Feb. 3, 1889 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Albert S.
+PB - Harvard University Botany Libraries
+DA - 1889-05-16
+SP - 53113404
+EP - 53113404
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Albert S. May 16, 1889 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Albert S.
+PB - Harvard University Botany Libraries
+DA - 1890-04-08
+SP - 53113405
+EP - 53113405
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Albert S. Apr. 8, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Albert S.
+PB - Harvard University Botany Libraries
+DA - 1890-05-18
+SP - 53113406
+EP - 53113406
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Albert S. May 18, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Albert S.
+PB - Harvard University Botany Libraries
+DA - 1890-05-25
+SP - 53113407
+EP - 53113409
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Albert S. May 25, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Albert S.
+PB - Harvard University Botany Libraries
+DA - 1890-06-12
+SP - 53113410
+EP - 53113410
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Albert S. June 12, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Albert S.
+PB - Harvard University Botany Libraries
+DA - 1890-07-06
+SP - 53113411
+EP - 53113414
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Albert S. July 6, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Albert S.
+PB - Harvard University Botany Libraries
+DA - 1890-10-15
+SP - 53113415
+EP - 53113415
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Albert S. Oct. 15, 1890 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Edward
+PB - Harvard University Botany Libraries
+DA - 1846-03-23
+SP - 53113416
+EP - 53113417
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Edward Mar. 23, 1846 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchcock, Edward
+PB - Harvard University Botany Libraries
+DA - 1854-09-22
+SP - 53113418
+EP - 53113419
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchcock, Edward Sept. 22, 1854 
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchings, Ebenezer H.
+PB - Harvard University Botany Libraries
+DA - 1889-01-26
+SP - 53113420
+EP - 53113420
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchings, Ebenezer H. Jan. 26, 1889 [to Mr. Sears]
+VL - 222863
+OC - 878725232
+
+
+TY - letter
+AU - Hitchings, Ebenezer H.
+PB - Harvard University Botany Libraries
+DA - 1891-06-27
+SP - 53113421
+EP - 53113421
+T1 - Asa Gray correspondence. Senders He-Hi, 1846-1891 (inclusive)
+ID - 128570
+TI - Hitchings, Ebenezer H. June 27, 1891 [to S. Watson]
+VL - 222863
+OC - 878725232
+
+

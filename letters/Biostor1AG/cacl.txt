@@ -1,0 +1,2652 @@
+﻿TY - letter
+AU - Cabell, Patrick H.
+PB - Harvard University Botany Libraries
+DA - 1859-03-26
+SP - 53047027
+EP - 53047028
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cabell, Patrick H. Mar. 26, 1859 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Calkins, William W.
+PB - Harvard University Botany Libraries
+DA - 1890
+SP - 53047029
+EP - 53047029
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Calkins, William W. 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Campbell, Douglas H.
+PB - Harvard University Botany Libraries
+DA - 10-26
+SP - 53047030
+EP - 53047030
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Campbell, Douglas H. Oct. 26 [no year] [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Campbell, Douglas H.
+PB - Harvard University Botany Libraries
+DA - 1891-11-13
+SP - 53047031
+EP - 53047031
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Campbell, Douglas H. Nov. 13, 1891 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de
+PB - Harvard University Botany Libraries
+DA - 1837-08-25
+SP - 53047032
+EP - 53047034
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Candolle, Alphonse de Aug. 25, 1837 [to P. Aucher-Eloy]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53047035
+EP - 53047036
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Candolle, Alphonse de undated [to unknown]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Canfield, Colbert A.
+PB - Harvard University Botany Libraries
+DA - 1859-10-06
+SP - 53047037
+EP - 53047038
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Canfield, Colbert A. Oct. 6, 1859 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carey, Samuel T.
+PB - Harvard University Botany Libraries
+DA - 1846-07-17
+SP - 53047039
+EP - 53047041
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carey, Samuel T. July 17, 1846 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carey, Samuel T.
+PB - Harvard University Botany Libraries
+DA - 1847-06-14
+SP - 53047042
+EP - 53047043
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carey, Samuel T. June 14, 1847 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carey, Samuel T.
+PB - Harvard University Botany Libraries
+DA - 1848-07-20
+SP - 53047044
+EP - 53047046
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carey, Samuel T. July 20, 1848 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carey, Samuel T.
+PB - Harvard University Botany Libraries
+DA - 1848-08-25
+SP - 53047047
+EP - 53047049
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carey, Samuel T. Aug. 25, 1848 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carey, Samuel T.
+PB - Harvard University Botany Libraries
+DA - 02-15
+SP - 53047050
+EP - 53047052
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carey, Samuel T. Feb. 15 [no year]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1868-05-22
+SP - 53047053
+EP - 53047054
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro May 22, 1868 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1869-10-02
+SP - 53047055
+EP - 53047056
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro Oct. 2, 1869 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1872-01-09
+SP - 53047057
+EP - 53047059
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro Jan. 9, 1872 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1872-07-20
+SP - 53047060
+EP - 53047062
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro July 20, 1872 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1874-07-31
+SP - 53047063
+EP - 53047064
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro July 31, 1874 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1876-11-15
+SP - 53047065
+EP - 53047066
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro Nov. 15, 1876 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1877-01-06
+SP - 53047067
+EP - 53047068
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro Jan. 6, 1877 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1878-11-13
+SP - 53047069
+EP - 53047070
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro Nov. 13, 1878 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1881-08-31
+SP - 53047071
+EP - 53047072
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro Aug. 31, 1881 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carnel, Teodoro
+PB - Harvard University Botany Libraries
+DA - 1881-09-16
+SP - 53047073
+EP - 53047074
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carnel, Teodoro Sept. 16, 1881 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruth, James H.
+PB - Harvard University Botany Libraries
+DA - 1888-07-05
+SP - 53047075
+EP - 53047080
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruth, James H. July 5, 1888 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1870-11-15
+SP - 53047081
+EP - 53047082
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William Nov. 15, 1870 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1871-10-04
+SP - 53047083
+EP - 53047083
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William Oct. 4, 1871 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1872-04-23
+SP - 53047084
+EP - 53047085
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William Apr. 23, 1872 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1873-12-12
+SP - 53047086
+EP - 53047087
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William Dec. 12, 1873 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1882-05-01
+SP - 53047088
+EP - 53047091
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William May 1, 1882 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1882-06-22
+SP - 53047092
+EP - 53047093
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William June 22, 1882 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1884-06-12
+SP - 53047094
+EP - 53047097
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William June 12, 1884 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1885-09-15
+SP - 53047098
+EP - 53047099
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William Sept. 15, 1885 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1886-04-14
+SP - 53047100
+EP - 53047101
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William Apr. 14, 1886 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Watson, Sereno
+PB - Harvard University Botany Libraries
+DA - 1890-02-13
+SP - 53047102
+EP - 53047103
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Watson, Sereno Feb. 13, 1890 [to W. Carruthers]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carruthers, William
+PB - Harvard University Botany Libraries
+DA - 1890-02-27
+SP - 53047104
+EP - 53047105
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carruthers, William Feb. 27, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Carson, Joseph
+PB - Harvard University Botany Libraries
+DA - 1844-06-08
+SP - 53047106
+EP - 53047107
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Carson, Joseph June 8, 1844 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Case, E. L.
+PB - Harvard University Botany Libraries
+DA - 1875-06-29
+SP - 53047108
+EP - 53047109
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Case, E. L. June 29, 1875 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Caspary, Robert
+PB - Harvard University Botany Libraries
+DA - 1856-02-17
+SP - 53047110
+EP - 53047111
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Caspary, Robert Feb. 17, 1856 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Caspary, Robert
+PB - Harvard University Botany Libraries
+DA - 1863-02-16
+SP - 53047112
+EP - 53047113
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Caspary, Robert Feb. 16, 1863 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Caspary, Robert
+PB - Harvard University Botany Libraries
+DA - 1865-09-25
+SP - 53047114
+EP - 53047117
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Caspary, Robert Sept. 25, 1865 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cassino, Samuel E.
+PB - Harvard University Botany Libraries
+DA - 1884-07-02
+SP - 53047118
+EP - 53047118
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cassino, Samuel E. July 2, 1884 [envelope]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cassino, Samuel E.
+PB - Harvard University Botany Libraries
+DA - 1884-07-02
+SP - 53047119
+EP - 53047119
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cassino, Samuel E. July 2, 1884 [envelope verso]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cassino, Samuel E.
+PB - Harvard University Botany Libraries
+DA - 1884-07-02
+SP - 53047120
+EP - 53047121
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cassino, Samuel E. July 2, 1884 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - S. E. Cassino & Co.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53047122
+EP - 53047122
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - S. E. Cassino & Co. undated 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Caswell, Alexis
+PB - Harvard University Botany Libraries
+DA - 1870-01-01
+SP - 53047123
+EP - 53047124
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Caswell, Alexis Jan. 1, 1870 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cathcart, Ellen W.
+PB - Harvard University Botany Libraries
+DA - 1890-06-02
+SP - 53047125
+EP - 53047126
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cathcart, Ellen W. June 2, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cathcart, Ellen W.
+PB - Harvard University Botany Libraries
+DA - 1891-03-03
+SP - 53047127
+EP - 53047128
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cathcart, Ellen W. Mar. 3, 1891 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Catley, Henry
+PB - Harvard University Botany Libraries
+DA - 1879-05-14
+SP - 53047129
+EP - 53047130
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Catley, Henry May 14, 1879 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Catley, Henry
+PB - Harvard University Botany Libraries
+DA - 1880-04-22
+SP - 53047131
+EP - 53047132
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Catley, Henry Apr. 22, 1880 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Catley, Henry
+PB - Harvard University Botany Libraries
+DA - 1880-06-03
+SP - 53047133
+EP - 53047134
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Catley, Henry June 3, 1880 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Catley, Henry
+PB - Harvard University Botany Libraries
+DA - 1889-09-22
+SP - 53047135
+EP - 53047136
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Catley, Henry Sept. 22, 1889 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cesati, Vincenzo
+PB - Harvard University Botany Libraries
+DA - 1869-03-30
+SP - 53047137
+EP - 53047137
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cesati, Vincenzo Mar. 30, 1869 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cesati, Vincenzo
+PB - Harvard University Botany Libraries
+DA - 1869-10-16
+SP - 53047138
+EP - 53047139
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cesati, Vincenzo Oct. 16, 1869 [envelope]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cesati, Vincenzo
+PB - Harvard University Botany Libraries
+DA - 1869-10-16
+SP - 53047140
+EP - 53047141
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cesati, Vincenzo Oct. 16, 1869 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cesati, Vincenzo
+PB - Harvard University Botany Libraries
+DA - 1872-10
+SP - 53047142
+EP - 53047143
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cesati, Vincenzo Oct. 1872 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chadbourne, Paul A.
+PB - Harvard University Botany Libraries
+DA - 1855-06-27
+SP - 53047144
+EP - 53047145
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chadbourne, Paul A. June 27, 1855 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1839-11-15
+SP - 53047146
+EP - 53047147
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Nov. 15, 1839 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1842-07-24
+SP - 53047148
+EP - 53047150
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. July 24, 1842 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1843-06-19
+SP - 53047151
+EP - 53047153
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. June 19, 1843 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1844-11-17
+SP - 53047154
+EP - 53047156
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Nov. 17, 1844 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1848-02-11
+SP - 53047157
+EP - 53047158
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Feb. 11, 1848 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1855-11-04
+SP - 53047159
+EP - 53047160
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Nov. 4, [1855] 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1855-11-04
+SP - 53047161
+EP - 53047161
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Nov. 4, [1855] [enclosed sketch]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1857-03-23
+SP - 53047162
+EP - 53047163
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Mar. 23, 1857 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1859-04-04
+SP - 53047164
+EP - 53047165
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Apr. 4, 1859 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1860-01-23
+SP - 53047166
+EP - 53047167
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Jan. 23, 1860 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1860-01-30
+SP - 53047168
+EP - 53047169
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Jan. 30, 1860 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1860-03-17
+SP - 53047170
+EP - 53047171
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Mar. 17, 1860 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1860-06-01
+SP - 53047172
+EP - 53047173
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. June 1, 1860 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1860-06-20
+SP - 53047174
+EP - 53047175
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. June 20, 1860 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1860-09-24
+SP - 53047176
+EP - 53047177
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Sept. 24, 1860 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1860-12-08
+SP - 53047178
+EP - 53047179
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Dec. 8, 1860 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1861-02-09
+SP - 53047180
+EP - 53047181
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Feb. 9, 1861 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1865-11-27
+SP - 53047182
+EP - 53047183
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Nov. 27, 1865 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1866-02-09
+SP - 53047184
+EP - 53047185
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Feb. 9, 1866 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1866-02-09
+SP - 53047186
+EP - 53047187
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Feb. 9, 1866 [to G. Thurber]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1866-02-09
+SP - 53047188
+EP - 53047188
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Feb. 9, 1866 [to G. Thurber] [enclosed list]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1866-07-10
+SP - 53047189
+EP - 53047190
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. July 10, 1866 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1866-09-12
+SP - 53047191
+EP - 53047192
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Sept. 12, 1866 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1866-09-12
+SP - 53047193
+EP - 53047194
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Sept. 18, 1866 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1868-02-29
+SP - 53047195
+EP - 53047196
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Feb. 29, 1868 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1870-01-02
+SP - 53047197
+EP - 53047198
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Jan. 2, 1870 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1870-02-09
+SP - 53047199
+EP - 53047200
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Feb. 9, 1870 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53047201
+EP - 53047202
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. undated [fragment]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1876-05-24
+SP - 53047203
+EP - 53047204
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. May 24, 1876 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1876-06-08
+SP - 53047205
+EP - 53047206
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. June 8, 1876 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1876-08-02
+SP - 53047207
+EP - 53047208
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Aug. 2, 1876 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1877-05-13
+SP - 53047209
+EP - 53047210
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. May 13, 1877 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1878-01-21
+SP - 53047211
+EP - 53047211
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Jan. 21, 1878 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1878-05-31
+SP - 53047212
+EP - 53047213
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. May 31, 1878 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1879-08-22
+SP - 53047214
+EP - 53047215
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Aug. 22, 1879 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1879-09-12
+SP - 53047216
+EP - 53047216
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Sept. 12, 1879 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1880-02-05
+SP - 53047217
+EP - 53047218
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Feb. 5, 1880 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1881-04-18
+SP - 53047219
+EP - 53047220
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Apr. 18, 1881 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1882-08-10
+SP - 53047221
+EP - 53047222
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Aug. 10, 1882 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1883-01-24
+SP - 53047223
+EP - 53047224
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Jan. 24, 1883 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1884-01-18
+SP - 53047225
+EP - 53047226
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Jan. 18, 1884 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1887-04-04
+SP - 53047227
+EP - 53047228
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Apr. 4, 1887 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1887-04-18
+SP - 53047229
+EP - 53047230
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Apr. 18, 1887 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1887-11-03
+SP - 53047231
+EP - 53047232
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Nov. 3, 1887 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1887-12-26
+SP - 53047233
+EP - 53047233
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Dec. 26, 1887 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1889-11-18
+SP - 53047234
+EP - 53047235
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Nov. 18, 1889 [to S. Watson] [postcard]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1890-02-27
+SP - 53047236
+EP - 53047237
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. Feb. 27, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1890-07-17
+SP - 53047238
+EP - 53047239
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. July 17, 1890 [to S. Watson] [postcard]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - 1890-07-31
+SP - 53047240
+EP - 53047241
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. July 31, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53047242
+EP - 53047242
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. undated 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, Alvan W.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53047243
+EP - 53047243
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, Alvan W. undated [Sun.]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chapman, J. W.
+PB - Harvard University Botany Libraries
+DA - 1891-06-04
+SP - 53047244
+EP - 53047244
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chapman, J. W. June 4, 1891 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Charavay, Étienne
+PB - Harvard University Botany Libraries
+DA - 1895-07-11
+SP - 53047245
+EP - 53047245
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Charavay, Étienne July 11, 1895 [to J. Gray]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Charavay, Étienne
+PB - Harvard University Botany Libraries
+DA - 1896-05-07
+SP - 53047246
+EP - 53047246
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Charavay, Étienne May 7, 1896 [to J. Gray]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Charavay, Étienne
+PB - Harvard University Botany Libraries
+DA - 1896-05-29
+SP - 53047247
+EP - 53047247
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Charavay, Étienne May 29, 1896 [to J. Gray]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Charavay, Étienne
+PB - Harvard University Botany Libraries
+DA - 1896-08-19
+SP - 53047248
+EP - 53047249
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Charavay, Étienne Aug. 19, 1896 [to J. Gray] [postcard]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chatin, Adolphe
+PB - Harvard University Botany Libraries
+DA - 1856-01-12
+SP - 53047250
+EP - 53047251
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chatin, Adolphe Jan. 12, 1856 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chatin, Adolphe
+PB - Harvard University Botany Libraries
+DA - 1856-04-24
+SP - 53047252
+EP - 53047253
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chatin, Adolphe [Apr. 24], 1856 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chatterton, F. W.
+PB - Harvard University Botany Libraries
+DA - 1890-03-18
+SP - 53047254
+EP - 53047254
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chatterton, F. W. Mar. 18, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cheeseman, Thomas F.
+PB - Harvard University Botany Libraries
+DA - 1879-03-03
+SP - 53047255
+EP - 53047255
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cheeseman, Thomas F. Mar. 3, 1879 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chickering, John W.
+PB - Harvard University Botany Libraries
+DA - 1859-07-18
+SP - 53047256
+EP - 53047257
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chickering, John W. July 18, 1859 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chickering, John W.
+PB - Harvard University Botany Libraries
+DA - 1881-05-11
+SP - 53047258
+EP - 53047259
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chickering, John W. May 11, 1881 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chickering, John W.
+PB - Harvard University Botany Libraries
+DA - 1889-08-28
+SP - 53047260
+EP - 53047261
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chickering, John W. Aug. 28, 1889 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chickering, John W.
+PB - Harvard University Botany Libraries
+DA - 1890-03-13
+SP - 53047262
+EP - 53047263
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chickering, John W. Mar. 13, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chickering, John W.
+PB - Harvard University Botany Libraries
+DA - 1897-06-18
+SP - 53047264
+EP - 53047264
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chickering, John W. June 18, 1897 [to M. L. Fernald]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chipman, Marshall M.
+PB - Harvard University Botany Libraries
+DA - 1891-04-27
+SP - 53047265
+EP - 53047268
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chipman, Marshall M. Apr. 27, 1891 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Chipman, Marshall M.
+PB - Harvard University Botany Libraries
+DA - 1891-05-18
+SP - 53047269
+EP - 53047271
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Chipman, Marshall M. May 18, 1891 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Choisy, Jacques D.
+PB - Harvard University Botany Libraries
+DA - 1850-08-06
+SP - 53047272
+EP - 53047272
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Choisy, Jacques D. Aug. 6, 1850 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Christopher, James W.
+PB - Harvard University Botany Libraries
+DA - 1890-03-22
+SP - 53047273
+EP - 53047273
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Christopher, James W. Mar. 22, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Christopher, James W.
+PB - Harvard University Botany Libraries
+DA - 1890-03-26
+SP - 53047274
+EP - 53047274
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Christopher, James W. Mar. 26, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Churchill, Joseph R.
+PB - Harvard University Botany Libraries
+DA - 1891-08-20
+SP - 53047275
+EP - 53047275
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Churchill, Joseph R. Aug. 20, 1891 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clark, Henry J.
+PB - Harvard University Botany Libraries
+DA - 1849-09-13
+SP - 53047276
+EP - 53047278
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clark, Henry J. Sept. 13, 1849 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clark, Josephine A.
+PB - Harvard University Botany Libraries
+DA - 1891-10-04
+SP - 53047279
+EP - 53047280
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clark, Josephine A. Oct. 4, 1891 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clark, Josephine A.
+PB - Harvard University Botany Libraries
+DA - 1891-11-06
+SP - 53047281
+EP - 53047282
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clark, Josephine A. Nov. 6, 1891 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clark, Josephine A.
+PB - Harvard University Botany Libraries
+DA - 1891-11-10
+SP - 53047283
+EP - 53047284
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clark, Josephine A. Nov. 10, 1891 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clark, William B.
+PB - Harvard University Botany Libraries
+DA - 1890-10-02
+SP - 53047285
+EP - 53047286
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clark, William B. Oct. 2, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clark, William B.
+PB - Harvard University Botany Libraries
+DA - 1890-10-07
+SP - 53047287
+EP - 53047288
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clark, William B. Oct. 7, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clark, William B.
+PB - Harvard University Botany Libraries
+DA - 1890-10-11
+SP - 53047289
+EP - 53047290
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clark, William B. Oct. 11, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clark, William B.
+PB - Harvard University Botany Libraries
+DA - 1890-10-14
+SP - 53047291
+EP - 53047292
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clark, William B. Oct. 14, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clark, William B.
+PB - Harvard University Botany Libraries
+DA - c. 1890
+SP - 53047293
+EP - 53047293
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clark, William B. [c. 1890] [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clarke, C. C.
+PB - Harvard University Botany Libraries
+DA - 1890-05-14
+SP - 53047294
+EP - 53047295
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clarke, C. C. May 14, 1890 [forwarded to S. Watson by G. L. Goodale]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clarke, Cora H.
+PB - Harvard University Botany Libraries
+DA - 1887-05-01
+SP - 53047296
+EP - 53047296
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clarke, Cora H. May 1, 1887 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clarke, Benjamin
+PB - Harvard University Botany Libraries
+DA - 1866-05-15
+SP - 53047297
+EP - 53047299
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clarke, Benjamin May 15, 1866 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clarke, Benjamin
+PB - Harvard University Botany Libraries
+DA - 1866-05-15
+SP - 53047300
+EP - 53047301
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clarke, Benjamin May 15, 1866 [enclosure]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clarke, F. L.
+PB - Harvard University Botany Libraries
+DA - 1881-03-14
+SP - 53047302
+EP - 53047302
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clarke, F. L. Mar. 14, 1881 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Claybrooke, G.
+PB - Harvard University Botany Libraries
+DA - 1890-02-15
+SP - 53047303
+EP - 53047303
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Claybrooke, G. Feb. 15, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Claypole, Edward W.
+PB - Harvard University Botany Libraries
+DA - 1888-11-09
+SP - 53047304
+EP - 53047305
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Claypole, Edward W. Nov. 9, 1888 [to J. Gray] [postcard verso]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Claypole, Edward W.
+PB - Harvard University Botany Libraries
+DA - 1890-05-13
+SP - 53047306
+EP - 53047307
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Claypole, Edward W. May 13, 1890 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1875-05-05
+SP - 53047308
+EP - 53047309
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel May 5, 1875 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1875-06-08
+SP - 53047310
+EP - 53047311
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel June 8, 1875 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1875-07-16
+SP - 53047312
+EP - 53047313
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel July 16, 1875 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1875-07-26
+SP - 53047314
+EP - 53047315
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel July 26, 1875 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1875-08-27
+SP - 53047316
+EP - 53047317
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel Aug. 27, 1875 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1876-05-31
+SP - 53047318
+EP - 53047319
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel May 31, 1876 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1876-10-13
+SP - 53047320
+EP - 53047321
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel Oct. 13, 1876 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1882-04-06
+SP - 53047322
+EP - 53047322
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel Apr. 6, 1882 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1885-05-18
+SP - 53047323
+EP - 53047324
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel May 18, 1885 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1887-12-15
+SP - 53047325
+EP - 53047325
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel Dec. 15, 1887 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Daniel
+PB - Harvard University Botany Libraries
+DA - 1888-11-12
+SP - 53047326
+EP - 53047327
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Daniel Nov. 12, 1888 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Parker
+PB - Harvard University Botany Libraries
+DA - 1845-07-08
+SP - 53047328
+EP - 53047330
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Parker July 8, 1845 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Parker
+PB - Harvard University Botany Libraries
+DA - 1845-06-13
+SP - 53047331
+EP - 53047333
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Parker June 13, 1845 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Parker
+PB - Harvard University Botany Libraries
+DA - 1846-01-30
+SP - 53047334
+EP - 53047335
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Parker Jan. 30, 1846 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Parker
+PB - Harvard University Botany Libraries
+DA - 1846-07-30
+SP - 53047336
+EP - 53047337
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Parker July 30, 1846 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Parker
+PB - Harvard University Botany Libraries
+DA - 1846-12-09
+SP - 53047338
+EP - 53047339
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Parker Dec. 9, 1846 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Cleveland, Parker
+PB - Harvard University Botany Libraries
+DA - 1848-04-13
+SP - 53047340
+EP - 53047342
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Cleveland, Parker Apr. 13, 1848 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1862-10-15
+SP - 53047343
+EP - 53047344
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Oct. 15, 1862 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1862-12-17
+SP - 53047345
+EP - 53047346
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Dec. 17, 1862 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1862-12-25
+SP - 53047347
+EP - 53047350
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Dec. 25, 1862 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1862-12-25
+SP - 53047351
+EP - 53047352
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Dec. 25, 1862 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1862-12-25
+SP - 53047353
+EP - 53047354
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Dec. 25, 1862 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-01-26
+SP - 53047355
+EP - 53047356
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Jan. 26, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-02-01
+SP - 53047357
+EP - 53047358
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Feb. 1, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-02-11
+SP - 53047359
+EP - 53047360
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Feb. 11, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-02-13
+SP - 53047361
+EP - 53047362
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Feb. 13, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-02-13
+SP - 53047363
+EP - 53047363
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Feb. 13, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-07-04
+SP - 53047364
+EP - 53047365
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. July 4, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-07-05
+SP - 53047366
+EP - 53047367
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. July 5, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-07-13
+SP - 53047368
+EP - 53047369
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. July 13, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-09-08
+SP - 53047370
+EP - 53047371
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Sept. 8, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-10-28
+SP - 53047372
+EP - 53047373
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Oct. 28, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1864-11-17
+SP - 53047374
+EP - 53047375
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Nov. 17, 1864 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1865-01-20
+SP - 53047376
+EP - 53047377
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Jan. 20, 1865 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1865-06-12
+SP - 53047378
+EP - 53047379
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. June 12, 1865 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1865-06-21
+SP - 53047380
+EP - 53047382
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. June 21, 1865 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1865-06-21
+SP - 53047383
+EP - 53047384
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. June 21, 1865 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1865-12-15
+SP - 53047385
+EP - 53047386
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Dec. 15, 1865 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1866-03-07
+SP - 53047387
+EP - 53047388
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Mar. 7, 1866 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1866-05-15
+SP - 53047389
+EP - 53047390
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. May 15, 1866 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1866-09-30
+SP - 53047391
+EP - 53047392
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Sept. 30, 1866 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1868-02-01
+SP - 53047393
+EP - 53047394
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Feb. 1, 1868 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1868-01-01
+SP - 53047395
+EP - 53047396
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Jan. 1, 1868 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1870-03-12
+SP - 53047397
+EP - 53047398
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Mar. 12, 1870 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1870-06-26
+SP - 53047399
+EP - 53047400
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. June 26, 1870 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1870-07-09
+SP - 53047401
+EP - 53047402
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. July 9, 1870 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1870-11-05
+SP - 53047403
+EP - 53047404
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Nov. 5, 1870 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1870-11-15
+SP - 53047405
+EP - 53047405
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Nov. 15, 1870 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1872-02-06
+SP - 53047406
+EP - 53047406
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Feb. 6, 1872 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1872-11-13
+SP - 53047407
+EP - 53047408
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Nov. 13, 1872 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1873-03-17
+SP - 53047409
+EP - 53047410
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Mar. 17, 1873 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1873-04-19
+SP - 53047411
+EP - 53047412
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Apr. 19, 1873 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1874-11-26
+SP - 53047413
+EP - 53047414
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Nov. 26, 1874 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1874-12-14
+SP - 53047415
+EP - 53047416
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Dec. 14, 1874 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1875-05-13
+SP - 53047417
+EP - 53047418
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. May 13, 1875 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1877-05-22
+SP - 53047419
+EP - 53047420
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. May 22, 1877 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1878-02-25
+SP - 53047421
+EP - 53047422
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Feb. 25, 1878 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1878-07-09
+SP - 53047423
+EP - 53047423
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. July 9, 1878 [to S. Watson]
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1882-10-05
+SP - 53047424
+EP - 53047425
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Oct. 5, 1882 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1884
+SP - 53047426
+EP - 53047427
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. 1884 
+VL - 221765
+OC - 878725232
+
+
+TY - letter
+AU - Clinton, George W.
+PB - Harvard University Botany Libraries
+DA - 1884-12-27
+SP - 53047428
+EP - 53047429
+T1 - Asa Gray correspondence. Senders Ca-Cl
+ID - 127967
+TI - Clinton, George W. Dec. 27, 1884 
+VL - 221765
+OC - 878725232
+
+

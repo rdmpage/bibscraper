@@ -1,0 +1,3224 @@
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1849-05-22
+SP  - 53498768
+EP  - 53498769
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 22, 1849 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1849-09-06
+SP  - 53498770
+EP  - 53498771
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 6, 1849 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1849-10-18
+SP  - 53498772
+EP  - 53498773
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 18, 1849 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1849-12-04
+SP  - 53498774
+EP  - 53498775
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 4, 1849 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-02-07
+SP  - 53498776
+EP  - 53498777
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 7, 1850 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-03-07
+SP  - 53498778
+EP  - 53498779
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 7, 1850 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-04-11
+SP  - 53498780
+EP  - 53498781
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 11, 1850 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-05-06
+SP  - 53498782
+EP  - 53498784
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 6, 1850 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-05-06
+SP  - 53498785
+EP  - 53498788
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 6, 1850 [enclosed notes] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-05-15
+SP  - 53498789
+EP  - 53498790
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 15, [1850] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-09-18
+SP  - 53498791
+EP  - 53498792
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 18, 1850 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-09-28
+SP  - 53498793
+EP  - 53498794
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 28, 1850 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-12-26
+SP  - 53498795
+EP  - 53498796
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 26, [1850] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1850-12-31
+SP  - 53498797
+EP  - 53498798
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 31, [1850] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1849-04-29
+SP  - 53498801
+EP  - 53498800
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 29, 1849 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1849-02-18
+SP  - 53498803
+EP  - 53498802
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 18, 1849 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1849-01-17
+SP  - 53498805
+EP  - 53498804
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 17, 1849 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1848-10-27
+SP  - 53498807
+EP  - 53498806
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 27, 1848 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1848-06-05
+SP  - 53498809
+EP  - 53498808
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 5, 1848 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1846-05-28
+SP  - 53498811
+EP  - 53498810
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 28, 1846 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1845-07-01
+SP  - 53498813
+EP  - 53498812
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 1, 1845 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1845-03-29
+SP  - 53498815
+EP  - 53498814
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 29, 1845 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1844-04-29
+SP  - 53498817
+EP  - 53498816
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 29, 1844 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1843-07-30
+SP  - 53498819
+EP  - 53498818
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 30, 1843 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1843-05-01
+SP  - 53498822
+EP  - 53498820
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 1, 1843 [on letter from J. Lindley] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1843-04-17
+SP  - 53498824
+EP  - 53498823
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 17, 1843 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1843-02-27
+SP  - 53498826
+EP  - 53498825
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 27, 1843 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1842-08-24
+SP  - 53498829
+EP  - 53498827
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 24, 1842 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1842-07-15
+SP  - 53498832
+EP  - 53498830
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 15, 1842 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1841-12-12
+SP  - 53498835
+EP  - 53498833
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 12, 1841 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1841-02-28
+SP  - 53498838
+EP  - 53498836
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 28, 1841 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1840-10-22
+SP  - 53498841
+EP  - 53498839
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 22, 1840 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1840-07-22
+SP  - 53498844
+EP  - 53498842
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 22, 1840 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1839-07-04
+SP  - 53498847
+EP  - 53498845
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 4, 1839 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1839-04-15
+SP  - 53498850
+EP  - 53498848
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 15, 1839 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - undated
+DP  - Harvard University Botany Libraries
+DA  - 
+SP  - 53498851
+EP  - 53498851
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Collection Note 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-02-12
+SP  - 53498799
+EP  - 53498852
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 12, [1851] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-02-19
+SP  - 53498853
+EP  - 53498854
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 19, [1851] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-03-03
+SP  - 53498855
+EP  - 53498856
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 3, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-03-06
+SP  - 53498857
+EP  - 53498858
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 6, [1851] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-04-17
+SP  - 53498859
+EP  - 53498860
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 17, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-05-12
+SP  - 53498861
+EP  - 53498864
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 12, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-05-22
+SP  - 53498865
+EP  - 53498866
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 22, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-06-15
+SP  - 53498867
+EP  - 53498868
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 15, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-06-26
+SP  - 53498869
+EP  - 53498870
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 26, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-07-10
+SP  - 53498871
+EP  - 53498872
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 10, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-09-11
+SP  - 53498873
+EP  - 53498874
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 11, [1851] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-09-25
+SP  - 53498875
+EP  - 53498876
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 25, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-11-29
+SP  - 53498877
+EP  - 53498878
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 29, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-12-08
+SP  - 53498879
+EP  - 53498880
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 8, 1851 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1851-12-28
+SP  - 53498881
+EP  - 53498882
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 28, [1851] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-02-04
+SP  - 53498883
+EP  - 53498885
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 4, 1852 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-02-10
+SP  - 53498886
+EP  - 53498887
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 10, 1852 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-05-13
+SP  - 53498888
+EP  - 53498889
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 13, 1852 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-06-02
+SP  - 53498890
+EP  - 53498890
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 2, [1852] [attached note] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-06-02
+SP  - 53498891
+EP  - 53498892
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 2, [1852] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-06-17
+SP  - 53498893
+EP  - 53498894
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 17, 1852 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-07-15
+SP  - 53498895
+EP  - 53498896
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 15, 1852 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-08-05
+SP  - 53498897
+EP  - 53498898
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 5, [1852] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53498899
+EP  - 53498900
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George undated [1852] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-08-05
+SP  - 53498901
+EP  - 53498902
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 5, [1852] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-09-27
+SP  - 53498903
+EP  - 53498904
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 27, [1852] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-10-07
+SP  - 53498905
+EP  - 53498906
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 7, 1852 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-10-09
+SP  - 53498907
+EP  - 53498908
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 9, [1852] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-11-11
+SP  - 53498909
+EP  - 53498910
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 11, [1852] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1852-12-04
+SP  - 53498911
+EP  - 53498912
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 4, [1852] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1853-05-18
+SP  - 53498913
+EP  - 53498914
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 18, 1853 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1853-12-06
+SP  - 53498915
+EP  - 53498916
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 6, 1853 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1853-12-18
+SP  - 53498917
+EP  - 53498918
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 18, 1853 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1854-07-14
+SP  - 53498919
+EP  - 53498920
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 14, 1854 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1855-04-27
+SP  - 53498921
+EP  - 53498922
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 27, 1855 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1855-05-16
+SP  - 53498923
+EP  - 53498924
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 16, 1855 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1855-09-20
+SP  - 53498925
+EP  - 53498925
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 20, 1855 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1856-02-25
+SP  - 53498926
+EP  - 53498927
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 25, 1856 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1856-07-02
+SP  - 53498928
+EP  - 53498929
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 2, 1856 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1856-09-08
+SP  - 53498930
+EP  - 53498932
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 8, 1856 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1856-12-06
+SP  - 53498933
+EP  - 53498934
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 6, 1856 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1857-04-02
+SP  - 53498935
+EP  - 53498938
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 2, 1857 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1858-02-14
+SP  - 53498939
+EP  - 53498940
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 14, 1858 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1858-04-04
+SP  - 53498941
+EP  - 53498942
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 4, 1858 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1858-11-28
+SP  - 53498943
+EP  - 53498944
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 28, 1858 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1858-07-19
+SP  - 53498945
+EP  - 53498947
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 19, 1858 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1859-01-14
+SP  - 53498948
+EP  - 53498949
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 14, 1859 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1859-04-07
+SP  - 53498950
+EP  - 53498953
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 7, 1859 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1859-05
+SP  - 53498954
+EP  - 53498955
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George [May] 1859 [fragment] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1859-06-07
+SP  - 53498956
+EP  - 53498957
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 7, 1859 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1859-08-08
+SP  - 53498958
+EP  - 53498959
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 8, 1859 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1859-12-25
+SP  - 53498960
+EP  - 53498961
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 25, 1859 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1859
+SP  - 53498962
+EP  - 53498963
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George [1859] [plant list] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1860-01-28
+SP  - 53498964
+EP  - 53498965
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 28, 1860 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1860-02-22
+SP  - 53498966
+EP  - 53498967
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 22, 1860 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1860-04-11
+SP  - 53498968
+EP  - 53498971
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 11, 1860 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1860-11-01
+SP  - 53498972
+EP  - 53498975
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 1, 1860 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1861-02-01
+SP  - 53498976
+EP  - 53498979
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 1, 1861 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1861-03-06
+SP  - 53498980
+EP  - 53498981
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 6, 1861 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1861-05-29
+SP  - 53498982
+EP  - 53498985
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 29, 1861 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1861-07-18
+SP  - 53498986
+EP  - 53498987
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 18, 1861 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1861-10-24
+SP  - 53498988
+EP  - 53498989
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 24, 1861 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1862-10-15
+SP  - 53498990
+EP  - 53498991
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 15, 1862 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53498992
+EP  - 53498993
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George undated [1863] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1863-12-30
+SP  - 53498994
+EP  - 53498995
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 30, 1863 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1864-09-07
+SP  - 53498996
+EP  - 53498997
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 7, 1864 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1864-11-10
+SP  - 53498998
+EP  - 53498999
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 10, 1864 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1865-01-20
+SP  - 53499000
+EP  - 53499001
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 20, 1865 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1865-09-26
+SP  - 53499002
+EP  - 53499003
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 26, 1865 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1865-11-15
+SP  - 53499004
+EP  - 53499005
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 15, 1865 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1865-12-21
+SP  - 53499006
+EP  - 53499007
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 21, 1865 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53499008
+EP  - 53499009
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George undated [1865] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53499010
+EP  - 53499012
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George undated [extract] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1866-03-08
+SP  - 53499013
+EP  - 53499014
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 8, 1866 [fragment] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1866-06-25
+SP  - 53499015
+EP  - 53499016
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 25, 1866 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1866-12-30
+SP  - 53499017
+EP  - 53499018
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 30, 1866 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1867-01-11
+SP  - 53499019
+EP  - 53499019
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 11, 1867 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1867-02-11
+SP  - 53499020
+EP  - 53499021
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 11, 1867 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1867-09-26
+SP  - 53499022
+EP  - 53499023
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 26, 1867 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1867-11-09
+SP  - 53499024
+EP  - 53499027
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 9, 1867 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1867-11-15
+SP  - 53499028
+EP  - 53499029
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 15, 1867 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1867-11-19
+SP  - 53499030
+EP  - 53499031
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 19, 1867 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1868-01-31
+SP  - 53499032
+EP  - 53499033
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 31, 1868 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1868-07-23
+SP  - 53499034
+EP  - 53499035
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 23, 1868 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1870-02-27
+SP  - 53499036
+EP  - 53499037
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 27, 1870 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1870-05-24
+SP  - 53499038
+EP  - 53499039
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 24, 1870 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1870-10-20
+SP  - 53499040
+EP  - 53499043
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 20, 1870 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1870-12-26
+SP  - 53499044
+EP  - 53499047
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 26, 1870 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1871-01-01
+SP  - 53499048
+EP  - 53499049
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 1, 1871 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1871-02-19
+SP  - 53499050
+EP  - 53499053
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 19, 1871 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1871-04-09
+SP  - 53499054
+EP  - 53499056
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 9, [1871] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1871-06-11
+SP  - 53499057
+EP  - 53499058
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 11, 1871 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1871-12-25
+SP  - 53499059
+EP  - 53499060
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 25, 1871 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1872-02-14
+SP  - 53499061
+EP  - 53499062
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 14, 1872 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1872-08-10
+SP  - 53499063
+EP  - 53499064
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 10, 1872 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1872-10-22
+SP  - 53499065
+EP  - 53499066
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 22, 1872 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1872-10-28
+SP  - 53499067
+EP  - 53499068
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 28, 1872 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1872-12-09
+SP  - 53499069
+EP  - 53499071
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 9, 1872 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-01-21
+SP  - 53499072
+EP  - 53499073
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 21, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-02-12
+SP  - 53499074
+EP  - 53499075
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 12, [1873] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-03-14
+SP  - 53499076
+EP  - 53499077
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 14, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-04-05
+SP  - 53499078
+EP  - 53499079
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 5, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-04-10
+SP  - 53499080
+EP  - 53499081
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 10, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-07-23
+SP  - 53499082
+EP  - 53499083
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 23, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-08-28
+SP  - 53499084
+EP  - 53499085
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 28, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-09-24
+SP  - 53499086
+EP  - 53499087
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 24, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-10-08
+SP  - 53499088
+EP  - 53499089
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 8, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-11-10
+SP  - 53499090
+EP  - 53499091
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 10, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-12-10
+SP  - 53499092
+EP  - 53499093
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 10, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1873-12-14
+SP  - 53499094
+EP  - 53499095
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 14, 1873 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-01-22
+SP  - 53499096
+EP  - 53499096
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 22, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-02-08
+SP  - 53499097
+EP  - 53499098
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 8, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-02-13
+SP  - 53499099
+EP  - 53499099
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 13, 1874 [enclosed receipt] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-02-14
+SP  - 53499100
+EP  - 53499101
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 14, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-03-11
+SP  - 53499102
+EP  - 53499103
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 11, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-04-03
+SP  - 53499104
+EP  - 53499105
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 3, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-05-30
+SP  - 53499106
+EP  - 53499107
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 30, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-06-30
+SP  - 53499108
+EP  - 53499109
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 30, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-07-29
+SP  - 53499110
+EP  - 53499111
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 29, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-11-01
+SP  - 53499112
+EP  - 53499115
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 1, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-11-10
+SP  - 53499116
+EP  - 53499117
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 10, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-11-14
+SP  - 53499118
+EP  - 53499119
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 14, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-12-07
+SP  - 53499120
+EP  - 53499124
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 7, 1874 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1874-07-29
+SP  - 53499125
+EP  - 53499125
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 29, [1874] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53499126
+EP  - 53499126
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George undated receipt 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-01-15
+SP  - 53499127
+EP  - 53499128
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 15, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-01-16
+SP  - 53499129
+EP  - 53499130
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 16, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-02-27
+SP  - 53499131
+EP  - 53499132
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 27, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-02-29
+SP  - 53499133
+EP  - 53499134
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 29, [1875] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-03-25
+SP  - 53499135
+EP  - 53499136
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 25, [1875] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-05-22
+SP  - 53499137
+EP  - 53499140
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 22, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-07-09
+SP  - 53499141
+EP  - 53499142
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 9, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-07-11
+SP  - 53499143
+EP  - 53499144
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 11, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-07-26
+SP  - 53499145
+EP  - 53499146
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 26, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-08-21
+SP  - 53499147
+EP  - 53499149
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 21, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-09-12
+SP  - 53499150
+EP  - 53499151
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 12, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-09-27
+SP  - 53499152
+EP  - 53499153
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 27, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-10-17
+SP  - 53499154
+EP  - 53499157
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 17, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-10-19
+SP  - 53499158
+EP  - 53499159
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 19, 1875 [postcard] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-11-02
+SP  - 53499160
+EP  - 53499161
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 2, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1875-11-27
+SP  - 53499162
+EP  - 53499163
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 27, 1875 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1876-01-02
+SP  - 53499164
+EP  - 53499165
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 2, 1876 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1876-03-15
+SP  - 53499166
+EP  - 53499167
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 15, 1876 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1876-05-05
+SP  - 53499168
+EP  - 53499169
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 5, 1876 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1876-05-23
+SP  - 53499170
+EP  - 53499171
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 23, 1876 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1876-07-19
+SP  - 53499172
+EP  - 53499173
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 19, 1876 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1876-07-27
+SP  - 53499174
+EP  - 53499175
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 27, 1876 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1876-09-17
+SP  - 53499176
+EP  - 53499177
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 17, 1876 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1876-10-19
+SP  - 53499178
+EP  - 53499179
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 19, 1876 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1876-11-06
+SP  - 53499180
+EP  - 53499182
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 6, 1876 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1877-01-07
+SP  - 53499183
+EP  - 53499184
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 7, 1877 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1877-01-26
+SP  - 53499185
+EP  - 53499185
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 26, 1877 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1877-02-09
+SP  - 53499186
+EP  - 53499186
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 9, 1877 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1877-03-05
+SP  - 53499187
+EP  - 53499188
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 5, 1877 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1877-05-07
+SP  - 53499189
+EP  - 53499193
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 7, 1877 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-04-20
+SP  - 53499194
+EP  - 53499195
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 20, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-05-20
+SP  - 53499196
+EP  - 53499197
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 20, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-05-21
+SP  - 53499198
+EP  - 53499199
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 21, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-06-19
+SP  - 53499200
+EP  - 53499201
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 19, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-06-29
+SP  - 53499202
+EP  - 53499203
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 29, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-07-31
+SP  - 53499204
+EP  - 53499205
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 31, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-01
+SP  - 53499206
+EP  - 53499207
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 1, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-10-29
+SP  - 53499208
+EP  - 53499208
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 29, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-11-19
+SP  - 53499209
+EP  - 53499210
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 19, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1878-12-23
+SP  - 53499211
+EP  - 53499214
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 23, 1878 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-02-16
+SP  - 53499215
+EP  - 53499216
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 16, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-02-24
+SP  - 53499217
+EP  - 53499219
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 24, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-03-21
+SP  - 53499220
+EP  - 53499221
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Mar. 21, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-04-21
+SP  - 53499222
+EP  - 53499223
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 21, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-04-27
+SP  - 53499224
+EP  - 53499225
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 27, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-05-29
+SP  - 53499226
+EP  - 53499229
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 29, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-06-04
+SP  - 53499230
+EP  - 53499232
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 4, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-06-15
+SP  - 53499233
+EP  - 53499234
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 15, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-06-22
+SP  - 53499235
+EP  - 53499236
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 22, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-07-25
+SP  - 53499237
+EP  - 53499238
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 25, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-08-11
+SP  - 53499239
+EP  - 53499240
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 11, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-08-25
+SP  - 53499241
+EP  - 53499241
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 25, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-09-16
+SP  - 53499242
+EP  - 53499244
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 16, 1879 [fragment] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-10-25
+SP  - 53499245
+EP  - 53499246
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 25, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-10-27
+SP  - 53499247
+EP  - 53499248
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 27, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-11-01
+SP  - 53499249
+EP  - 53499250
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Nov. 1, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-12-14
+SP  - 53499251
+EP  - 53499252
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 14, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1879-12-25
+SP  - 53499253
+EP  - 53499254
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 25, 1879 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-07
+SP  - 53499255
+EP  - 53499256
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 7, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-12
+SP  - 53499257
+EP  - 53499257
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 12, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-26
+SP  - 53499258
+EP  - 53499259
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 26, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-02-09
+SP  - 53499260
+EP  - 53499261
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 9, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-02-19
+SP  - 53499262
+EP  - 53499262
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 19, 1880 [enclosed bill] 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-02-19
+SP  - 53499263
+EP  - 53499263
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 19, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-04-07
+SP  - 53499264
+EP  - 53499265
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 7, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-05-06
+SP  - 53499266
+EP  - 53499267
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 6, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-05-28
+SP  - 53499268
+EP  - 53499269
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 28, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-06-19
+SP  - 53499270
+EP  - 53499271
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 19, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-07-13
+SP  - 53499272
+EP  - 53499273
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 13, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1880-08-21
+SP  - 53499274
+EP  - 53499275
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 21, 1880 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1881-05-10
+SP  - 53499276
+EP  - 53499276
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 10, 1881 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1881-07-19
+SP  - 53499277
+EP  - 53499277
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 19, 1881 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1881-12-18
+SP  - 53499278
+EP  - 53499279
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Dec. 18, 1881 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1882-04-07
+SP  - 53499280
+EP  - 53499281
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 7, 1882 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1882-04-11
+SP  - 53499282
+EP  - 53499283
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 11, 1882 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1882-06-30
+SP  - 53499284
+EP  - 53499285
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 30, 1882 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1882-07-26
+SP  - 53499286
+EP  - 53499287
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George July 26, 1882 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1882-08-26
+SP  - 53499288
+EP  - 53499289
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Aug. 26, 1882 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1882-10-14
+SP  - 53499290
+EP  - 53499291
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 14, 1882 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1883-01-01
+SP  - 53499292
+EP  - 53499294
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Jan. 1, 1883 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1883-02
+SP  - 53499295
+EP  - 53499296
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Feb. 1883 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1883-04-03
+SP  - 53499297
+EP  - 53499298
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 3, 1883 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1883-04-25
+SP  - 53499299
+EP  - 53499300
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Apr. 25, 1883 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1883-05-27
+SP  - 53499301
+EP  - 53499302
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George May 27, 1883 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1883-06-05
+SP  - 53499303
+EP  - 53499304
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George June 5, 1883 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1883-09-12
+SP  - 53499305
+EP  - 53499306
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Sept. 12, 1883 
+VL  - 226393
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bentham, George 
+DP  - Harvard University Botany Libraries
+DA  - 1883-10-11
+SP  - 53499307
+EP  - 53499308
+JO  - George Bentham letters to Asa Gray, 1839-1883
+ID  - 131257
+TI  - Bentham, George Oct. 11, 1883 
+VL  - 226393
+OC  - 878725232
+ER  - 
+

@@ -1,0 +1,767 @@
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1867-11-14
+SP - 53502836
+EP - 53502809
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1931
+ID - 131268
+TI - Bolander, Henry N. Nov. 14, 1867 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1867-12-01
+SP - 53502810
+EP - 53502813
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1938
+ID - 131268
+TI - Bolander, Henry N. Dec. 1, 1867 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1867-12-10
+SP - 53502814
+EP - 53502815
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1942
+ID - 131268
+TI - Bolander, Henry N. Dec. 10, 1867 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1867-12-29
+SP - 53502816
+EP - 53502817
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1944
+ID - 131268
+TI - Bolander, Henry N. Dec. 29, 1867 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1868-01-04
+SP - 53502818
+EP - 53502820
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1946
+ID - 131268
+TI - Bolander, Henry N. Jan. 4, 1868 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1868-03-03
+SP - 53502821
+EP - 53502822
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1949
+ID - 131268
+TI - Bolander, Henry N. Mar. 3, 1868 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1868-04-18
+SP - 53502823
+EP - 53502824
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1951
+ID - 131268
+TI - Bolander, Henry N. Apr. 18, 1868 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1868-04-27
+SP - 53502825
+EP - 53502828
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1953
+ID - 131268
+TI - Bolander, Henry N. Apr. 27, 1868 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1868
+SP - 53502829
+EP - 53502830
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1957
+ID - 131268
+TI - Bolander, Henry N. 1868 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1868-06-30
+SP - 53502831
+EP - 53502832
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1959
+ID - 131268
+TI - Bolander, Henry N. June 30, 1868 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1869-12-23
+SP - 53502833
+EP - 53502834
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1961
+ID - 131268
+TI - Bolander, Henry N. Dec. 23, 1869 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1867-10-23
+SP - 53502838
+EP - 53502837
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1929
+ID - 131268
+TI - Bolander, Henry N. Oct. 23, 1867 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1867-10-22
+SP - 53502841
+EP - 53502839
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1926
+ID - 131268
+TI - Bolander, Henry N. Oct. 22, 1867 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1867-09-07
+SP - 53502845
+EP - 53502842
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1922
+ID - 131268
+TI - Bolander, Henry N. Sept. 7, 1867 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1867-08-12
+SP - 53502847
+EP - 53502846
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1920
+ID - 131268
+TI - Bolander, Henry N. Aug. 12, 1867 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1867-04-25
+SP - 53502849
+EP - 53502848
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1918
+ID - 131268
+TI - Bolander, Henry N. Apr. 25, 1867 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1866-12-30
+SP - 53502851
+EP - 53502850
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1916
+ID - 131268
+TI - Bolander, Henry N. Dec. 30, 1866 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1866-10-10
+SP - 53502855
+EP - 53502852
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1912
+ID - 131268
+TI - Bolander, Henry N. Oct. 10, 1866 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1866-09-27
+SP - 53502857
+EP - 53502856
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1910
+ID - 131268
+TI - Bolander, Henry N. Sept. 27, 1866 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1866-08-05
+SP - 53502861
+EP - 53502858
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1906
+ID - 131268
+TI - Bolander, Henry N. Aug. 5, 1866 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1866-06-05
+SP - 53502863
+EP - 53502862
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1904
+ID - 131268
+TI - Bolander, Henry N. June 5, 1866 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1866-05-28
+SP - 53502865
+EP - 53502864
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1902
+ID - 131268
+TI - Bolander, Henry N. May 28, 1866 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1866-03-29
+SP - 53502867
+EP - 53502866
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1900
+ID - 131268
+TI - Bolander, Henry N. Mar. 29, 1866 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1866-03-16
+SP - 53502869
+EP - 53502868
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1898
+ID - 131268
+TI - Bolander, Henry N. Mar. 16, 1866 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1866-01-26
+SP - 53502871
+EP - 53502870
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1896
+ID - 131268
+TI - Bolander, Henry N. Jan. 26, 1866 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1865-10-25
+SP - 53502873
+EP - 53502872
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1894
+ID - 131268
+TI - Bolander, Henry N. Oct. 25, 1865 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1865-10-20
+SP - 53502877
+EP - 53502874
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1890
+ID - 131268
+TI - Bolander, Henry N. Oct. 20, 1865 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1865-09-01
+SP - 53502878
+EP - 53502878
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1889
+ID - 131268
+TI - Bolander, Henry N. Sept. 1, 1865 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1865-08-16
+SP - 53502880
+EP - 53502879
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1887
+ID - 131268
+TI - Bolander, Henry N. Aug. 16, 1865 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1863-12-21
+SP - 53502881
+EP - 53502881
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1886
+ID - 131268
+TI - Bolander, Henry N. Dec. 21, 1863 [fragment] 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1870-01-01
+SP - 53502835
+EP - 53502882
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1963
+ID - 131268
+TI - Bolander, Henry N. Jan. 1, 1870 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1870-02-18
+SP - 53502883
+EP - 53502884
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1965
+ID - 131268
+TI - Bolander, Henry N. Feb. 18, 1870 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1870-06-05
+SP - 53502885
+EP - 53502886
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1967
+ID - 131268
+TI - Bolander, Henry N. June 5, 1870 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1870-07-13
+SP - 53502887
+EP - 53502888
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1969
+ID - 131268
+TI - Bolander, Henry N. July 13, 1870 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1870-09-26
+SP - 53502889
+EP - 53502890
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1971
+ID - 131268
+TI - Bolander, Henry N. Sept. 26, 1870 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1870-10-19
+SP - 53502891
+EP - 53502892
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1973
+ID - 131268
+TI - Bolander, Henry N. Oct. 19, 1870 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1871-03-21
+SP - 53502893
+EP - 53502894
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1975
+ID - 131268
+TI - Bolander, Henry N. Mar. 21, 1871 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1871-05-13
+SP - 53502895
+EP - 53502896
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1977
+ID - 131268
+TI - Bolander, Henry N. May 13, 1871 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1871-05-20
+SP - 53502897
+EP - 53502899
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1979
+ID - 131268
+TI - Bolander, Henry N. May 20, 1871 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1871-11-04
+SP - 53502900
+EP - 53502901
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1982
+ID - 131268
+TI - Bolander, Henry N. Nov. 4, 1871 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1872-01-27
+SP - 53502902
+EP - 53502903
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1984
+ID - 131268
+TI - Bolander, Henry N. Jan. 27, 1872 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1872-04-18
+SP - 53502904
+EP - 53502905
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1986
+ID - 131268
+TI - Bolander, Henry N. Apr. 18, 1872 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1872-12-10
+SP - 53502906
+EP - 53502907
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1988
+ID - 131268
+TI - Bolander, Henry N. Dec. 10, 1872 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1873-01-05
+SP - 53502908
+EP - 53502909
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1990
+ID - 131268
+TI - Bolander, Henry N. Jan. 5, 1873 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1873-02-02
+SP - 53502910
+EP - 53502911
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1992
+ID - 131268
+TI - Bolander, Henry N. Feb. 2, 1873 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1873-04-01
+SP - 53502912
+EP - 53502913
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1994
+ID - 131268
+TI - Bolander, Henry N. Apr. 1, 1873 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1873-05-31
+SP - 53502914
+EP - 53502915
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1996
+ID - 131268
+TI - Bolander, Henry N. May 31, 1873 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1873-06-11
+SP - 53502916
+EP - 53502917
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-1998
+ID - 131268
+TI - Bolander, Henry N. June 11, 1873 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1873-08-01
+SP - 53502918
+EP - 53502919
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2000
+ID - 131268
+TI - Bolander, Henry N. Aug. 1, 1873 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1873-10-22
+SP - 53502920
+EP - 53502921
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2002
+ID - 131268
+TI - Bolander, Henry N. Oct. 22, 1873 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1874-04-11
+SP - 53502922
+EP - 53502923
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2004
+ID - 131268
+TI - Bolander, Henry N. Apr. 11, 1874 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1874-10-12
+SP - 53502924
+EP - 53502925
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2006
+ID - 131268
+TI - Bolander, Henry N. Oct. 12, 1874 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1876-12-23
+SP - 53502926
+EP - 53502927
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2008
+ID - 131268
+TI - Bolander, Henry N. Dec. 23, 1876 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1877-02-27
+SP - 53502928
+EP - 53502928
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2010
+ID - 131268
+TI - Bolander, Henry N. Feb. 27, 1877 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1882-11-25
+SP - 53502929
+EP - 53502930
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2011
+ID - 131268
+TI - Bolander, Henry N. Nov. 25, 1882 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1886-06-30
+SP - 53502931
+EP - 53502932
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2013
+ID - 131268
+TI - Bolander, Henry N. June 30, 1886 [to S. Watson] 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1893-01-19
+SP - 53502933
+EP - 53502933
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2015
+ID - 131268
+TI - Bolander, Henry N. Jan. 19, 1893 [to B. L. Robinson] 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1893-03-18
+SP - 53502934
+EP - 53502935
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2016
+ID - 131268
+TI - Bolander, Henry N. Mar. 18, 1893 [to B. L. Robinson] 
+VL - 226409
+OC - 878725232
+
+
+TY - letter
+AU - Bolander, Henry N. 
+PB - Harvard University Botany Libraries
+DA - 1893-10-29
+SP - 53502936
+EP - 53502936
+T1 - Henry Nicholas Bolander letters to Asa Gray, 1863-2018
+ID - 131268
+TI - Bolander, Henry N. Oct. 29, 1893 [to B. L. Robinson] 
+VL - 226409
+OC - 878725232
+
+

@@ -1,0 +1,676 @@
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1876-03-20
+SP  - 53506855
+EP  - 53506858
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Mar. 20, 1876 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1876-08-21
+SP  - 53506859
+EP  - 53506860
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Aug. 21, [1876] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-02-26
+SP  - 53506861
+EP  - 53506862
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Feb. 26, [1886] [postcard] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1881-06-04
+SP  - 53506863
+EP  - 53506864
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John June 4, [1881] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1882-11-27
+SP  - 53506865
+EP  - 53506866
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Nov. 27, 1882 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1883-07-09
+SP  - 53506867
+EP  - 53506868
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John July 9, 1883 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1883-12-25
+SP  - 53506869
+EP  - 53506870
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Dec. 25, 1883 [envelope] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1883-12-25
+SP  - 53506871
+EP  - 53506874
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Dec. 25, 1883 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-03-05
+SP  - 53506875
+EP  - 53506878
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Mar. 5, [1884] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-04-20
+SP  - 53506879
+EP  - 53506882
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Apr. 20, 1884 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-05-22
+SP  - 53506883
+EP  - 53506884
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John May 22, 1884 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-07-11
+SP  - 53506885
+EP  - 53506886
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John July 11, [1884] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-07-26
+SP  - 53506887
+EP  - 53506888
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John July 26, [1884] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-08-16
+SP  - 53506889
+EP  - 53506890
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Aug. 16, [1884] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-09-02
+SP  - 53506891
+EP  - 53506892
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Sept. 2, [1884] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-09-27
+SP  - 53506893
+EP  - 53506894
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Sept. 27, [1884] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-09-30
+SP  - 53506895
+EP  - 53506896
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Sept. 30, [1884] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-10-04
+SP  - 53506897
+EP  - 53506898
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Oct. 4, [1884] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-10-19
+SP  - 53506899
+EP  - 53506900
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Oct. 19, [1884] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-04
+SP  - 53506901
+EP  - 53506902
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Nov. 4, 1884 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-07
+SP  - 53506903
+EP  - 53506904
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Nov. 7, 1884 [postcard] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1884-12-25
+SP  - 53506905
+EP  - 53506906
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Dec. 25, 1884 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1885-02-27
+SP  - 53506907
+EP  - 53506908
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Feb. 27, [1885] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1885-06-02
+SP  - 53506909
+EP  - 53506910
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John June 2, 1885 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1885-06-10
+SP  - 53506911
+EP  - 53506912
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John June 10, 1885 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1885-08-27
+SP  - 53506913
+EP  - 53506914
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Aug. 27, [1885] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1885-09-28
+SP  - 53506915
+EP  - 53506916
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Sept. 28, [1885] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1885-12-01
+SP  - 53506917
+EP  - 53506918
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Dec. 1, 1885 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1885-12-25
+SP  - 53506919
+EP  - 53506920
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Dec. 25, 1885 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-01-01
+SP  - 53506921
+EP  - 53506922
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Jan. 1, 1886 [postcard] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-01-04
+SP  - 53506923
+EP  - 53506924
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Jan. 4, 1886 [postcard] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-03-13
+SP  - 53506925
+EP  - 53506926
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Mar. 13, 1886 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-04-15
+SP  - 53506927
+EP  - 53506928
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Apr. 15, 1886 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-04-23
+SP  - 53506929
+EP  - 53506930
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Apr. 23, 1886 [postcard] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-05-11
+SP  - 53506931
+EP  - 53506932
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John May 11, 1886 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-06-19
+SP  - 53506933
+EP  - 53506934
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John June 19, 1886 [postcard] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-09-30
+SP  - 53506935
+EP  - 53506936
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Sept. 30, 1886 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1886-11-12
+SP  - 53506937
+EP  - 53506938
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Nov. 12, 1886 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1887-03-23
+SP  - 53506939
+EP  - 53506940
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Mar. 23, [1887] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1887-04-22
+SP  - 53506941
+EP  - 53506942
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Apr. 22, 1887 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1887-06-05
+SP  - 53506943
+EP  - 53506944
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John June 5, [1887] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-25
+SP  - 53506945
+EP  - 53506946
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Nov. 25, 1887 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1887-12-29
+SP  - 53506947
+EP  - 53506948
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Dec. 29, 1887 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1888-06-09
+SP  - 53506949
+EP  - 53506950
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John June 9, 1888 [to S. Watson] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1888-09-18
+SP  - 53506951
+EP  - 53506952
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Sept. 18, [1888] [to S. Watson] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-05
+SP  - 53506953
+EP  - 53506954
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Nov. 5, [1888] [to S. Watson] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1888-12-16
+SP  - 53506955
+EP  - 53506956
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Dec. 16, 1888 [to S. Watson] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 1888-12-16
+SP  - 53506957
+EP  - 53506958
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Dec. 16, 1888 [to S. Watson] [copy] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - 24-Apr
+SP  - 53506959
+EP  - 53506960
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John Apr. 24 [no year] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, Julia 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53506961
+EP  - 53506962
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, Julia undated [Thurs.] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53506963
+EP  - 53506963
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John undated fragment 
+VL  - 226430
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Ball, John 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53506964
+EP  - 53506964
+JO  - John Ball letters to Asa Gray, 1876-1888
+ID  - 131281
+TI  - Ball, John undated [invitation] 
+VL  - 226430
+OC  - 878725232
+ER  - 
+

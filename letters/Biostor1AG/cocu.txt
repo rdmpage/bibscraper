@@ -1,0 +1,1989 @@
+﻿TY - letter
+AU - Cobb, Nathan A.
+PB - Harvard University Botany Libraries
+DA - 1878-09-17
+SP - 53059406
+EP - 53059406
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cobb, Nathan A. Sept. 17, 1878
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cogniaux, Alfred C.
+PB - Harvard University Botany Libraries
+DA - 1885-04-15
+SP - 53059407
+EP - 53059408
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cogniaux, Alfred C. Apr. 15, 1885
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cogniaux, Alfred C.
+PB - Harvard University Botany Libraries
+DA - 1885-04-20
+SP - 53059409
+EP - 53059410
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cogniaux, Alfred C. Apr. 20, 1885 [postcard]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cogniaux, Alfred C.
+PB - Harvard University Botany Libraries
+DA - 1885-10-12
+SP - 53059411
+EP - 53059412
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cogniaux, Alfred C. Oct. 12, 1885 [postcard]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cogniaux, Alfred C.
+PB - Harvard University Botany Libraries
+DA - 1888-08-15
+SP - 53059413
+EP - 53059414
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cogniaux, Alfred C. Aug. 15, 1888 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cogniaux, Alfred C.
+PB - Harvard University Botany Libraries
+DA - 1889-03-29
+SP - 53059415
+EP - 53059416
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cogniaux, Alfred C. Mar. 29, 1889 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Colcord, Joseph W.
+PB - Harvard University Botany Libraries
+DA - 1884-04-02
+SP - 53059417
+EP - 53059417
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Colcord, Joseph W. Apr. 2, 1884
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Colla, Luigi A.
+PB - Harvard University Botany Libraries
+DA - 1826-09-30
+SP - 53059418
+EP - 53059418
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Colla, Luigi A. Spet. 30, 1826 [to unknown]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Collins, James F.
+PB - Harvard University Botany Libraries
+DA - 1890-08-28
+SP - 53059419
+EP - 53059419
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Collins, James F. Aug. 28, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Commons, Albert
+PB - Harvard University Botany Libraries
+DA - 1873-06-11
+SP - 53059420
+EP - 53059421
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Commons, Albert June 11, 1873
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Commons, Albert
+PB - Harvard University Botany Libraries
+DA - 1881-10-29
+SP - 53059422
+EP - 53059423
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Commons, Albert Oct. 29, 1881 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Commons, Albert
+PB - Harvard University Botany Libraries
+DA - 1881-11-08
+SP - 53059424
+EP - 53059424
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Commons, Albert Nov. 8, 1881 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Commons, Albert
+PB - Harvard University Botany Libraries
+DA - 1890-07-10
+SP - 53059425
+EP - 53059425
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Commons, Albert July 10, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Congdon, Joseph W.
+PB - Harvard University Botany Libraries
+DA - 1878-10-18
+SP - 53059426
+EP - 53059427
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Congdon, Joseph W. Oct. 18, 1878
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Congdon, Joseph W.
+PB - Harvard University Botany Libraries
+DA - 1889-11-29
+SP - 53059428
+EP - 53059429
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Congdon, Joseph W. Nov. 29, 1889 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Congdon, Joseph W.
+PB - Harvard University Botany Libraries
+DA - 1889-11-24
+SP - 53059430
+EP - 53059433
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Congdon, Joseph W. Nov. 24, 1889 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Congdon, Joseph W.
+PB - Harvard University Botany Libraries
+DA - 1891-02-08
+SP - 53059434
+EP - 53059434
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Congdon, Joseph W. Feb. 8, 1891 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Congdon, Joseph W.
+PB - Harvard University Botany Libraries
+DA - 1891-08-26
+SP - 53059435
+EP - 53059436
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Congdon, Joseph W. Aug. 26, 1891 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Congreve, Richard
+PB - Harvard University Botany Libraries
+DA - 1853-06-04
+SP - 53059437
+EP - 53059438
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Congreve, Richard June 4, 1853
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Congreve, Richard
+PB - Harvard University Botany Libraries
+DA - 1860-08-13
+SP - 53059439
+EP - 53059440
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Congreve, Richard Aug. 13, 1860
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Congreve, Richard
+PB - Harvard University Botany Libraries
+DA - 1863-02-13
+SP - 53059441
+EP - 53059442
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Congreve, Richard Feb. 13, 1863
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Congreve, Richard
+PB - Harvard University Botany Libraries
+DA - 03-25
+SP - 53059443
+EP - 53059443
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Congreve, Richard Mar. 25 [no year] [to J. Gray]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Constable, James
+PB - Harvard University Botany Libraries
+DA - 1842-12-31
+SP - 53059444
+EP - 53059446
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Constable, James Dec. 31, 1842
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Constable, James
+PB - Harvard University Botany Libraries
+DA - 1843-11-28
+SP - 53059447
+EP - 53059449
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Constable, James Nov. 28, 1843
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Conybeare, C. R.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53059450
+EP - 53059451
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Conybeare, C. R. undated [Thurs.]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooke, Edward W.
+PB - Harvard University Botany Libraries
+DA - 1851-07-14
+SP - 53059452
+EP - 53059453
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooke, Edward W. July 14, 1851
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooke, Josiah P.
+PB - Harvard University Botany Libraries
+DA - 1889-10-22
+SP - 53059454
+EP - 53059455
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooke, Josiah P. Oct. 22, 1889 [to S. Watson] 
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooke, Josiah P.
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53059456
+EP - 53059456
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooke, Josiah P. undated [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooke, Josiah P.
+PB - Harvard University Botany Libraries
+DA - 1891-10-27
+SP - 53059457
+EP - 53059458
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooke, Josiah P. Oct. 27, 1891 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooley, Grace E.
+PB - Harvard University Botany Libraries
+DA - 1890-08-06
+SP - 53059459
+EP - 53059460
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooley, Grace E. Aug. 6, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Coolidge, Joseph
+PB - Harvard University Botany Libraries
+DA - 01-15
+SP - 53059461
+EP - 53059462
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Coolidge, Joseph Jan. 15 [no year]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Coolidge, T. Jefferson
+PB - Harvard University Botany Libraries
+DA - 1879-07-23
+SP - 53059463
+EP - 53059464
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Coolidge, T. Jefferson July 23, 1879
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 1856-10-27
+SP - 53059465
+EP - 53059466
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. Oct. 27, 1856
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 1857-02-13
+SP - 53059467
+EP - 53059468
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. Feb. 13, 1857
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 1857-02-21
+SP - 53059469
+EP - 53059470
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. Feb. 21, 1857
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 1858-06-25
+SP - 53059471
+EP - 53059474
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. June 25, 1858
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 1858-06-26
+SP - 53059475
+EP - 53059475
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. June 26, 1858
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 1858-11-12
+SP - 53059476
+EP - 53059478
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. Nov. 12, 1858
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 1858-12-02
+SP - 53059479
+EP - 53059480
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. Dec. 2, 1858
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 1858-12-09
+SP - 53059481
+EP - 53059483
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. Dec. 9, 1858
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 1859-04-03
+SP - 53059484
+EP - 53059485
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. Apr. 3, 1859
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, James G.
+PB - Harvard University Botany Libraries
+DA - 05-24
+SP - 53059486
+EP - 53059487
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, James G. May 24 [no year]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1876-06-15
+SP - 53059488
+EP - 53059489
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. June 15, 1876 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1876-04-12
+SP - 53059490
+EP - 53059491
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. Apr. 12, 1876 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1876-12-05
+SP - 53059492
+EP - 53059493
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. Dec. 5, 1876 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1877-04-18
+SP - 53059494
+EP - 53059495
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. Apr. 18, 1877 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1877-07-30
+SP - 53059496
+EP - 53059497
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. July 30, 1877 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1877-12-09
+SP - 53059498
+EP - 53059499
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. Dec. 9, 1877 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1878-02-13
+SP - 53059500
+EP - 53059503
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. Feb. 13, 1878 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1878-04-19
+SP - 53059504
+EP - 53059505
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. Apr. 19, 1878 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1878-05-21
+SP - 53059506
+EP - 53059507
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. May 21, 1878 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1878-12-12
+SP - 53059508
+EP - 53059509
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. Dec. 12, 1878 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1882-12-26
+SP - 53059510
+EP - 53059511
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. Dec. 26, 1882 [to G. E. Davenport]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, Sarah P.
+PB - Harvard University Botany Libraries
+DA - 1882-12-26
+SP - 53059512
+EP - 53059512
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, Sarah P. Dec. 26, 1882 [to G. E. Davenport] [enclosed list]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, William
+PB - Harvard University Botany Libraries
+DA - 1845-06-30
+SP - 53059513
+EP - 53059515
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, William June 30, 1845 [enclosed list]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, William
+PB - Harvard University Botany Libraries
+DA - 1845-06-30
+SP - 53059516
+EP - 53059516
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, William June 30, 1845
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cooper, William
+PB - Harvard University Botany Libraries
+DA - 1846-04-21
+SP - 53059517
+EP - 53059519
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cooper, William Apr. 21, 1846
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Corbière, Louis
+PB - Harvard University Botany Libraries
+DA - 1891-12-04
+SP - 53059520
+EP - 53059520
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Corbière, Louis Dec. 4, 1891 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cortlandt, Catherine E. van
+PB - Harvard University Botany Libraries
+DA - 1885-12-29
+SP - 53059521
+EP - 53059522
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cortlandt, Catherine E. van Dec. 29, 1885
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1851-08-28
+SP - 53059523
+EP - 53059524
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Aug. 28, 1851
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1863-08-28
+SP - 53059525
+EP - 53059526
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Aug. 28, 1863
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1864-02-24
+SP - 53059527
+EP - 53059529
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Feb. 24, 1864
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1864-08-22
+SP - 53059530
+EP - 53059531
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Aug. 22, 1864
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1865-03-14
+SP - 53059532
+EP - 53059533
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Mar. 14, 1865
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1865-05-14
+SP - 53059534
+EP - 53059535
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest May 14, 1865
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1865-11-24
+SP - 53059536
+EP - 53059537
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Nov. 24, 1865
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - B. Westermann & Co.
+PB - Harvard University Botany Libraries
+DA - 1865-12-15
+SP - 53059538
+EP - 53059539
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - B. Westermann & Co. Dec. 15, 1865
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1866-06-19
+SP - 53059540
+EP - 53059541
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest June 19, 1866
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1867-04-21
+SP - 53059542
+EP - 53059543
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Apr. 21, 1867
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1869-08-12
+SP - 53059544
+EP - 53059545
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Aug. 12, 1869
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1878-10-26
+SP - 53059546
+EP - 53059547
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Oct. 26, 1878
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1879-03-05
+SP - 53059548
+EP - 53059549
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Mar. 5, 1879
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1879-06-13
+SP - 53059550
+EP - 53059551
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest June 13, 1879
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1879-07-02
+SP - 53059552
+EP - 53059553
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest July 2, 1879
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1880-02-07
+SP - 53059554
+EP - 53059555
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Feb. 7, 1880
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1880-02-07
+SP - 53059556
+EP - 53059557
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Feb. 7, 1880
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1880-05-20
+SP - 53059558
+EP - 53059559
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest May 20, 1880
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1880-09-11
+SP - 53059560
+EP - 53059561
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Sept. 11, 1880
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1880-10-31
+SP - 53059562
+EP - 53059563
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Oct. 31, 1880
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1881-02-01
+SP - 53059564
+EP - 53059565
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Feb. 1, 1881
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1880-07-15
+SP - 53059566
+EP - 53059566
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest July 15, 1880 [wedding announcement]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Defresne, Madame
+PB - Harvard University Botany Libraries
+DA - 1880-07-15
+SP - 53059567
+EP - 53059567
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Defresne, Madame July 15, 1880 [wedding announcement]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1881-02-09
+SP - 53059568
+EP - 53059569
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Feb. 9, 1881
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1881-03-01
+SP - 53059570
+EP - 53059571
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Mar. 1, 1881
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1881-03-05
+SP - 53059572
+EP - 53059573
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Mar. 5, 1881
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1881-06-11
+SP - 53059574
+EP - 53059575
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest June 11, 1881
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1881-08-22
+SP - 53059576
+EP - 53059577
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Aug. 22, 1881
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1882-04-24
+SP - 53059578
+EP - 53059579
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Apr. 24, 1882
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1882-06-20
+SP - 53059580
+EP - 53059581
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest June 20, 1882
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1882-01-27
+SP - 53059582
+EP - 53059583
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Jan. 27, 1882
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1883-04-28
+SP - 53059584
+EP - 53059585
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Apr. 28, 1883
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1883-08-17
+SP - 53059586
+EP - 53059587
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Aug. 17, 1883
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1884-04-30
+SP - 53059588
+EP - 53059589
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Apr. 30, 1884
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1884-06-21
+SP - 53059590
+EP - 53059591
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest June 21, 1884
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1884-09-23
+SP - 53059592
+EP - 53059593
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Sept. 23, 1884
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1887-11-11
+SP - 53059594
+EP - 53059594
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Nov. 11, 1887
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - 1889-12-31
+SP - 53059595
+EP - 53059595
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest Dec. 31, 1889 [death announcement]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cosson, Ernest
+PB - Harvard University Botany Libraries
+DA - undated
+SP - 53059596
+EP - 53059597
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cosson, Ernest undated
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Coville, Frederick V.
+PB - Harvard University Botany Libraries
+DA - 1889-08-10
+SP - 53059598
+EP - 53059599
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Coville, Frederick V. Aug. 10, 1889 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Coville, Frederick V.
+PB - Harvard University Botany Libraries
+DA - 1890-01-17
+SP - 53059600
+EP - 53059600
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Coville, Frederick V. Jan. 17, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Coville, Frederick V.
+PB - Harvard University Botany Libraries
+DA - 1890-03-05
+SP - 53059601
+EP - 53059601
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Coville, Frederick V. Mar. 5, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Coville, Frederick V.
+PB - Harvard University Botany Libraries
+DA - 1891-10-27
+SP - 53059602
+EP - 53059604
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Coville, Frederick V. Oct. 27, 1891 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Coville, Frederick V.
+PB - Harvard University Botany Libraries
+DA - 1891-11-10
+SP - 53059605
+EP - 53059607
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Coville, Frederick V. Nov. 10, 1891 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Coville, Frederick V.
+PB - Harvard University Botany Libraries
+DA - 1891-11-12
+SP - 53059608
+EP - 53059608
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Coville, Frederick V. Nov. 12, 1891 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cragin, Francis W.
+PB - Harvard University Botany Libraries
+DA - 1889-06-24
+SP - 53059609
+EP - 53059611
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cragin, Francis W. June 24, 1889 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cragin, Francis W.
+PB - Harvard University Botany Libraries
+DA - 1891-04-07
+SP - 53059612
+EP - 53059612
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cragin, Francis W. Apr. 7, 1891 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Craig, Moses
+PB - Harvard University Botany Libraries
+DA - 1890-12-30
+SP - 53059613
+EP - 53059613
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Craig, Moses Dec. 30, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cramer, Charles
+PB - Harvard University Botany Libraries
+DA - 1837-08-04
+SP - 53059614
+EP - 53059616
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cramer, Charles Aug. 4, 1837
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cramer, Charles
+PB - Harvard University Botany Libraries
+DA - 1847-07-11
+SP - 53059617
+EP - 53059619
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cramer, Charles July 11, 1847
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crawe, Ithamar B.
+PB - Harvard University Botany Libraries
+DA - 1846-07-11
+SP - 53059620
+EP - 53059622
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crawe, Ithamar B. July 11, 1846
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crawe, Ithamar B.
+PB - Harvard University Botany Libraries
+DA - 1846-10-10
+SP - 53059623
+EP - 53059625
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crawe, Ithamar B. Oct. 10, 1846
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crawford, Matthew A.
+PB - Harvard University Botany Libraries
+DA - 1888-10-04
+SP - 53059626
+EP - 53059627
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crawford, Matthew A. Oct. 4, 1888 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1869-01-07
+SP - 53059628
+EP - 53059630
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Jan. 7, 1869 [forwarded to D. C. Eaton by C. Wright]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1876-08-10
+SP - 53059631
+EP - 53059632
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Aug. 10, 1876
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1876-08-16
+SP - 53059633
+EP - 53059634
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Aug. 16, 1876
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1876-12-29
+SP - 53059635
+EP - 53059636
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Dec. 29, 1876
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1877-02-15
+SP - 53059637
+EP - 53059639
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Feb. 15, 1877
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1877-02-15
+SP - 53059640
+EP - 53059642
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Feb. 15, 1877 [enclosed notes]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1887-03-12
+SP - 53059643
+EP - 53059646
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Mar. 12, 1887
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1888-03-27
+SP - 53059647
+EP - 53059648
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Mar. 27, 1888 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1888-04-03
+SP - 53059649
+EP - 53059653
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Apr. 3, 1888 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Crépin, François
+PB - Harvard University Botany Libraries
+DA - 1890-04-10
+SP - 53059654
+EP - 53059654
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Crépin, François Apr. 10, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cuming, Hugh
+PB - Harvard University Botany Libraries
+DA - 1852-06-26
+SP - 53059655
+EP - 53059657
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cuming, Hugh June 26, 1852 [to J. H. Redfield]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cuming, Hugh
+PB - Harvard University Botany Libraries
+DA - 1857-03-31
+SP - 53059658
+EP - 53059659
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cuming, Hugh Mar. 31, 1857 [to J. H. Redfield]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cummings, Henry
+PB - Harvard University Botany Libraries
+DA - 1886-09-22
+SP - 53059660
+EP - 53059661
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cummings, Henry Sept. 22, 1886
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cummings, Henry
+PB - Harvard University Botany Libraries
+DA - 1886-10-02
+SP - 53059662
+EP - 53059663
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cummings, Henry Oct. 2, 1886 [enclosed receipt]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cummings, Henry
+PB - Harvard University Botany Libraries
+DA - 1886-10-02
+SP - 53059664
+EP - 53059664
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cummings, Henry Oct. 2, 1886
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cummings, Henry
+PB - Harvard University Botany Libraries
+DA - 1886-10-04
+SP - 53059665
+EP - 53059665
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cummings, Henry Oct. 4, 1886
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Curran, Mary K.
+PB - Harvard University Botany Libraries
+DA - 1884-03-20
+SP - 53059666
+EP - 53059667
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Curran, Mary K. Mar. 20, 1884
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Curran, Mary K.
+PB - Harvard University Botany Libraries
+DA - 1884-08-27
+SP - 53059668
+EP - 53059669
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Curran, Mary K. Aug. 27, 1884
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Curran, Mary K.
+PB - Harvard University Botany Libraries
+DA - 1884-11-05
+SP - 53059670
+EP - 53059671
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Curran, Mary K. Nov. 5, 1884
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Curran, Mary K.
+PB - Harvard University Botany Libraries
+DA - 1885-08-16
+SP - 53059672
+EP - 53059674
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Curran, Mary K. Aug. 16, 1885
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Curran, Mary K.
+PB - Harvard University Botany Libraries
+DA - 1885-08-31
+SP - 53059675
+EP - 53059676
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Curran, Mary K. Aug. 31, 1885
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Curran, Mary K.
+PB - Harvard University Botany Libraries
+DA - 1885-09-14
+SP - 53059677
+EP - 53059678
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Curran, Mary K. Sept. 14, 1885
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Curran, Mary K.
+PB - Harvard University Botany Libraries
+DA - 1885-09-15
+SP - 53059679
+EP - 53059679
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Curran, Mary K. Sept. 15, 1885
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Curtis, Charles A.
+PB - Harvard University Botany Libraries
+DA - 1867-09-28
+SP - 53059680
+EP - 53059680
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Curtis, Charles A. Sept. 28, 1867
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Curtis, Charles
+PB - Harvard University Botany Libraries
+DA - 1891-07-02
+SP - 53059681
+EP - 53059682
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Curtis, Charles July 2, 1891 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1881-06-17
+SP - 53059683
+EP - 53059684
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. June 17, 1881 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1881-10-06
+SP - 53059685
+EP - 53059686
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Oct. 6, 1881 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1881-10-18
+SP - 53059687
+EP - 53059688
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Oct. 18, 1881 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1882-03-09
+SP - 53059689
+EP - 53059690
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Mar. 9, 1882 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1885-10-26
+SP - 53059691
+EP - 53059692
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Oct. 26, 1885 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1886-04-25
+SP - 53059693
+EP - 53059694
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Apr. 25, 1886
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1886-10-27
+SP - 53059695
+EP - 53059696
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Oct. 27, [1886]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1887-03-19
+SP - 53059697
+EP - 53059698
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Mar. 19, 1887
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1887-10-13
+SP - 53059699
+EP - 53059700
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Oct. 13, 1887 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1889-01-08
+SP - 53059701
+EP - 53059701
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Jan. 8, 1889 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1889-04-11
+SP - 53059702
+EP - 53059703
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Apr. 11, 1889 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1890-04-20
+SP - 53059704
+EP - 53059705
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. Apr. 20, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cusick, William C.
+PB - Harvard University Botany Libraries
+DA - 1890-05-12
+SP - 53059706
+EP - 53059707
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cusick, William C. May 12, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Watson, Sereno
+PB - Harvard University Botany Libraries
+DA - 1890-07-19
+SP - 53059708
+EP - 53059709
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Watson, Sereno July 19, 1890 [to M. S. Cutler]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cutler, Mary S.
+PB - Harvard University Botany Libraries
+DA - 1890-07-22
+SP - 53059710
+EP - 53059710
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cutler, Mary S. July 22, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+
+TY - letter
+AU - Cutler, Mary S.
+PB - Harvard University Botany Libraries
+DA - 1890-07-28
+SP - 53059711
+EP - 53059711
+T1 - Asa Gray correspondence. Senders Co-Cu, 1826-1891 (inclusive)
+ID - 128005
+TI - Cutler, Mary S. July 28, 1890 [to S. Watson]
+VL - 221981
+OC - 878725232
+
+

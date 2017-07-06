@@ -1,0 +1,1703 @@
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1836-06-29
+SP  - 53506985
+EP  - 53506987
+JO  - John Carey letters to Asa Gray, 1837-1880
+ID  - 131283
+TI  - Carey, John June 29, 1836 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1837-04-24
+SP  - 53506988
+EP  - 53506990
+JO  - John Carey letters to Asa Gray, 1837-1883
+ID  - 131283
+TI  - Carey, John Apr. 24, 1837 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1838-11-05
+SP  - 53506991
+EP  - 53506993
+JO  - John Carey letters to Asa Gray, 1837-1886
+ID  - 131283
+TI  - Carey, John Nov. 5, 1838 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1839-05-23
+SP  - 53506994
+EP  - 53506994
+JO  - John Carey letters to Asa Gray, 1837-1889
+ID  - 131283
+TI  - Carey, John May 23, 1839 [to S. T. Mason] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1842-08-16
+SP  - 53506995
+EP  - 53506997
+JO  - John Carey letters to Asa Gray, 1837-1890
+ID  - 131283
+TI  - Carey, John Aug. 16, 1842 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1843-07-28
+SP  - 53506998
+EP  - 53507000
+JO  - John Carey letters to Asa Gray, 1837-1893
+ID  - 131283
+TI  - Carey, John July 28, 1843 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1845-08-25
+SP  - 53507001
+EP  - 53507003
+JO  - John Carey letters to Asa Gray, 1837-1896
+ID  - 131283
+TI  - Carey, John Aug. 25, 1845 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1845-09-22
+SP  - 53507004
+EP  - 53507009
+JO  - John Carey letters to Asa Gray, 1837-1899
+ID  - 131283
+TI  - Carey, John Sept. 22, 1845 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1845-10-29
+SP  - 53507010
+EP  - 53507012
+JO  - John Carey letters to Asa Gray, 1837-1905
+ID  - 131283
+TI  - Carey, John Oct. 29, 1845 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1846-02-12
+SP  - 53507013
+EP  - 53507015
+JO  - John Carey letters to Asa Gray, 1837-1908
+ID  - 131283
+TI  - Carey, John Feb. 12, 1846 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1846-06-08
+SP  - 53507016
+EP  - 53507018
+JO  - John Carey letters to Asa Gray, 1837-1911
+ID  - 131283
+TI  - Carey, John June 8, 1846 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1846-06-26
+SP  - 53507019
+EP  - 53507021
+JO  - John Carey letters to Asa Gray, 1837-1914
+ID  - 131283
+TI  - Carey, John June 26, 1846 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1846-07-17
+SP  - 53507022
+EP  - 53507024
+JO  - John Carey letters to Asa Gray, 1837-1917
+ID  - 131283
+TI  - Carey, John July 17, 1846 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1846-07-24
+SP  - 53507025
+EP  - 53507027
+JO  - John Carey letters to Asa Gray, 1837-1920
+ID  - 131283
+TI  - Carey, John July 24, 1846 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1846-10-19
+SP  - 53507028
+EP  - 53507030
+JO  - John Carey letters to Asa Gray, 1837-1923
+ID  - 131283
+TI  - Carey, John Oct. 19, 1846 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1846-12-21
+SP  - 53507031
+EP  - 53507033
+JO  - John Carey letters to Asa Gray, 1837-1926
+ID  - 131283
+TI  - Carey, John Dec. 21, 1846 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1847-01-13
+SP  - 53507034
+EP  - 53507036
+JO  - John Carey letters to Asa Gray, 1837-1929
+ID  - 131283
+TI  - Carey, John Jan. 13, 1847 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1847-03-04
+SP  - 53507037
+EP  - 53507039
+JO  - John Carey letters to Asa Gray, 1837-1932
+ID  - 131283
+TI  - Carey, John Mar. 4, 1847 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1847-07-12
+SP  - 53507040
+EP  - 53507044
+JO  - John Carey letters to Asa Gray, 1837-1935
+ID  - 131283
+TI  - Carey, John July 12, 1847 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1847-10-12
+SP  - 53507045
+EP  - 53507047
+JO  - John Carey letters to Asa Gray, 1837-1940
+ID  - 131283
+TI  - Carey, John Oct. 12, 1847 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1847-11-17
+SP  - 53507048
+EP  - 53507052
+JO  - John Carey letters to Asa Gray, 1837-1943
+ID  - 131283
+TI  - Carey, John Nov. 17, 1847 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1847-12-04
+SP  - 53507053
+EP  - 53507055
+JO  - John Carey letters to Asa Gray, 1837-1948
+ID  - 131283
+TI  - Carey, John Dec. 4, 1847 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 12-28
+SP  - 53507056
+EP  - 53507058
+JO  - John Carey letters to Asa Gray, 1837-1951
+ID  - 131283
+TI  - Carey, John Dec. 28 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 10-25
+SP  - 53507059
+EP  - 53507061
+JO  - John Carey letters to Asa Gray, 1837-1954
+ID  - 131283
+TI  - Carey, John Oct. 25 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 08-30
+SP  - 53507062
+EP  - 53507064
+JO  - John Carey letters to Asa Gray, 1837-1957
+ID  - 131283
+TI  - Carey, John Aug. 30 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 2017-08-30
+SP  - 53507065
+EP  - 53507067
+JO  - John Carey letters to Asa Gray, 1837-1960
+ID  - 131283
+TI  - Carey, John Aug. 30 undated 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 12-16
+SP  - 53507068
+EP  - 53507070
+JO  - John Carey letters to Asa Gray, 1837-1963
+ID  - 131283
+TI  - Carey, John Dec. 16 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 10-30
+SP  - 53507071
+EP  - 53507072
+JO  - John Carey letters to Asa Gray, 1837-1966
+ID  - 131283
+TI  - Carey, John Oct. 30 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 11-03
+SP  - 53507073
+EP  - 53507075
+JO  - John Carey letters to Asa Gray, 1837-1968
+ID  - 131283
+TI  - Carey, John Nov. 3 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 12-10
+SP  - 53507076
+EP  - 53507078
+JO  - John Carey letters to Asa Gray, 1837-1971
+ID  - 131283
+TI  - Carey, John Dec. 10 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507079
+EP  - 53507082
+JO  - John Carey letters to Asa Gray, 1837-1974
+ID  - 131283
+TI  - Carey, John undated [fragment] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 11-22
+SP  - 53507083
+EP  - 53507085
+JO  - John Carey letters to Asa Gray, 1837-1978
+ID  - 131283
+TI  - Carey, John Nov. 22 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507086
+EP  - 53507087
+JO  - John Carey letters to Asa Gray, 1837-1981
+ID  - 131283
+TI  - Carey, John undated [Fri.] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507088
+EP  - 53507089
+JO  - John Carey letters to Asa Gray, 1837-1983
+ID  - 131283
+TI  - Carey, John undated [list] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507090
+EP  - 53507091
+JO  - John Carey letters to Asa Gray, 1837-1985
+ID  - 131283
+TI  - Carey, John undated fragment 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507092
+EP  - 53507094
+JO  - John Carey letters to Asa Gray, 1837-1987
+ID  - 131283
+TI  - Carey, John undated [Sat.] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 10-22
+SP  - 53507095
+EP  - 53507097
+JO  - John Carey letters to Asa Gray, 1837-1990
+ID  - 131283
+TI  - Carey, John Oct. 22 [no year] [to J. Gray] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1848-02-07
+SP  - 53507098
+EP  - 53507100
+JO  - John Carey letters to Asa Gray, 1837-1993
+ID  - 131283
+TI  - Carey, John Feb. 7, 1848 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 02-20
+SP  - 53507101
+EP  - 53507103
+JO  - John Carey letters to Asa Gray, 1837-1996
+ID  - 131283
+TI  - Carey, John Feb. 20, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1848-03-06
+SP  - 53507104
+EP  - 53507108
+JO  - John Carey letters to Asa Gray, 1837-1999
+ID  - 131283
+TI  - Carey, John Mar. 6, 1848 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1848-04-29
+SP  - 53507109
+EP  - 53507110
+JO  - John Carey letters to Asa Gray, 1837-2004
+ID  - 131283
+TI  - Carey, John Apr. 29, 1848 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1848-05-22
+SP  - 53507111
+EP  - 53507116
+JO  - John Carey letters to Asa Gray, 1837-2006
+ID  - 131283
+TI  - Carey, John May 22, 1848 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1848-06-14
+SP  - 53507117
+EP  - 53507119
+JO  - John Carey letters to Asa Gray, 1837-2012
+ID  - 131283
+TI  - Carey, John June 14, 1848 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507120
+EP  - 53507122
+JO  - John Carey letters to Asa Gray, 1837-2015
+ID  - 131283
+TI  - Carey, John undated [fragment] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1848-11-14
+SP  - 53507123
+EP  - 53507125
+JO  - John Carey letters to Asa Gray, 1837-2018
+ID  - 131283
+TI  - Carey, John Nov. 14, 1848 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1848-11-24
+SP  - 53507126
+EP  - 53507128
+JO  - John Carey letters to Asa Gray, 1837-2021
+ID  - 131283
+TI  - Carey, John Nov. 24, 1848 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1848-12-23
+SP  - 53507129
+EP  - 53507131
+JO  - John Carey letters to Asa Gray, 1837-2024
+ID  - 131283
+TI  - Carey, John Dec. 23, 1848 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1849-07-31
+SP  - 53507132
+EP  - 53507134
+JO  - John Carey letters to Asa Gray, 1837-2027
+ID  - 131283
+TI  - Carey, John July 31, 1849 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1849-11-05
+SP  - 53507135
+EP  - 53507137
+JO  - John Carey letters to Asa Gray, 1837-2030
+ID  - 131283
+TI  - Carey, John Nov. 5, 1849 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1849-12-17
+SP  - 53507138
+EP  - 53507140
+JO  - John Carey letters to Asa Gray, 1837-2033
+ID  - 131283
+TI  - Carey, John Dec. 17, 1849 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1850-01-18
+SP  - 53507141
+EP  - 53507143
+JO  - John Carey letters to Asa Gray, 1837-2036
+ID  - 131283
+TI  - Carey, John Jan. 18, 1850 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1850-03-28
+SP  - 53507144
+EP  - 53507146
+JO  - John Carey letters to Asa Gray, 1837-2039
+ID  - 131283
+TI  - Carey, John Mar. 28, 1850 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1850-04-27
+SP  - 53507147
+EP  - 53507149
+JO  - John Carey letters to Asa Gray, 1837-2042
+ID  - 131283
+TI  - Carey, John Apr. 27, 1850 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1850-08-26
+SP  - 53507150
+EP  - 53507151
+JO  - John Carey letters to Asa Gray, 1837-2045
+ID  - 131283
+TI  - Carey, John Aug. 26, 1850 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1850-12-02
+SP  - 53507152
+EP  - 53507154
+JO  - John Carey letters to Asa Gray, 1837-2047
+ID  - 131283
+TI  - Carey, John Dec. 2, 1850 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 03-06
+SP  - 53507155
+EP  - 53507157
+JO  - John Carey letters to Asa Gray, 1837-2050
+ID  - 131283
+TI  - Carey, John Mar. 6, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 11-29
+SP  - 53507158
+EP  - 53507160
+JO  - John Carey letters to Asa Gray, 1837-2053
+ID  - 131283
+TI  - Carey, John Nov. 29, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 11-22
+SP  - 53507161
+EP  - 53507163
+JO  - John Carey letters to Asa Gray, 1837-2056
+ID  - 131283
+TI  - Carey, John Nov. 22, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 09-18
+SP  - 53507164
+EP  - 53507166
+JO  - John Carey letters to Asa Gray, 1837-2059
+ID  - 131283
+TI  - Carey, John Oct. 18, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 09-25
+SP  - 53507167
+EP  - 53507168
+JO  - John Carey letters to Asa Gray, 1837-2062
+ID  - 131283
+TI  - Carey, John Sept. 25, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 06-20
+SP  - 53507169
+EP  - 53507171
+JO  - John Carey letters to Asa Gray, 1837-2064
+ID  - 131283
+TI  - Carey, John June 20, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507172
+EP  - 53507173
+JO  - John Carey letters to Asa Gray, 1837-2067
+ID  - 131283
+TI  - Carey, John undated [Wed. morning] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507174
+EP  - 53507175
+JO  - John Carey letters to Asa Gray, 1837-2069
+ID  - 131283
+TI  - Carey, John undated [Wed. evening] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 12-31
+SP  - 53507176
+EP  - 53507178
+JO  - John Carey letters to Asa Gray, 1837-2071
+ID  - 131283
+TI  - Carey, John Dec. 31 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 11-30
+SP  - 53507179
+EP  - 53507181
+JO  - John Carey letters to Asa Gray, 1837-2074
+ID  - 131283
+TI  - Carey, John Nov. 30 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 11-29
+SP  - 53507182
+EP  - 53507184
+JO  - John Carey letters to Asa Gray, 1837-2077
+ID  - 131283
+TI  - Carey, John Nov. 29 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 11-17
+SP  - 53507185
+EP  - 53507186
+JO  - John Carey letters to Asa Gray, 1837-2080
+ID  - 131283
+TI  - Carey, John Nov. 17 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 07-06
+SP  - 53507187
+EP  - 53507189
+JO  - John Carey letters to Asa Gray, 1837-2082
+ID  - 131283
+TI  - Carey, John July 6 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 08-19
+SP  - 53507190
+EP  - 53507192
+JO  - John Carey letters to Asa Gray, 1837-2085
+ID  - 131283
+TI  - Carey, John Aug. 19 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 09-23
+SP  - 53507193
+EP  - 53507195
+JO  - John Carey letters to Asa Gray, 1837-2088
+ID  - 131283
+TI  - Carey, John Sept. 23 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 10-18
+SP  - 53507196
+EP  - 53507199
+JO  - John Carey letters to Asa Gray, 1837-2091
+ID  - 131283
+TI  - Carey, John Oct. 18 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 05-19
+SP  - 53507200
+EP  - 53507202
+JO  - John Carey letters to Asa Gray, 1837-2095
+ID  - 131283
+TI  - Carey, John May 19 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 04-07
+SP  - 53507203
+EP  - 53507205
+JO  - John Carey letters to Asa Gray, 1837-2098
+ID  - 131283
+TI  - Carey, John Apr. 7 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 04-25
+SP  - 53507206
+EP  - 53507208
+JO  - John Carey letters to Asa Gray, 1837-2101
+ID  - 131283
+TI  - Carey, John Apr. 25 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 03-20
+SP  - 53507209
+EP  - 53507211
+JO  - John Carey letters to Asa Gray, 1837-2104
+ID  - 131283
+TI  - Carey, John Mar. 20 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 03-14
+SP  - 53507212
+EP  - 53507214
+JO  - John Carey letters to Asa Gray, 1837-2107
+ID  - 131283
+TI  - Carey, John Mar. 14 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 01-11
+SP  - 53507215
+EP  - 53507217
+JO  - John Carey letters to Asa Gray, 1837-2110
+ID  - 131283
+TI  - Carey, John Jan. 11 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 01-18
+SP  - 53507218
+EP  - 53507220
+JO  - John Carey letters to Asa Gray, 1837-2113
+ID  - 131283
+TI  - Carey, John Jan. 18 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 01-26
+SP  - 53507221
+EP  - 53507223
+JO  - John Carey letters to Asa Gray, 1837-2116
+ID  - 131283
+TI  - Carey, John Jan. 26 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 01-22
+SP  - 53507224
+EP  - 53507225
+JO  - John Carey letters to Asa Gray, 1837-2119
+ID  - 131283
+TI  - Carey, John Jan. 22 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 02-05
+SP  - 53507226
+EP  - 53507228
+JO  - John Carey letters to Asa Gray, 1837-2121
+ID  - 131283
+TI  - Carey, John Feb. 5 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507229
+EP  - 53507230
+JO  - John Carey letters to Asa Gray, 1837-2124
+ID  - 131283
+TI  - Carey, John undated [Sat.] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507231
+EP  - 53507232
+JO  - John Carey letters to Asa Gray, 1837-2126
+ID  - 131283
+TI  - Carey, John undated [Thurs.] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507233
+EP  - 53507234
+JO  - John Carey letters to Asa Gray, 1837-2128
+ID  - 131283
+TI  - Carey, John undated [Sun.] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 06-01
+SP  - 53507235
+EP  - 53507236
+JO  - John Carey letters to Asa Gray, 1837-2130
+ID  - 131283
+TI  - Carey, John June 1 [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1851-06-10
+SP  - 53507237
+EP  - 53507241
+JO  - John Carey letters to Asa Gray, 1837-2132
+ID  - 131283
+TI  - Carey, John June 10, 1851 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507242
+EP  - 53507243
+JO  - John Carey letters to Asa Gray, 1837-2137
+ID  - 131283
+TI  - Carey, John undated [Wed.] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 06-06
+SP  - 53507244
+EP  - 53507245
+JO  - John Carey letters to Asa Gray, 1837-2139
+ID  - 131283
+TI  - Carey, John June 6, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1851-07-19
+SP  - 53507246
+EP  - 53507247
+JO  - John Carey letters to Asa Gray, 1837-2141
+ID  - 131283
+TI  - Carey, John July 19, 1851 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 07-31
+SP  - 53507248
+EP  - 53507249
+JO  - John Carey letters to Asa Gray, 1837-2143
+ID  - 131283
+TI  - Carey, John July 31, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1851-09-04
+SP  - 53507250
+EP  - 53507251
+JO  - John Carey letters to Asa Gray, 1837-2145
+ID  - 131283
+TI  - Carey, John Sept. 4, 1851 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 11-06
+SP  - 53507252
+EP  - 53507253
+JO  - John Carey letters to Asa Gray, 1837-2147
+ID  - 131283
+TI  - Carey, John Nov. 6, [no year] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1851-12-03
+SP  - 53507254
+EP  - 53507255
+JO  - John Carey letters to Asa Gray, 1837-2149
+ID  - 131283
+TI  - Carey, John Dec. 3, 1851 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1851-12-03
+SP  - 53507256
+EP  - 53507257
+JO  - John Carey letters to Asa Gray, 1837-2151
+ID  - 131283
+TI  - Carey, John Dec. 3, 1851 [to J. Gray] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-01-16
+SP  - 53507258
+EP  - 53507259
+JO  - John Carey letters to Asa Gray, 1837-2153
+ID  - 131283
+TI  - Carey, John Jan. 16, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-04-03
+SP  - 53507260
+EP  - 53507261
+JO  - John Carey letters to Asa Gray, 1837-2155
+ID  - 131283
+TI  - Carey, John Apr. 3, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-06-14
+SP  - 53507262
+EP  - 53507263
+JO  - John Carey letters to Asa Gray, 1837-2157
+ID  - 131283
+TI  - Carey, John June 14, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-06-19
+SP  - 53507264
+EP  - 53507265
+JO  - John Carey letters to Asa Gray, 1837-2159
+ID  - 131283
+TI  - Carey, John June 19, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-07-15
+SP  - 53507266
+EP  - 53507268
+JO  - John Carey letters to Asa Gray, 1837-2161
+ID  - 131283
+TI  - Carey, John July 15, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-07-22
+SP  - 53507269
+EP  - 53507270
+JO  - John Carey letters to Asa Gray, 1837-2164
+ID  - 131283
+TI  - Carey, John July 22, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-08-19
+SP  - 53507271
+EP  - 53507272
+JO  - John Carey letters to Asa Gray, 1837-2166
+ID  - 131283
+TI  - Carey, John Aug. 19, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-09-13
+SP  - 53507273
+EP  - 53507275
+JO  - John Carey letters to Asa Gray, 1837-2168
+ID  - 131283
+TI  - Carey, John Sept. 13, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-09-30
+SP  - 53507276
+EP  - 53507277
+JO  - John Carey letters to Asa Gray, 1837-2171
+ID  - 131283
+TI  - Carey, John Sept. 30, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-10-23
+SP  - 53507278
+EP  - 53507279
+JO  - John Carey letters to Asa Gray, 1837-2173
+ID  - 131283
+TI  - Carey, John Oct. 23, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1852-11-13
+SP  - 53507280
+EP  - 53507281
+JO  - John Carey letters to Asa Gray, 1837-2175
+ID  - 131283
+TI  - Carey, John Nov. 13, 1852 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John, Jr. 
+DP  - Harvard University Botany Libraries
+DA  - 1853-01-07
+SP  - 53507282
+EP  - 53507283
+JO  - John Carey letters to Asa Gray, 1837-2177
+ID  - 131283
+TI  - Carey, John, Jr. Jan. 7, 1853 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1853-03-08
+SP  - 53507284
+EP  - 53507287
+JO  - John Carey letters to Asa Gray, 1837-2179
+ID  - 131283
+TI  - Carey, John Mar. 8, 1853 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, Samuel T. 
+DP  - Harvard University Botany Libraries
+DA  - 1854-04-14
+SP  - 53507288
+EP  - 53507289
+JO  - John Carey letters to Asa Gray, 1837-2183
+ID  - 131283
+TI  - Carey, Samuel T. Apr. 14, 1854 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1855-09-24
+SP  - 53507290
+EP  - 53507291
+JO  - John Carey letters to Asa Gray, 1837-2185
+ID  - 131283
+TI  - Carey, John Sept. 24, 1855 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1856-03-27
+SP  - 53507292
+EP  - 53507293
+JO  - John Carey letters to Asa Gray, 1837-2187
+ID  - 131283
+TI  - Carey, John Mar. 27, 1856 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1856-11-18
+SP  - 53507294
+EP  - 53507295
+JO  - John Carey letters to Asa Gray, 1837-2189
+ID  - 131283
+TI  - Carey, John Nov. 18, 1856 [to W. Boott] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1856-11-20
+SP  - 53507296
+EP  - 53507297
+JO  - John Carey letters to Asa Gray, 1837-2191
+ID  - 131283
+TI  - Carey, John Nov. 20, 1856 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1856-12-18
+SP  - 53507298
+EP  - 53507299
+JO  - John Carey letters to Asa Gray, 1837-2193
+ID  - 131283
+TI  - Carey, John Dec. 18, 1856 [to W. Boott] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1856-12-23
+SP  - 53507300
+EP  - 53507301
+JO  - John Carey letters to Asa Gray, 1837-2195
+ID  - 131283
+TI  - Carey, John Dec. 23, 1856 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1856-12-23
+SP  - 53507302
+EP  - 53507303
+JO  - John Carey letters to Asa Gray, 1837-2197
+ID  - 131283
+TI  - Carey, John Dec. 23, 1856 [envelope] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1858-03-17
+SP  - 53507304
+EP  - 53507305
+JO  - John Carey letters to Asa Gray, 1837-2199
+ID  - 131283
+TI  - Carey, John Mar. 17, 1858 [to W. Boott] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1861-08-29
+SP  - 53507306
+EP  - 53507308
+JO  - John Carey letters to Asa Gray, 1837-2201
+ID  - 131283
+TI  - Carey, John Aug. 29, 1861 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1868-11-26
+SP  - 53507309
+EP  - 53507310
+JO  - John Carey letters to Asa Gray, 1837-2204
+ID  - 131283
+TI  - Carey, John Nov. 26, 1868 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1868-11-01
+SP  - 53507311
+EP  - 53507312
+JO  - John Carey letters to Asa Gray, 1837-2206
+ID  - 131283
+TI  - Carey, John Nov. 1868 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507313
+EP  - 53507314
+JO  - John Carey letters to Asa Gray, 1837-2208
+ID  - 131283
+TI  - Carey, John undated [Sat.] [1869] [to J. Gray] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1871-07-08
+SP  - 53507315
+EP  - 53507316
+JO  - John Carey letters to Asa Gray, 1837-2210
+ID  - 131283
+TI  - Carey, John July 8, 1871 [to J. Gray] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1872-12-11
+SP  - 53507317
+EP  - 53507320
+JO  - John Carey letters to Asa Gray, 1837-2212
+ID  - 131283
+TI  - Carey, John Dec. 11, 1872 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1873-12-24
+SP  - 53507321
+EP  - 53507322
+JO  - John Carey letters to Asa Gray, 1837-2216
+ID  - 131283
+TI  - Carey, John Dec. 24, 1873 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - 1878-07-20
+SP  - 53507323
+EP  - 53507324
+JO  - John Carey letters to Asa Gray, 1837-2218
+ID  - 131283
+TI  - Carey, John July 20, 1878 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53507325
+EP  - 53507326
+JO  - John Carey letters to Asa Gray, 1837-2220
+ID  - 131283
+TI  - Carey, John undated 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John, Jr. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-03-28
+SP  - 53507327
+EP  - 53507328
+JO  - John Carey letters to Asa Gray, 1837-2222
+ID  - 131283
+TI  - Carey, John, Jr. Mar. 28, 1880 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John, Jr. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-03-30
+SP  - 53507329
+EP  - 53507330
+JO  - John Carey letters to Asa Gray, 1837-2224
+ID  - 131283
+TI  - Carey, John, Jr. Mar. 30, 1880 [enclosed excerpt] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John, Jr. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-03-30
+SP  - 53507331
+EP  - 53507332
+JO  - John Carey letters to Asa Gray, 1837-2226
+ID  - 131283
+TI  - Carey, John, Jr. Mar. 30, 1880 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, John, Jr. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-04-01
+SP  - 53507333
+EP  - 53507334
+JO  - John Carey letters to Asa Gray, 1837-2228
+ID  - 131283
+TI  - Carey, John, Jr. Apr. 1, 1880 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, Annette S. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-04-01
+SP  - 53507335
+EP  - 53507336
+JO  - John Carey letters to Asa Gray, 1837-2230
+ID  - 131283
+TI  - Carey, Annette S. Apr. 1, 1880 
+VL  - 226432
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Carey, Annette S. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-04-01
+SP  - 53507337
+EP  - 53507338
+JO  - John Carey letters to Asa Gray, 1837-2232
+ID  - 131283
+TI  - Carey, Annette S. Apr. 1, 1880 [enclosure] 
+VL  - 226432
+OC  - 878725232
+ER  - 
+

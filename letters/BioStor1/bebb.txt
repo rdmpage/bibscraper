@@ -1,0 +1,1092 @@
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-09-09
+SP  - 53541813
+EP  - 53541781
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1929
+ID  - 131564
+TI  - Bebb, Michael S. Sept. 9, 1880 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-04-16
+SP  - 53541782
+EP  - 53541783
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1931
+ID  - 131564
+TI  - Bebb, Michael S. Apr. 16, 1881 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-05-10
+SP  - 53541784
+EP  - 53541787
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1933
+ID  - 131564
+TI  - Bebb, Michael S. May 10, 1881 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-08-06
+SP  - 53541788
+EP  - 53541789
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1937
+ID  - 131564
+TI  - Bebb, Michael S. Aug. 6, 1881 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-09-03
+SP  - 53541790
+EP  - 53541791
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1939
+ID  - 131564
+TI  - Bebb, Michael S. Sept. 3, 1881 [to B.L. Robinson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-01-31
+SP  - 53541792
+EP  - 53541793
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1941
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 31, 1882 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-07-13
+SP  - 53541794
+EP  - 53541795
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1943
+ID  - 131564
+TI  - Bebb, Michael S. July 13, 1882 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-12
+SP  - 53541796
+EP  - 53541798
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1945
+ID  - 131564
+TI  - Bebb, Michael S. Feb. 12, 1884 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-12
+SP  - 53541799
+EP  - 53541800
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1948
+ID  - 131564
+TI  - Bebb, Michael S. Feb. 12, 1884 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-21
+SP  - 53541801
+EP  - 53541802
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1950
+ID  - 131564
+TI  - Bebb, Michael S. Feb. 21, 1884 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-04-07
+SP  - 53541803
+EP  - 53541809
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1952
+ID  - 131564
+TI  - Bebb, Michael S. Apr. 7, 1884 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1878-06-14
+SP  - 53541815
+EP  - 53541814
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1927
+ID  - 131564
+TI  - Bebb, Michael S. June 14, 1878 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1875-12-26
+SP  - 53541817
+EP  - 53541816
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1925
+ID  - 131564
+TI  - Bebb, Michael S. Dec. 26, 1875 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-01-02
+SP  - 53541819
+EP  - 53541818
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1923
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 2, 1874 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1874-01
+SP  - 53541821
+EP  - 53541820
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1921
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 1874 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1873-02-24
+SP  - 53541825
+EP  - 53541822
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1917
+ID  - 131564
+TI  - Bebb, Michael S. Feb. 24, 1873 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1873-02-03
+SP  - 53541829
+EP  - 53541826
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1913
+ID  - 131564
+TI  - Bebb, Michael S. Feb. 3, 1873 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1873-01-03
+SP  - 53541832
+EP  - 53541830
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1910
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 3, 1873 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-03-18
+SP  - 53541833
+EP  - 53541833
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1909
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 18, 1871 [enclosed list] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-03-18
+SP  - 53541835
+EP  - 53541834
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1907
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 18, 1871 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1871-03-18
+SP  - 53541837
+EP  - 53541836
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1905
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 18, 1871 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1870-07-07
+SP  - 53541839
+EP  - 53541838
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1903
+ID  - 131564
+TI  - Bebb, Michael S. July 7, 1870 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1867-05-22
+SP  - 53541841
+EP  - 53541840
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1901
+ID  - 131564
+TI  - Bebb, Michael S. May 22, 1867 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1860-01-17
+SP  - 53541843
+EP  - 53541842
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1899
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 17, 1860 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1860-01-10
+SP  - 53541845
+EP  - 53541844
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1897
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 10, 1860 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1859-11-22
+SP  - 53541847
+EP  - 53541846
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1895
+ID  - 131564
+TI  - Bebb, Michael S. Nov. 22, 1859 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-04-08
+SP  - 53541810
+EP  - 53541848
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1959
+ID  - 131564
+TI  - Bebb, Michael S. Apr. 8, 1884 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-12-09
+SP  - 53541849
+EP  - 53541851
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1963
+ID  - 131564
+TI  - Bebb, Michael S. Dec. 9, 1884 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-12-10
+SP  - 53541852
+EP  - 53541854
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1966
+ID  - 131564
+TI  - Bebb, Michael S. Dec. 10, 1884 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-08-06
+SP  - 53541855
+EP  - 53541856
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1969
+ID  - 131564
+TI  - Bebb, Michael S. Aug. 6, 1885 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-12-15
+SP  - 53541857
+EP  - 53541858
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1971
+ID  - 131564
+TI  - Bebb, Michael S. Dec. 15, 1885 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-01-21
+SP  - 53541859
+EP  - 53541860
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1973
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 21, 1886 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-06-01
+SP  - 53541861
+EP  - 53541862
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1975
+ID  - 131564
+TI  - Bebb, Michael S. June 1, 1886 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-06-18
+SP  - 53541863
+EP  - 53541864
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1977
+ID  - 131564
+TI  - Bebb, Michael S. June 18, 1886 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-06-18
+SP  - 53541865
+EP  - 53541866
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1979
+ID  - 131564
+TI  - Bebb, Michael S. June 18, 1886 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-07-03
+SP  - 53541867
+EP  - 53541868
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1981
+ID  - 131564
+TI  - Bebb, Michael S. July 3, 1886 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-07-03
+SP  - 53541869
+EP  - 53541871
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1983
+ID  - 131564
+TI  - Bebb, Michael S. July 3, 1886 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-07-14
+SP  - 53541872
+EP  - 53541873
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1986
+ID  - 131564
+TI  - Bebb, Michael S. July 14, 1886 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-03-08
+SP  - 53541874
+EP  - 53541875
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1988
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 8, 1887 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-03-08
+SP  - 53541876
+EP  - 53541877
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1990
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 8, 1887 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-04-04
+SP  - 53541878
+EP  - 53541879
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1992
+ID  - 131564
+TI  - Bebb, Michael S. Apr. 4, 1887 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-01-14
+SP  - 53541880
+EP  - 53541886
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-1994
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 14, 1888 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-05-30
+SP  - 53541887
+EP  - 53541890
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2001
+ID  - 131564
+TI  - Bebb, Michael S. May 30, 1888 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-02
+SP  - 53541891
+EP  - 53541894
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2005
+ID  - 131564
+TI  - Bebb, Michael S. Nov. 2, 1888 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-12-06
+SP  - 53541895
+EP  - 53541898
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2009
+ID  - 131564
+TI  - Bebb, Michael S. Dec. 6, 1888 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1888-12-26
+SP  - 53541899
+EP  - 53541902
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2013
+ID  - 131564
+TI  - Bebb, Michael S. Dec. 26, 1888 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53541903
+EP  - 53541906
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2017
+ID  - 131564
+TI  - Bebb, Michael S. undated [Mon.] [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 53541907
+EP  - 53541911
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2021
+ID  - 131564
+TI  - Bebb, Michael S. undated [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-11
+SP  - 53541912
+EP  - 53541913
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2026
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 11, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-16
+SP  - 53541914
+EP  - 53541914
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2028
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 16, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-21
+SP  - 53541915
+EP  - 53541916
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2029
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 21, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-22
+SP  - 53541917
+EP  - 53541918
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2031
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 22, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-30
+SP  - 53541919
+EP  - 53541922
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2033
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 30, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-01
+SP  - 53541923
+EP  - 53541924
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2037
+ID  - 131564
+TI  - Bebb, Michael S. Feb. 1, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Sargent, Charles S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-28
+SP  - 53541925
+EP  - 53541925
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2039
+ID  - 131564
+TI  - Sargent, Charles S. Jan. 28, 1889 [forwarded by Bebb] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-03-01
+SP  - 53541926
+EP  - 53541928
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2040
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 1, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-03-19
+SP  - 53541929
+EP  - 53541930
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2043
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 19, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - Mar.125,1889
+SP  - 53541931
+EP  - 53541932
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2045
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 125, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-04-04
+SP  - 53541933
+EP  - 53541934
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2047
+ID  - 131564
+TI  - Bebb, Michael S. Apr. 4, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-06-12
+SP  - 53541935
+EP  - 53541936
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2049
+ID  - 131564
+TI  - Bebb, Michael S. June 12, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-07-21
+SP  - 53541937
+EP  - 53541938
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2051
+ID  - 131564
+TI  - Bebb, Michael S. July 21, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-07-31
+SP  - 53541939
+EP  - 53541939
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2053
+ID  - 131564
+TI  - Bebb, Michael S. July 31, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-08
+SP  - 53541940
+EP  - 53541945
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2054
+ID  - 131564
+TI  - Bebb, Michael S. Aug. [1889] [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-08
+SP  - 53541946
+EP  - 53541954
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2060
+ID  - 131564
+TI  - Bebb, Michael S. Aug. 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-09-04
+SP  - 53541955
+EP  - 53541957
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2069
+ID  - 131564
+TI  - Bebb, Michael S. Sept. 4, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1889-10-17
+SP  - 53541958
+EP  - 53541959
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2072
+ID  - 131564
+TI  - Bebb, Michael S. Oct. 17, 1889 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-04
+SP  - 53541960
+EP  - 53541965
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2074
+ID  - 131564
+TI  - Bebb, Michael S. Feb. 4, 1890 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1890
+SP  - 53541966
+EP  - 53541967
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2080
+ID  - 131564
+TI  - Bebb, Michael S. [1890] [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-01-30
+SP  - 53541968
+EP  - 53541971
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2082
+ID  - 131564
+TI  - Bebb, Michael S. Jan. 30, 1891 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-03-06
+SP  - 53541972
+EP  - 53541975
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2086
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 6, 1891 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-11-10
+SP  - 53541976
+EP  - 53541977
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2090
+ID  - 131564
+TI  - Bebb, Michael S. Nov. 10, 1891 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1892-03-12
+SP  - 53541978
+EP  - 53541979
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2092
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 12, 1892 [to S. Watson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1892-03-22
+SP  - 53541980
+EP  - 53541981
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2094
+ID  - 131564
+TI  - Bebb, Michael S. Mar. 22, 1892 [to M. L. Fernald] [postcard] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1892-10-14
+SP  - 53541982
+EP  - 53541984
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2096
+ID  - 131564
+TI  - Bebb, Michael S. Oct. 14, 1892 [to M. L. Fernald] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1892-10-31
+SP  - 53541985
+EP  - 53541986
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2099
+ID  - 131564
+TI  - Bebb, Michael S. Oct. 31, 1892 [to M. L. Fernald] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1892-10-31
+SP  - 53541987
+EP  - 53541990
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2101
+ID  - 131564
+TI  - Bebb, Michael S. Oct. 31, 1892 [to J. A. Allen] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1892-10-31
+SP  - 53541991
+EP  - 53541993
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2105
+ID  - 131564
+TI  - Bebb, Michael S. Oct. 31, 1892 [to B. L. Robinson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1894-11-06
+SP  - 53541994
+EP  - 53541995
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2108
+ID  - 131564
+TI  - Bebb, Michael S. Nov. 6, 1894 [to B. L. Robinson] [postcard] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1894-11-16
+SP  - 53541996
+EP  - 53541999
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2110
+ID  - 131564
+TI  - Bebb, Michael S. Nov. 16, 1894 [to M. L. Fernald] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1894-11-21
+SP  - 53542000
+EP  - 53542003
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2114
+ID  - 131564
+TI  - Bebb, Michael S. Nov. 21, 1894 [to B. L. Robinson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1894-12-16
+SP  - 53542004
+EP  - 53542007
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2118
+ID  - 131564
+TI  - Bebb, Michael S. Dec. 16, 1894 [to B. L. Robinson] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1895-07-10
+SP  - 53542008
+EP  - 53542008
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2122
+ID  - 131564
+TI  - Bebb, Michael S. July 10, 1895 [to M. L. Fernald] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 1895
+SP  - 53542009
+EP  - 53542010
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2123
+ID  - 131564
+TI  - Bebb, Michael S. [1895] [to C. E. Faxon] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bebb, Michael S. 
+DP  - Harvard University Botany Libraries
+DA  - 2-Oct
+SP  - 53542011
+EP  - 53542012
+JO  - Michael Schuck Bebb letters to Asa Gray, 1859-2125
+ID  - 131564
+TI  - Bebb, Michael S. Oct. 2 [no year] 
+VL  - 226809
+OC  - 878725232
+ER  - 
+

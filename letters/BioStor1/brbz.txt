@@ -1,0 +1,2938 @@
+﻿TY  - letter
+AU  - Bouvé, Thomas T.
+DP  - Harvard University Botany Libraries
+DA  - 1887-01-11
+SP  - 52979200
+EP  - 52979200
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bouvé, Thomas T. Jan. 11, 1887
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bouvé, Thomas T.
+DP  - Harvard University Botany Libraries
+DA  - 1887-05-10
+SP  - 52979199
+EP  - 52979199
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bouvé, Thomas T. May 10, 1887 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bouvé, Thomas T.
+DP  - Harvard University Botany Libraries
+DA  - 1891-05-22
+SP  - 52979198
+EP  - 52979197
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bouvé, Thomas T. May 22, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bower, Frederick O.
+DP  - Harvard University Botany Libraries
+DA  - 1888-12-27
+SP  - 52979196
+EP  - 52979196
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bower, Frederick O. Dec. 27, 1888 [to J. Gray]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brace, John P.
+DP  - Harvard University Botany Libraries
+DA  - 1849-02-15
+SP  - 52979195
+EP  - 52979193
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brace, John P. Feb. 15, 1849
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bradford, Thomas L.
+DP  - Harvard University Botany Libraries
+DA  - 1891-02-21
+SP  - 52979192
+EP  - 52979192
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bradford, Thomas L. Feb. 21, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - L. H. Bradford & Co.
+DP  - Harvard University Botany Libraries
+DA  - 1856-04-18
+SP  - 52979191
+EP  - 52979191
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - L. H. Bradford & Co. Apr. 18, 1856
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - 1871-09
+SP  - 52979190
+EP  - 52979189
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Watson, Sereno Sept. 1871 [to L. H. Bradford & Co.]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bradley, Cornelius B.
+DP  - Harvard University Botany Libraries
+DA  - 1872-12-31
+SP  - 52979188
+EP  - 52979184
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bradley, Cornelius B. Dec. 31, 1872
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bramwell, Frederick J.
+DP  - Harvard University Botany Libraries
+DA  - 1882-12-31
+SP  - 52979183
+EP  - 52979182
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bramwell, Frederick J. Dec. 31, 1882
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bramwell, Frederick J.
+DP  - Harvard University Botany Libraries
+DA  - 1887-06-24
+SP  - 52979181
+EP  - 52979180
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bramwell, Frederick J. June 24, 1887
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bramwell, Frederick J.
+DP  - Harvard University Botany Libraries
+DA  - 1887-06-27
+SP  - 52979179
+EP  - 52979178
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bramwell, Frederick J. June 27, 1887
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, Townshend S.
+DP  - Harvard University Botany Libraries
+DA  - 1874-06-09
+SP  - 52979177
+EP  - 52979177
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, Townshend S. June 9, 1874
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, Townshend S.
+DP  - Harvard University Botany Libraries
+DA  - 1876-04-17
+SP  - 52979176
+EP  - 52979176
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, Townshend S. Apr. 17, 1876
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, Townshend S.
+DP  - Harvard University Botany Libraries
+DA  - 1877-10-19
+SP  - 52979175
+EP  - 52979174
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, Townshend S. Oct. 19, 1877
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, Townshend S.
+DP  - Harvard University Botany Libraries
+DA  - 1884-01-15
+SP  - 52979173
+EP  - 52979173
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, Townshend S. Jan. 15, 1884 [forwarded by W. M. Canby]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, Townshend S.
+DP  - Harvard University Botany Libraries
+DA  - 1884-01-15
+SP  - 52979172
+EP  - 52979170
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, Townshend S. Jan. 15, 1884 [forwarded by W. M. Canby] [list]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, Townshend S.
+DP  - Harvard University Botany Libraries
+DA  - 1888-08-30
+SP  - 52979169
+EP  - 52979168
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, Townshend S. Aug. 30, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, Townshend S.
+DP  - Harvard University Botany Libraries
+DA  - 1888-10-31
+SP  - 52979167
+EP  - 52979167
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, Townshend S. Oct. 31, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, T. S. and Katharine
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-10
+SP  - 52979166
+EP  - 52979166
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, T. S. and Katharine Sept. 10, 1891 [to J. Gray]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, Townshend S.
+DP  - Harvard University Botany Libraries
+DA  - 29-Mar
+SP  - 52979165
+EP  - 52979164
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, Townshend S. Mar. 29 [no year]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brandegee, Townshend S.
+DP  - Harvard University Botany Libraries
+DA  - 11-Oct
+SP  - 52979163
+EP  - 52979131
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brandegee, Townshend S. Oct. 11 [no year]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1850-08-01
+SP  - 52979132
+EP  - 52979133
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander Aug. 1, 1850
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1852-11-12
+SP  - 52979134
+EP  - 52979136
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander Nov. 12, 1852
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1854-10-16
+SP  - 52979137
+EP  - 52979138
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander Oct. 16, 1854
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1866-07-16
+SP  - 52979139
+EP  - 52979140
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander July 16, 1866
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1866-09-03
+SP  - 52979141
+EP  - 52979142
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander Sept. 3, 1866
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1866-12-29
+SP  - 52979143
+EP  - 52979143
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander Dec. 29, 1866
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1875-05-17
+SP  - 52979144
+EP  - 52979145
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander May 17, 1875
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - 1877-03-29
+SP  - 52979146
+EP  - 52979146
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander Mar. 29, 1877 [death notice]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52979147
+EP  - 52979149
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander undated
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Braun, Alexander
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52979150
+EP  - 52979151
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Braun, Alexander undated
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brendel, Frederick
+DP  - Harvard University Botany Libraries
+DA  - 1878-04-03
+SP  - 52979152
+EP  - 52979152
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brendel, Frederick Apr. 3, 1878
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brendel, Frederick
+DP  - Harvard University Botany Libraries
+DA  - 1892-09-11
+SP  - 52979153
+EP  - 52979153
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brendel, Frederick Sept. 11, 1892 [to J. Gray]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brendel, Frederick
+DP  - Harvard University Botany Libraries
+DA  - 1892-11-20
+SP  - 52979154
+EP  - 52979154
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brendel, Frederick Nov. 20, 1892 [to J. Gray]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 26-Mar
+SP  - 52979155
+EP  - 52979156
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Mar. 26 [no year]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1855-02-18
+SP  - 52979157
+EP  - 52979158
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Feb. 18, 1855
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1861-01-07
+SP  - 52979159
+EP  - 52979160
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Jan. 7, 1861
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1861-06-10
+SP  - 52979161
+EP  - 52979202
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. June 10, 1861
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1862-01-04
+SP  - 52979203
+EP  - 52979206
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Jan. 4, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1862-05-13
+SP  - 52979207
+EP  - 52979208
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. May 13, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1862-06-02
+SP  - 52979209
+EP  - 52979214
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. June 2, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1862-08-11
+SP  - 52979215
+EP  - 52979216
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Aug. 11, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1862-10-27
+SP  - 52979217
+EP  - 52979219
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Oct. 27, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1863-01-02
+SP  - 52979220
+EP  - 52979221
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Jan. 2, 1863
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1863-03-21
+SP  - 52979222
+EP  - 52979225
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Mar. 21, 1863
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1863-03-31
+SP  - 52979226
+EP  - 52979227
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Mar. 31, 1863
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1863-06-05
+SP  - 52979228
+EP  - 52979231
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. June 5, 1863
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1863-08-13
+SP  - 52979232
+EP  - 52979235
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Aug. 13, 1863
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1863-11-11
+SP  - 52979236
+EP  - 52979237
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Nov. 11, 1863
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1863-12-01
+SP  - 52979238
+EP  - 52979241
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Dec. 1, 1863
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1864-02-22
+SP  - 52979242
+EP  - 52979243
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Feb. 22, 1864
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1864-04-02
+SP  - 52979244
+EP  - 52979245
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Apr. 2, 1864
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1864-06-22
+SP  - 52979246
+EP  - 52979251
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. June 22, 1864
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1868-11-23
+SP  - 52979252
+EP  - 52979253
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Nov. 23, 1868 [to A. and J. Gray]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1870-04-05
+SP  - 52979254
+EP  - 52979255
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Apr. 5, 1870
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1870-09-06
+SP  - 52979256
+EP  - 52979257
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Sept. 6, 1870
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1870-11-05
+SP  - 52979258
+EP  - 52979259
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Nov. 5, 1870
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1873-12-18
+SP  - 52979260
+EP  - 52979261
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Dec. 18, 1873
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1873-12-22
+SP  - 52979262
+EP  - 52979263
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Dec. 22, 1873 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1874-08-12
+SP  - 52979264
+EP  - 52979265
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Aug. 12, 1874
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1877-11-14
+SP  - 52979266
+EP  - 52979267
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Nov. 14, 1877
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1905-02-20
+SP  - 52979268
+EP  - 52979271
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. 1878 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1880-05-21
+SP  - 52979272
+EP  - 52979273
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. May 21, 1880 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1887-12-16
+SP  - 52979274
+EP  - 52979274
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Dec. 16, 1887 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-06-21
+SP  - 52979275
+EP  - 52979276
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. June 21, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brewer, William H.
+DP  - Harvard University Botany Libraries
+DA  - 1888-12-28
+SP  - 52979277
+EP  - 52979280
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brewer, William H. Dec. 28, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brezina, Aristides
+DP  - Harvard University Botany Libraries
+DA  - 1887-05-20
+SP  - 52979281
+EP  - 52979281
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brezina, Aristides May 20, 1887
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1851-04-15
+SP  - 52979282
+EP  - 52979284
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Apr. 15, 1851
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1851-10-11
+SP  - 52979285
+EP  - 52979285
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Oct. 11, 1851
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1851-10-16
+SP  - 52979286
+EP  - 52979287
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Oct. 16, 1851
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1851-12-15
+SP  - 52979288
+EP  - 52979288
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Dec. 15, 1851
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1851-12-22
+SP  - 52979289
+EP  - 52979290
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Dec. 22, 1851
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1852-01-05
+SP  - 52979291
+EP  - 52979292
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Jan. 5, 1852
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1852-01-08
+SP  - 52979293
+EP  - 52979294
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Jan. 8, 1852
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1852-04-14
+SP  - 52979295
+EP  - 52979296
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Apr. 14, 1852
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1852-05-15
+SP  - 52979297
+EP  - 52979298
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George May 15, 1852
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1852-07-09
+SP  - 52979299
+EP  - 52979300
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George July 9, 1852
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1852-08-29
+SP  - 52979301
+EP  - 52979301
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Aug. 29, 1852
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1852-09-25
+SP  - 52979302
+EP  - 52979302
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Sept. 25, 1852
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1853-03-10
+SP  - 52979303
+EP  - 52979303
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Mar. 10, 1853
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1853-03-16
+SP  - 52979304
+EP  - 52979304
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Mar. 16, 1853
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1853-05-17
+SP  - 52979305
+EP  - 52979306
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George May 17, 1853
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1853-08-23
+SP  - 52979307
+EP  - 52979308
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Aug. 23, 1853
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1853-10-21
+SP  - 52979309
+EP  - 52979310
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Oct. 21, 1853
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1853-10-27
+SP  - 52979311
+EP  - 52979311
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Oct. 27, 1853
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1853-11-03
+SP  - 52979312
+EP  - 52979313
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Nov. 3, 1853
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bridges, George
+DP  - Harvard University Botany Libraries
+DA  - 1853-12-27
+SP  - 52979314
+EP  - 52979315
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bridges, George Dec. 27, 1853
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brigham, William T.
+DP  - Harvard University Botany Libraries
+DA  - 1871-03-25
+SP  - 52979316
+EP  - 52979317
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brigham, William T. Mar. 25, 1871
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brigham, William T.
+DP  - Harvard University Botany Libraries
+DA  - 1889-02-23
+SP  - 52979318
+EP  - 52979318
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brigham, William T. Feb. 23, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brigham, William T.
+DP  - Harvard University Botany Libraries
+DA  - 1890-08-26
+SP  - 52979319
+EP  - 52979320
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brigham, William T. Aug. 26, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brigham, William T.
+DP  - Harvard University Botany Libraries
+DA  - 1890-12-09
+SP  - 52979321
+EP  - 52979321
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brigham, William T. Dec. 9, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brill, Evert J.
+DP  - Harvard University Botany Libraries
+DA  - 1851-11-25
+SP  - 52979322
+EP  - 52979322
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brill, Evert J. Nov. 25, 1851
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brill, Evert J.
+DP  - Harvard University Botany Libraries
+DA  - 1851-11-25
+SP  - 52979323
+EP  - 52979323
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brill, Evert J. Nov. 25, 1851 [attached note]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brill, Evert J.
+DP  - Harvard University Botany Libraries
+DA  - 1852-10-13
+SP  - 52979324
+EP  - 52979325
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brill, Evert J. Oct. 13, 1852 [attached letter]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brill, Evert J.
+DP  - Harvard University Botany Libraries
+DA  - 1852-10-13
+SP  - 52979326
+EP  - 52979328
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brill, Evert J. Oct. 13, 1852
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brill, Evert J.
+DP  - Harvard University Botany Libraries
+DA  - 1855-02-10
+SP  - 52979329
+EP  - 52979329
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brill, Evert J. Feb. 10, 1855
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brill, Evert J.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52979330
+EP  - 52979330
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brill, Evert J. undated
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brimmer, George
+DP  - Harvard University Botany Libraries
+DA  - 1886-06-21
+SP  - 52979331
+EP  - 52979331
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brimmer, George June 21, 1886 [to W. Trelease]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britten, James
+DP  - Harvard University Botany Libraries
+DA  - 1882-05-01
+SP  - 52979332
+EP  - 52979333
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britten, James May 1, 1882
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britten, James
+DP  - Harvard University Botany Libraries
+DA  - 1883-02-17
+SP  - 52979334
+EP  - 52979334
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britten, James Feb. 17, 1883
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1882-03-22
+SP  - 52979335
+EP  - 52979336
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Mar. 22, 1882
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1882-09-04
+SP  - 52979337
+EP  - 52979338
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Sept. 4, 1882 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1884-03-04
+SP  - 52979339
+EP  - 52979341
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Mar. 4, 1884 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-25
+SP  - 52979342
+EP  - 52979342
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Nov. 25, 1884 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-30
+SP  - 52979343
+EP  - 52979344
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Nov. 30, 1887
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-01-01
+SP  - 52979345
+EP  - 52979345
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Jan. 1, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-04-02
+SP  - 52979346
+EP  - 52979347
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Apr. 2, 1888
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-04-08
+SP  - 52979348
+EP  - 52979349
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Apr. 8, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-04-15
+SP  - 52979350
+EP  - 52979351
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Apr. 15, 1888
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-05-03
+SP  - 52979352
+EP  - 52979355
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. May 3, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-05-08
+SP  - 52979356
+EP  - 52979357
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. May 8, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-07-03
+SP  - 52979358
+EP  - 52979359
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. July 3, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-08-20
+SP  - 52979360
+EP  - 52979361
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Aug. 20, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-19
+SP  - 52979362
+EP  - 52979363
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Nov. 19, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-19
+SP  - 52979364
+EP  - 52979364
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Jan. 19, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-01-24
+SP  - 52979365
+EP  - 52979366
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Jan. 24, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-03-26
+SP  - 52979367
+EP  - 52979368
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Mar. 26, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-05-15
+SP  - 52979369
+EP  - 52979369
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. May 15, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-05-17
+SP  - 52979370
+EP  - 52979370
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. May 17, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-05-21
+SP  - 52979371
+EP  - 52979371
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. May 21, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-05-23
+SP  - 52979372
+EP  - 52979372
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. May 23, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-05-25
+SP  - 52979373
+EP  - 52979374
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. May 25, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-08-19
+SP  - 52979375
+EP  - 52979375
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Aug. 19, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-09-13
+SP  - 52979376
+EP  - 52979376
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Sept. 13, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-09-18
+SP  - 52979377
+EP  - 52979377
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Sept. 18, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-10-21
+SP  - 52979378
+EP  - 52979378
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Oct. 21, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-10-29
+SP  - 52979379
+EP  - 52979379
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Oct. 29, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1889-12-16
+SP  - 52979380
+EP  - 52979380
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Dec. 16, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-01-06
+SP  - 52979381
+EP  - 52979382
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Jan. 6, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-05
+SP  - 52979383
+EP  - 52979383
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Feb. 5, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-28
+SP  - 52979384
+EP  - 52979384
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Feb. 28, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-03-04
+SP  - 52979385
+EP  - 52979385
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Mar. 4, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-03-12
+SP  - 52979386
+EP  - 52979386
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Mar. 12, 1890 [to J. Gray]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-04-29
+SP  - 52979387
+EP  - 52979388
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Apr. 29, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-05-19
+SP  - 52979389
+EP  - 52979389
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. May 19, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-11
+SP  - 52979390
+EP  - 52979390
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. June 11, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-17
+SP  - 52979391
+EP  - 52979391
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. June 17, 1890 [to J. Gray]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-06-30
+SP  - 52979392
+EP  - 52979392
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. June 30, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1890-07-05
+SP  - 52979393
+EP  - 52979393
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. July 5, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1891-01-08
+SP  - 52979394
+EP  - 52979395
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Jan. 8, 1891 [to M. L. Fernald]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1891-01-21
+SP  - 52979396
+EP  - 52979396
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Jan. 21, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1891-03-23
+SP  - 52979397
+EP  - 52979398
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. Mar. 23, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1891-05-07
+SP  - 52979399
+EP  - 52979399
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. May 7, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1891-06-01
+SP  - 52979400
+EP  - 52979401
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. June 1, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Britton, Nathaniel L.
+DP  - Harvard University Botany Libraries
+DA  - 1891-06-05
+SP  - 52979402
+EP  - 52979402
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Britton, Nathaniel L. June 5, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bromfield, Eliza
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52979403
+EP  - 52979404
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bromfield, Eliza undated
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bromfield, William A.
+DP  - Harvard University Botany Libraries
+DA  - 1848-09-07
+SP  - 52979405
+EP  - 52979410
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bromfield, William A. Sept. 7, 1848
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brongniart, Adolphe T.
+DP  - Harvard University Botany Libraries
+DA  - 1858-03-10
+SP  - 52979411
+EP  - 52979412
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brongniart, Adolphe T. Mar. 10, 1858
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brongniart, Adolphe T.
+DP  - Harvard University Botany Libraries
+DA  - 1858-11-30
+SP  - 52979413
+EP  - 52979414
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brongniart, Adolphe T. Nov. 30, 1858
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brongniart, Adolphe T.
+DP  - Harvard University Botany Libraries
+DA  - 1860-04-15
+SP  - 52979415
+EP  - 52979416
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brongniart, Adolphe T. Apr. 15, 1860
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brongniart, Adolphe T.
+DP  - Harvard University Botany Libraries
+DA  - 1861-02-05
+SP  - 52979417
+EP  - 52979418
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brongniart, Adolphe T. Feb. 5, 1861
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brongniart, Adolphe T.
+DP  - Harvard University Botany Libraries
+DA  - 1865-02-25
+SP  - 52979419
+EP  - 52979420
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brongniart, Adolphe T. Feb. 25, 1865
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brongniart, Adolphe T.
+DP  - Harvard University Botany Libraries
+DA  - 7-Jun
+SP  - 52979421
+EP  - 52979421
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brongniart, Adolphe T. June 7 [no year]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brooks, William K.
+DP  - Harvard University Botany Libraries
+DA  - 1884-01-04
+SP  - 52979422
+EP  - 52979423
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brooks, William K. Jan. 4, 1884
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brotherus, Victor F.
+DP  - Harvard University Botany Libraries
+DA  - 1891-05-05
+SP  - 52979424
+EP  - 52979425
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brotherus, Victor F. May 5, 1891 [to W. G. Farlow] [postcard]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brotherus, Victor F.
+DP  - Harvard University Botany Libraries
+DA  - 1875-06-04
+SP  - 52979426
+EP  - 52979426
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brotherus, Victor F. June 4, 1875
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brown, Addison
+DP  - Harvard University Botany Libraries
+DA  - 1881-02-15
+SP  - 52979427
+EP  - 52979428
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brown, Addison Feb. 15, 1881 [to H. C. Jones]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brown, Franklin
+DP  - Harvard University Botany Libraries
+DA  - 1886-10-04
+SP  - 52979429
+EP  - 52979429
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brown, Franklin Oct. 4, 1886
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brown, Walter R.
+DP  - Harvard University Botany Libraries
+DA  - 1880-12-22
+SP  - 52979430
+EP  - 52979431
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brown, Walter R. Dec. 22, 1880
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brown, Walter R.
+DP  - Harvard University Botany Libraries
+DA  - 1880-12-22
+SP  - 52979432
+EP  - 52979434
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brown, Walter R. Dec. 22, 1880 [enclosure]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brown, Walter R.
+DP  - Harvard University Botany Libraries
+DA  - 1881-01
+SP  - 52979435
+EP  - 52979436
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brown, Walter R. Jan. 1881 [1]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Brown, Walter R.
+DP  - Harvard University Botany Libraries
+DA  - 1882-01-31
+SP  - 52979437
+EP  - 52979438
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Brown, Walter R. Jan. 31, 1882
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Browne, Walter R.
+DP  - Harvard University Botany Libraries
+DA  - 1884-07-21
+SP  - 52979439
+EP  - 52979440
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Browne, Walter R. July 21, 1884
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Browne, Walter R.
+DP  - Harvard University Botany Libraries
+DA  - 1884
+SP  - 52979441
+EP  - 52979442
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Browne, Walter R. [1884]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Browne, Effie L.
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-09
+SP  - 52979443
+EP  - 52979444
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Browne, Effie L. Nov. 9, 1884
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Browne, Effie L.
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-09
+SP  - 52979445
+EP  - 52979445
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Browne, Effie L. Nov. 9, 1884 [enclosed memorial]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bruhin, Thomas A.
+DP  - Harvard University Botany Libraries
+DA  - 1870-02-21
+SP  - 52979446
+EP  - 52979447
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bruhin, Thomas A. Feb. 21, 1870
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bruhin, Thomas A.
+DP  - Harvard University Botany Libraries
+DA  - 1878-07-01
+SP  - 52979448
+EP  - 52979448
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bruhin, Thomas A. July 1, 1878
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bryce, James
+DP  - Harvard University Botany Libraries
+DA  - 25-Jun
+SP  - 52979449
+EP  - 52979449
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bryce, James June 25 [no year]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bryce, James
+DP  - Harvard University Botany Libraries
+DA  - 28-Jun
+SP  - 52979450
+EP  - 52979451
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bryce, James June 28 [no year]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bryce, James
+DP  - Harvard University Botany Libraries
+DA  - 31-Jul
+SP  - 52979452
+EP  - 52979453
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bryce, James July 31 [no year]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bryce, James
+DP  - Harvard University Botany Libraries
+DA  - 11-Dec
+SP  - 52979454
+EP  - 52979455
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bryce, James Dec. 11 [no year]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buchenau, Franz G.
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-20
+SP  - 52979456
+EP  - 52979457
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buchenau, Franz G. Jan. 20, 1880 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buchenau, Franz G.
+DP  - Harvard University Botany Libraries
+DA  - 1886-04-10
+SP  - 52979458
+EP  - 52979459
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buchenau, Franz G. Apr. 10, 1886
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buchenau, Franz G.
+DP  - Harvard University Botany Libraries
+DA  - 1887-11-27
+SP  - 52979460
+EP  - 52979461
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buchenau, Franz G. Nov. 27, 1887 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buchenau, Franz G.
+DP  - Harvard University Botany Libraries
+DA  - 1888-08-27
+SP  - 52979462
+EP  - 52979463
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buchenau, Franz G. Aug. 27, 1888 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buchenau, Franz G.
+DP  - Harvard University Botany Libraries
+DA  - 1892-02-03
+SP  - 52979464
+EP  - 52979465
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buchenau, Franz G. Feb. 3, 1892 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buchinger, Jean D.
+DP  - Harvard University Botany Libraries
+DA  - 1882-01-03
+SP  - 52979466
+EP  - 52979466
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buchinger, Jean D. Jan. 3, 1882
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1843-04-06
+SP  - 52979467
+EP  - 52979469
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Apr. 6, 1843
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1843-04-11
+SP  - 52979470
+EP  - 52979472
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Apr. 11, 1843
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1856-11-18
+SP  - 52979473
+EP  - 52979473
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Nov. 18, 1856
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1856-12-02
+SP  - 52979474
+EP  - 52979474
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Dec. 2, 1856
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1858-04-06
+SP  - 52979475
+EP  - 52979477
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Apr. 6, 1858
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1858-04-25
+SP  - 52979478
+EP  - 52979478
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Apr. 25, 1858
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1858-05-25
+SP  - 52979479
+EP  - 52979480
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. May 25, 1858
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1858-05-30
+SP  - 52979481
+EP  - 52979482
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. May 30, 1858
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1858-09-24
+SP  - 52979483
+EP  - 52979484
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Sept. 24, 1858
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1858-11-20
+SP  - 52979485
+EP  - 52979486
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Nov. 20, 1858
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1859-01-25
+SP  - 52979487
+EP  - 52979494
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Jan. 25, 1859
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1859-02-05
+SP  - 52979495
+EP  - 52979496
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Feb. 5, 1859
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1862-03-19
+SP  - 52979497
+EP  - 52979498
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Mar. 19, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1862-03-23
+SP  - 52979499
+EP  - 52979500
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Mar. 23, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1862-03-26
+SP  - 52979501
+EP  - 52979502
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Mar. 26, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1862-04-07
+SP  - 52979503
+EP  - 52979504
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Apr. 7, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - 1862-04-17
+SP  - 52979505
+EP  - 52979506
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. Apr. 17, 1862
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Buckley, Samuel B.
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52979507
+EP  - 52979508
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Buckley, Samuel B. undated
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Watson, Sereno
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52979509
+EP  - 52979510
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Watson, Sereno undated list [on letter from P. J. Berckmans]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bumstead, Freeman J.
+DP  - Harvard University Botany Libraries
+DA  - 1871-03-08
+SP  - 52979511
+EP  - 52979512
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bumstead, Freeman J. Mar. 8, 1871
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bunbury, Charles J.
+DP  - Harvard University Botany Libraries
+DA  - 1884-03-03
+SP  - 52979513
+EP  - 52979515
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bunbury, Charles J. Mar. 3, 1884
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bunge, Alexander von
+DP  - Harvard University Botany Libraries
+DA  - 1864-03-18
+SP  - 52979516
+EP  - 52979517
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bunge, Alexander von Mar. 18, 1864
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Burdick, Justin H.
+DP  - Harvard University Botany Libraries
+DA  - 1884-05-15
+SP  - 52979518
+EP  - 52979520
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Burdick, Justin H. May 15, 1884
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Burdick, Justin H.
+DP  - Harvard University Botany Libraries
+DA  - 1885-04-29
+SP  - 52979521
+EP  - 52979522
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Burdick, Justin H. Apr. 29, 1885 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bureau, L. Édouard
+DP  - Harvard University Botany Libraries
+DA  - 1874-02-23
+SP  - 52979523
+EP  - 52979524
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bureau, L. Édouard Feb. 23, 1874
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bureau, L. Édouard
+DP  - Harvard University Botany Libraries
+DA  - 1874-08-27
+SP  - 52979525
+EP  - 52979526
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bureau, L. Édouard Aug. 27, 1874
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bureau, L. Édouard
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-15
+SP  - 52979527
+EP  - 52979528
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bureau, L. Édouard Jan. 15, 1880
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bureau, L. Édouard
+DP  - Harvard University Botany Libraries
+DA  - undated
+SP  - 52979529
+EP  - 52979530
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bureau, L. Édouard undated undated fragment
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bureau, L. Édouard
+DP  - Harvard University Botany Libraries
+DA  - 1895-02-12
+SP  - 52979531
+EP  - 52979531
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bureau, L. Édouard Feb. 12, 1895
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bureau, L. Édouard
+DP  - Harvard University Botany Libraries
+DA  - 1901-05-07
+SP  - 52979532
+EP  - 52979533
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bureau, L. Édouard May 7, 1901
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bureau, L. Édouard
+DP  - Harvard University Botany Libraries
+DA  - 1901-11-22
+SP  - 52979534
+EP  - 52979534
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bureau, L. Édouard Nov. 22, 1901
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bureau, L. Édouard
+DP  - Harvard University Botany Libraries
+DA  - 1902-11-07
+SP  - 52979535
+EP  - 52979535
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bureau, L. Édouard Nov. 7, 1902
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Burgess, R.
+DP  - Harvard University Botany Libraries
+DA  - 1891-10-25
+SP  - 52979536
+EP  - 52979537
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Burgess, R. Oct. 25, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Burgess, T. J. W.
+DP  - Harvard University Botany Libraries
+DA  - 1888-11-15
+SP  - 52979538
+EP  - 52979538
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Burgess, T. J. W. Nov. 15, 1888 [to J. Gray]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Burgess, T. J. W.
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-04
+SP  - 52979539
+EP  - 52979539
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Burgess, T. J. W. Feb. 4, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Burgess, T. J. W.
+DP  - Harvard University Botany Libraries
+DA  - 1891-08-18
+SP  - 52979540
+EP  - 52979540
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Burgess, T. J. W. Aug. 18, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Büse, Lodewijk H.
+DP  - Harvard University Botany Libraries
+DA  - 1864-07-04
+SP  - 52979541
+EP  - 52979542
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Büse, Lodewijk H. July 4, 1864
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Büse, Lodewijk H.
+DP  - Harvard University Botany Libraries
+DA  - 1872-07-31
+SP  - 52979543
+EP  - 52979544
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Büse, Lodewijk H. July 31, 1872
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Büse, Lodewijk H.
+DP  - Harvard University Botany Libraries
+DA  - 20-Dec
+SP  - 52979545
+EP  - 52979546
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Büse, Lodewijk H. Dec. 20 [no year]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bush, Benjamin F.
+DP  - Harvard University Botany Libraries
+DA  - 1889-06-08
+SP  - 52979547
+EP  - 52979548
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bush, Benjamin F. June 8, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bush, Benjamin F.
+DP  - Harvard University Botany Libraries
+DA  - 1889-09-01
+SP  - 52979549
+EP  - 52979550
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bush, Benjamin F. Sept. 1, 1889 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bush, Benjamin F.
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-10
+SP  - 52979551
+EP  - 52979552
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bush, Benjamin F. Feb. 10, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bush, Benjamin F.
+DP  - Harvard University Botany Libraries
+DA  - 1891-08-18
+SP  - 52979553
+EP  - 52979554
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bush, Benjamin F. Aug. 18, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bush, Benjamin F.
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-13
+SP  - 52979555
+EP  - 52979556
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bush, Benjamin F. Sept. 13, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bush, Benjamin F.
+DP  - Harvard University Botany Libraries
+DA  - 1891-09-16
+SP  - 52979557
+EP  - 52979558
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bush, Benjamin F. Sept. 16, 1891 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Bush, Benjamin F.
+DP  - Harvard University Botany Libraries
+DA  - 28-Jan
+SP  - 52979559
+EP  - 52979560
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Bush, Benjamin F. Jan. 28 [no year] [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Butz, George C.
+DP  - Harvard University Botany Libraries
+DA  - 1890-08-12
+SP  - 52979561
+EP  - 52979561
+JO  - Asa Gray correspondence. Senders Br-Bz
+ID  - 127625
+TI  - Butz, George C. Aug. 12, 1890 [to S. Watson]
+VL  - 221199
+OC  - 878725232
+ER  - 
+

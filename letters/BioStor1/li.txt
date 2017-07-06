@@ -1,0 +1,1183 @@
+﻿TY  - letter
+AU  - Libbey, Jonas M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-10-03
+SP  - 53212240
+EP  - 53212241
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Libbey, Jonas M. Oct. 3, 1879 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Libbey, Jonas M. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-10-07
+SP  - 53212242
+EP  - 53212243
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Libbey, Jonas M. Oct. 7, 1879 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Liebmann, Frederik M. 
+DP  - Harvard University Botany Libraries
+DA  - 1856-07-26
+SP  - 53212244
+EP  - 53212246
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Liebmann, Frederik M. July 26, 1856 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindberg, Sextus O. 
+DP  - Harvard University Botany Libraries
+DA  - 1876-11-15
+SP  - 53212247
+EP  - 53212248
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindberg, Sextus O. Nov. 15, 1876 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindberg, Sextus O. 
+DP  - Harvard University Botany Libraries
+DA  - 1876-12-28
+SP  - 53212249
+EP  - 53212250
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindberg, Sextus O. Dec. 28, 1876 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindberg, Sextus O. 
+DP  - Harvard University Botany Libraries
+DA  - 1877-01-15
+SP  - 53212251
+EP  - 53212252
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindberg, Sextus O. Jan. 15, 1877 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindberg, Sextus O. 
+DP  - Harvard University Botany Libraries
+DA  - 1877-09-06
+SP  - 53212253
+EP  - 53212254
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindberg, Sextus O. Sept. 6, 1877 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindberg, Sextus O. 
+DP  - Harvard University Botany Libraries
+DA  - 1879-11-24
+SP  - 53212255
+EP  - 53212256
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindberg, Sextus O. Nov. 24, 1879 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindberg, Sextus O. 
+DP  - Harvard University Botany Libraries
+DA  - 1880-03-16
+SP  - 53212257
+EP  - 53212258
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindberg, Sextus O. Mar. 16, 1880 [postcard] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindberg, Sextus O. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-03-13
+SP  - 53212259
+EP  - 53212260
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindberg, Sextus O. Mar. 13, 1884 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindheimer, Ferdinand J. 
+DP  - Harvard University Botany Libraries
+DA  - 1859-02-17
+SP  - 53212261
+EP  - 53212262
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindheimer, Ferdinand J. Feb. 17, 1859 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindheimer, Ferdinand J. 
+DP  - Harvard University Botany Libraries
+DA  - 1873-02-18
+SP  - 53212263
+EP  - 53212263
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindheimer, Ferdinand J. Feb. 18, 1873 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1839-01-28
+SP  - 53212264
+EP  - 53212264
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Jan. 28, 1839 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53212265
+EP  - 53212266
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John undated [1839] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53212267
+EP  - 53212267
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John undated 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 09-25
+SP  - 53212268
+EP  - 53212268
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Sept. 25 [no year] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53212269
+EP  - 53212270
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John undated [Thurs.] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53212271
+EP  - 53212272
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John undated [1840] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1855-02-16
+SP  - 53212273
+EP  - 53212274
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Feb. 16, 1855 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1857-07-24
+SP  - 53212275
+EP  - 53212277
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John July 24, 1857 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1858-02-27
+SP  - 53212278
+EP  - 53212280
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Feb. 27, 1858 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1858-05-29
+SP  - 53212281
+EP  - 53212282
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John May 29, 1858 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1858-09-24
+SP  - 53212283
+EP  - 53212285
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Sept. 24, 1858 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1858-11-29
+SP  - 53212286
+EP  - 53212287
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Nov. 29, 1858 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1859-01-24
+SP  - 53212288
+EP  - 53212290
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Jan. 24, 1859 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1859-07-28
+SP  - 53212291
+EP  - 53212292
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John July 28, 1859 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1859-10-31
+SP  - 53212293
+EP  - 53212295
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Oct. 31, 1859 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1860-09-17
+SP  - 53212296
+EP  - 53212298
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Sept. 17, 1860 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1861-01-21
+SP  - 53212299
+EP  - 53212299
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Jan. 21, 1861 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1862-07-12
+SP  - 53212300
+EP  - 53212300
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John July 12, 1862 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lindley, John 
+DP  - Harvard University Botany Libraries
+DA  - 1864-12-06
+SP  - 53212301
+EP  - 53212301
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lindley, John Dec. 6, 1864 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Littlefield, A. A. 
+DP  - Harvard University Botany Libraries
+DA  - 1887-06-27
+SP  - 53212302
+EP  - 53212303
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Littlefield, A. A. June 27, 1887 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lloyd, Curtis G. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-10-02
+SP  - 53212304
+EP  - 53212304
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lloyd, Curtis G. Oct. 2, 1890 [to S. Watson] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Locke, John 
+DP  - Harvard University Botany Libraries
+DA  - 1853-03-29
+SP  - 53212305
+EP  - 53212306
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Locke, John Mar. 29, 1853 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lockyer, J. Norman 
+DP  - Harvard University Botany Libraries
+DA  - 1874-03-30
+SP  - 53212307
+EP  - 53212308
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lockyer, J. Norman Mar. 30, 1874 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lockyer, J. Norman 
+DP  - Harvard University Botany Libraries
+DA  - 1877-03-26
+SP  - 53212309
+EP  - 53212309
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lockyer, J. Norman Mar. 26, 1877 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - C. Loddiges & Sons 
+DP  - Harvard University Botany Libraries
+DA  - 1845-06-11
+SP  - 53212310
+EP  - 53212312
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - C. Loddiges & Sons June 11, 1845 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - C. Loddiges & Sons 
+DP  - Harvard University Botany Libraries
+DA  - 1846-01-07
+SP  - 53212313
+EP  - 53212314
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - C. Loddiges & Sons Jan. 7, 1846 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lojacono-Pojero, Michèle 
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-09
+SP  - 53212315
+EP  - 53212318
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lojacono-Pojero, Michèle Jan. 9, 1880 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lojacono-Pojero, Michèle 
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-12
+SP  - 53212319
+EP  - 53212322
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lojacono-Pojero, Michèle Jan. 12, 1880 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lojacono-Pojero, Michèle 
+DP  - Harvard University Botany Libraries
+DA  - 1880-01-24
+SP  - 53212323
+EP  - 53212324
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lojacono-Pojero, Michèle Jan. 24, 1880 [to S. Watson] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lojacono-Pojero, Michèle 
+DP  - Harvard University Botany Libraries
+DA  - 1880-03-19
+SP  - 53212325
+EP  - 53212326
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lojacono-Pojero, Michèle Mar. 19, 1880 [to S. Watson] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lojacono-Pojero, Michèle 
+DP  - Harvard University Botany Libraries
+DA  - 1881-08-18
+SP  - 53212327
+EP  - 53212328
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lojacono-Pojero, Michèle Aug. 18, 1881 [to S. Watson] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loomis, Eben J. 
+DP  - Harvard University Botany Libraries
+DA  - 1891-05-04
+SP  - 53212329
+EP  - 53212330
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Loomis, Eben J. May 4, 1891 [to S. Watson] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring, Elizabeth S. 
+DP  - Harvard University Botany Libraries
+DA  - 11-18
+SP  - 53212331
+EP  - 53212332
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Loring, Elizabeth S. Nov. 18 [no year] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring, Charles G. 
+DP  - Harvard University Botany Libraries
+DA  - 1846-03-27
+SP  - 53212333
+EP  - 53212333
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Loring, Charles G. Mar. 27, 1846 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring, Charles G. 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53212334
+EP  - 53212335
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Loring, Charles G. undated 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring, Charles G. 
+DP  - Harvard University Botany Libraries
+DA  - 2017-07-12
+SP  - 53212336
+EP  - 53212337
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Loring, Charles G. July 12 [no year] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring Family 
+DP  - Harvard University Botany Libraries
+DA  - 1860-11-18
+SP  - 53212338
+EP  - 53212340
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Loring Family Nov. 18, 1860 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loring Family 
+DP  - Harvard University Botany Libraries
+DA  - 1860-11-18
+SP  - 53212341
+EP  - 53212342
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Loring Family Nov. 18, 1860 [envelope] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lovering, Joseph 
+DP  - Harvard University Botany Libraries
+DA  - 1875-08-15
+SP  - 53212343
+EP  - 53212344
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lovering, Joseph Aug. 15, 1875 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, James R. 
+DP  - Harvard University Botany Libraries
+DA  - 1882-05-24
+SP  - 53212345
+EP  - 53212346
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, James R. May 24, 1882 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1846-02-27
+SP  - 53212347
+EP  - 53212348
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. Feb. 27, [1846] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1846-02-28
+SP  - 53212349
+EP  - 53212350
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. Feb. 28, 1846 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1846-08-10
+SP  - 53212351
+EP  - 53212352
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. Aug. 10, 1846 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1848-10-14
+SP  - 53212353
+EP  - 53212353
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. Oct. 14, 1848 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1849-02-17
+SP  - 53212354
+EP  - 53212355
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. Feb. 17, 1849 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1849-03-29
+SP  - 53212356
+EP  - 53212356
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. Mar. 29, 1849 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1854-06-20
+SP  - 53212357
+EP  - 53212357
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. June 20, 1854 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Gray, Jane 
+DP  - Harvard University Botany Libraries
+DA  - 1856-04-20
+SP  - 53212358
+EP  - 53212359
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Gray, Jane Apr. 20, 1856 [to J. A. Lowell] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1856-05-02
+SP  - 53212360
+EP  - 53212360
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. May 2, 1856 [to J. Gray] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1865-02-03
+SP  - 53212361
+EP  - 53212361
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. Feb. 3, 1865 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lowell, John A. 
+DP  - Harvard University Botany Libraries
+DA  - 1873-06-14
+SP  - 53212362
+EP  - 53212362
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lowell, John A. June 14, 1873 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Loy, William E. 
+DP  - Harvard University Botany Libraries
+DA  - 1890-02-12
+SP  - 53212363
+EP  - 53212364
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Loy, William E. Feb. 12, 1890 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lundgren, J. H. 
+DP  - Harvard University Botany Libraries
+DA  - 1851-11-26
+SP  - 53212365
+EP  - 53212367
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lundgren, J. H. Nov. 26, 1851 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lundgren, J. H. 
+DP  - Harvard University Botany Libraries
+DA  - 1852-02-20
+SP  - 53212368
+EP  - 53212369
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lundgren, J. H. Feb. 20, 1852 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lundgren, J. H. 
+DP  - Harvard University Botany Libraries
+DA  - 1852-02-25
+SP  - 53212370
+EP  - 53212371
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lundgren, J. H. Feb. 25, 1852 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyell, Katharine M. 
+DP  - Harvard University Botany Libraries
+DA  - 1881-10-08
+SP  - 53212372
+EP  - 53212373
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyell, Katharine M. Oct. 8, 1881 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyell, Katharine M. 
+DP  - Harvard University Botany Libraries
+DA  - 1883-10-30
+SP  - 53212374
+EP  - 53212375
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyell, Katharine M. Oct. 30, 1883 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyell, Katharine M. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-02-19
+SP  - 53212376
+EP  - 53212377
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyell, Katharine M. Feb. 19, 1884 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyell, Mary E. 
+DP  - Harvard University Botany Libraries
+DA  - 1863-06-24
+SP  - 53212378
+EP  - 53212379
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyell, Mary E. June 24, 1863 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyell, Rosamond 
+DP  - Harvard University Botany Libraries
+DA  - 08-17
+SP  - 53212380
+EP  - 53212381
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyell, Rosamond Aug. 17 [no year] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyman, Theodore 
+DP  - Harvard University Botany Libraries
+DA  - 1875-06-15
+SP  - 53212382
+EP  - 53212382
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyman, Theodore June 15, 1875 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyman, Theodore 
+DP  - Harvard University Botany Libraries
+DA  - undated 
+SP  - 53212383
+EP  - 53212383
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyman, Theodore undated 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyman, Theodore 
+DP  - Harvard University Botany Libraries
+DA  - 1881-01-15
+SP  - 53212384
+EP  - 53212385
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyman, Theodore Jan. 15, 1881 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyman, Theodore 
+DP  - Harvard University Botany Libraries
+DA  - 1882-09-29
+SP  - 53212386
+EP  - 53212386
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyman, Theodore Sept. 29, 1882 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-06-22
+SP  - 53212387
+EP  - 53212388
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. June 22, [1884] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-06-22
+SP  - 53212389
+EP  - 53212389
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. June 22, [1884] [enclosed description] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-06-22
+SP  - 53212390
+EP  - 53212390
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. June 22, [1884] [description verso] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-07-14
+SP  - 53212391
+EP  - 53212392
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. July 14, 1884 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-08-04
+SP  - 53212393
+EP  - 53212394
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. Aug. 4, 1884 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-08-13
+SP  - 53212395
+EP  - 53212399
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. Aug. 13, 1884 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-10-09
+SP  - 53212400
+EP  - 53212401
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. Oct. 9, 1884 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1884-11-15
+SP  - 53212402
+EP  - 53212402
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. Nov. 15, 1884 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-06-19
+SP  - 53212403
+EP  - 53212404
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. June 19, 1885 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-07-17
+SP  - 53212405
+EP  - 53212406
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. July 17, 1885 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-08-31
+SP  - 53212407
+EP  - 53212408
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. Aug. 31, 1885 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-09-01
+SP  - 53212409
+EP  - 53212410
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. Sept. 1, 1885 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-11-01
+SP  - 53212411
+EP  - 53212412
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. Nov. 1, 1885 [to S. Watson] [enclosed list] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1885-11-01
+SP  - 53212413
+EP  - 53212414
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. Nov. 1, 1885 [to S. Watson] 
+VL  - 223801
+OC  - 878725232
+ER  - 
+
+TY  - letter
+AU  - Lyon, William S. 
+DP  - Harvard University Botany Libraries
+DA  - 1886-10-06
+SP  - 53212415
+EP  - 53212416
+JO  - Asa Gray correspondence. Senders Li-Ly, 1839-1891 (inclusive)
+ID  - 129238
+TI  - Lyon, William S. Oct. 6, 1886 
+VL  - 223801
+OC  - 878725232
+ER  - 
+

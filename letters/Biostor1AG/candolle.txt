@@ -1,0 +1,1352 @@
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1853-05-26
+SP - 53397231
+EP - 53397232
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de May 26, 1853 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1853-10-01
+SP - 53397233
+EP - 53397234
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Oct. 1, 1853 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1854-05-02
+SP - 53397235
+EP - 53397236
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de May 2, 1854 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1855-04-24
+SP - 53397237
+EP - 53397238
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Apr. 24, 1855 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1855-08-07
+SP - 53397239
+EP - 53397240
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Aug. 7, 1855 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1856-01-25
+SP - 53397241
+EP - 53397242
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Jan. 25, 1856 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1856-06-05
+SP - 53397243
+EP - 53397244
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de June 5, 1856 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1857-03-22
+SP - 53397245
+EP - 53397246
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Mar. 22, 1857 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1857-12-14
+SP - 53397247
+EP - 53397248
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Dec. 14, 1857 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1859-01-23
+SP - 53397249
+EP - 53397251
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Jan. 23, 1859 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1859-10-03
+SP - 53397252
+EP - 53397254
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Oct. 3, 1859 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1860-07-25
+SP - 53397255
+EP - 53397256
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de July 25, 1860 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1861-12-03
+SP - 53397257
+EP - 53397258
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Dec. 3, 1861 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1862-03-26
+SP - 53397259
+EP - 53397260
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Mar. 26, 1862 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1863-01-28
+SP - 53397261
+EP - 53397262
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Jan. 28, 1863 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1853-02-28
+SP - 53397265
+EP - 53397263
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Feb. 28, 1853 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1852-11-19
+SP - 53397268
+EP - 53397266
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Nov. 19, 1852 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1851-04-27
+SP - 53397270
+EP - 53397269
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Apr. 27, 1851 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1851-04-09
+SP - 53397272
+EP - 53397271
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Apr. 9, 1851 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1850-12-28
+SP - 53397274
+EP - 53397273
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Dec. 28, 1850 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1850-01-12
+SP - 53397277
+EP - 53397275
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Jan. 12, 1850 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1848-04-17
+SP - 53397280
+EP - 53397278
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Apr. 17, 1848 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1846-01-22
+SP - 53397285
+EP - 53397281
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Jan. 22, 1846 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1845-03-01
+SP - 53397288
+EP - 53397286
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Mar. 1, 1845 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1843-02-01
+SP - 53397291
+EP - 53397289
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Feb. 1, 1843 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1840-06-24
+SP - 53397293
+EP - 53397292
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de June 24, 1840 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1863-11-13
+SP - 53397294
+EP - 53397295
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Nov. 13, 1863 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1864-01-28
+SP - 53397296
+EP - 53397297
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Jan. 28, 1864 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1864-09-29
+SP - 53397298
+EP - 53397299
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Sept. 29, 1864 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1865-07-17
+SP - 53397300
+EP - 53397301
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de July 17, 1865 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1866-08-08
+SP - 53397302
+EP - 53397303
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Aug. 8, 1866 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1867-07-25
+SP - 53397304
+EP - 53397305
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de July 25, 1867 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1868-06-10
+SP - 53397306
+EP - 53397307
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de June 10, 1868 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1868-06-26
+SP - 53397308
+EP - 53397309
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de June 26, 1868 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1868-10-06
+SP - 53397310
+EP - 53397311
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Oct. 6, 1868 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1869-03-29
+SP - 53397312
+EP - 53397313
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Mar. 29, 1869 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1869-04-27
+SP - 53397314
+EP - 53397315
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Apr. 27, 1869 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1869-10-06
+SP - 53397316
+EP - 53397317
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Oct. 6, 1869 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1870-10-24
+SP - 53397318
+EP - 53397320
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Oct. 24, 1870 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1871-04-10
+SP - 53397321
+EP - 53397322
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Apr. 10, 1871 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1871-08-19
+SP - 53397323
+EP - 53397324
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Aug. 19, 1871 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1872-04-06
+SP - 53397325
+EP - 53397326
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Apr. 6, 1872 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1872-07-16
+SP - 53397327
+EP - 53397328
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de July 16, 1872 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1872-12-16
+SP - 53397329
+EP - 53397330
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Dec. 16, 1872 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1873-08-11
+SP - 53397331
+EP - 53397332
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Aug. 11, 1873 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1873-11-24
+SP - 53397333
+EP - 53397334
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Nov. 24, 1873 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1873-12-21
+SP - 53397335
+EP - 53397336
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Dec. 21, 1873 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1874-04-21
+SP - 53397337
+EP - 53397338
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Apr. 21, 1874 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1874-09-09
+SP - 53397339
+EP - 53397340
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Sept. 9, 1874 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1875-03-02
+SP - 53397341
+EP - 53397342
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Mar. 2, 1875 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1875-08-28
+SP - 53397343
+EP - 53397344
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Aug. 28, 1875 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1875-09-29
+SP - 53397345
+EP - 53397346
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Sept. 29, 1875 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1875-10-25
+SP - 53397347
+EP - 53397348
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Oct. 25, 1875 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Gray, Asa 
+PB - Harvard University Botany Libraries
+DA - 1875
+SP - 53397349
+EP - 53397349
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Gray, Asa [1875] plant description 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1876-12-14
+SP - 53397350
+EP - 53397351
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Dec. 14, 1876 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1877-01-18
+SP - 53397352
+EP - 53397353
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Jan. 18, 1877 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1877-05-11
+SP - 53397354
+EP - 53397355
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de May 11, 1877 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1877-11-07
+SP - 53397356
+EP - 53397357
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Nov. 7, 1877 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1877-11-24
+SP - 53397358
+EP - 53397359
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Nov. 24, 1877 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1878-03-12
+SP - 53397360
+EP - 53397361
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Mar. 12, 1878 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1878-05-25
+SP - 53397362
+EP - 53397363
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de May 25, 1878 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1878-09-18
+SP - 53397364
+EP - 53397365
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Sept. 18, 1878 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1878-12-29
+SP - 53397366
+EP - 53397367
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Dec. 29, 1878 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1879-06-03
+SP - 53397368
+EP - 53397369
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de June 3, 1879 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1879-10-25
+SP - 53397370
+EP - 53397371
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Oct. 25, 1879 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1880-03-11
+SP - 53397372
+EP - 53397373
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Mar. 11, 1880 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1880-06-15
+SP - 53397374
+EP - 53397375
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de June 15, 1880 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1880-12-13
+SP - 53397376
+EP - 53397377
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Dec. 13, 1880 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1881-05-26
+SP - 53397378
+EP - 53397379
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de May 26, 1881 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1881-07-30
+SP - 53397380
+EP - 53397381
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de July 30, 1881 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1881-08-15
+SP - 53397382
+EP - 53397383
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Aug. 15, 1881 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1882-02-11
+SP - 53397384
+EP - 53397385
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Feb. 11, 1882 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1882-02-25
+SP - 53397386
+EP - 53397387
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Feb. 25, 1882 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1882-05-12
+SP - 53397388
+EP - 53397389
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de May 12, 1882 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1882-06-07
+SP - 53397390
+EP - 53397391
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de June 7, 1882 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1882-12-04
+SP - 53397392
+EP - 53397393
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de Dec. 4, 1882 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1882
+SP - 53397394
+EP - 53397398
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1890
+ID - 130516
+TI - Candolle, Alphonse de 1882 Suppl. to Nouvelles Remarques [c. 1882] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1883-02-21
+SP - 53397399
+EP - 53397400
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1894
+ID - 130516
+TI - Candolle, Alphonse de Feb. 21, 1883 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1883-05-14
+SP - 53397401
+EP - 53397402
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1896
+ID - 130516
+TI - Candolle, Alphonse de May 14, 1883 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1883-08-07
+SP - 53397403
+EP - 53397404
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1898
+ID - 130516
+TI - Candolle, Alphonse de Aug. 7, 1883 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1883-10-11
+SP - 53397405
+EP - 53397406
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1900
+ID - 130516
+TI - Candolle, Alphonse de Oct. 11, 1883 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1884-01-30
+SP - 53397407
+EP - 53397408
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1902
+ID - 130516
+TI - Candolle, Alphonse de Jan. 30, 1884 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1884-02-21
+SP - 53397409
+EP - 53397410
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1904
+ID - 130516
+TI - Candolle, Alphonse de Feb. 21, 1884 [meeting minutes] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1884-10-25
+SP - 53397411
+EP - 53397412
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1906
+ID - 130516
+TI - Candolle, Alphonse de Oct. 25, 1884 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1885-06-17
+SP - 53397413
+EP - 53397414
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1908
+ID - 130516
+TI - Candolle, Alphonse de June 17, 1885 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53397415
+EP - 53397416
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1910
+ID - 130516
+TI - Candolle, Alphonse de undated [1885] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1885-10-13
+SP - 53397417
+EP - 53397418
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1912
+ID - 130516
+TI - Candolle, Alphonse de Oct. 13, 1885 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1886-01-14
+SP - 53397419
+EP - 53397420
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1914
+ID - 130516
+TI - Candolle, Alphonse de Jan. 14, 1886 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1886-04-02
+SP - 53397421
+EP - 53397422
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1916
+ID - 130516
+TI - Candolle, Alphonse de Apr. 2, 1886 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1886-06-15
+SP - 53397423
+EP - 53397424
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1918
+ID - 130516
+TI - Candolle, Alphonse de June 15, 1886 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1886-12-03
+SP - 53397425
+EP - 53397426
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1920
+ID - 130516
+TI - Candolle, Alphonse de Dec. 3, 1886 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1887-02-20
+SP - 53397427
+EP - 53397428
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1922
+ID - 130516
+TI - Candolle, Alphonse de Feb. 20, 1887 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA -  1887-04
+SP - 53397429
+EP - 53397429
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1924
+ID - 130516
+TI - Candolle, Alphonse de Apr. 1887 [death announcement] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1887-06-18
+SP - 53397430
+EP - 53397431
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1925
+ID - 130516
+TI - Candolle, Alphonse de June 18, 1887 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1887-07-27
+SP - 53397432
+EP - 53397433
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1927
+ID - 130516
+TI - Candolle, Alphonse de July 27, 1887 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1887-10-24
+SP - 53397434
+EP - 53397435
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1929
+ID - 130516
+TI - Candolle, Alphonse de Oct. 24, 1887 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1889-02-17
+SP - 53397436
+EP - 53397437
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1931
+ID - 130516
+TI - Candolle, Alphonse de Feb. 17, 1889 [to J. Gray] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1889-03-19
+SP - 53397438
+EP - 53397439
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1933
+ID - 130516
+TI - Candolle, Alphonse de Mar. 19, 1889 [to S. Watson] [postcard] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53397440
+EP - 53397441
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1935
+ID - 130516
+TI - Candolle, Alphonse de undated [Thurs.] [to A. and J. Gray] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Casimir de 
+PB - Harvard University Botany Libraries
+DA -  1889-06
+SP - 53397442
+EP - 53397442
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1937
+ID - 130516
+TI - Candolle, Casimir de June 1889 [wedding announcement] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Mallet, Lullin 
+PB - Harvard University Botany Libraries
+DA -  1889-06
+SP - 53397443
+EP - 53397443
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1938
+ID - 130516
+TI - Mallet, Lullin June 1889 [wedding announcement] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1890-03-09
+SP - 53397444
+EP - 53397445
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1939
+ID - 130516
+TI - Candolle, Alphonse de Mar. 9, 1890 [to S. Watson] [postcard] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - Candolle, Alphonse de 
+PB - Harvard University Botany Libraries
+DA - 1890-10-20
+SP - 53397446
+EP - 53397447
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1941
+ID - 130516
+TI - Candolle, Alphonse de Oct. 20, 1890 [to S. Watson] [postcard] 
+VL - 225429
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA -  1893-04
+SP - 53397448
+EP - 53397448
+T1 - Alphonse de Candolle letters to Asa Gray, 1860-1943
+ID - 130516
+TI - [Apr. 1893] [obituary] 
+VL - 225429
+OC - 878725232
+
+

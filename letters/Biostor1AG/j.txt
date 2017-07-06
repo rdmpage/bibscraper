@@ -1,0 +1,1170 @@
+TY - letter
+AU - Jackson, Benjamin D. 
+PB - Harvard University Botany Libraries
+DA - 1881-07-27
+SP - 53216566
+EP - 53216566
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Benjamin D. July 27, 1881 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Benjamin D. 
+PB - Harvard University Botany Libraries
+DA - 1884-01-02
+SP - 53216567
+EP - 53216568
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Benjamin D. Jan. 2, 1884 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Benjamin D. 
+PB - Harvard University Botany Libraries
+DA - 1887-04-02
+SP - 53216569
+EP - 53216570
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Benjamin D. Apr. 2, 1887 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Benjamin D. 
+PB - Harvard University Botany Libraries
+DA - 1890-05-01
+SP - 53216571
+EP - 53216571
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Benjamin D. May 1, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Benjamin D. 
+PB - Harvard University Botany Libraries
+DA - 1888-03-21
+SP - 53216572
+EP - 53216572
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Benjamin D. Mar. 21, 1888 [to W. Clark] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Benjamin D. 
+PB - Harvard University Botany Libraries
+DA - 1889-01-01
+SP - 53216573
+EP - 53216574
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Benjamin D. Jan. 1, 1889 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Benjamin D. 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53216575
+EP - 53216576
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Benjamin D. undated [to J. Gray] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Benjamin D. 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53216577
+EP - 53216578
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Benjamin D. undated [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Benjamin D. 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53216579
+EP - 53216580
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Benjamin D. undated 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53216581
+EP - 53216582
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - undated list of Hooker plants [c. 1913] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Charles L. 
+PB - Harvard University Botany Libraries
+DA - 1890-01-30
+SP - 53216583
+EP - 53216584
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Charles L. Jan. 30, 1890 [postcard] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Charles T. 
+PB - Harvard University Botany Libraries
+DA - 1844-01-05
+SP - 53216585
+EP - 53216587
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Charles T. Jan. 5, 1844 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Charles T. 
+PB - Harvard University Botany Libraries
+DA - 1845-03-06
+SP - 53216588
+EP - 53216590
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Charles T. Mar. 6, 1845 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jackson, Charles T. 
+PB - Harvard University Botany Libraries
+DA - 1866-03-04
+SP - 53216591
+EP - 53216591
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jackson, Charles T. Mar. 4, 1866 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jacobson, William 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53216592
+EP - 53216592
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jacobson, William undated 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jacobson, William 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53216593
+EP - 53216594
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jacobson, William undated [envelope] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53216595
+EP - 53216596
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - undated list [on letter from J. F. James] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Joseph F. 
+PB - Harvard University Botany Libraries
+DA - 1888-11-09
+SP - 53216597
+EP - 53216598
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Joseph F. Nov. 9, 1888 [to J. Gray] [postcard] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1863-04-27
+SP - 53216599
+EP - 53216602
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Apr. 27, 1863 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1863-04-27
+SP - 53216603
+EP - 53216604
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Apr. 27, 1863 [enclosed note] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1863-05-06
+SP - 53216605
+EP - 53216606
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. May 6, 1863 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1863-12-22
+SP - 53216607
+EP - 53216608
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Dec. 22, 1863 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1864-08-19
+SP - 53216609
+EP - 53216610
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Aug. 19, 1864 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1865-01-23
+SP - 53216611
+EP - 53216612
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Jan. 23, 1865 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1865-02-03
+SP - 53216613
+EP - 53216614
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Feb. 3, 1865 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1879-10-18
+SP - 53216615
+EP - 53216616
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Oct. 18, 1879 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1882-03-04
+SP - 53216617
+EP - 53216618
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Mar. 4, 1882 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1882-03-09
+SP - 53216619
+EP - 53216620
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Mar. 9, 1882 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1882-03-10
+SP - 53216621
+EP - 53216622
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Mar. 10, 1882 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1882-04-20
+SP - 53216623
+EP - 53216623
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Apr. 20, 1882 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1882-04-10
+SP - 53216624
+EP - 53216625
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Apr. 10, 1882 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1883-03-19
+SP - 53216626
+EP - 53216627
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Mar. 19, 1883 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1885-11-21
+SP - 53216628
+EP - 53216631
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Nov. 21, 1885 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1887-10-13
+SP - 53216632
+EP - 53216633
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Oct. 13, 1887 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1890-03-22
+SP - 53216634
+EP - 53216635
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Mar. 22, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1890-04-01
+SP - 53216636
+EP - 53216637
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Apr. 1, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1890-05-13
+SP - 53216638
+EP - 53216638
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. May 13, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1890-06-18
+SP - 53216639
+EP - 53216640
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. June 18, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1890-10-01
+SP - 53216641
+EP - 53216642
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Oct. 1, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1890-10-02
+SP - 53216643
+EP - 53216644
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Oct. 2, 1890 [to S. Watson] [postcard] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Watson, Sereno 
+PB - Harvard University Botany Libraries
+DA - 1890-10-15
+SP - 53216645
+EP - 53216646
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Watson, Sereno Oct. 15, 1890 [to I. B. James] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1890-12-15
+SP - 53216647
+EP - 53216648
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Dec. 15, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1890-12-16
+SP - 53216649
+EP - 53216650
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Dec. 16, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1893-11-16
+SP - 53216651
+EP - 53216654
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Nov. 16, 1893 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, Isabella B. 
+PB - Harvard University Botany Libraries
+DA - 1897-04-09
+SP - 53216655
+EP - 53216656
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, Isabella B. Apr. 9, 1897 [to J. Gray] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, William P. 
+PB - Harvard University Botany Libraries
+DA - 1882-03-14
+SP - 53216657
+EP - 53216658
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, William P. Mar. 14, 1882 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, William P. 
+PB - Harvard University Botany Libraries
+DA - 1883-05-21
+SP - 53216659
+EP - 53216660
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, William P. May 21, 1883 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - James, William 
+PB - Harvard University Botany Libraries
+DA - 03-06
+SP - 53216661
+EP - 53216661
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - James, William Mar. 6 [no year] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jenks, Elisha T. 
+PB - Harvard University Botany Libraries
+DA - 1889-05-24
+SP - 53216662
+EP - 53216662
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jenks, Elisha T. May 24, 1889 [to S. Watson] [invoice] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jenney, William L. B. 
+PB - Harvard University Botany Libraries
+DA - 1890-06-27
+SP - 53216663
+EP - 53216663
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jenney, William L. B. June 27, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jepson, Willis L. 
+PB - Harvard University Botany Libraries
+DA - 1899-12-03
+SP - 53216664
+EP - 53216664
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jepson, Willis L. Dec. 3, 1899 [to J. Gray] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1884-09-24
+SP - 53216665
+EP - 53216666
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. Sept. 24, 1884 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1889-01-08
+SP - 53216667
+EP - 53216670
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. Jan. 8, 1889 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1889-01-17
+SP - 53216671
+EP - 53216672
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. Jan. 17, 1889 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1889-04-02
+SP - 53216673
+EP - 53216674
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. Apr. 2, 1889 [to S. Watson] [postcard] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1889-04-04
+SP - 53216675
+EP - 53216676
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. Apr. 4, 1889 [to S. Watson] [postcard] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1889-05-17
+SP - 53216677
+EP - 53216678
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. May 17, 1889 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1889-05-17
+SP - 53216679
+EP - 53216680
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. May 17, 1889 [to S. Watson] [postcard] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1889-05-26
+SP - 53216681
+EP - 53216682
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. May 26, 1889 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1890-03-03
+SP - 53216683
+EP - 53216684
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. Mar. 3, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jesup, Henry G. 
+PB - Harvard University Botany Libraries
+DA - 1890-04-05
+SP - 53216685
+EP - 53216686
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jesup, Henry G. Apr. 5, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Johnson, Alvin J. 
+PB - Harvard University Botany Libraries
+DA - 1881-10-08
+SP - 53216687
+EP - 53216689
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Johnson, Alvin J. Oct. 8, 1881 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Johnson, Alvin J. 
+PB - Harvard University Botany Libraries
+DA - 1883-01-02
+SP - 53216690
+EP - 53216691
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Johnson, Alvin J. Jan. 2, 1883 [contract] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Herbert L. 
+PB - Harvard University Botany Libraries
+DA - 1890-03-18
+SP - 53216692
+EP - 53216692
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Herbert L. Mar. 18, 1890 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Joseph C. 
+PB - Harvard University Botany Libraries
+DA - 1870-08-08
+SP - 53216693
+EP - 53216694
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Joseph C. Aug. 8, 1870 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Marcus E. 
+PB - Harvard University Botany Libraries
+DA - 1880-01-19
+SP - 53216695
+EP - 53216698
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Marcus E. Jan. 19, 1880 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Marcus E. 
+PB - Harvard University Botany Libraries
+DA - 1880-07-18
+SP - 53216699
+EP - 53216702
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Marcus E. July 18, 1880 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Marcus E. 
+PB - Harvard University Botany Libraries
+DA - 1881-02-22
+SP - 53216703
+EP - 53216704
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Marcus E. Feb. 22, 1881 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Marcus E. 
+PB - Harvard University Botany Libraries
+DA - 1882-02-08
+SP - 53216705
+EP - 53216708
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Marcus E. Feb. 8, 1882 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Marcus E. 
+PB - Harvard University Botany Libraries
+DA - 1882-08-11
+SP - 53216709
+EP - 53216711
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Marcus E. Aug. 11, 1882 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Marcus E. 
+PB - Harvard University Botany Libraries
+DA - 1891-04-16
+SP - 53216712
+EP - 53216712
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Marcus E. Apr. 16, 1891 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Marcus E. 
+PB - Harvard University Botany Libraries
+DA - 1891-04-27
+SP - 53216713
+EP - 53216714
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Marcus E. Apr. 27, 1891 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Marcus E. 
+PB - Harvard University Botany Libraries
+DA - 1891-05-11
+SP - 53216715
+EP - 53216716
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Marcus E. May 11, 1891 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jones, Marcus E. 
+PB - Harvard University Botany Libraries
+DA - 1891-08-17
+SP - 53216717
+EP - 53216718
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jones, Marcus E. Aug. 17, 1891 [to S. Watson] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jowett, Benjamin 
+PB - Harvard University Botany Libraries
+DA - undated 
+SP - 53216719
+EP - 53216719
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jowett, Benjamin undated [Sat.] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1844-07-26
+SP - 53216720
+EP - 53216721
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de July 26, 1844 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1849-03-22
+SP - 53216722
+EP - 53216723
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de Mar. 22, 1849 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1850-08-06
+SP - 53216724
+EP - 53216725
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de Aug. 6, 1850 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1851-06-21
+SP - 53216726
+EP - 53216727
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de June 21, 1851 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1851-07-18
+SP - 53216728
+EP - 53216729
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de July 18, 1851 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1852-01-30
+SP - 53216730
+EP - 53216731
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de Jan. 30, 1852 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1852-07-28
+SP - 53216732
+EP - 53216733
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de July 28, 1852 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1852-12-11
+SP - 53216734
+EP - 53216736
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de Dec. 11, 1852 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1853-02-17
+SP - 53216737
+EP - 53216738
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de Feb. 17, 1853 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1853-04-03
+SP - 53216739
+EP - 53216740
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de Apr. 3, 1853 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Jussieu, Adrien de 
+PB - Harvard University Botany Libraries
+DA - 1853-04-16
+SP - 53216741
+EP - 53216742
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Jussieu, Adrien de Apr. 16, 1853 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - de Jussieu Family 
+PB - Harvard University Botany Libraries
+DA - 1853-06
+SP - 53216743
+EP - 53216743
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - de Jussieu Family June 1853 [death announcement] 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Ramond-Gontaud, J. Alix 
+PB - Harvard University Botany Libraries
+DA - 1854-03-14
+SP - 53216744
+EP - 53216745
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Ramond-Gontaud, J. Alix Mar. 14, 1854 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Ramond-Gontaud, J. Alix 
+PB - Harvard University Botany Libraries
+DA - 1854-01-16
+SP - 53216746
+EP - 53216748
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Ramond-Gontaud, J. Alix Jan. 16, 1854 
+VL - 223814
+OC - 878725232
+
+
+TY - letter
+AU - Ramond-Gontaud, J. Alix 
+PB - Harvard University Botany Libraries
+DA - 1855-09-16
+SP - 53216749
+EP - 53216750
+T1 - Asa Gray correspondence. Senders J, 1844-1891 (inclusive)
+ID - 129244
+TI - Ramond-Gontaud, J. Alix Sept. 16, 1855 
+VL - 223814
+OC - 878725232
+
+
