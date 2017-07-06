@@ -548,6 +548,7 @@ function reference2openurl($reference)
 	switch ($reference->genre)
 	{
 		case 'article':
+		case 'letter':
 			$openurl .= '&rft.atitle=' . urlencode($reference->title);
 			
 			if (isset($reference->journal))
