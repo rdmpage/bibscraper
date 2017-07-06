@@ -149,6 +149,7 @@ function process_ris_key($key, $value, &$obj)
 			}				
 			break;
 			
+		case 'DA': // Used by Harvard for correspondence
 		case 'PY': // used by Ingenta, and others
 		case 'Y1':
 		   $date = $value; 

@@ -38,17 +38,37 @@ fclose($file);
 
 import_ris_file($filename, 'get_pdf');
 
-print_r($pdfs);
 
-
+echo "--- list ---\n";
 foreach ($pdfs as $pdf)
 {
-	echo "curl '$pdf' > " . basename($pdf) . "\n";
+	echo "$pdf\n";
 }
 
+
+echo "--- curl fetch.sh ---\n";
 foreach ($pdfs as $pdf)
 {
-	echo "/Users/rpage/Desktop/PDFs/" . basename($pdf) . "\t$pdf\n";
+	$filename = basename($pdf);
+	if (!preg_match('/\.pdf$/', $filename))
+	{
+		$filename .= '.pdf';
+	}
+
+	echo "curl '$pdf' > '" . $filename . "'\n";
+}
+
+echo "--- extra.txt ---\n";
+foreach ($pdfs as $pdf)
+{
+	$filename = basename($pdf);
+	if (!preg_match('/\.pdf$/', $filename))
+	{
+		$filename .= '.pdf';
+	}
+
+
+	echo "/Users/rpage/Desktop/PDFs/" . $filename . "\t$pdf\n";
 }
 
 
