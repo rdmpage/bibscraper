@@ -1078,6 +1078,8 @@ $urls = array(
 'http://www.airitilibrary.com/Publication/Index?FirstID=0372333X-201312-201312020001-201312020001-233-241'
 );
 
+//$urls = array('http://www.airitilibrary.com/Publication/Index?FirstID=0372333X-201412-201412120009-201412120009-368-373');
+
 $count = 1;
 
 foreach ($urls as $url)
@@ -1196,7 +1198,7 @@ foreach ($urls as $url)
 		$kk = array();
 		$vv = array();
 		$kk[] = "`key`";
-		$vv[] = '"title"';
+		$vv[] = '"authors"';
 
 		$kk[] = 'language';
 		$vv[] = '"' . $k . '"';
