@@ -31,6 +31,16 @@ function get_pdf_filename($pdf)
 			$filename = $m[1] . '-' . $m[2] . '-' . $m[3] . '.pdf';
 		}
 	}
+	
+	// http://www1.montpellier.inra.fr/CBGP/acarologia/export_pdf.php?id=4089&typefile=pdf
+	if ($filename == '')
+	{
+		if (preg_match('/\?id=(\d+.*)&/', $pdf, $m))
+		{
+			//print_r($m); exit();
+			$filename = 'acarologia-' . $m[1] . '.pdf';
+		}
+	}
 		
 	// if no name use basename
 	if ($filename == '')
