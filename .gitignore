@@ -33,6 +33,11 @@ simplehtmldom_1_5/testcase/reader/.svn
 
 
 working/*
+
+
+!working/Ecologica Montenegrina/
+!working/Ecologica Montenegrina/*
+
 !working/Journal of Ethnobiology/
 !working/Journal of Ethnobiology/*
 
