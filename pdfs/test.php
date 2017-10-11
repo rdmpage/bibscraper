@@ -4,10 +4,70 @@ require_once (dirname(dirname(__FILE__)) . '/lib.php');
 
 function get_pdf_filename($pdf)
 {
+	$filename = '';
+	
+	
+	
+	//article/download/asbp.1927.015/6894
 	
 	if ($filename == '')
 	{
-		if (preg_match('/file_no=(?<id>\d+([A-Z]\d+)?)\&/', $filename, $m))
+		if (preg_match('/\/article\/download\/asbp\.(?<id>\d+\.\d+\/\d+)/', $pdf, $m))
+		{
+			//$pos = strrpos($pdf, '/');
+			//$filename = substr($pdf, $pos + 1);
+			$filename = $m['id'] . '.pdf';
+			$filename = str_replace('/', '.', $filename);
+		}
+	}	
+	
+	
+	if ($filename == '')
+	{
+		if (preg_match('/\/archive\/issn\/0035-9211\/(?<volume>\d+)\/(?<spage>\d+).pdf/', $pdf, $m))
+		{
+			//$pos = strrpos($pdf, '/');
+			//$filename = substr($pdf, $pos + 1);
+			$filename = $m['volume'] . '-' . $m['spage'] . '.pdf';
+		}
+	}	
+	
+	// http://bbr.nefu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=1052
+	if ($filename == '')
+	{
+		if (preg_match('/downloadArticleFile.do\?attachType=PDF&id=(?<id>\d+)/', $pdf, $m))
+		{
+			//$pos = strrpos($pdf, '/');
+			//$filename = substr($pdf, $pos + 1);
+			$filename = $m['id'] . '.pdf';
+		}
+	}	
+	
+	if ($filename == '')
+	{
+		if (preg_match('/http:\/\/www.e-periodica.ch\/cntmng\?pid=(?<id>seg-(.*))/', $pdf, $m))
+		{
+			//$pos = strrpos($pdf, '/');
+			//$filename = substr($pdf, $pos + 1);
+			$filename = $m['id'];
+			$filename = str_replace(':', '-', $filename);
+		}
+	}	
+	
+	if ($filename == '')
+	{
+		if (preg_match('/http:\/\/lkcnhm.nus.edu.sg/', $pdf))
+		{
+			//$pos = strrpos($pdf, '/');
+			//$filename = substr($pdf, $pos + 1);
+			$filename = basename($pdf);
+		}
+	}
+	
+	
+	if ($filename == '')
+	{
+		if (preg_match('/file_no=(?<id>\d+([A-Z]\d+)?)\&/', $pdf, $m))
 		{
 			$filename = $m['id'];
 		}
@@ -41,6 +101,17 @@ function get_pdf_filename($pdf)
 			$filename = 'acarologia-' . $m[1] . '.pdf';
 		}
 	}
+	
+	if ($filename == '')
+	{
+		if (preg_match('/\?sequence=\d+/', $pdf))
+		{
+			//$pos = strrpos($pdf, '/');
+			//$filename = substr($pdf, $pos + 1);
+			$filename = basename($pdf);
+			$filename = preg_replace('/\?sequence=\d+/', '', $filename);
+		}
+	}	
 		
 	// if no name use basename
 	if ($filename == '')
@@ -54,7 +125,11 @@ function get_pdf_filename($pdf)
 	{
 		$filename .= '.pdf';
 	}
-	//echo "filename=$filename\n";
+	
+	$filename = str_replace('getpdf.php?aid=', '', $filename);
+	
+	
+	echo "filename=$filename\n";
 	
 	return $filename;
 }
@@ -80,31 +155,45 @@ while (!feof($file_handle))
 	}
 	else
 	{
+		echo $pdf . "\n";
 	
 		$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . urlencode($pdf) . '&noredirect=1&format=json';
 		//$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . $pdf . '&noredirect=1&format=json';
+		
+		//$url = 'http://bionames.org/bionames-archive/pdfstore.php?url=' .  urlencode($pdf) . '&noredirect=1&format=json';
 
 		$json = get($url);
 		
 		//echo $url . "\n";
 		
 		//echo $json;
-	
-		$obj = json_decode($json);
 		
-	
-		if ($obj->http_code == 200)
-		{		
-			echo  "Have: " . $obj->sha1 . "\n";
-			
-			$sqls[] = 'REPLACE INTO sha1(pdf, sha1) VALUES("' . $pdf . '","' . $obj->sha1 . '");';
-			
-			$sha1s[] = $obj->sha1;
+		if (1)
+		{
+			// just add them all
+			$pdfs[]  = $pdf;	
 		}
 		else
 		{
-			echo "Not found\n";
-			$pdfs[]  = $pdf;			
+			// test if we have	
+			$obj = json_decode($json);
+			
+			//print_r($obj);
+		
+	
+			if ($obj->http_code == 200)
+			{		
+				echo  "Have: " . $obj->sha1 . "\n";
+			
+				$sqls[] = 'REPLACE INTO sha1(pdf, sha1) VALUES("' . $pdf . '","' . $obj->sha1 . '");';
+			
+				$sha1s[] = $obj->sha1;
+			}
+			else
+			{
+				echo "Not found $pdf\n";
+				$pdfs[]  = $pdf;			
+			}
 		}
 	}	
 }

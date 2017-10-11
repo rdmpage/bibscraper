@@ -270,6 +270,12 @@ class MetaOai extends OaiHarvester
 								{
 									$reference->year = $m['year'];
 								}
+								
+								if (preg_match('/^(?<year>[0-9]{4})\/\d+\/\d+/', $meta->content, $m))
+								{
+									$reference->date = str_replace('/', '-', $meta->content);
+								}
+									
 								break;
 
 							case 'DC.Date':

@@ -569,7 +569,8 @@ function pubmed_import($reference)
 		if (1)
 		{
 			echo "-- " . $reference->title . "\n";
-			$sql = 'UPDATE publications SET pmid="' . $pmid . '" WHERE guid="' . $reference->publisher_id . '";';
+			//$sql = 'UPDATE publications SET pmid="' . $pmid . '" WHERE guid="' . $reference->publisher_id . '";';
+			$sql = 'UPDATE publications SET pmid="' . $pmid . '" WHERE url="' . $reference->url . '";';
 			echo $sql . "\n";
 		}
 		

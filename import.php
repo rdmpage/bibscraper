@@ -11,6 +11,8 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 {
 	$found = 0;
 	
+	// filter
+	
 	// 2. Call BioStor
 	$url = 'http://direct.biostor.org/openurl.php?' . $openurl . '&format=json';
 	$json = get($url);
@@ -78,7 +80,18 @@ function biostor_import($reference)
 	
 	// Ignore things we don't have
 	//if ($reference->year > 1922) return;
-	// if (!in_array($reference->volume, array(71,74,77))) return;
+	//if (!in_array($reference->volume, array(38,39,40,41))) return;
+	
+	// Ignore BioStor stuff
+	$ignore = false;
+	if (isset($reference->url))
+	{
+		if (preg_match('/biostor/', $reference->url))
+		{
+			$ignore = true;
+		}
+	}
+	if ($ignore) { return; }
 	
 	// Tropicos
 	$reference->title =  preg_replace('/~/Uu', '', $reference->title);	
@@ -118,10 +131,37 @@ function biostor_import($reference)
 		}
 	}
 	
+	$go = true;
 	
+	/*
+	// filter for Contributions in Science
+	$go = false;
+	//$go = true;
+	//if (($reference->issn == '0459-8113') && ($reference->volume >= 64) && ($reference->volume <= 85))
+//	if (($reference->issn == '0459-8113') && ($reference->volume >= 35) && ($reference->volume <= 63))
+//	if (($reference->issn == '0459-8113') && ($reference->volume >= 86) && ($reference->volume <= 91))
+	if (($reference->issn == '0459-8113') && ($reference->volume >= 507) && ($reference->volume <= 515)) // 121
+
+	{
+//		$reference->spage = 1;
+		if ($reference->spage == 1)
+		{
+			$reference->notes += 2;
+		}
+		$go = true;
+	}
+	else
+	{
+		echo "*** NO GO ***\n";
+	}
+	
+	*/
+	if ($go)
+	{
 	
 
 	$openurl = reference2openurl($reference);
+	
 	
 	
 
@@ -162,7 +202,7 @@ function biostor_import($reference)
 		
 	}
 	
-	
+	}
 	//exit();
 	
 }

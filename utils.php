@@ -388,17 +388,28 @@ function reference_to_ris($reference)
 	}
 
 	//$ris .= "ID  - " . $result->fields['guid'] . "\n";
+	
+	// Need journal to be output early as some pasring routines that egnerate BibJson
+	// assume journal alreday defined by the time we read pages, etc.
+	if (isset($reference->journal))
+	{
+		$ris .= 'JO  - ' . $reference->journal . "\n";
+	}
 
 	foreach ($reference as $k => $v)
 	{
 		switch ($k)
 		{
+			// eat this
+			case 'journal':
+				break;
+				
 			case 'authors':
 				foreach ($v as $a)
 				{
 					if ($a != '')
 					{
-						$ris .= "AU  - " . $a ."\n";
+						$ris .= "AU  - " . trim($a) ."\n";
 					}
 				}
 				break;
@@ -620,6 +631,11 @@ function reference2openurl($reference)
 			$openurl .= '&rft_id=' . $reference->url;
 		}
 		if (preg_match('/http:\/\/www.jstor.org\/stable/', $reference->url))
+		{
+			$openurl .= '&rft_id=' . $reference->url;
+		}
+
+		if (preg_match('/biodiversitylibrary.org/', $reference->url))
 		{
 			$openurl .= '&rft_id=' . $reference->url;
 		}
