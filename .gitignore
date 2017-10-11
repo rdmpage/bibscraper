@@ -34,6 +34,8 @@ simplehtmldom_1_5/testcase/reader/.svn
 
 working/*
 
+!working/Comunicaciones zoológicas del Museo nacional de historia natural/
+!working/Comunicaciones zoológicas del Museo nacional de historia natural/*
 
 !working/Ecologica Montenegrina/
 !working/Ecologica Montenegrina/*
