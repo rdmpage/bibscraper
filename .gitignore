@@ -34,6 +34,10 @@ simplehtmldom_1_5/testcase/reader/.svn
 
 working/*
 
+!working/Bulletin of the National Museum Singapore/
+!working/Bulletin of the National Museum Singapore/*
+
+
 !working/Comunicaciones zoológicas del Museo nacional de historia natural/
 !working/Comunicaciones zoológicas del Museo nacional de historia natural/*
 
