@@ -162,7 +162,7 @@ class OaiHarvester
 	function Harvest ()
 	{
 		$this->base_url = $this->repository_url;
-		$this->base_url .= '?verb=ListRecords';
+		$this->base_url .= '&verb=ListRecords';
 		
 		$this->resumption_token = '';
 		
