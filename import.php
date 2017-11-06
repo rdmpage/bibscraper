@@ -17,7 +17,7 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 	$url = 'http://direct.biostor.org/openurl.php?' . $openurl . '&format=json';
 	$json = get($url);
 	
-	//echo $url . "\n";
+	echo "-- $url\n";
 	
 	//echo $json;
 		
@@ -71,16 +71,21 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 $ids = array();
 $not_found = array();
 
+$list_of_matches = array();
+
 function biostor_import($reference)
 {
 	global $ids;
 	global $not_found;
+	global $list_of_matches;
 	
 	$reference->genre = 'article';
 	
 	// Ignore things we don't have
-	//if ($reference->year > 1922) return;
+	//if ($reference->year != 1991) return;
 	//if (!in_array($reference->volume, array(38,39,40,41))) return;
+	
+	if (!in_array($reference->volume, array(15))) return;
 	
 	// Ignore BioStor stuff
 	$ignore = false;
@@ -174,8 +179,11 @@ function biostor_import($reference)
 	}
 	
 	
-	echo "-- " . $openurl . "\n";
-	echo "-- " . $reference->title . "\n";	
+	if (1)
+	{
+		echo "-- " . $openurl . "\n";
+		echo "-- " . $reference->title . "\n";	
+	}
 	
 	//exit();
 	
@@ -183,22 +191,32 @@ function biostor_import($reference)
 				
 	if ($biostor_id == 0)
 	{
-		echo "-- *** Not found ***\n";
+		// echo "-- *** Not found ***\n";
 		$not_found[] = $reference->publisher_id;
 	}
 	else
 	{
-		echo "-- Found: $biostor_id\n";
+		// echo "-- Found: $biostor_id\n";
+		
+		
+		
+		
+		
 		$ids[] = $biostor_id;
 		
-		if (1)
+		if (0)
 		{
 			if (preg_match('/http:\/\/www.jstor.org\/stable\/(?<jstor>\d+)/', $reference->url, $m))
 			{
 				$sql = 'UPDATE rdmp_reference SET jstor=' . $m['jstor'] . ' WHERE reference_id="' . $biostor_id . '";';
 				echo $sql . "\n";
 			}
-		}			
+		}	
+		
+		if (1)
+		{
+			$list_of_matches[$reference->publisher_id] = $biostor_id;
+		}
 		
 	}
 	
@@ -228,6 +246,12 @@ import_ris_file($filename, 'biostor_import');
 print_r($ids);
 echo "Not found\n";
 print_r($not_found);
+
+echo "Matched\n";
+foreach ($list_of_matches as $k => $v)
+{
+	echo "k\t$v\n";
+}
 
 
 ?>

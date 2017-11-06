@@ -6,6 +6,40 @@ function get_pdf_filename($pdf)
 {
 	$filename = '';
 	
+	// article_pdf?id=
+	
+	// http://maxbot.botany.pl/cgi-bin/pubs/data/article_pdf?id=712
+	if ($filename == '')
+	{
+		if (preg_match('/http:\/\/maxbot.botany.pl\/cgi-bin\/pubs\/data\/article_pdf\?id=(?<id>.*)/', $pdf, $m))
+		{
+			$filename = $m['id'] . '.pdf';
+			$filename = str_replace('/', '-', $filename);
+		}
+	}	
+	
+	
+	// http://www.mus-nh.city.osaka.jp/publication/bulletin/bulletin/1/1-001.pdf
+	if ($filename == '')
+	{
+		if (preg_match('/http:\/\/www.mus-nh.city.osaka.jp\/publication\/bulletin\/bulletin\/(?<id>.*)\.pdf/', $pdf, $m))
+		{
+			$filename = $m['id'] . '.pdf';
+			$filename = str_replace('/', '-', $filename);
+		}
+	}	
+	
+	// http://www.cernuelle.com/dwnld.php?lng=fr&delay=0&pg=356
+	if ($filename == '')
+	{
+		if (preg_match('/dwnld.php\?lng=fr&delay=0&pg=(?<id>\d+)/', $pdf, $m))
+		{
+			//$pos = strrpos($pdf, '/');
+			//$filename = substr($pdf, $pos + 1);
+			$filename = $m['id'] . '.pdf';
+			$filename = str_replace('/', '.', $filename);
+		}
+	}	
 	
 	
 	//article/download/asbp.1927.015/6894
@@ -145,6 +179,8 @@ $sha1s = array();
 
 $sqls = array();
 
+$count = 1;
+
 while (!feof($file_handle)) 
 {
 	$pdf = trim(fgets($file_handle));
@@ -156,17 +192,6 @@ while (!feof($file_handle))
 	else
 	{
 		echo $pdf . "\n";
-	
-		$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . urlencode($pdf) . '&noredirect=1&format=json';
-		//$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . $pdf . '&noredirect=1&format=json';
-		
-		//$url = 'http://bionames.org/bionames-archive/pdfstore.php?url=' .  urlencode($pdf) . '&noredirect=1&format=json';
-
-		$json = get($url);
-		
-		//echo $url . "\n";
-		
-		//echo $json;
 		
 		if (1)
 		{
@@ -175,6 +200,18 @@ while (!feof($file_handle))
 		}
 		else
 		{
+	
+			$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . urlencode($pdf) . '&noredirect=1&format=json';
+			//$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . $pdf . '&noredirect=1&format=json';
+		
+			//$url = 'http://bionames.org/bionames-archive/pdfstore.php?url=' .  urlencode($pdf) . '&noredirect=1&format=json';
+
+			$json = get($url);
+		
+			//echo $url . "\n";
+		
+			//echo $json;
+		
 			// test if we have	
 			$obj = json_decode($json);
 			
@@ -194,6 +231,14 @@ while (!feof($file_handle))
 				echo "Not found $pdf\n";
 				$pdfs[]  = $pdf;			
 			}
+			
+			if ($count++ % 10 == 0)
+			{
+				$rand = rand(1000000, 3000000);
+				echo '-- sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";
+				usleep($rand);
+			}
+
 		}
 	}	
 }
@@ -212,8 +257,9 @@ $curl = "#!/bin/sh\n\n";
 foreach ($pdfs as $pdf)
 {
 	$filename = get_pdf_filename($pdf);
-
+	$curl .= "echo '$filename'\n";
 	$curl .= "curl -L '$pdf' > '" . $filename . "'\n";
+	$curl .= "sleep 5\n";
 }
 file_put_contents(dirname(__FILE__) . '/fetch.sh', $curl);
 
@@ -223,7 +269,8 @@ foreach ($pdfs as $pdf)
 {
 	$filename = get_pdf_filename($pdf);
 
-	$extra .= "/Users/rpage/Desktop/PDFs/" . $filename . "\t$pdf\n";
+	//$extra .= "/Users/rpage/Desktop/PDFs/" . $filename . "\t$pdf\n";
+	$extra .= "/Users/rpage/Desktop/tmp/" . $filename . "\t$pdf\n";
 }
 file_put_contents(dirname(__FILE__) . '/extra.txt', $extra);
 

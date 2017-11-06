@@ -294,9 +294,16 @@ $issues = array(
 'http://journals.fcla.edu/jon/issue/view/3347'
 );
 
+$issues = array(
+'http://search.informit.com.au/browsePublication;py=2014;vol=131;res=IELHSS;issn=0042-5184;iss=1'
+);
+
 foreach ($issues as $issue)
 {
-	$u = $issue . '/showToc';
+	$u = $issue;
+	
+	$u = $issue . '/showToc'; // OJS
+
 	$html = get($u);
 	
 	$urls = array();
@@ -308,6 +315,15 @@ foreach ($issues as $issue)
 			$urls[] = $url;
 		}
 	}
+	
+	if (preg_match_all('/<a href="(?<url>\/documentSummary;dn=\d+;res=IELHSS)"/', $html, $m))
+	{
+		foreach ($m['url'] as $url)
+		{
+			$urls[] = 'http://search.informit.com.au' . $url;
+		}	
+	}
+		
 
 	$count = 1;
 
@@ -341,12 +357,14 @@ foreach ($issues as $issue)
 				// DC
 
 				case 'DC.title':
+				case 'dc.Title':
 					$reference->title =  $meta->content;
 					$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
 					break;
 
 				case 'DC.description':
 				case 'DC.Description':
+				case 'citation_abstract':
 					$reference->abstract =  $meta->content;
 					$reference->abstract = str_replace("\n", "", $reference->abstract);
 					$reference->abstract = str_replace("&amp;", "&", $reference->abstract);
@@ -427,6 +445,7 @@ foreach ($issues as $issue)
 					break;
 
 				// Google	
+				case 'citation_authors':
 				case 'citation_author':
 	//							$reference->authors[] =  mb_convert_case($meta->content, MB_CASE_TITLE);
 
@@ -506,6 +525,7 @@ foreach ($issues as $issue)
 					break;
 
 				case 'DC.Date':
+				case 'dc.Date':
 					$reference->date = $meta->content;
 					break;
 
