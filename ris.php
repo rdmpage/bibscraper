@@ -172,6 +172,7 @@ function process_ris_key($key, $value, &$obj)
 		   if (preg_match("/^(?<year>[0-9]{4})\/(?<month>[0-9]{1,2})\/(\/)?$/", $date, $matches))
 		   {                       
 				   $obj->year = $matches['year'];
+				   $obj->date = sprintf("%d-%02d-%02d", $matches['year'], $matches['month'], '0');					   
 		   }
 
 		   if (preg_match("/^(?<year>[0-9]{4})\/(?<month>[0-9]{1,2})$/", $date, $matches))
