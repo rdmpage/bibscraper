@@ -298,6 +298,27 @@ $issues = array(
 'http://search.informit.com.au/browsePublication;py=2014;vol=131;res=IELHSS;issn=0042-5184;iss=1'
 );
 
+$issues = array(
+'https://biotaxa.org/rce/issue/view/4264',
+'https://biotaxa.org/rce/issue/view/4264',
+'https://biotaxa.org/rce/issue/view/4266',
+'https://biotaxa.org/rce/issue/view/4266',
+'https://biotaxa.org/rce/issue/view/4267',
+'https://biotaxa.org/rce/issue/view/4267',
+'https://biotaxa.org/rce/issue/view/4270',
+'https://biotaxa.org/rce/issue/view/4270',
+'https://biotaxa.org/rce/issue/view/4271',
+'https://biotaxa.org/rce/issue/view/4271',
+'https://biotaxa.org/rce/issue/view/4273',
+'https://biotaxa.org/rce/issue/view/4273',
+'https://biotaxa.org/rce/issue/view/4275',
+'https://biotaxa.org/rce/issue/view/4275',
+'https://biotaxa.org/rce/issue/view/4316',
+'https://biotaxa.org/rce/issue/view/4316',
+'https://biotaxa.org/rce/issue/view/4511',
+'https://biotaxa.org/rce/issue/view/4511'
+);
+
 foreach ($issues as $issue)
 {
 	$u = $issue;

@@ -19,7 +19,11 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 	$url = 'http://direct.biostor.org/openurl.php?' . $openurl . '&format=json';
 	$json = get($url);
 	
-	echo "-- $url\n";
+	//echo "-- $url\n";
+	
+	
+	
+	
 	
 	//echo $json;
 		
@@ -60,7 +64,17 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 			$found = $j->reference_id;
 		}
 	}
-	echo "Found $found\n";
+	//echo "Found $found\n";
+	
+	if ($found == 0)
+	{
+		echo '<span style="color:white;background-color:red;">Not found: <a href="http://direct.biostor.org/openurl?' . $openurl . '" target="_new">OpenURL</a>' . '</span><br />';
+	
+	}
+	else
+	{
+		echo 'Found: <a href="http://direct.biostor.org/reference/' . $found . '" target="_new">' . $found . '</a>' . '<br />';
+	}
 	
 	//exit();
 	
@@ -89,6 +103,8 @@ function biostor_import($reference)
 	
 	//if (!in_array($reference->volume, array(57,58,59))) return;
 	
+	//if (!in_array($reference->volume, array(42,43,44))) return;
+	
 	// Ignore BioStor stuff
 	$ignore = false;
 	if (isset($reference->url))
@@ -108,6 +124,10 @@ function biostor_import($reference)
 	//print_r($reference);
 	
 	//exit();
+	
+	
+	echo '<h2>' . $reference->title . '</h2>';
+	
 	
 	
 	
@@ -181,7 +201,7 @@ function biostor_import($reference)
 	}
 	
 	
-	if (1)
+	if (0)
 	{
 		echo "-- " . $openurl . "\n";
 		echo "-- " . $reference->title . "\n";	
@@ -227,8 +247,8 @@ function biostor_import($reference)
 	
 	if (($count++ % 5) == 0)
 	{
-		$rand = rand(100000, 10000000);
-		echo '...sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";
+		$rand = rand(100000, 1000000);
+		//echo '...sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";
 		usleep($rand);
 	}
 	
@@ -253,6 +273,7 @@ fclose($file);
 
 import_ris_file($filename, 'biostor_import');
 
+/*
 print_r($ids);
 echo "Not found\n";
 print_r($not_found);
@@ -262,6 +283,6 @@ foreach ($list_of_matches as $k => $v)
 {
 	echo "k\t$v\n";
 }
-
+*/
 
 ?>

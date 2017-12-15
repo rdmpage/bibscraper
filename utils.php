@@ -1264,5 +1264,123 @@ function compute_hashes(&$obj)
 	}
 }
 
+//----------------------------------------------------------------------------------------
+// Dump to Wikipsecies to help editing
+function reference_to_wikispecies($reference)
+{
+	$string = '';
+	
+	$string .= '* ';
+	
+	$openurl = '';
+	$openurl .= 'ctx_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal';
+	//$openurl .= '&genre=article';
+	
+	if (isset($reference->authors))
+	{
+		$authors = array();
+		foreach ($reference->authors as $author)
+		{
+			$authors[] = '{{aut|' . $author . '}}';
+		}	
+		
+		$string .= join(', ', $authors);
+	}
+	
+	if (isset($reference->year))
+	{
+		$string .= ' ' . $reference->year . '. ';
+	}
+	
+	switch ($reference->genre)
+	{
+		case 'article':
+		case 'letter':		
+			$string .= ' ' . $reference->title;
+		
+			if (isset($reference->journal))
+			{
+				$string .= " ''" . $reference->journal . "''";
+			}
+			if (isset($reference->secondary_title))
+			{
+				$string .= " ''" . $reference->secondary_title;
+			}
+			break;
+			
+		default:
+			$string .= ' ' . $reference->title;
+			break;
+	}
+		
+	if (isset($reference->issn))
+	{
+		$openurl .= '&rft.issn=' . $reference->issn;
+	}
+	
+	
+	if (isset($reference->series))
+	{
+		$string .= ' ' . $reference->series;
+	}
+	
+	if (isset($reference->volume))
+	{
+		$string .= ' ' . $reference->volume;
+	}
+	
+	if (isset($reference->issue))
+	{
+		$string .= '(' . $reference->issue . ')';
+	}		
+	
+	if (isset($reference->spage))
+	{
+		$string .= ': ' . $reference->spage;
+	}
+	if (isset($reference->epage))
+	{
+		$string .= '-' . $reference->epage;
+	}
+	if (isset($reference->pagination))
+	{
+		$string .= ' ' . $reference->pagination;
+	}
+	
+	
+	/*
+	if (isset($reference->lsid))
+	{
+		$openurl .= '&rft_id=' . $reference->lsid;
+	}
+	
+	if (isset($reference->doi))
+	{
+		$openurl .= '&rft_id=info:doi/' . $reference->doi;
+	}
+	
+	
+	if (isset($reference->url))
+	{
+		if (preg_match('/http:\/\/hdl.handle.net\//', $reference->url))
+		{
+			$openurl .= '&rft_id=' . $reference->url;
+		}
+		if (preg_match('/http:\/\/www.jstor.org\/stable/', $reference->url))
+		{
+			$openurl .= '&rft_id=' . $reference->url;
+		}
+
+		if (preg_match('/biodiversitylibrary.org/', $reference->url))
+		{
+			$openurl .= '&rft_id=' . $reference->url;
+		}
+		
+	}	
+	*/	
+
+	return $string;
+}
+
 
 ?>

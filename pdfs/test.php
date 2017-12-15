@@ -193,7 +193,7 @@ while (!feof($file_handle))
 	{
 		echo $pdf . "\n";
 		
-		if (1)
+		if (0)
 		{
 			// just add them all
 			$pdfs[]  = $pdf;	
@@ -201,10 +201,10 @@ while (!feof($file_handle))
 		else
 		{
 	
-			$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . urlencode($pdf) . '&noredirect=1&format=json';
+			//$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . urlencode($pdf) . '&noredirect=1&format=json';
 			//$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . $pdf . '&noredirect=1&format=json';
 		
-			//$url = 'http://bionames.org/bionames-archive/pdfstore.php?url=' .  urlencode($pdf) . '&noredirect=1&format=json';
+			$url = 'http://bionames.org/bionames-archive/pdfstore.php?url=' .  urlencode($pdf) . '&noredirect=1&format=json';
 
 			$json = get($url);
 		

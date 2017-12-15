@@ -132,6 +132,10 @@ class MetaOai extends OaiHarvester
 							case 'DC.Source.ISSN':
 								$reference->issn =  $meta->content;
 								break;	
+								
+							// to do
+							case 'DC.Identifier.DOI'
+								break;
 	
 							// eprints
 		
@@ -365,8 +369,12 @@ class MetaOai extends OaiHarvester
 
 //$mz = new MetaOai('http://www.tci-thaijo.org/index.php/ThaiForestBulletin/oai', 'oai_dc', 'ThaiForestBulletin');
 
+//$mz = new MetaOai('https://biotaxa.org/rce/oai');
 
-//$mz->harvest();
+$mz = new MetaOai('http://journal.upao.edu.pe/Arnaldoa/oai', 'oai_dc','ARNALDOA');
+
+
+$mz->harvest();
 
 
 
