@@ -24,7 +24,6 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 	
 	
 	
-	
 	//echo $json;
 		
 	// 3. Search result
@@ -74,6 +73,7 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 	else
 	{
 		echo 'Found: <a href="http://direct.biostor.org/reference/' . $found . '" target="_new">' . $found . '</a>' . '<br />';
+		echo '<span style="color:white;background-color:orange;">Check: <a href="http://direct.biostor.org/openurl?' . $openurl . '" target="_new">OpenURL</a>' . '</span><br />';
 	}
 	
 	//exit();
@@ -96,6 +96,33 @@ function biostor_import($reference)
 	global $list_of_matches;
 	
 	$reference->genre = 'article';
+	
+	// spage must be a number
+	if (!preg_match('/^\d+$/', $reference->spage))
+	{
+		return;
+	}
+	
+	// muts have epage
+	if (!isset($reference->epage))
+	{
+		return;
+	}
+	
+	// must have volume
+	if (!isset($reference->volume))
+	{
+		return;
+	}
+	
+	
+	
+	/*
+	if ($reference->volume !=51)
+	{
+		return;
+	}
+	*/
 	
 	// Ignore things we don't have
 	//if ($reference->year != 1991) return;

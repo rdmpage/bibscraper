@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#" xmlns:cinii="http://ci.nii.ac.jp/ns/1.0/" xmlns:bibo="http://purl.org/ontology/bibo/">
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/110004697577#article">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<foaf:isPrimaryTopicOf rdf:resource="http://ci.nii.ac.jp/naid/110004697577.rdf" />
+<dc:title>Holcoglossum tsii : 中国産ラン科の一新種</dc:title>
+<dc:creator>遊川 知久</dc:creator>
+<dc:publisher>国立科学博物館</dc:publisher>
+<prism:publicationName>筑波実験植物園研究報告</prism:publicationName>
+<prism:issn>02893568</prism:issn>
+<prism:volume>19</prism:volume>
+<prism:startingPage>1</prism:startingPage>
+<prism:endingPage>3</prism:endingPage>
+<prism:publicationDate>2000-12</prism:publicationDate>
+<dc:description>中国雲南省に自生するラン科の新種,Holcoglossum tsii Yukawaを記載する。本種はHolcoglossum rupestre (Hand.-Mazz.) Garayに類似するが,葉が短いこと,花序あたりの花数が少ないこと,がく片と側花弁が全縁であること,唇弁の中裂片が約2倍の幅を持つこと,また距が約2倍の長さを持つことで,よく区別できる。</dc:description>
+<dc:date>2000-12</dc:date>
+<cinii:naid>110004697577</cinii:naid>
+<cinii:ncid>AN10009042</cinii:ncid>
+<cinii:ndljpi>5702257</cinii:ndljpi>
+<dc:language>ENG</dc:language>
+<dc:source>NDL</dc:source>
+<dc:source>NII-ELS</dc:source>
+<cinii:fulltext>3</cinii:fulltext>
+<dcterms:isPartOf rdf:resource="http://ci.nii.ac.jp/ncid/AN10009042#entity" dc:title="筑波実験植物園研究報告" />
+<rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/5702257" dc:title="NDL-OPAC" />
+</rdf:Description>
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/110004697577#article" xml:lang="en">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<dc:title>Holcoglossum tsii (Orchidaceae) : A New Species from China</dc:title>
+<dc:creator>YUKAWA Tomohisa</dc:creator>
+<dc:publisher>National Science Museum</dc:publisher>
+<prism:publicationName>Annals of the Tsukuba Botanical Garden</prism:publicationName>
+<dc:description>A new species, Holcoglossum tsii, is described from Yunnan Province, China. The species is readily distinguished from Holcoglossum rupestre (Hand.-Mazz.) Garay by having shorter leaves, a smaller number of flowers, entire margins of sepals and petals, a two-fold wide mid-lobe of the labellum, and a two-fold long spur.</dc:description>
+</rdf:Description>
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/110004697577#article">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<foaf:depiction>
+<foaf:Image rdf:about="http://ci.nii.ac.jp/pdfthumbnail/11/1100/110004/110004697577.jpg" />
+</foaf:depiction>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000005997061#me">
+<foaf:name>遊川 知久</foaf:name>
+<foaf:name xml:lang="en">YUKAWA Tomohisa</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/%E5%9B%BD%E7%AB%8B%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8_%E7%AD%91%E6%B3%A2%E7%A0%94%E7%A9%B6%E8%B3%87%E6%96%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC_%E7%AD%91%E6%B3%A2%E5%AE%9F%E9%A8%93%E6%A4%8D%E7%89%A9%E5%9C%92">
+<foaf:name>国立科学博物館 筑波研究資料センター 筑波実験植物園</foaf:name>
+<foaf:name xml:lang="en">Tsukuba Botanical Garden, National Science Museum</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+</rdf:Description>
+</rdf:RDF>

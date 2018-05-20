@@ -100,6 +100,8 @@ function authors_from_string($authorstring, $split_on_commas = false)
 		$authors[$i] = preg_replace('/\.([A-Z])/u', ". $1", $authors[$i]);
 		$authors[$i] = preg_replace('/^\s+/u', "", $authors[$i]);
 		$authors[$i] = mb_convert_case($authors[$i], MB_CASE_TITLE, 'UTF-8');
+		
+		$authors[$i] =str_replace('.', '', $authors[$i]);
 	}
 	
 	// try and catch obvious errors
@@ -409,7 +411,9 @@ function reference_to_ris($reference)
 				{
 					if ($a != '')
 					{
-						$ris .= "AU  - " . trim($a) ."\n";
+						$a = str_replace('*', '', $a);
+						$a = trim(preg_replace('/\s\s+/u', ' ', $a));						
+						$ris .= "AU  - " . $a ."\n";
 					}
 				}
 				break;

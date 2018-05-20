@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml packageId="connal.3.1" system="knb" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 eml.xsd"> <access authSystem="knb" order="allowFirst"> <allow><principal>public</principal>
+<permission>read</permission>
+</allow>
+</access>
+ <dataset> <title>Catalogue of Afrotropical Bees</title>
+ <creator id="1414414611715"> <individualName><salutation>Dr</salutation>
+<givenName>Connal</givenName>
+<surName>Eardley</surName>
+</individualName>
+<organizationName>Agricultural Research Council: Plant Protection Research Institute</organizationName>
+<positionName>Researcher</positionName>
+<address><deliveryPoint>Private Bag X134</deliveryPoint>
+<deliveryPoint>Queenswood</deliveryPoint>
+<city>Pretoria</city>
+<administrativeArea>Gauteng</administrativeArea>
+<postalCode>0121</postalCode>
+<country>South Africa</country>
+</address>
+<phone phonetype="voice">+27 12 808 8250</phone>
+<phone phonetype="fax">+27 12 808 8297</phone>
+<electronicMailAddress>eardleyc@arc.agric.za</electronicMailAddress>
+<onlineUrl>http://www.arc.agric.za</onlineUrl>
+</creator>
+ <abstract><para>The purpose of this catalogue is to list the valid names, nomenclatorial history of, and references citing, the described bees of sub-saharan Africa and the western Indian Ocean islands, excluding the honey bee (Apis mellifera Linnaeus). The countries in which species occur are listed, as well as the type specimens/species of species/genera. Some ecological information is provided, namely flowers visited, plants used as nests, parasitic bees and host bees.</para>
+</abstract>
+<keywordSet><keyword>pollination</keyword>
+<keyword>bees</keyword>
+<keyword>Apidae</keyword>
+<keyword>Hymenoptera</keyword>
+<keyword>Africa</keyword>
+</keywordSet>
+<coverage><geographicCoverage><geographicDescription>Afrotropical Region</geographicDescription>
+<boundingCoordinates><westBoundingCoordinate>-18.875</westBoundingCoordinate>
+<eastBoundingCoordinate>54.875</eastBoundingCoordinate>
+<northBoundingCoordinate>19.25</northBoundingCoordinate>
+<southBoundingCoordinate>-38.625</southBoundingCoordinate>
+</boundingCoordinates>
+</geographicCoverage>
+<taxonomicCoverage><taxonomicClassification><taxonRankName>Order</taxonRankName>
+<taxonRankValue>Hymenoptera</taxonRankValue>
+</taxonomicClassification>
+</taxonomicCoverage>
+</coverage>
+<contact id="1414414834168"><individualName><salutation>Mr</salutation>
+<givenName>Willem</givenName>
+<surName>Coetzer</surName>
+</individualName>
+<organizationName>South African Institute for Aquatic Biodiversity</organizationName>
+<positionName>Biodiversity Information Manager</positionName>
+<address><deliveryPoint>Private Bag 1015</deliveryPoint>
+<city>Grahamstown</city>
+<administrativeArea>Eastern Cape</administrativeArea>
+<postalCode>6140</postalCode>
+<country>South Africa</country>
+</address>
+<phone phonetype="voice">+27 46 603 5841</phone>
+<electronicMailAddress>w.coetzer@saiab.ac.za</electronicMailAddress>
+<onlineUrl>http://www.saiab.ac.za</onlineUrl>
+</contact>
+</dataset>
+ </eml:eml>

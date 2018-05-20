@@ -1080,6 +1080,14 @@ $urls = array(
 
 //$urls = array('http://www.airitilibrary.com/Publication/Index?FirstID=0372333X-201412-201412120009-201412120009-368-373');
 
+$urls = array(
+'http://www.airitilibrary.com/Publication/Index?FirstID=0372333X-201612-201611150223-201611150223-319-354',
+'http://www.airitilibrary.com/Publication/Index?FirstID=0372333X-201612-201611150223-201611150223-355-361',
+'http://www.airitilibrary.com/Publication/Index?FirstID=0372333X-201609-201608250001-201608250001-201-217',
+'http://www.airitilibrary.com/Publication/Index?FirstID=0372333X-201609-201608250001-201608250001-221-223',
+'http://www.airitilibrary.com/Publication/Index?FirstID=0372333X-201609-201608250001-201608250001-218-220'
+);
+
 $count = 1;
 
 foreach ($urls as $url)
@@ -1091,7 +1099,14 @@ foreach ($urls as $url)
 	
 	$ris = get($url);
 	
-	// echo $ris;
+	
+	 
+	if (0)
+	{
+	 echo $ris;
+	 }
+	 else
+	{
 	
 	$lines = explode("\r\n", $ris);
 	
@@ -1223,6 +1238,8 @@ foreach ($urls as $url)
 			. join(',', $multilingual_values[$i]) . ');';
 		echo $sql . "\n";
 	}	
+	
+	}
 	
 	if (($count++ % 5) == 0)
 	{

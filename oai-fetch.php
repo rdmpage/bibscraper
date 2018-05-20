@@ -28,8 +28,11 @@ class OaiFetch extends OaiHarvester
 $set = 'mnhn:periodiques';
 $set = 'mnhn:images';
 
-$mnhn = new OaiFetch('http://bibliotheques.mnhn.fr/EXPLOITATION/Infodoc/oaiserver.ashx', 'oai_dc', $set);
-$mnhn->harvest();
+//$mnhn = new OaiFetch('http://bibliotheques.mnhn.fr/EXPLOITATION/Infodoc/oaiserver.ashx', 'oai_dc', $set);
+//$mnhn->harvest();
+
+$rlp = new OaiFetch('https://publicaciones.fcnym.unlp.edu.ar/rmlp/oai',  'oai_dc', 'rmlp');
+$rlp->harvest();
 
 
 

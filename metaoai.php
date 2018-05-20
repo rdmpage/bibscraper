@@ -27,12 +27,14 @@ class MetaOai extends OaiHarvester
 		$xpath->registerNamespace("oaidc", "http://www.openarchives.org/OAI/2.0/oai_dc/");	
 		$xpath->registerNamespace("xsi", "http://www.w3.org/2001/XMLSchema-instance");	
 		
-		$count = 0;
+		$count = 1;
 		
 		
 		$records = $xpath->query ('//ListRecords/record');
 		foreach($records as $record)
 		{
+			//echo 'x';
+		
 			$url = '';
 			$doi = '';
 			$year = '';
@@ -65,6 +67,15 @@ class MetaOai extends OaiHarvester
 					{
 						$url = $n->firstChild->nodeValue;
 					}
+					
+					if ($url == '')
+					{					
+						if (preg_match('/^https?/', $n->firstChild->nodeValue))
+						{
+							$url = $n->firstChild->nodeValue;
+						}
+					}					
+					
 				}
 			
 				// try and get year in case this is missing from metadata (sigh)
@@ -93,12 +104,15 @@ class MetaOai extends OaiHarvester
 
 					$metas = $dom->find('meta');
 				
-					/*
+					
 					foreach ($metas as $meta)
 					{
-						echo $meta->name . " " . $meta->content . "\n";
+						//echo $meta->name . " " . $meta->content . "\n";
 					}
-					*/				
+					
+						
+					
+					//exit();			
 				
 					foreach ($metas as $meta)
 					{
@@ -106,6 +120,25 @@ class MetaOai extends OaiHarvester
 						{
 	
 							// DC
+							
+							case 'DC.relation':
+								// hack
+								if ($meta->content == 'Contributions')
+								{
+									$reference->journal = 'Contributions from the Museum of Paleontology University of Michigan';
+									$reference->issn = '0097-3556';
+								}
+								
+								if ($meta->content == 'Papers on Paleontology')
+								{
+									$reference->journal = 'Museum of Paleontology Papers on Paleontology';
+									$reference->issn = '0148-3838';
+								}
+								
+								
+								
+								break;
+							
 		
 							case 'DC.title':
 								$reference->title =  $meta->content;
@@ -114,12 +147,27 @@ class MetaOai extends OaiHarvester
 
 							case 'DC.description':
 							case 'DC.Description':
-								$reference->abstract =  $meta->content;
-								$reference->abstract = str_replace("\n", "", $reference->abstract);
-								$reference->abstract = str_replace("&amp;", "&", $reference->abstract);
-								$reference->abstract = preg_replace('/\s\s+/u', ' ', $reference->abstract);		
-								$reference->abstract = preg_replace('/^\s+/u', '', $reference->abstract);		
-								$reference->abstract = html_entity_decode($reference->abstract);
+							
+								if (preg_match('/(p.\s+)?(?<spage>\d+)-(?<epage>\d+)/',$meta->content, $m ))
+								{
+									$reference->spage = $m['spage'];
+									$reference->epage = $m['epage'];
+								}
+								else
+								{
+									if (preg_match('/^http/', $meta->content))
+									{
+									}
+									else
+									{
+										$reference->abstract =  $meta->content;
+										$reference->abstract = str_replace("\n", "", $reference->abstract);
+										$reference->abstract = str_replace("&amp;", "&", $reference->abstract);
+										$reference->abstract = preg_replace('/\s\s+/u', ' ', $reference->abstract);		
+										$reference->abstract = preg_replace('/^\s+/u', '', $reference->abstract);		
+										$reference->abstract = html_entity_decode($reference->abstract);
+									}
+								}
 								break;
 							
 							case 'DC.Creator.PersonalName':
@@ -134,7 +182,22 @@ class MetaOai extends OaiHarvester
 								break;	
 								
 							// to do
-							case 'DC.Identifier.DOI'
+							case 'DC.Identifier.DOI':
+								break;
+								
+							case 'DCTERMS.bibliographicCitation':
+								if (preg_match('/^Vol.\s+(?<volume>\d+)(,\s+No.\s+(?<issue>\d+))?/', $meta->content, $m))
+								{
+									$reference->volume = $m['volume'];
+									if ($m['issue'] != '')
+									{
+										$reference->issue = $m['issue'];
+									}
+								}
+								if (preg_match('/^No.\s+(?<volume>\d+)/', $meta->content, $m))
+								{
+									$reference->volume = $m['volume'];
+								}
 								break;
 	
 							// eprints
@@ -279,6 +342,10 @@ class MetaOai extends OaiHarvester
 								{
 									$reference->date = str_replace('/', '-', $meta->content);
 								}
+								if (preg_match('/^(?<year>[0-9]{4})-\d+-\d+/', $meta->content, $m))
+								{
+									$reference->date = $meta->content;
+								}
 									
 								break;
 
@@ -333,9 +400,34 @@ class MetaOai extends OaiHarvester
 							unset($reference->issue);
 						}
 					}
+					
+					// grab anything missing from HTML
+					
+					$as = $dom->find('a');
+				
+					
+					foreach ($as as $a)
+					{
+						//echo $a->plaintext . "\n";
+						if (preg_match('/(?<volume>\d+)\s+:\s+[0-9]{4}/', $a->plaintext, $m))
+						{
+							//print_r($m);
+							$reference->volume = $m['volume'];
+						}
+						// 1908: 8,
+						if (preg_match('/[0-9]{4}\s*:\s+(?<volume>\d+),/', $a->plaintext, $m))
+						{
+							//print_r($m);
+							$reference->volume = $m['volume'];
+						}
+					}
+					
+					
 				
 				
 					echo reference_to_ris($reference);
+					
+					//exit();
 				}
 			
 				// Give server a break every 10 items
@@ -371,7 +463,17 @@ class MetaOai extends OaiHarvester
 
 //$mz = new MetaOai('https://biotaxa.org/rce/oai');
 
-$mz = new MetaOai('http://journal.upao.edu.pe/Arnaldoa/oai', 'oai_dc','ARNALDOA');
+//$mz = new MetaOai('http://journal.upao.edu.pe/Arnaldoa/oai', 'oai_dc','ARNALDOA');
+
+
+//$mz = new MetaOai('http://www.contributions-to-entomology.org/oai', 'oai_dc');
+
+
+$mz = new MetaOai('https://deepblue.lib.umich.edu/dspace-oai/request', 'oai_dc', 'col_2027.42_41251');
+
+
+$mz = new MetaOai('http://www.raco.cat/index.php/ButlletiICHN/oai', 'oai_dc');
+
 
 
 $mz->harvest();

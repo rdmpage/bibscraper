@@ -6,6 +6,17 @@ function get_pdf_filename($pdf)
 {
 	$filename = '';
 	
+	
+	//http://bibliotheques.mnhn.fr/EXPLOITATION/infodoc/ged/viewportalpublished.ashx?eid=IFD_FICJOINT_
+	if ($filename == '')
+	{
+		if (preg_match('/http:\/\/bibliotheques.mnhn.fr\/EXPLOITATION\/infodoc\/ged\/viewportalpublished.ashx\?eid=IFD_FICJOINT_(?<id>.*)/', $pdf, $m))
+		{
+			$filename = $m['id'] . '.pdf';
+		}
+	}	
+	
+	
 	// article_pdf?id=
 	
 	// http://maxbot.botany.pl/cgi-bin/pubs/data/article_pdf?id=712
@@ -17,6 +28,28 @@ function get_pdf_filename($pdf)
 			$filename = str_replace('/', '-', $filename);
 		}
 	}	
+	
+	// http://www.folia.socmexent.org/revista/folia/
+	if ($filename == '')
+	{
+		if (preg_match('/http:\/\/www.folia.socmexent.org/', $pdf, $m))
+		{
+			$filename = str_replace('http://www.folia.socmexent.org/revista/folia/', '', $pdf);
+			$filename = str_replace('/', '-', $filename);
+		}
+	}	
+
+
+	if ($filename == '')
+	{
+		if (preg_match('/vital:(?<id>\d+)\/SOURCEPDF/', $pdf, $m))
+		{
+			$filename = 'vital' . $m['id'] . '.pdf';
+		}
+	}	
+	
+	
+//http://vital.seals.ac.za:8080/vital/access/services/Download/vital:15027/SOURCEPDF	
 	
 	
 	// http://www.mus-nh.city.osaka.jp/publication/bulletin/bulletin/1/1-001.pdf
@@ -110,7 +143,7 @@ function get_pdf_filename($pdf)
 	
 	if ($filename == '')
 	{
-		if (preg_match('/(download|view)\/(?<id1>\d+)\/(?<id2>\d+)$/', $pdf, $m))
+		if (preg_match('/(download|view|downloadSuppFile)\/(?<id1>\d+)\/(?<id2>\d+)$/', $pdf, $m))
 		{
 			$filename = $m['id1'] . '-' . $m['id2'];
 		}
@@ -201,10 +234,10 @@ while (!feof($file_handle))
 		else
 		{
 	
-			//$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . urlencode($pdf) . '&noredirect=1&format=json';
+			$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . urlencode($pdf) . '&noredirect=1&format=json';
 			//$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . $pdf . '&noredirect=1&format=json';
 		
-			$url = 'http://bionames.org/bionames-archive/pdfstore.php?url=' .  urlencode($pdf) . '&noredirect=1&format=json';
+			//$url = 'http://bionames.org/bionames-archive/pdfstore.php?url=' .  urlencode($pdf) . '&noredirect=1&format=json';
 
 			$json = get($url);
 		
@@ -232,7 +265,8 @@ while (!feof($file_handle))
 				$pdfs[]  = $pdf;			
 			}
 			
-			if ($count++ % 10 == 0)
+			
+			if ($count++ % 100 == 0)
 			{
 				$rand = rand(1000000, 3000000);
 				echo '-- sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";

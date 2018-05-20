@@ -212,7 +212,24 @@ class OaiHarvester
 			//$this->resumption_token = ''; // kill it after one go
 			
 			// Resumption token
-			if (preg_match('/<resumptionToken(.*)>(?<token>(.*))<\/resumptionToken>/', $this->xml, $matches))
+			
+			// do it properly
+			$dom = new DOMDocument;
+			$dom->loadXML($this->xml);
+			$xpath = new DOMXPath($dom);
+		
+			$xpath->registerNamespace("dc", "http://purl.org/dc/elements/1.1/");	
+			$xpath->registerNamespace("oaidc", "http://www.openarchives.org/OAI/2.0/oai_dc/");	
+			$xpath->registerNamespace("xsi", "http://www.w3.org/2001/XMLSchema-instance");	
+			
+			$nc = $xpath->query ('//ListRecords/resumptionToken');
+			foreach($nc as $n)
+			{
+				$this->resumption_token = $n->firstChild->nodeValue;
+			}
+			
+			/*
+			if (preg_match('/<resumptionToken(.*)>(?<token>(.*))<\/resumptionToken>/m', $this->xml, $matches))
 			{
 				$this->resumption_token = $matches['token'];
 			}
@@ -220,6 +237,7 @@ class OaiHarvester
 			{
 				$this->resumption_token = '';
 			}
+			*/
 			
 			echo "-- Resumption token = " . $this->resumption_token . "\n";
 			

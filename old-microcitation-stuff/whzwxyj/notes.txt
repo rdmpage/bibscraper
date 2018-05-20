@@ -1,0 +1,20 @@
+Notes
+=====
+
+
+Journal starts out as
+
+Wuhan zhi wu xue yan jiu = Journal of Wuhan botanical research
+
+ISSN 1000-470X
+
+Then becomes 
+
+植物科学学报 Plant science journal
+
+ISSN 2095-0837
+
+WorldCat says took place from 2011, online archive has everything as "Plant science journal"
+but PDFs before 2011 are Journal of Wuhan botanical research.
+
+There look to be lots of possible DOIs missed, will need to investigate further.

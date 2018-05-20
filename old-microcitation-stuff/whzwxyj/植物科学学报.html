@@ -1,0 +1,2528 @@
+<HTML>
+<HEAD>
+<TITLE>植物科学学报</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<link href="../../images/css.css" type="text/css" rel="stylesheet">
+	<META content="MSHTML 6.00.2900.3157" name=GENERATOR>
+	<SCRIPT language=javascript src="../../images/OPENWIN.JS"></SCRIPT>
+	
+<LINK rel=stylesheet type=text/css href="../../images/css.css">
+    <META name=GENERATOR content="MSHTML 6.00.2900.3157">
+   
+<SCRIPT language=javascript>
+		function Maximize()
+		{
+			self.moveTo(0,0);
+			self.resizeTo(screen.availWidth,screen.availHeight);
+		}
+		
+		function clearall()
+		{
+			var the_box = window.document.all('pid');
+			for(var i=0;i< the_box.length;i++)
+			{
+				the_box[i].checked = false;
+			}
+		}
+		
+		function isready1(form)
+		{
+			var blnAlert = 0;
+			var str_article = "";
+			if (typeof(AbstractList.pid.length)=="undefined") 
+			{  
+				if(AbstractList.pid.checked==true)
+				{
+					blnAlert = blnAlert+1;
+					str_article = str_article + AbstractList.pid.value+",";
+				}
+			} 
+			else 
+			{
+				for (i=0;i<AbstractList.pid.length;i++) 
+				{
+			  	if(AbstractList.item("pid",i).checked==true)
+			  	{  
+						blnAlert = blnAlert+1;
+						str_article = str_article + AbstractList.item("pid",i).value+",";
+					}
+			  } 
+			}
+			if (blnAlert==0)
+			{
+				alert("请您先选中文章！");
+				return  false;
+			}
+			//alert(str_article);
+			form.action="../article/uniteZhaiYao.do?uniteId="+str_article;
+			form.submit;
+		}
+		
+		function set_abs()
+		{
+			abst.style.display = "block";
+		}
+		
+		function showArticleFile(url,attachType,articleId){
+	var viewAttach = url+"/CN/article/showArticleFile.do?attachType="+attachType+"&id="+articleId;
+	window.open(viewAttach,"下载文件","toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizeable=no,copyhistory=no,width=520,height=200,left=88,top=88");
+} 
+		 function hidead()
+{document.getElementById("ad").style.display="none";}
+	</SCRIPT>
+
+<script type="text/javascript">
+function hidead()
+{document.getElementById("ad").style.display="none";}
+</script>
+
+<script>
+var x = 50,y = 60
+var xin = true, yin = true
+var step = 1
+var delay = 1
+var obj=document.getElementById("ad")
+function floatAD() {
+var L=T=0
+var R= document.body.clientWidth-obj.offsetWidth
+var B = document.body.clientHeight-obj.offsetHeight
+obj.style.left = x + document.body.scrollLeft
+obj.style.top = y + document.body.scrollTop
+x = x + step*(xin?1:-1)
+if (x < L) { xin = true; x = L}
+if (x > R){ xin = false; x = R}
+y = y + step*(yin?1:-1)
+if (y < T) { yin = true; y = T }
+if (y > B) { yin = false; y = B }
+}
+var itl= setInterval("floatAD()", delay)
+obj.onmouseover=function(){clearInterval(itl)}
+obj.onmouseout=function(){itl=setInterval("floatAD()", delay)}
+</script>
+
+
+<style type="text/css">
+<!--
+.alll {BORDER-RIGHT: #bebebe 1px solid; BORDER-TOP: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; BORDER-BOTTOM: #bebebe 1px solid
+}
+.di {	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+.STYLE17 {
+	color: #666666;
+	font-weight: bold;
+	font-size: 12px;
+	font-family: "宋体";
+}
+.STYLE228 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #009933;
+}
+.STYLE338 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #009933;
+}
+
+-->
+</style>
+<!--piaofukuang-->
+
+</HEAD>
+   
+   
+<iframe src=".../../manage/journal/updateBrowseNum.jsp?journalId=1&volumnId=1177" height=0 width=0 allowtransparency="true" border=0  scrolling=no frameborder=0></iframe>
+<BODY LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+    <TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+		<!--头部-->
+		<TR>
+		<TD valign=top>
+				<HTML>
+<HEAD>
+<TITLE>植物科学学报</TITLE>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link href="http://www.whzwxyj.cn/images/css.css" type="text/css" rel="stylesheet">
+	<META content="MSHTML 6.00.2900.3157" name=GENERATOR>
+	
+    <style type="text/css">
+<!--
+.bai {	color: #FFFFFF;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+body {
+	background-color: #D7DBD8;
+}
+.STYLE110 {font-size: 14px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #FFFFFF;}
+	BORDER-LEFT: #333333 1px solid; BACKGROUND-COLOR: #ffffff; BORDER-COLLAPSE: collapse; BORDER-RIGHT: #333333 1px solid
+}
+.tableBorder1 {
+	BORDER-BOTTOM: 1px; BORDER-LEFT: 1px; BACKGROUND-COLOR: #c5bdc5; WIDTH: 100%; BORDER-TOP: 1px; BORDER-RIGHT: 1px
+}
+TD.TableBody1 {
+	BACKGROUND-COLOR: #ffffff
+}
+-->
+    </style>
+	      <SCRIPT language=JavaScript>
+ var h;
+ var w;
+ var l;
+ var t;
+ var topMar = 3;
+ var leftMar = -10;
+ var space = 2;
+ var isvisible;
+ var MENU_SHADOW_COLOR='#FFA500';
+ var global = window.document
+ global.fo_currentMenu = null
+ global.fo_shadows = new Array
+
+function HideMenu() 
+{
+ var mX;
+ var mY;
+ var vDiv;
+ var mDiv;
+	if (isvisible == true)
+{
+		vDiv = document.all("menuDiv");
+		mX = window.event.clientX + document.body.scrollLeft;
+		mY = window.event.clientY + document.body.scrollTop;
+		if ((mX < parseInt(vDiv.style.left)) || (mX > parseInt(vDiv.style.left)+vDiv.offsetWidth) || (mY < parseInt(vDiv.style.top)-h) || (mY > parseInt(vDiv.style.top)+vDiv.offsetHeight)){
+			vDiv.style.visibility = "hidden";
+			isvisible = false;
+		}
+}
+}
+
+function ShowMenu(vMnuCode,tWidth) {
+	vSrc = window.event.srcElement;
+	vMnuCode = "<table id='submenu' cellspacing=1 cellpadding=3 style='width:"+tWidth+"' class=tableborder1 onmouseout='HideMenu()'><tr height=23><td nowrap align=left class=tablebody1>" + vMnuCode + "</td></tr></table>";
+
+	h = vSrc.offsetHeight;
+	w = vSrc.offsetWidth;
+	l = vSrc.offsetLeft + leftMar+4;
+	t = vSrc.offsetTop + topMar + h + space-2;
+	vParent = vSrc.offsetParent;
+	while (vParent.tagName.toUpperCase() != "BODY")
+	{
+		l += vParent.offsetLeft;
+		t += vParent.offsetTop;
+		vParent = vParent.offsetParent;
+	}
+
+	menuDiv.innerHTML = vMnuCode;
+	menuDiv.style.top = t;
+	menuDiv.style.left = l;
+	menuDiv.style.visibility = "visible";
+	isvisible = true;
+    makeRectangularDropShadow(submenu, MENU_SHADOW_COLOR, 4)
+}
+
+function makeRectangularDropShadow(el, color, size)
+{
+	var i;
+	for (i=size; i>0; i--)
+	{
+		var rect = document.createElement('div');
+		var rs = rect.style
+		rs.position = 'absolute';
+		rs.left = (el.style.posLeft + i) + 'px';
+		rs.top = (el.style.posTop + i) + 'px';
+		rs.width = el.offsetWidth + 'px';
+		rs.height = el.offsetHeight + 'px';
+		rs.zIndex = el.style.zIndex - i;
+		rs.backgroundColor = color;
+		var opacity = 1 - i / (i + 1);
+		rs.filter = 'alpha(opacity=' + (100 * opacity) + ')';
+		el.insertAdjacentElement('afterEnd', rect);
+		global.fo_shadows[global.fo_shadows.length] = rect;
+	}
+}
+var About= '&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column290.shtml\">期刊介绍</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column291.shtml\">编委会</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column299.shtml\">被收录情况</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column301.shtml\">获奖情况</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column303.shtml\">影响因子</a>&nbsp;'
+
+var tgzn= '&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column292.shtml\">投稿须知</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column305.shtml\">插图要求</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column306.shtml\">文献标注格式</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column307.shtml\">文献著录格式示例</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column307.shtml\">数字及单位用法</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column313.shtml\">稿件模板</a>&nbsp;<br>&nbsp;<a style=font-size:10pt;line-height:14pt; href=\"../column/column314.shtml\">文章分类</a>'
+</SCRIPT>
+</HEAD>
+
+<body leftmargin="0" topmargin="0">
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+        
+        
+        <tr>
+          <td height="12" align="right" valign="top"></td>
+        </tr>
+        <tr>
+          <td width="1002" height="161" align="right" background="http://www.whzwxyj.cn/images/banner.jpg">&nbsp;</td>
+        </tr>
+       
+        <tr>
+          <td height="28" background="http://www.whzwxyj.cn/images/top.jpg">
+		  <table width="990" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+             
+              <td width="990">
+			   <DIV 
+                  style="Z-INDEX: 2; POSITION: absolute; BACKGROUND-COLOR: #9cc5f8; WIDTH: 1px; HEIGHT: 1px; left: 111px;" 
+                  id=menuDiv></DIV> 
+			  
+			&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;　
+              <script language="JavaScript" type="text/javascript">today=new Date();
+function initArray(){
+this.length=initArray.arguments.length
+for(var i=0;i<this.length;i++)
+this[i+1]=initArray.arguments[i]  }
+var d=new initArray(
+" 星期日",
+" 星期一",
+" 星期二",
+" 星期三",
+" 星期四",
+" 星期五",
+" 星期六");
+document.write(
+"<font color=ffffff style='font-size:9pt;font-family: 宋体'> ",
+today.getYear(),"年",
+today.getMonth()+1,"月",
+today.getDate(),"日",
+d[today.getDay()+1],
+"</font>" );
+                              </script>
+&nbsp;&nbsp;&nbsp;      &nbsp;&nbsp;&nbsp;&nbsp; <span class="txt_bs">        <A class=txt_bs 
+                  href="../volumn/current.shtml">首页</A><FONT 
+                  face=宋体>&nbsp;&nbsp;|&nbsp;&nbsp;</FONT><A class=txt_bs 
+                  onmouseover=ShowMenu(About) 
+                  href="#">关于杂志</A><FONT 
+                  face=宋体>&nbsp;&nbsp;|&nbsp;&nbsp;</FONT><A class=txt_bs 
+                  onmouseover=ShowMenu(tgzn) 
+                  href="#">投稿指南</A><FONT 
+                  face=宋体>&nbsp;&nbsp;|&nbsp;&nbsp;</FONT> <A class=txt_bs 
+                  href="../column/column293.shtml">期刊订阅</A><FONT 
+                  face=宋体>&nbsp;&nbsp;|&nbsp;&nbsp;</FONT> <A class=txt_bs 
+                  href="../column/column294.shtml">广告合作</A><FONT 
+                  face=宋体>&nbsp;&nbsp;|&nbsp;&nbsp;</FONT><A class=txt_bs 
+                  href="../column/column300.shtml">新闻公告</A><FONT 
+                  face=宋体>&nbsp;&nbsp;|&nbsp;&nbsp;</FONT><A class=txt_bs 
+                  href="../column/column295.shtml">编读往来</A><FONT 
+                  face=宋体>&nbsp;&nbsp;|&nbsp;&nbsp;</FONT><A class=txt_bs 
+                  href="../column/column296.shtml">联系我们</A><FONT 
+                  face=宋体>&nbsp;&nbsp;|&nbsp;&nbsp;</FONT>&nbsp;<A class=txt_bs 
+                  href="../../EN/volumn/current.shtml" 
+                  target=_blank><STRONG><FONT 
+                  face="Arial, Helvetica, sans-serif"><FONT 
+                  color=#ffffff>English</FONT></FONT></STRONG></A></span></td>
+            </tr>
+          </table></td>
+        </tr>
+</table>
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="5" bgcolor="#FFFFFF"></td>
+  </tr>
+</table>
+</body>
+</html>
+		 </TD>
+		</TR>
+    </table>		
+    
+		<!--中间--> 		
+    <TABLE width=1002 height="100%" border=0 align=center cellPadding=0 cellSpacing=0>
+    
+    <TR>
+		<!--中间. 左部-->    
+    <TD width=200 height="100%" vAlign=top  bgcolor="#ffffff">
+	<HTML>
+<HEAD>
+<TITLE></TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=utf-8">
+	<link href="../../images/css.css" type="text/css" rel="stylesheet">
+	<META content="MSHTML 6.00.2900.3157" name=GENERATOR>
+    <style type="text/css">
+<!--
+.style1 {color: #000000}
+.STYLE2zong {	color: #925432;
+	font-weight: bold;
+	font-size: 12px;
+	font-family: "宋体";
+}
+.STYLE37z {color: #131386; font-weight: bold; font-size: 12px; font-family: "宋体"; line-height: 18px; }
+.all {	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #E1D9BA;
+	border-right-color: #E1D9BA;
+	border-bottom-color: #E1D9BA;
+	border-left-color: #E1D9BA;
+}
+.STYLE10 {font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.STYLE9 {font-size: 12px;
+	color: #0D8418;
+	font-weight: bold; 
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.STYLE12 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+}
+-->
+    </style>
+</HEAD>
+<BODY>
+<TABLE cellSpacing=0 cellPadding=0 width=200 border=0 height = 100%>
+  <TR vAlign=top bgcolor="#496ED6">
+    <TD width=220 align=center bgcolor="#FFFFFF"><table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="220"><table width="85%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="33" background="../../images/t.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="10%" height="21">&nbsp;</td>
+                    <td width="90%" align="left" valign="bottom"><span class="STYLE9">在线办公</span></td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td background="../../images/x.jpg"><table border="0" cellspacing="0" cellpadding="0" 
+                                width="85%" align="center">
+                <tbody>
+                  <tr>
+                    <td height="3" ></td>
+                  </tr>
+                  <tr>
+                    <td height="20" align="left" 
+                                valign="center">&nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="http://www.whzwxyj.cn/journalx_whzwxyj/authorLogOn.action?mag_Id=1" target="_blank">作者在线投稿</a></td>
+                  </tr>
+                  <tr>
+                    <td height="3" align="left" 
+                                background="../../images/z_bg.gif"></td>
+                  </tr>
+                  <tr>
+                    <td height="21" align="left" 
+                                valign="center">&nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="http://www.whzwxyj.cn/journalx_whzwxyj/authorLogOn.action?mag_Id=1" target="_blank">作者在线查稿</a></td>
+                  </tr>
+                  <tr>
+                    <td height="3" align="left" 
+                                background="../../images/z_bg.gif"></td>
+                  </tr>
+                  <tr>
+                    <td height="21" align="left" 
+                                valign="center">&nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="http://www.whzwxyj.cn/journalx_whzwxyj/expertLogOn.action?mag_Id=1" target="_blank">专家在线审稿</a></td>
+                  </tr>
+                  <tr>
+                    <td height="3" align="left" 
+
+                                background="../../images/z_bg.gif"></td>
+                  </tr>
+                  <tr>
+                    <td height="21" align="left" 
+                                valign="center">&nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="http://www.whzwxyj.cn/journalx_whzwxyj/editorCommitteeLogOn.action?mag_Id=1" target="_blank">编委在线审稿</a></td>
+                  </tr>
+                  <tr>
+                    <td height="3" align="left" 
+
+                                background="../../images/z_bg.gif"></td>
+                  </tr>
+                  <tr>
+                    <td height="21" align="left" 
+                                valign="center">&nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="http://www.whzwxyj.cn/journalx_whzwxyj/editorInChiefLogOn.action?mag_Id=1" target="_blank">主编在线办公</a></td>
+                  </tr>
+                  <tr>
+                    <td height="3" align="left" 
+
+                                background="../../images/z_bg.gif"></td>
+                  </tr>
+                  <tr>
+                    <td height="21" align="left" 
+                                valign="center">&nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="http://www.whzwxyj.cn/journalx_whzwxyj/editorLogOn.action?mag_Id=1" target="_blank">编辑远程办公 </a></td>
+                  </tr>
+                  <tr>
+                    <td height="3" 
+
+                                background="../../images/z_bg.gif"></td>
+                  </tr>
+                </tbody>
+              </table></td>
+            </tr>
+            <tr>
+              <td><img src="../../images/d.jpg" width="190" height="8" /></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <TD height="10"></TD>
+      </tr>
+      <tr>
+        <TD height="10"><table width="85%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="33" background="../../images/t.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="10%" height="21">&nbsp;</td>
+                    <td width="90%" align="left" valign="bottom"><span class="STYLE9">在线期刊</span></td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td background="../../images/x.jpg"><table border="0" cellspacing="0" cellpadding="0" 
+                                width="85%" align="center">
+                  <tbody>
+                    <tr>
+                      <td height="3" ></td>
+                    </tr>
+                    <tr>
+                      <td height="21" align="left" 
+                                valign="center">&nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="../article/showNewArticle.do">最新录用</a></td>
+                    </tr>
+                    <tr>
+                      <td height="3" align="left" 
+                                background="../../images/z_bg.gif"></td>
+                    </tr>
+                    <tr>
+                      <td height="21" align="left" 
+                                valign="center">&nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="../article/advSearchArticle.do">论文检索</a></td>
+                    </tr>
+                    <tr>
+                      <td height="3" align="left" 
+                                background="../../images/z_bg.gif"></td>
+                    </tr>
+                    <tr>
+                      <td height="21" align="left" 
+                                valign="center"> &nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="../article/showTenYearOldVolumn.do">过刊浏览</a></td>
+                    </tr>
+                    <tr>
+                      <td height="3" align="left" 
+
+                                background="../../images/z_bg.gif"></td>
+                    </tr>
+                    <tr>
+                      <td height="21" align="left" 
+                                valign="center">  &nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="../article/showBrowseTopList.do">摘要点击排行</a></td>
+                    </tr>
+                    <tr>
+                      <td height="3" align="left" 
+
+                                background="../../images/z_bg.gif"></td>
+                    </tr>
+                    <tr>
+                      <td height="21" align="left" 
+                                valign="center"> &nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="../column/column315.shtml">全文引用排行</a></td>
+                    </tr>
+                    <tr>
+                      <td height="3" align="left" 
+
+                                background="../../images/z_bg.gif"></td>
+                    </tr>
+                    <tr>
+                      <td height="21" align="left" 
+                                valign="center"> &nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="../alert/showAlertInfo.do">Email Alert </a></td>
+                    </tr>
+                    <tr>
+                      <td height="3" align="left" 
+
+                                background="../../images/z_bg.gif"></td>
+                    </tr>
+                    <tr>
+                      <td height="21" align="left" 
+                                valign="center"> &nbsp; &nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> &nbsp;<a href="../rss/showRssInfo.do"><img src="../../images/rss.gif" width="36" height="14" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td height="3" 
+
+                                background="../../images/z_bg.gif"></td>
+                    </tr>
+                  </tbody>
+              </table></td>
+            </tr>
+            <tr>
+              <td><img src="../../images/d.jpg" width="190" height="8" /></td>
+            </tr>
+        </table></TD>
+      </tr>
+      <tr>
+        <TD height="10"></TD>
+      </tr>
+      
+      <tr>
+        <TD height="10"><table width="85%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="33" background="../../images/t.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="10%" height="21">&nbsp;</td>
+                    <td width="90%" valign="bottom"><span class="STYLE9">相关下载</span></td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td background="../../images/x.jpg"><table width="187" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="187"><table width="182" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td width="208" align="center">                                                                              <TABLE width="163" border="0" align="center" cellpadding="0" cellspacing="0">
+                                  <TR>
+                                    <TD width="173" height="22" align="left" class=J_VM>&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> <A class=J_VM href="../item/downloadFile.jsp?filedisplay=20140922102634.pdf" target='_blank'><FONT color=#000000>2014年最新投稿模版（2014.9.22）</FONT></A></TD>
+                                  </TR>
+                                  <tr>
+                                    <TD height=3 background="../../images/z_bg.gif"></TD>
+                                  </tr>
+                              </TABLE>
+                                                                                                        <TABLE width="163" border="0" align="center" cellpadding="0" cellspacing="0">
+                                  <TR>
+                                    <TD width="173" height="22" align="left" class=J_VM>&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> <A class=J_VM href="../item/downloadFile.jsp?filedisplay=20150109105034.doc" target='_blank'><FONT color=#000000>版权转让协议及证明函</FONT></A></TD>
+                                  </TR>
+                                  <tr>
+                                    <TD height=3 background="../../images/z_bg.gif"></TD>
+                                  </tr>
+                              </TABLE>
+                                                                                                        <TABLE width="163" border="0" align="center" cellpadding="0" cellspacing="0">
+                                  <TR>
+                                    <TD width="173" height="22" align="left" class=J_VM>&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../images/j1.gif" width="11" height="8" align="absmiddle"> <A class=J_VM href="../item/downloadFile.jsp?filedisplay=" target='_blank'><FONT color=#000000>投稿须知</FONT></A></TD>
+                                  </TR>
+                                  <tr>
+                                    <TD height=3 background="../../images/z_bg.gif"></TD>
+                                  </tr>
+                              </TABLE>
+                                                     </td>
+                      </tr>
+                      
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td align="right" background="../../images/x.jpg"><span class="STYLE10"><a href="../column/column297.shtml">更多&gt;&gt;</a></span>&nbsp;&nbsp;</td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td><img src="../../images/d.jpg" width="190" height="8" /></td>
+            </tr>
+        </table></TD>
+      </tr>
+      <tr>
+        <TD height="10"></TD>
+      </tr>
+      <tr>
+        <td><table width="85%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="33" background="../../images/t.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="10%" height="21">&nbsp;</td>
+                  <td width="90%" valign="bottom"><span class="STYLE9">版权信息</span></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td background="../../images/x.jpg"><table width="93%" border="0" align="right" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td align="left"><span class="STYLE12">主管：中国科学院<br>
+                    主办：中国科学院武汉植物园<br>
+　　　湖北省植物学会<br>
+                    主编：王青锋<br>
+                    编辑：《植物科学学报》编辑部<br>
+                    地址：武汉市74006信箱<br>
+                    邮编：430074<br>
+                    ISSN 2095-0837<br>
+                    CN 42-1817/Q <br>
+                    邮发代号：38-103<br>
+                    定价：50元/册 <br>
+                  </span></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td><img src="../../images/d.jpg" width="190" height="8" /></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <TD height="10"></TD>
+      </tr>
+      <tr>
+        <TD height="10"><IFRAME ALLOWTRANSPARENCY="true" id="browse" border=0 src="../../manage/journal/showNum.jsp?journalId=1" width=100% height=40 scrolling=no frameborder=0></IFRAME></TD>
+      </tr>
+    </table></TD>
+  </TR>
+</TABLE>
+</BODY>
+</HTML>	</TD>
+	
+		<!--中间. 中间--> 	
+	<TD width="612" align="center" vAlign=top  bgcolor="#ffffff"><table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="3"></td>
+      </tr>
+      
+    </table>
+	  <table width="100%" border="0" align="left" cellpadding="0" cellspacing="0" class="td41">
+        <tr>
+          <td height="26" background="../../images/lm_bj.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="1%" align="center">&nbsp;</td>
+                <td width="90%">植物科学学报</td>
+                <td width="9%"></td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="5"></td>
+        </tr>
+        <tr>
+          <td height="30" align="center"><FORM name=AbstractList onSubmit="return isready1(this)" action="../article/uniteZhaiYao.do" method=post target=_blank>
+                    <TABLE height=156 width="98%" align=center border=0>
+                    <TR>
+                    <TD>
+                    <TABLE height=122 cellSpacing=0 cellPadding=0 width="100%" border=0>
+                      <TR>
+                        <TD vAlign=top align=left width=1>&nbsp;</TD>
+                        <TD vAlign=top align=left><TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                          <TR vAlign=top align=left>
+                            <TD width=209 height=150 align="center">
+                            			                <IMG height=180 src="../../fileup/COVER/20130106153731.jpg" width=130 align=middle border=0>
+			                                            </TD>
+                            <TD width=21 align="center"></TD>
+                            <TD vAlign=middle align=left width=371><TABLE border="0" cellSpacing="0" cellPadding="0" width="100%">
+                                <TBODY>
+                                  <TR vAlign="center" align="left">
+                                    <TD><span class="STYLE36"><strong>2005年&nbsp;23卷&nbsp;2期<br>
+                                      刊出日期：2005-04-25</strong></span></TD>
+                                    <TD></TD>
+                                  </TR>
+                                  <TR vAlign="center" align="left">
+                                    <TD height="5" colSpan="3"><HR SIZE="1">
+                                    </TD>
+                                  </TR>
+                                  <TR vAlign="center" align="left">
+                                    <TD colSpan="2" valign="top"> 
+                                     <A href="#研究论文">研究论文</A><br>
+                                       <A href="#综合评述">综合评述</A><br>
+                                       <A href="#研究简报">研究简报</A><br>
+                                       </TD>
+                                  </TR>
+                                </TBODY>
+                            </TABLE></TD>
+                          </TR>
+                          <TR>
+                            <TD height=5></TD>
+                          </TR>
+                          <TR vAlign=top align=left>
+                            <TD colSpan=2>&nbsp;&nbsp;&nbsp;<a href='volumn_1178.shtml'><IMG src="../../images/btn_previous.gif" border=0></a><a href='volumn_1176.shtml'><IMG src="../../images/btn_next.gif" border=0></a></TD>
+                            <TD></TD>
+                          </TR>
+                          <TR vAlign=top align=left>
+                            <TD colSpan=2><A href="volumn_1177.shtml"><IMG src="../../images/ch-tab_citation_on.gif" border=0></A><A href="volumn_1177_abs.shtml"><IMG src="../../images/ch-tab_fullabs_off.gif" border=0></A></TD>
+                            <TD valign="bottom"></TD>
+                          </TR>
+                          <TR vAlign=top align=left bgColor=#cccccc>
+                            <TD colSpan=3><INPUT name="image2" type=image src="../../images/ch-btn_subset2.gif" border=0></TD>
+                          </TR>
+                        </TABLE></TD>
+                      </TR>
+                    </TABLE>
+	                	              		                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD height=20></TD>
+                        <TD vAlign=top align=left><TABLE height=24 border=0>
+                            <TR>
+                              <TD class="J_VM"><a name="研究论文"></a><font color=#ff9900>研究论文</font></TD>
+                            </TR>
+                        </TABLE></TD>
+                        <TD vAlign=top align=left></TD>
+                      </TR>
+                                            <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=993 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">101</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>陈小军;刘树楠;魏磊;胡耀军;余金洪;赵洁;丁毅</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>云南紫稻细胞质雄性不育系花药发育过程中Ca<SUP>2+</SUP>的分布特点</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;101-106 
+                [<A class="J_VM" class=12 href="../abstract/abstract993.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2469</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=993"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+807
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=978 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">107</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>郭军洋;陈劲枫</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b><I>Cucumis hytivus</I>染色体组间交换重组及其对雄配子育性的影响</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;107-110 
+                [<A class="J_VM" class=12 href="../abstract/abstract978.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2321</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=978"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+752
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=979 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">111</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>刘航;李丹;李绍波</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>水稻红莲型CMS育性恢复QTL分析</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;111-115 
+                [<A class="J_VM" class=12 href="../abstract/abstract979.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2600</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=979"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+798
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=741 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">116</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>陈玮;李炜</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>水稻RIL群体芽期耐冷性基因的分子标记定位</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;116-120 
+                [<A class="J_VM" class=12 href="../abstract/abstract741.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2605</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=741"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+969
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=737 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">121</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>孔迎春;张燎</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>两种肥力水平下水稻苗高QTL的比较分析</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;121-124 
+                [<A class="J_VM" class=12 href="../abstract/abstract737.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2427</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=737"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+785
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=805 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">125</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>陈利华;万杉</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>不同温度条件下水稻种子活力QTL的定位分析</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;125-130 
+                [<A class="J_VM" class=12 href="../abstract/abstract805.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2326</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=805"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+794
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=980 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">131</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>陈国庆;黄宏文;葛学军</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>濒危植物矮沙冬青的等位酶多样性及居群分化</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;131-137 
+                [<A class="J_VM" class=12 href="../abstract/abstract980.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2370</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=980"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+766
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=752 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">138</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>樊明琴;朱月林;朱丽华</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>结球白菜离体子叶不定芽再生过程中的组织学及生理变化</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;138-143 
+                [<A class="J_VM" class=12 href="../abstract/abstract752.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2314</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=752"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+766
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1013 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">144</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>刘世彪;廖海民;胡正海</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>绞股蓝营养器官各发育阶段结构与总皂甙含量相关性的研究</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;144-148 
+                [<A class="J_VM" class=12 href="../abstract/abstract1013.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2314</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1013"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+766
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=975 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">149</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>唐熙;李振宇;胡玉熹</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>中国特有濒危植物崖柏的木材结构研究</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;149-153 
+                [<A class="J_VM" class=12 href="../abstract/abstract975.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2943</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=975"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+796
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1032 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">154</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>刘仲健;陈心启;金效华</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>耳唇槽舌兰——中国兰科一新种</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;154-156 
+                [<A class="J_VM" class=12 href="../abstract/abstract1032.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2700</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1032"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+872
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1033 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">157</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>王孝安;段仁燕;王明利</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>太白红杉单木胸径生长模型的研究</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;157-162 
+                [<A class="J_VM" class=12 href="../abstract/abstract1033.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2287</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1033"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+824
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1041 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">163</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>周正立;李志军;龚卫江;高山</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>胡杨、灰叶胡杨开花生物学特性研究</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;163-168 
+                [<A class="J_VM" class=12 href="../abstract/abstract1041.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2387</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1041"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+767
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1144 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">169</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>陈倩;王跃进;王有为</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>宽叶缬草繁殖生物学特性研究</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;169-173 
+                [<A class="J_VM" class=12 href="../abstract/abstract1144.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2153</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1144"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+804
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=817 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">174</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>吴娇;尤敏;王庆;王有为</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>冬凌草最佳采收期的研究</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;174-178 
+                [<A class="J_VM" class=12 href="../abstract/abstract817.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2246</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=817"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+782
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1034 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">179</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>蒲云海;刘贵华;李伟</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>竹叶眼子菜种子的萌发实验研究</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;179-182 
+                [<A class="J_VM" class=12 href="../abstract/abstract1034.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2318</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1034"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+768
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1023 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">183</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>黄秀丽;庄东红;胡忠;曲莹</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>南瓜属4个栽培种种子蛋白质电泳分析</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;183-187 
+                [<A class="J_VM" class=12 href="../abstract/abstract1023.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2241</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1023"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+1010
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD height=20></TD>
+                        <TD vAlign=top align=left><TABLE height=24 border=0>
+                            <TR>
+                              <TD class="J_VM"><a name="综合评述"></a><font color=#ff9900>综合评述</font></TD>
+                            </TR>
+                        </TABLE></TD>
+                        <TD vAlign=top align=left></TD>
+                      </TR>
+                                            <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1145 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">188</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>张改娜;何涛;王学仁;贾敬芬</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>盐胁迫下植物基因的表达与基因工程研究进展</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;188-195 
+                [<A class="J_VM" class=12 href="../abstract/abstract1145.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2461</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1145"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+962
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD height=20></TD>
+                        <TD vAlign=top align=left><TABLE height=24 border=0>
+                            <TR>
+                              <TD class="J_VM"><a name="研究简报"></a><font color=#ff9900>研究简报</font></TD>
+                            </TR>
+                        </TABLE></TD>
+                        <TD vAlign=top align=left></TD>
+                      </TR>
+                                            <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1035 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">196</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>陈树思</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>蜈蚣草导管分子的观察</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;196-198 
+                [<A class="J_VM" class=12 href="../abstract/abstract1035.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2317</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1035"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+921
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                        	                <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+	                	                                        <TR>
+                        <TD width=10></TD>
+                        <TD vAlign=top align=left>
+                                                
+                                                                        
+                                                  <TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#f4f4f4 border=0>
+                                                <TR>
+                        	<TD vAlign=center align=left width="3%"><INPUT type=checkbox value=1043 name=pid></TD>
+                            <TD class="J_VM" vAlign=center align=left width="5%">199</TD>
+                            <TD class="J_VM" vAlign=center align=left colSpan=2 height=22>刘庭凯;邹学新;赵婷婷;黄海波;王俊刚;麻琳;</TD>
+                        </TR>
+                                                <TR>
+                        	<TD></TD>
+                            <TD></TD>
+                            <TD class="J_VM" vAlign=middle align=left colSpan=2 height=22>DOI:                                        </TD>
+                        </TR>
+                        			            <TR>
+			            	<TD></TD>
+			                <TD class="J_VM" vAlign=top align=left><A title=复制索引 onClick="javascript:Copylist('')" href="#"><IMG src="../../images/copy.gif" border=0></A></TD>
+			                <TD class="J_VM" vAlign=center align=left colSpan=2 height=22><b>桂花叶片的分形特征</b>
+				                				              					              	2005-04-25
+			              	</TD>
+			            </TR>
+            <TR>
+              <TD></TD>
+              <TD></TD>
+              <TD class="J_VM" vAlign=center align=left colSpan=2 height=22> 
+              2005&nbsp;Vol. 23&nbsp;(2):&nbsp;199-202 
+                [<A class="J_VM" class=12 href="../abstract/abstract1043.shtml" target=_blank><U>摘要</U></A>] 
+                ( <FONT color=red>
+
+
+
+
+
+2640</FONT> ) 
+      																																													<A class="txt_zhaiyao1" href="../article/downloadArticleFile.do?attachType=PDF&id=1043"><U>PDF</U></A>
+																																					 ( <FONT color=red>
+
+
+
+
+
+909
+
+</FONT> )
+				</TD>
+            </TR>
+            <TR>
+              <TD colspan=4 background=../../images/dq.gif height=1></TD>
+            </TR>
+          </TABLE>
+                                                   
+                         
+                          </TD>
+                          
+                          <TD width=11></TD>
+                          </TR>
+                                                 </TABLE>
+                                              </TD>
+                      
+	                  </TR>
+	                 
+              </TABLE>
+      </FORM>
+      
+      		         <FORM name=articleFile target="_blank">
+		             <input type=hidden name="attachType" value="pdf">
+		             <input type="hidden" name="id"  value="">
+		             </form>
+      
+      </td>
+        </tr>
+        <tr>
+          <td height="5"></td>
+        </tr>
+      </table>
+      </td> 
+          <!--中间. 右部--> 			        
+		        <TD width=190 valign="top" bgColor=#FFFFFF>
+					
+<HTML>
+<HEAD>
+<TITLE>植物科学学报</TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+	<link href="../../images/css.css" type="text/css" rel="stylesheet">
+	<META content="MSHTML 6.00.2900.3157" name=GENERATOR>
+    <style type="text/css">
+<!--
+.txt_Arial {	font-family: Arial, Helvetica, sans-serif;
+}
+.all {	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #E1D9BA;
+	border-right-color: #E1D9BA;
+	border-bottom-color: #E1D9BA;
+	border-left-color: #E1D9BA;
+}
+.STYLE8 {font-size: 12px;
+	color: #0D8418;
+	font-weight: bold; 
+}
+.STYLE20 {font-size: 12px;
+	font-family: "宋体";
+	color: #000000;
+}
+.lj_bjbs {	BACKGROUND-COLOR: #ffffff
+}
+.td41 {	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+-->
+    </style>
+</HEAD>
+
+
+
+<BODY>
+
+<table width="190" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      
+      <tr>
+        <TD height="10"><table width="86%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="38" background="../../images/you1.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="6%" height="21">&nbsp;</td>
+                  <td width="94%" valign="bottom"><span class="STYLE8">文章快速检索</span></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td align="center" background="../../images/you2.jpg"><TABLE border=0 cellSpacing=0 cellPadding=0 width="95%" 
+            bgColor=#f1f1f1>
+              <TBODY>
+                <TR vAlign=center>
+                  <FORM method=post name=frm_ks  action=../article/searchArticle.do>
+                    <TD height=25 width=179 align=center><INPUT maxLength=30 
+                  size=15 name=ks_keyword></TD>
+                    <TD width=10>&nbsp;</TD>
+                    <TD 
+                width=40><INPUT value="GO" type=submit name=Submit22></TD>
+                  </FORM>
+                  </TR>
+              </TBODY>
+            </TABLE>
+              <table width="87%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="26" valign="bottom"><a href="../article/advSearchArticle.do"><strong><font color="#E99A03">高级检索</font></strong></a></td>
+                </tr>
+              </table></td>
+          </tr>
+          <tr>
+            <td><img src="../../images/you3.jpg" width="180" height="8" /></td>
+          </tr>
+        </table></TD>
+      </tr>
+      <tr>
+        <TD height="20"></TD>
+      </tr>
+      <tr>
+        <TD height="10"><table width="84%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="33" background="../../images/you1.jpg"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="6%" height="21">&nbsp;</td>
+                    <td width="94%" valign="bottom"><span class="STYLE8">通知公告</span></td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td height="134" background="../../images/you2.jpg">
+             <marquee onMouseOver=this.stop() onMouseOut=this.start() behavior="scroll" direction="up" scrollamount="1" scrolldelay="70" height="132" width="180">  
+                                                                                              <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item152.shtml"><FONT color=#000000>致谢2015年审稿专家</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                    <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item149.shtml"><FONT color=#000000>致谢2014年审稿专家</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                    <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item146.shtml"><FONT color=#000000>《植物科学学报》第七届编委会会议在武汉召开</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                    <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item139.shtml"><FONT color=#000000>系统故障说明</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                    <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item138.shtml"><FONT color=#000000>欢迎订阅2014年《植物科学学报》</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                    <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item136.shtml"><FONT color=#000000>欢迎订阅2013年《植物科学学报》</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                    <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item142.shtml"><FONT color=#000000>致谢2013年审稿专家</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                    <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item137.shtml"><FONT color=#000000>致谢2012年审稿专家</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                    <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item134.shtml"><FONT color=#000000>《植物科学学报》第六届编委会第三次会议在武汉植物园召开</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                    <TABLE width="171" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <TR>
+                    <TD width="194" height="23" class=J_VM><span class="STYLE20">·</span><A class=J_VM href="../column/item133.shtml"><FONT color=#000000>《植物科学学报》荣获省科协“科技创新源泉工程”优秀期刊奖</FONT></A><FONT color=#000000></FONT></TD>
+                  </TR>
+                </TABLE>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    				
+				</marquee>
+				
+				
+				
+              </td>
+            </tr>
+            <tr>
+              <td align="right" background="../../images/you2.jpg"><a href="../column/column300.shtml">更多...</a>&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+              <td><img src="../../images/you3.jpg" width="180" height="8" /></td>
+            </tr>
+        </table></TD>
+      </tr>
+      <tr>
+        <TD height="20"></TD>
+      </tr>
+      
+      <tr>
+        <td>
+        <table width="85%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="33" background="../../images/you1.jpg">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="6%" height="21">&nbsp;</td>
+                    <td width="94%" valign="bottom"><span class="STYLE8">友情链接</span></td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td background="../../images/you2.jpg">
+              <table width="175" border="0" cellspacing="0" cellpadding="0" align="center">
+                  <tr>
+                    <td width="175">
+                    <table width="175" border="0" cellspacing="0" cellpadding="0" style="margin-top:10px">
+                      <tr>
+                        <td align="center">
+                                                                                                       <table width="166" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        
+                                        <td align="center" valign="top"><a href="http://journal.gxzw.gxib.cn" target='_blank'><IMG src="../../fileup/ITEM/20160126170550.png" title="广西植物" width="166" height="38" border=0></a></td>
+                                      </tr>
+                                      <tr>
+                                        <td height="6" align="center"></td>
+                                      </tr>
+                            </table>
+
+                                                                                                         <table width="166" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        
+                                        <td align="center" valign="top"><a href="http://www.whiob.ac.cn" target='_blank'><IMG src="../../fileup/ITEM/20160126170603.jpg" title="武汉植物园" width="166" height="38" border=0></a></td>
+                                      </tr>
+                                      <tr>
+                                        <td height="6" align="center"></td>
+                                      </tr>
+                            </table>
+
+                                                     </td>
+                      </tr>
+                      
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td align="right"><a href="../column/column298.shtml">更多&gt;&gt;</a>&nbsp;&nbsp;</td>
+                  </tr>
+              </table></td>
+            </tr>
+            <tr>
+              <td><img src="../../images/you3.jpg" width="180" height="8" /></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="center"><SELECT style="WIDTH: 180px" class=lj_bjbs 
+            onchange=window.open(this.options[this.selectedIndex].value) size=1 
+            name=select>
+          <OPTION selected>------科研院所------</OPTION>
+          <OPTION 
+              value=http://www.cas.cn>中国科学院</OPTION>
+          <OPTION 
+              value=http://www.whb.ac.cn/>        
+          武汉分院
+          </OPTION>
+          <OPTION 
+              value=http://www.wbgcas.cn>武汉植物园</OPTION>
+          <OPTION 
+              value=http://www.ibcas.ac.cn/>        
+          植物研究所
+          </OPTION>
+          <OPTION 
+              value=http://www.kib.ac.cn/>        
+          昆明植物研究所
+          </OPTION>
+          <OPTION 
+              value=http://www.scib.ac.cn/>        
+          华南植物园
+          </OPTION>
+          <OPTION 
+              value=http://xtbg.ac.cn/>        
+          西双版纳植物园
+          </OPTION>
+          <OPTION 
+              value=http://www.xtbg.ac.cn/>        
+          西北高原生物研究所
+          </OPTION>
+          <OPTION 
+              value=http://www.ihb.ac.cn/>        
+          水生生物研究所
+          </OPTION>
+          <OPTION 
+              value=http://www.genetics.ac.cn/>        
+          遗传与发育研究所
+          </OPTION>
+          <OPTION 
+              value=http://www.rcees.ac.cn/>        
+          生态环境研究中心
+          </OPTION>
+          <OPTION 
+              value=http://www.srcb.ac.cn/>        
+          上海生物工程研究中心
+          </OPTION>
+          <OPTION 
+              value=http://www.sipp.ac.cn/>        
+          上海生命研究院植物生理生态研究所
+          </OPTION>
+          <OPTION 
+              value=http://www.sibcb.ac.cn/>        
+          上海生命研究院生物化学与细胞学研究所
+          </OPTION>
+          <OPTION 
+              value=http://library.whiob.ac.cn>武汉植物园图书馆</OPTION>
+        </SELECT></td>
+      </tr>
+      <tr>
+        <TD height="10"></TD>
+      </tr>
+      <tr>
+        <td align="center"><SELECT style="WIDTH: 180px" class=lj_bjbs 
+            onchange=window.open(this.options[this.selectedIndex].value) size=1 
+            name=select2>
+          <OPTION selected>------大专院校------</OPTION>
+          <OPTION 
+              value=http://www.tsinghua.edu.cn/>        
+          清华大学
+          </OPTION>
+          <OPTION 
+              value=http://www.pku.edu.cn/>        
+          北京大学
+          </OPTION>
+          <OPTION 
+              value=复旦大学>复旦大学</OPTION>
+          <OPTION 
+              value=http://www.whu.edu.cn/>        
+          武汉大学
+          </OPTION>
+          <OPTION 
+              value=http://www.zju.edu.cn/>        
+          浙江大学
+          </OPTION>
+          <OPTION 
+              value=http://www.nju.edu.cn>南京大学</OPTION>
+          <OPTION 
+              value=http://www.cau.edu.cn/>        
+          中国农业大学
+          </OPTION>
+          <OPTION 
+              value=http://www.tju.edu.cn/>        
+          天津大学
+          </OPTION>
+          <OPTION 
+              value=http://www.hzau.edu.cn/>        
+          华中农业大学
+          </OPTION>
+          <OPTION 
+              value=http://www.bnu.edu.cn/>        
+          北京师范大学
+          </OPTION>
+          <OPTION 
+              value=http://www.sysu.edu.cn/>        
+          中山大学
+          </OPTION>
+          <OPTION 
+              value=http://www.lzu.edu.cn/>        
+          兰州大学
+          </OPTION>
+          <OPTION 
+              value=http://www.hust.edu.cn/>        
+          华中科技大学
+          </OPTION>
+          <OPTION 
+              value=http://www.ustc.edu.cn/>        
+          中国科学技术大学
+          </OPTION>
+          <OPTION 
+              value=http://www.sdu.edu.cn/>        
+          山东大学
+          </OPTION>
+          <OPTION 
+              value=http://www.ouc.edu.cn/>        
+          中国海洋大学
+          </OPTION>
+          <OPTION 
+              value=http://www.njau.edu.cn/>        
+          南京农业大学
+          </OPTION>
+          <OPTION 
+              value=http://www.sjtu.edu.cn/>        
+          上海交通大学
+          </OPTION>
+          <OPTION 
+              value=http://www.ecust.edu.cn/>        
+          华东理工大学
+          </OPTION>
+          <OPTION 
+              value=http://www.scu.edu.cn>四川大学</OPTION>
+          <OPTION 
+              value=http://www.xmu.edu.cn/>        
+          厦门大学
+          </OPTION>
+          <OPTION 
+              value=http://www.nankai.edu.cn>南开大学</OPTION>
+          <OPTION 
+              value=http://www.nankai.edu.cn/>        
+          山西大学
+          </OPTION>
+          <OPTION 
+              value=http://www.ecnu.edu.cn/>        
+          华东师范大学
+          </OPTION>
+          <OPTION 
+              value=http://www.scau.edu.cn/>        
+          华南农业大学
+          </OPTION>
+          <OPTION 
+              value=http://www.nwsuaf.edu.cn/>        
+          西北农林科技大学
+          </OPTION>
+          <OPTION 
+              value=http://www.fjau.edu.cn/>        
+          福建农林大学
+          </OPTION>
+          <OPTION 
+              value=http://www.ynu.edu.cn/>        
+          云南大学
+          </OPTION>
+          <OPTION 
+              value=http://www.swnu.edu.cn/>        
+          西南大学
+          </OPTION>
+          <OPTION 
+              value=http://www.csu.edu.cn/chinese/>        
+          中南大学
+          </OPTION>
+
+          <OPTION 
+              value=http://www.imu.edu.cn/>        
+          内蒙古大学
+          </OPTION>
+          <OPTION 
+              value=http://www.jlu.edu.cn/>        
+          吉林大学
+          </OPTION>
+          <OPTION 
+              value=http://www.lnu.edu.cn/>        
+          辽宁大学
+          </OPTION>
+          <OPTION 
+              value=http://www.nefu.edu.cn/>        
+          东北林业大学
+          </OPTION>
+        </SELECT></td>
+      </tr>
+      <tr>
+       <TD height="10"></TD>
+      </tr>
+      <tr>
+        <td align="center"><SELECT style="WIDTH: 180px" class=lj_bjbs 
+            onchange=window.open(this.options[this.selectedIndex].value) size=1 
+            name=select3>
+          <OPTION selected>------相关链接------</OPTION>
+                    <OPTION 
+              value=http://www.cnki.net>中国知网</OPTION>
+                    <OPTION 
+              value=http://www.wafangdata.com.cn>万方数据</OPTION>
+          <OPTION 
+              value=http://www.molplantbreed.org>《分子植物育种》</OPTION>
+          <OPTION 
+              value=http://www1.bookan.com.cn>博看网</OPTION>
+          <OPTION 
+              value=http://www.cqvip.com>维普数据库</OPTION>
+          <OPTION 
+              value=http://sdb.csdl.ac.cn>中国科学引文数据库</OPTION>
+          <OPTION 
+              value=http://www.ceps.com.tw/ec/echome.aspx>中文电子期刊服务(华艺)</OPTION>
+          <OPTION value=http://www.cba.ac.cn/>        
+          中国生命科学文献数据库
+          </OPTION>
+          <OPTION 
+              value=http://www.cas.org/>        
+          美国《化学文摘》
+          </OPTION>
+          <OPTION 
+              value=http://www.gapp.gov.cn>中华人民共和国新闻出版总署</OPTION>
+          <OPTION 
+              value=http://www.sciencep.com>科学出版社</OPTION>
+          <OPTION 
+              value=http://www.cessp.org.cn>中国科学技术期刊编辑学会</OPTION>
+          <OPTION 
+              value=http://www.cast.org.cn>中国科学技术协会</OPTION>
+          <OPTION 
+              value=http://www.hbkx.org.cn/>        
+          湖北省科学技术协会
+          </OPTION>
+          <OPTION 
+              value=http://www.hbnp.gov.cn/structure/index.htm>湖北省新闻出版局</OPTION>
+          <OPTION 
+            value=http://public.whut.edu.cn/qikan/>        
+          湖北省科技期刊编辑学会
+          </OPTION>
+        </SELECT></td>
+      </tr>
+      <tr>
+         <TD height="10"></TD>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</BODY>
+</HTML>    
+				</TD>
+		        
+		   
+		
+		        
+      </TR>
+</TABLE>
+
+
+		
+	 <!--底部-->
+<TABLE border=0 cellSpacing=0 cellPadding=0 width=1002 align=center>
+		<TR>
+		  <TD valign=top>
+			<HTML>
+<HEAD>
+<TITLE></TITLE>
+	<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+	<link href="../../images/css.css" type="text/css" rel="stylesheet">
+	<META content="MSHTML 6.00.2900.3157" name=GENERATOR>
+<style type="text/css">
+<!--
+.STYLE7 {	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+	line-height: 18px;
+}
+.STYLE13 {font-size: 12px; color: #FFFFFF; line-height: 20px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+-->
+    </style>
+</HEAD>
+
+
+
+<BODY>
+<table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <TD height="12" bgcolor="#FFFFFF"></TD>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF"><table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="80" align="center" bgcolor="20992D" class="STYLE13">版权所有 &copy; 2012 《植物科学学报》编辑部 <br />
+          地址：湖北省武汉市武昌磨山中科院武汉植物园 (武汉市74006信箱)　邮编：430074<br>
+          本系统由<a href="http://www.magtech.com.cn" target="_blank"><font color="#ffffff">北京玛格泰克科技发展有限公司</font></a>设计开发</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</BODY>
+</HTML>
+		  </TD>
+		</TR>
+</TABLE>
+
+</BODY>
+</HTML>
