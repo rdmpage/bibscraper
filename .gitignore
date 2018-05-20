@@ -34,13 +34,23 @@ simplehtmldom_1_5/testcase/reader/.svn
 
 working/*
 
+!working/Acta Zoologica Bulgarica/
+!working/Acta Zoologica Bulgarica/*
 
 !working/Anartia/
 !working/Anartia/*
 
+!working/Arquivos Entomolóxicos/
+!working/Arquivos Entomolóxicos/*
+
+!working/Bauhinia/
+!working/Bauhinia/*
+
 !working/Bulletin of the National Museum Singapore/
 !working/Bulletin of the National Museum Singapore/*
 
+!working/Bonplandia/
+!working/Bonplandia/*
 
 !working/Comunicaciones zoológicas del Museo nacional de historia natural/
 !working/Comunicaciones zoológicas del Museo nacional de historia natural/*
@@ -50,6 +60,9 @@ working/*
 
 !working/Földtani Közlöny/
 !working/Földtani Közlöny/*
+
+!working/Gayana. Botánica/
+!working/Gayana. Botánica/*
 
 !working/Journal of Ethnobiology/
 !working/Journal of Ethnobiology/*
