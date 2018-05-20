@@ -34,6 +34,10 @@ simplehtmldom_1_5/testcase/reader/.svn
 
 working/*
 
+
+!working/Anartia/
+!working/Anartia/*
+
 !working/Bulletin of the National Museum Singapore/
 !working/Bulletin of the National Museum Singapore/*
 
