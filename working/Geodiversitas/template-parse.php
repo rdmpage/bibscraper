@@ -9,7 +9,7 @@ $basedir = dirname(__FILE__) . '/html';
 $files = scandir($basedir);
 
 // debugging
-$files=array('19-1-morphologie-et-variations-du-toit-cranien-du-dipneuste-scaumenacia-curta-whiteaves-sarcopterygii-du-devonien-superieur-du-quebec.html');
+//$files=array('19-1-morphologie-et-variations-du-toit-cranien-du-dipneuste-scaumenacia-curta-whiteaves-sarcopterygii-du-devonien-superieur-du-quebec.html');
 
 $pdfs = array();
 
@@ -28,6 +28,7 @@ foreach ($files as $filename)
 		
 		$reference = new stdclass;
 		$reference->authors = array();
+		$reference->issn = '1280-9659';
 				
 		foreach ($metas as $meta)
 		{
@@ -68,8 +69,8 @@ foreach ($files as $filename)
 				// Google (and weird variations on)	
 				case 'bepress_citation_author':
 				case 'citation_author':
-					$author = $content;
-					$reference->authors[] =  mb_convert_case($author, MB_CASE_TITLE);
+					$author = $meta->content;
+					$author =  mb_convert_case($author, MB_CASE_TITLE);
 
 					if (!in_array($author, $reference->authors))
 					{
@@ -165,7 +166,32 @@ foreach ($files as $filename)
 					break;
 			}
 		}		
-		print_r($reference);
+		
+		// PDF
+		$as = $dom->find('a');
+		foreach ($as as $a)
+		{
+			if (preg_match('/\.pdf$/', $a->href))
+			{
+				$reference->pdf = 'http://sciencepress.mnhn.fr' . $a->href;
+				
+				$pdfs[] = $reference->pdf;
+			}
+			
+		}
+
+		$as = $dom->find('a[title=Permalink]');
+		foreach ($as as $a)
+		{
+			$reference->url = $a->href;
+			
+		}
+		
+		
+		
+		//print_r($reference);
+		
+		echo reference_to_ris($reference);
 		
 	}
 
