@@ -302,6 +302,8 @@ $extra = '';
 foreach ($pdfs as $pdf)
 {
 	$filename = get_pdf_filename($pdf);
+	
+	//$filename = str_replace('%20', ' ', $filename);
 
 	//$extra .= "/Users/rpage/Desktop/PDFs/" . $filename . "\t$pdf\n";
 	$extra .= "/Users/rpage/Desktop/tmp/" . $filename . "\t$pdf\n";
