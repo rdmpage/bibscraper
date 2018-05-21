@@ -33,7 +33,7 @@ for ($volume = 19; $volume < 40; $volume++)
 					$filename = str_replace('/en/periodiques/geodiversitas/', '', $u);
 					$filename = str_replace('/', '-', $filename);
 					
-					$filename = $basedir . '/' . $filename;
+					$filename = $basedir . '/' . $filename . '.html';
 					
 					
 					$u = 'http://sciencepress.mnhn.fr' . $u;
