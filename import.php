@@ -19,7 +19,7 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 	$url = 'http://direct.biostor.org/openurl.php?' . $openurl . '&format=json';
 	$json = get($url);
 	
-	echo "-- $url\n";
+	// echo "-- $url\n";
 	
 	//echo $json;
 		
@@ -60,7 +60,7 @@ function import_from_openurl($openurl, $threshold = 0.5, $store = true)
 			$found = $j->reference_id;
 		}
 	}
-	echo "Found $found\n";
+	// echo "Found $found\n";
 	
 	//exit();
 	
@@ -74,6 +74,8 @@ $ids = array();
 $not_found = array();
 
 $list_of_matches = array();
+
+$count = 1;
 
 function biostor_import($reference)
 {
@@ -181,7 +183,7 @@ function biostor_import($reference)
 	}
 	
 	
-	if (1)
+	if (0)
 	{
 		echo "-- " . $openurl . "\n";
 		echo "-- " . $reference->title . "\n";	
@@ -201,9 +203,6 @@ function biostor_import($reference)
 		// echo "-- Found: $biostor_id\n";
 		
 		
-		
-		
-		
 		$ids[] = $biostor_id;
 		
 		if (0)
@@ -214,8 +213,14 @@ function biostor_import($reference)
 				echo $sql . "\n";
 			}
 		}	
-		
+
 		if (1)
+		{
+			$sql = 'UPDATE bibliography SET biostor=' . $biostor_id . ' WHERE PUBLICATION_GUID="'  .$reference->publisher_id. '";';
+			echo $sql . "\n";
+		}	
+		
+		if (0)
 		{
 			$list_of_matches[$reference->publisher_id] = $biostor_id;
 		}
@@ -225,13 +230,14 @@ function biostor_import($reference)
 	}
 	//exit();
 	
+	/*
 	if (($count++ % 5) == 0)
 	{
 		$rand = rand(100000, 10000000);
 		echo '...sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";
 		usleep($rand);
 	}
-	
+	*/
 	
 }
 

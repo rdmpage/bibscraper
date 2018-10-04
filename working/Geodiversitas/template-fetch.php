@@ -47,18 +47,12 @@ for ($volume = 19; $volume < 40; $volume++)
 				}
 			}
 		}
-		
-		exit();
-		
 				
 		{
 			$rand = rand(1000000, 3000000);
 			echo '-- sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";
 			usleep($rand);
 		}
-		
-		
-		exit();
 		
 		
 	}

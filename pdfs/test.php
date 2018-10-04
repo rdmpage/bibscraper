@@ -6,6 +6,56 @@ function get_pdf_filename($pdf)
 {
 	$filename = '';
 	
+	// 
+	if ($filename == '')
+	{
+		if (preg_match('/http:\/\/www.european-arachnology.org\/wdp\/wp-content\/uploads\/(?<id>.*)\.pdf/iUu', $pdf, $m))
+		{
+			$filename = str_replace('/', '-', $m['id']) . '.pdf';
+		}
+	}	
+	
+	
+	// https://www.ugr.es/~zool_bae/
+	// https://www.ugr.es/~zool_bae/
+	if ($filename == '')
+	{
+		if (preg_match('/https:\/\/www.ugr.es\/~zool_bae\/(?<id>.*)\.pdf/iUu', $pdf, $m))
+		{
+			$filename = str_replace('/', '-', $m['id']) . '.pdf';
+		}
+	}	
+	
+	
+	// https://www.jstage.jst.go.jp/article/jji1950/28/1/28_1_91/_pdf
+	if ($filename == '')
+	{
+		if (preg_match('/\/(?<id>[0-9A-Z_-]+)\/_pdf/Uu', $pdf, $m))
+		{
+			$filename = $m['id'] . '.pdf';
+		}
+	}	
+	
+	// Wiley
+	if ($filename == '')
+	{
+		if (preg_match('/https:\/\/onlinelibrary.wiley.com\/doi\/pdf\/(?<id>10\.1111.*)$/Uu', $pdf, $m))
+		{
+			$filename = str_replace('10.1111/', '10.1111-', $m['id']) . '.pdf';
+		}
+	}	
+	
+	
+	// https://www.ingentaconnect.com/content/umrsmas/bullmar/1966/00000016/00000003/art00009&crawler=true
+	if ($filename == '')
+	{
+		if (preg_match('/ingentaconnect.com\/content\/\w+\/\w+\/[0-9]{4}\/(.*)&crawler=true/', $pdf, $m))
+		{
+			$filename = $m[1] . '.pdf';
+			$filename = str_replace('/', '-', $filename);
+		}
+	}	
+	
 	
 	//http://bibliotheques.mnhn.fr/EXPLOITATION/infodoc/ged/viewportalpublished.ashx?eid=IFD_FICJOINT_
 	if ($filename == '')
@@ -159,6 +209,7 @@ function get_pdf_filename($pdf)
 		}
 	}
 	
+	/*
 	// http://www1.montpellier.inra.fr/CBGP/acarologia/export_pdf.php?id=4089&typefile=pdf
 	if ($filename == '')
 	{
@@ -168,6 +219,28 @@ function get_pdf_filename($pdf)
 			$filename = 'acarologia-' . $m[1] . '.pdf';
 		}
 	}
+	*/
+	
+	// http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0133602&type=printable
+	if ($filename == '')
+	{
+		if (preg_match('/journal.pone\.(\d+)/', $pdf, $m))
+		{
+			$filename = $m[1] . '.pdf';
+		}
+	}	
+	
+	// https://nagoya-wu.repo.nii.ac.jp/?action=repository_uri&item_id=778&file_id=18&file_no=1
+	if ($filename == '')
+	{
+		if (preg_match('/item_id=(\d+)&file_id=(\d+)/', $pdf, $m))
+		{
+			//print_r($m); exit();
+			$filename = $m[1] . '-' . $m[2] . '.pdf';
+		}
+	}
+
+
 	
 	if ($filename == '')
 	{
@@ -177,6 +250,8 @@ function get_pdf_filename($pdf)
 			//$filename = substr($pdf, $pos + 1);
 			$filename = basename($pdf);
 			$filename = preg_replace('/\?sequence=\d+/', '', $filename);
+			$filename = preg_replace('/&isAllowed=y/', '', $filename);
+			
 		}
 	}	
 		
@@ -185,6 +260,7 @@ function get_pdf_filename($pdf)
 	{
 		$filename = basename($pdf);
 		$filename = str_replace('lognavi?name=nels&lang=en&type=pdf&id=', '', $filename);
+		$filename = str_replace('article_elements_srv.php?action=download_pdf&item_id=', '', $filename);
 	}
 	
 
@@ -192,8 +268,11 @@ function get_pdf_filename($pdf)
 	{
 		$filename .= '.pdf';
 	}
+		
 	
 	$filename = str_replace('getpdf.php?aid=', '', $filename);
+	
+	$filename = str_replace(' ', '%20', $filename);
 	
 	
 	echo "filename=$filename\n";
@@ -226,6 +305,8 @@ while (!feof($file_handle))
 	{
 		echo $pdf . "\n";
 		
+		$pdf = str_replace(' ', '%20', $pdf);
+		
 		if (0)
 		{
 			// just add them all
@@ -234,8 +315,8 @@ while (!feof($file_handle))
 		else
 		{
 	
+			//$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . urlencode($pdf) . '&noredirect=1&format=json';
 			$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . urlencode($pdf) . '&noredirect=1&format=json';
-			//$url = 'http://bionames.org/bionames-archive/havepdf.php?url=' . $pdf . '&noredirect=1&format=json';
 		
 			//$url = 'http://bionames.org/bionames-archive/pdfstore.php?url=' .  urlencode($pdf) . '&noredirect=1&format=json';
 
@@ -292,7 +373,7 @@ foreach ($pdfs as $pdf)
 {
 	$filename = get_pdf_filename($pdf);
 	$curl .= "echo '$filename'\n";
-	$curl .= "curl -L '$pdf' > '" . $filename . "'\n";
+	$curl .= "curl -L '$pdf' > \"" . $filename . "\"\n";
 	$curl .= "sleep 5\n";
 }
 file_put_contents(dirname(__FILE__) . '/fetch.sh', $curl);

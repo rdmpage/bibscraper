@@ -91,6 +91,8 @@ class MetaOai extends OaiHarvester
 		
 				if ($url != '')
 				{
+					echo $url . "\n";
+					
 					$html = get($url);
 				
 					$reference = new stdclass;
@@ -147,6 +149,7 @@ class MetaOai extends OaiHarvester
 
 							case 'DC.description':
 							case 'DC.Description':
+							case 'DCTERMS.abstract':
 							
 								if (preg_match('/(p.\s+)?(?<spage>\d+)-(?<epage>\d+)/',$meta->content, $m ))
 								{
@@ -186,6 +189,7 @@ class MetaOai extends OaiHarvester
 								break;
 								
 							case 'DCTERMS.bibliographicCitation':
+								//echo $meta->content . "\n";
 								if (preg_match('/^Vol.\s+(?<volume>\d+)(,\s+No.\s+(?<issue>\d+))?/', $meta->content, $m))
 								{
 									$reference->volume = $m['volume'];
@@ -198,6 +202,20 @@ class MetaOai extends OaiHarvester
 								{
 									$reference->volume = $m['volume'];
 								}
+								
+								
+								// <meta name="DCTERMS.bibliographicCitation" content="Proceedings of the Hawaiian Entomological Society (2016) 48:39-50." xml:lang="en_US">
+								if (preg_match('/(?<volume>\d+):(?<spage>\d+)[-|-|–](?<epage>\d+)/u', $meta->content, $m))
+								{
+									$reference->volume = $m['volume'];
+									$reference->spage = $m['spage'];
+									$reference->epage = $m['epage'];
+								}
+								if (preg_match('/(?<journal>Pro.* So\w+)\s+/u', $meta->content, $m))
+								{
+									$reference->journal = 'Proceedings of the Hawaiian Entomological Society';
+								}
+								
 								break;
 	
 							// eprints
@@ -328,6 +346,9 @@ class MetaOai extends OaiHarvester
 							
 
 							case 'citation_date':
+							
+								// echo $meta->content . "\n";
+							
 								if (preg_match('/^[0-9]{4}$/', $meta->content))
 								{
 									$reference->year = $meta->content;
@@ -338,13 +359,17 @@ class MetaOai extends OaiHarvester
 									$reference->year = $m['year'];
 								}
 								
-								if (preg_match('/^(?<year>[0-9]{4})\/\d+\/\d+/', $meta->content, $m))
+								if (preg_match('/^(?<year>[0-9]{4})\/\d+\/\d+/u', $meta->content, $m))
 								{
 									$reference->date = str_replace('/', '-', $meta->content);
 								}
-								if (preg_match('/^(?<year>[0-9]{4})-\d+-\d+/', $meta->content, $m))
+								if (preg_match('/^(?<year>[0-9]{4})-\d+-\d+/u', $meta->content, $m))
 								{
 									$reference->date = $meta->content;
+								}
+								if (preg_match('/^(?<year>[0-9]{4})-\d+/u', $meta->content, $m))
+								{
+									$reference->date = $meta->content . '-00';
 								}
 									
 								break;
@@ -423,7 +448,7 @@ class MetaOai extends OaiHarvester
 					}
 					
 					
-				
+					// print_r($reference);
 				
 					echo reference_to_ris($reference);
 					
@@ -473,6 +498,11 @@ $mz = new MetaOai('https://deepblue.lib.umich.edu/dspace-oai/request', 'oai_dc',
 
 
 $mz = new MetaOai('http://www.raco.cat/index.php/ButlletiICHN/oai', 'oai_dc');
+
+$mz = new MetaOai('https://journal.lib.uoguelph.ca/index.php/eso/oai', 'oai_dc');
+
+$mz = new MetaOai('https://scholarspace.manoa.hawaii.edu/dspace-oai/request', 'oai_dc', 'com_10125_25');
+
 
 
 

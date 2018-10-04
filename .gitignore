@@ -4,6 +4,9 @@ cache
 cookie.txt
 .DS_Store
 
+*.ris
+*.sql
+
 data
 dialnet
 dwca
@@ -12,6 +15,11 @@ dwca
 junk
 
 phytotaxa
+
+pdfs/*.pdf
+pdfs/*.txt
+pdfs/junk
+pdfs/tmp
 
 simplehtmldom_1_5/.svn
 
@@ -97,3 +105,5 @@ working/Historia naturalis bulgarica/cookie.txt
 
 
 www.biodiversitylibrary.org
+working/Geodiversitas/g.html
+working/Geodiversitas/g.sql

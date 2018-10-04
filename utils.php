@@ -351,7 +351,7 @@ function reference_to_ris($reference)
 		'spage' 	=> 'SP',
 		'epage' 	=> 'EP',
 		'year' 		=> 'Y1',
-		'data'		=> 'PY',
+		'date'		=> 'PY',
 		'abstract'	=> 'N2',
 		'url'		=> 'UR',
 		'pdf'		=> 'L1',

@@ -7,6 +7,14 @@ require_once (dirname(__FILE__) . '/lib.php');
 require_once (dirname(__FILE__) . '/utils.php');
 require_once (dirname(__FILE__) . '/simplehtmldom_1_5/simple_html_dom.php');
 
+
+function new_get($url)
+{
+	$html = shell_exec('curl ' . $url);
+	
+	return $html;
+}
+
 // get list of articles for each issue
 
 $issues = array(
@@ -745,13 +753,86 @@ $issues=array(
 'http://www.nelumbo-bsi.org/index.php/nlmbo/issue/view/7600'
 );
 
+$issues = array(
+'https://www.raco.cat/index.php/ABC/issue/view/10840',
+'https://www.raco.cat/index.php/ABC/issue/view/10840',
+'https://www.raco.cat/index.php/ABC/issue/view/11618',
+'https://www.raco.cat/index.php/ABC/issue/view/11618',
+'https://www.raco.cat/index.php/ABC/issue/view/14661',
+'https://www.raco.cat/index.php/ABC/issue/view/14661',
+'https://www.raco.cat/index.php/ABC/issue/view/16131',
+'https://www.raco.cat/index.php/ABC/issue/view/16131',
+'https://www.raco.cat/index.php/ABC/issue/view/18080',
+'https://www.raco.cat/index.php/ABC/issue/view/18080',
+'https://www.raco.cat/index.php/ABC/issue/view/18500',
+'https://www.raco.cat/index.php/ABC/issue/view/18500',
+'https://www.raco.cat/index.php/ABC/issue/view/18990',
+'https://www.raco.cat/index.php/ABC/issue/view/18990',
+'https://www.raco.cat/index.php/ABC/issue/view/19239',
+'https://www.raco.cat/index.php/ABC/issue/view/19239',
+'https://www.raco.cat/index.php/ABC/issue/view/20105',
+'https://www.raco.cat/index.php/ABC/issue/view/20105',
+'https://www.raco.cat/index.php/ABC/issue/view/20475',
+'https://www.raco.cat/index.php/ABC/issue/view/20475',
+'https://www.raco.cat/index.php/ABC/issue/view/20988',
+'https://www.raco.cat/index.php/ABC/issue/view/20988',
+'https://www.raco.cat/index.php/ABC/issue/view/21557',
+'https://www.raco.cat/index.php/ABC/issue/view/21557',
+'https://www.raco.cat/index.php/ABC/issue/view/22371',
+'https://www.raco.cat/index.php/ABC/issue/view/22371',
+'https://www.raco.cat/index.php/ABC/issue/view/22843',
+'https://www.raco.cat/index.php/ABC/issue/view/22843',
+'https://www.raco.cat/index.php/ABC/issue/view/23672',
+'https://www.raco.cat/index.php/ABC/issue/view/23672',
+'https://www.raco.cat/index.php/ABC/issue/view/24112',
+'https://www.raco.cat/index.php/ABC/issue/view/24112',
+'https://www.raco.cat/index.php/ABC/issue/view/24510',
+'https://www.raco.cat/index.php/ABC/issue/view/24510',
+'https://www.raco.cat/index.php/ABC/issue/view/25170',
+'https://www.raco.cat/index.php/ABC/issue/view/25170',
+'https://www.raco.cat/index.php/ABC/issue/view/25384',
+'https://www.raco.cat/index.php/ABC/issue/view/25384',
+'https://www.raco.cat/index.php/ABC/issue/view/4521',
+'https://www.raco.cat/index.php/ABC/issue/view/4521',
+'https://www.raco.cat/index.php/ABC/issue/view/4629',
+'https://www.raco.cat/index.php/ABC/issue/view/4629',
+'https://www.raco.cat/index.php/ABC/issue/view/4631',
+'https://www.raco.cat/index.php/ABC/issue/view/4631',
+'https://www.raco.cat/index.php/ABC/issue/view/4632',
+'https://www.raco.cat/index.php/ABC/issue/view/4632',
+'https://www.raco.cat/index.php/ABC/issue/view/4635',
+'https://www.raco.cat/index.php/ABC/issue/view/4635',
+'https://www.raco.cat/index.php/ABC/issue/view/4636',
+'https://www.raco.cat/index.php/ABC/issue/view/4636',
+'https://www.raco.cat/index.php/ABC/issue/view/4680',
+'https://www.raco.cat/index.php/ABC/issue/view/4680',
+'https://www.raco.cat/index.php/ABC/issue/view/4690',
+'https://www.raco.cat/index.php/ABC/issue/view/4690',
+'https://www.raco.cat/index.php/ABC/issue/view/4692',
+'https://www.raco.cat/index.php/ABC/issue/view/4692',
+'https://www.raco.cat/index.php/ABC/issue/view/4693',
+'https://www.raco.cat/index.php/ABC/issue/view/4693',
+'https://www.raco.cat/index.php/ABC/issue/view/4698',
+'https://www.raco.cat/index.php/ABC/issue/view/4698',
+'https://www.raco.cat/index.php/ABC/issue/view/4699',
+'https://www.raco.cat/index.php/ABC/issue/view/4699',
+'https://www.raco.cat/index.php/ABC/issue/view/5990',
+'https://www.raco.cat/index.php/ABC/issue/view/5990',
+'https://www.raco.cat/index.php/ABC/issue/view/6440',
+'https://www.raco.cat/index.php/ABC/issue/view/6440',
+'https://www.raco.cat/index.php/ABC/issue/view/7912',
+'https://www.raco.cat/index.php/ABC/issue/view/7912',
+'https://www.raco.cat/index.php/ABC/issue/view/9997',
+'https://www.raco.cat/index.php/ABC/issue/view/9997'
+);
+
 foreach ($issues as $issue)
 {
 	$u = $issue;
 	
 	$u = $issue . '/showToc'; // OJS
 
-	$html = get($u);
+	$html = new_get($u);
 	
 	$urls = array();
 	
@@ -778,7 +859,7 @@ foreach ($issues as $issue)
 	foreach ($urls as $url)
 	{
 
-		$html = get($url);
+		$html = new_get($url);
 
 		$reference = new stdclass;
 		$reference->authors = array();

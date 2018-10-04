@@ -146,6 +146,7 @@ foreach ($files as $filename)
 
 				case 'bepress_citation_date':
 				case 'citation_date':
+				case 'citation_publication_date':
 					if (preg_match('/^[0-9]{4}$/', $meta->content))
 					{
 						$reference->year = $meta->content;
@@ -171,9 +172,11 @@ foreach ($files as $filename)
 		$as = $dom->find('a');
 		foreach ($as as $a)
 		{
-			if (preg_match('/\.pdf$/', $a->href))
+			if (preg_match('/\/pdf\/.*\.pdf$/', $a->href))
 			{
 				$reference->pdf = 'http://sciencepress.mnhn.fr' . $a->href;
+				
+				$reference->pdf = str_replace('http://sciencepress.mnhn.frhttp://sciencepress.mnhn.fr', 'http://sciencepress.mnhn.fr', $reference->pdf );
 				
 				$pdfs[] = $reference->pdf;
 			}
