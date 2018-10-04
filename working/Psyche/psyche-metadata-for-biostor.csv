@@ -1,5 +1,4 @@
 volume,issue,first page,last page,title,authors
-8,249,1,2,Antennal structure of certain Diplosids (Plate I.),E. Porter Felt
 8,249,3,5,Antennal structure of certain Diplosids,E. Porter Felt
 8,249,6,8,Notes on New England Acrididae — III. Oedipodinae — I,Albert P. Morse
 8,249,8,9,"Description of the bot-fly of the cotton-tail rabbit in New Mexico, Cuterebra lepusculi n. sp.",C. H. Tyler Townsend
@@ -82,7 +81,7 @@ volume,issue,first page,last page,title,authors
 13,2-3,74,75,Cocoons and young of Conipteryx vicina,J. H. Emerton
 13,2-3,76,76,A note from Stanford University,Vernon L. Kellogg
 13,2-3,76,76,Notes on the maxilla in Rhynchophorous Coleoptera,James G. Needham
-13,4,79,92,A review of the North American species of Notiophilus,H. C. Fall
+13,4,81,92,A review of the North American species of Notiophilus,H. C. Fall
 13,4,93,94,Life histories of North American Geometridae. LXVL,Harrison G. Dyar
 13,4,95,97,Notes on Deinocerites cancer Theobald,Frederick Knab
 13,4,98,100,Three new species of Neuroptera,Nathan Banks
@@ -177,7 +176,6 @@ volume,issue,first page,last page,title,authors
 32,4-5,229,230,The Fossil Fly Eophlebomyia,T. D. A. Cockerell
 32,4-5,231,243,The Insects and Plants of a Strip of New Jersey Coast,H. B. Weiss and Erdman West
 32,4-5,244,264,Notes on Galerucinae in My Collection,F. C. Bowdlitch
-32,6,323,328,Index,
 32,folder,1,1,"Folder, Pictorial Key to Dragon-fly Larv&aelig;",R. H. Howe
 39,3,81,82,"Review of <i>A Monographic Revision of the Twisted Winged Insects Comprising the Order Strepsiptera Kirby,</i> by W. Dwight Pierce",
 47,2-3,45,54,Henry Clinton Fall (1862-1939),"Philip J. Darlington, Jr."
@@ -194,8 +192,6 @@ volume,issue,first page,last page,title,authors
 47,4,129,135,New Chrysopidae from Australia,Nathan Banks
 47,4,136,145,New Species of North American Diplotaxis,M. A. Cazier
 56,4,184,186,A New African Milliped Observed in Migration,R. V. Chamberlin
-63,4,147,148,Index to Authors,
-64,4,149,150,Index to authors,
 72,3,191,209,"A Redefinition of <i>Ischyropalpus,</i> and Six New Species (Coleoptera: Anthicidae)",Floyd G. Werner
 72,3,210,217,Notes on Neotropical Tabanidae VI. A New Species of <i>Lefiselaga</i> Macq. with Remarks on Related Genera,G. B. Fairchild
 72,3,218,224,"Self-Burying Behavior in the Genus <i>Sicarius</i> (Araneae, Sicariidae)",Jonathan Reiskind
@@ -246,4 +242,4 @@ volume,issue,first page,last page,title,authors
 83,3-4,310,318,Life History and Ecology of <i>Diploperla robusta</i> Stark and Gautin (Plecoptera: Perlodidae),Diana L Ashley;Donald C. Tartar;William D. Watkins
 83,3-4,319,323,Swimming Ability of Notonectidae (Hemiptera),Steven H. Gittelman
 83,3-4,324,335,"Observations on the Nesting Behavior and Prey of Gorytine Wasps in Trinidad (Hymenoptera, Sphecidae)",E. McC. Callon
-83,3-4,336,378,"The Lower Permian Insects of Kansas. Pan 12. Protorthoptera (continued), Neuroptera, Additional Palaeodictyoptera, and Families of Uncertain Position.",Frank M. Carpenter
+83,3-4,336,376,"The Lower Permian Insects of Kansas. Pan 12. Protorthoptera (continued), Neuroptera, Additional Palaeodictyoptera, and Families of Uncertain Position.",Frank M. Carpenter
