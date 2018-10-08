@@ -1,0 +1,412 @@
+﻿Archives of Natural History (1994) 21 (1): 49-66
+The publication and dating of P. A. Wytsman's Genera Insectorum
+By NEAL L. EVENHUIS
+J. Linsley Gressitt Center for Research in Entomology,
+Bishop Museum, RO. Box 19000A,
+Honolulu,
+Hawaii 96817-0916,
+U.S.A.
+In 1902, Philogene Auguste Galilee Wytsman (1866-1925), a Belgian lepidopterist and naturalist, commenced publication of one of the most prodigious efforts in systematic entomology, the Genera Insectorum. The series was published in large quarto fascicles, with each fascicle pertaining to a discrete taxon of insects—either an entire order (those with few taxa), or (most often) a family. In the case of larger families, a subfamily or group of subfamilies within a family was treated in fascicles that were issued separately in parts (a, b, c, etc.). Each published fascicle was to make current the sys-tematics of a particular taxon, provide a world catalog of the species in each genus within that taxon, and allow description of new taxa, all accompanied by numerous colored illustrations.
+In 1940 Eugene Seguy wrote the French text of a catalog of all the fascicles published thus far (translated in the same pamphlet into English and German) for an advertisement, which was mailed to prospective buyers. In this advertisement he colorfully stated: “In spite of all pretention, no mathematical law will serve for the identification of insects, as accurately as it will work for inorganic substances. Mathematics are not readily adaptable to the matter of living cells, enduring the influence of subcon-cious whims. Therefore we must be thankful to Mr Wytsman that he had the courage to elaborate a guide, the Genera Insectorum, establishing a census, first stage of thorough scientific study.” and further: “Finally, artists will, with intense pleasure, scan this typographic monument, whose splendid appearance has not varied during thirty-eight years, in spite of almost unsurmountable difficulties. Owing to the richness of its illustration, the Genera Insectorum showing perfection in this respect, will remain for the Biologist the most beautiful and useful production of human genius.”
+With the contribution of over 100 specialists from all parts of the world, this publication is one of the major references for entomological systematists. It flourished from 1902 until 1939. World War II interrupted publication with fascicle 207. Thereafter, publication of a further twelve fascicles continued sporadically from 1950 until 1970 when the last fascicle (No. 219) was published. The series was never completed.
+Wytsman died in 1925, but by 1910 had turned over publication coordination to other publishers in Belgium, while keeping editorial control. After his death, Mile Helene Wytsman continued editing the series. See Table I for a chronological list of publishers of the series.
+Two published works indexing the series have appeared. Townsend (1937) provided a list of the 203 fascicles published through 1935. Townsend’s list was indexed by
+Publisher	Place	Years	Fascicles
+P. Wytsman	Bruxelles	1902-1910	1-111
+V. Verteneuil & L. Desmet	Bruxelles	1910-1914	112-165
+Nijhoff	Den Haag	1916-1919	166a—171, 173a
+L. Desmet-Verteneuil	Bruxelles	1919-1955	172, 173b-199a, 200-211
+S.P.R.L. lmprimerie et Editions Mercurius	Anvers	1957-1970	199b-c, 212-219
+50	THE PUBLICATION AND DATING OF WYTSMANS GENERA INSECTORUM
+Table I Publishers of Genera Insectorum
+author as well as by taxon. Boyd and Ricketts (1987) published probably the best-known index of the series, which takes into account all of the fascicles and is also indexed by author and taxon. However, there are problems with both indexes. Neither gives detailed contents. Missing from Townsend’s (1937) list is any breakdown of fascicles that were published in parts (e.g., No. 12 on Buprestidae; No. 14 on Sagridae; No. 17 on Hesperiidae; No. 112 on Riodinidae, etc.). Moreover, not all of the supplementary fascicles (printed variously on the wrappers as “Nachtrag”, “Supplement”, “bis”, etc.) were listed. Boyd and Ricketts’s (1987) work is fairly complete, but has a few typographical errors and also lacks a few of these supplementary fascicles; moreover, some errors in printed publication years appear in the list.
+These two published indexes of the Genera Insectorum and most citations to the fascicles of this series in other publications give only the printed year of publication. Taxonomy requires knowledge of accurate dates of publication in order to ascertain priority when dealing with synonymous or homonymous taxa. This study was initiated in an attempt to obtain the earliest recorded date of publication for each of the fascicles of the Genera Insectorum thereby assisting taxonomists in obtaining dates of priority when doing systematic work.
+DATING OF THE FASCICLES Printed Year versus Actual Year
+Finding accurate dates for this series was complicated by the chance discovery of a passage in Zimmer’s (1926) Catalogue of the Edward E. Avery Ornithological Library, in which he noted that the issues of another publication edited by Wytsman (though one much more ephemeral in success than Genera Insectorum), Genera Avium (1905-1914, 26 fascicles), did not always appear within the year printed on the wrapper. In fact, some authors of that series noted that they received their copies well into the following year and were concerned as to the correct date of publication.
+This problem of printed year versus actual year is also a problem with some issues of the Genera Insectorum (see Table II). One of the most striking is found in fascicle 186 in which the printed year is “1926”, but the earliest date of receipt found in libraries and recording journals consulted during this study is 15 March 1928. Amaud (1966) touched upon this problem in his research on the dating of fascicle 185 (A.L. Melander’s work on the Diptera family Empididae). The printed date of fascicle 185
+Fasc. Author(s)
+Contents*
+Printed Pages year (plates)
+Colophon
+date
+Earliest date Notes found**
+1	Regimbart, M.	Col.: Gyrinidae
+2	Kieffer, J.J.	Hym.: Evaniidae
+3	Belon, R.P.	Col.: Lathridiidae
+4	Wytsman, P.	Lep.: Papilionidae: Leptocercinae
+5	Pagenstecher, A.	Lep.: Libytheidae
+6	Rippon, R.H.F.	Lep.: Papilionidae: Papilioninae, Sect. Triodes
+7	Boucomont, A.	Col.: Geotrupidae
+8	Pic, M.	Col.: Hylophildae
+9	Dalla Torre, W. von & J.J. Kieffer	Hym.: Cynipidae. Premier fascicule
+10	Dalla Torre, W. von & J.J. Kieffer	Hym.: Cynipidae (Deuxieme fascicule)
+lObis	Dalla Torre, W. von & J.J. Kieffer	Hym.: Cynipidae
+11	Andre, E.	Hym.: Mutillidae
+12a	Kerremans, C.	Col.: Buprestidae
+12b	Kerremans, C.	Col.: Buprestidae
+12c	Kerremans, C.	Col.: Buprestidae
+12d	Kerremans, C.	Col.: Buprestidae
+13	Schenkling, S.	Col.: Cleridae
+14a	Jacoby, M.	Col.: Sagridae
+14b	Jacoby, M.	Col.: Sagridae
+15	Burr, M.	Orth.: Eumastacidae
+16	Janet, A. & P. Wytsman	Lep.: Epicopiidae
+17a	Mabille, P.	Lep.: Hesperiidae
+17b	Mabille, P.	Lep.: Hesperiidae
+17c	Mabille, P.	Lep.: Hesperiidae
+1902	12 p	25.xi.1901	--.11.19021
+1902	13 p	15.xi.1901	13.iii.19022
+1902	40 p	15.i.l902	3. v. 1902
+1902	3 p	15.1.1902	3. v. 1902
+1902	4 p	15.L1902	3.vi.l902
+1902	14 p	15.i.1902	22.vii.1902
+1902	20 p	25. vi. 1902	ll.x.1902
+1902	14 p	15.viii.1902	29.x.1902
+1902	1-52(1-3)	—	ll.xi.1902
+1902	53-84(1-3)	I5.xi.1902	27J.19033
+1903	85	—	3.vi.l903
+1903	77 p	18.viii.1902	27J.1903
+1902	1 —48( 1 —4)	—	28.ii.1903
+1903	49-112	—	3.vi.l903
+1903	113-240	—	5.viii.l903
+1903	241-338	15.ix.193	7.xi.l903
+1903	124 p	15.V.1903	3.vi.l903
+1903	1-lKD	15.iv. 1903	3.W.1903
+1904	[133-14	19.V.1904	27.viii.1904
+1903	23 p	25.viii.1903	7.xi.l903
+1903	5 P	15.x.1903	21.xi. 1903
+1903	1-78(1-4)	—	21.ix. 1903
+1904	79-142	—	—.iv.19041
+1904	143-182	—	13.V.1904
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+Fasc.	Author(s)	Contents*	Printed year	Pages (plates)	Colophon date	Earliest date found**	Notes
+17d	Mabille, P.	Lep.: Hesperiidae	1904	183-210	I5.U904	27.viH.1904	
+18	Berthoumieu, V.	Hym.: Ichneumonidae: lchneumoninae	1904	87 p	15.U904	13. v. 1904	
+19	Dal la Torre, K.W. von	Hym.: Vespidae	1904	108 p	15.vi.1904	27.viii.1904	
+20	Stichel, H.	Lep.: Nymphalidae: Brassolinae	1904	48 p	20.viii. 1904	—.xi.19041	a
+21	Jacoby, M. & H. Clavareau	Col.: Donacidae	1904	15 p	15.viii. 1904	7.L1905	
+22a	Szepligeti, G.V.	Hym.: Braconidae	1904	1-78	—	7.L1905	
+22b	Szepligeti, G.V.	Hym.: Braconidae	1904	79-253(1-4)	28.xii.1904	29.iv.1905	
+23	Jacoby, M. & H. Clavareau	Col.: Crioceridae	1904	40 p	15.xi.1904	7.L1905	
+24	Schouteden. H.	Het.: Pentatomidae: Scutellerinae	1904	98 p	15.vii. 1904	29.iv.1905	b
+24bis	Schouteden, H.	Het.: Pentatomidae: Scutellerinae. Addenda et corrigenda	1906	2p	14.viii.1906	10.xi.1906	
+25	Desneux, J.	Iso.: Termitidae	1904	52 p	15.xi.l904	29.iv.1905	
+26	Theobald, F.V.	Dipt.: Culicidae	1905	50 p	15.i.1905	15.iii.19051	
+27	Konow, F.W.	Hym.: Lydidae	1905	27 p	10.iv.1905	28.x.1905	
+28	Konow, F.W.	Hym.: Siricidae	1905	14 p	I5.iv. 1905	28.x.1905	c
+29	Konow, F.W.	Hym.: Tenthredinidae	1905	176 p	15.i.1905	28.x.1905	
+30	Schouteden, H.	Het.: Pentatomidae: Graphosomatinae	1905	1-46(1-3)	29.vi.l905	28.x.1905	
+30bis	Schouteden, H.	Het.: Pentatomidae: Graphosomatinae. Addenda et corrigenda	1906	47	I4.viii.1906	10.xi.1906	
+31	Stichel, H.	Lep.: Nymphalidae: Discophorinae	1905	16 p	l.iii.1905	28.x.1905	d
+32	Jacoby, M. & H. Clavareau	Col.: Megascelidae	1905	6 p	I5.V.1905	28.x.1905	
+33	Jacoby, M. & H. Clavareau	Col.: Megalopidae	1905	20 p	14.viii.1905	28.x.1905	
+34	Szepligeti, G.W.	Hym.: Ichneumonidae: Pharsaliinae— Porizontinae	1905	71 p	14.viii. 1905	28.x.1905	
+35	Desneux, J.	Col.: Paussidae	1905	34 p	13.viii. 1905	28.x.1905	
+36	Stichel, H.	Lep.: Nymphalidae Amathusiinae	1906	67 p	4.xii.l905	26. v. 1906	
+37	Stichel, H.	Lep.: Nymphalidae: Heliconiinae	1906	74 p	lO.iv. 1906	26. v. 1906	
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+Fasc.	Author(s)	Contents*	Printed year	Pages (plates)	Colophon date	Earliest date found**	Notes
+38	Rousseau, E.	Col.: Carabidae: Anthiinae	1905	19 p	14.vi.1905	26. v. 1906	
+39	Stichel, H.	Lep.: Nymphalidae: Hyanthinae	1905	7p	10.viii. 1905	26. v. 1906	
+40	Rousseau, E.	Col.: Carabidae: Mormolycinae	1906	5 P	30.xi.1905	26. v. 1906	
+41	Desneux, J.	Col.: Platypsyllidae	1906	9 p	3.iii. 1906	26.V.1906	
+42	Kieffer, J.J.	Dipt.: Chironomidae	1906	78 p	I5.iv.l906	l.v.19064	
+43	Bau, A.	Dipt.: Muscaridae: Oestrinae	1906	31 p	15.iii. 1906	30.ix.19061	
+44	Brues, C.T.	Dipt.: Phoridae	1906	21 p	24. v. 1906	10.xi.1906	
+45	Borner, C.	Colm.: Neelidae	1906	5 p	15.vi.1906	10.xi.1906	
+46a	Schwartz, O.	Col.: Elateridae	1906	1-112	—	10.xi.1906	
+46b	Schwartz, O.	Col.: Elateridae	1906	113-224	—	10.xi.1906	
+46c	Schwartz, O.	Col.: Elateridae	1907	225-370(1-6)	15.ii. 1907	26.iii.1907	
+47	Schouteden, H.	Het.: Pentatomidae: Aphylinae	1906	4 p	M.viii. 1906	10.xi.1906	
+48	Hancock, J.L.	Orth.: Acridiidae: Tetriginae	1906	79 p	15.vii.1906	10.xi.1906	
+49	Jacoby, M. & H. Clavareau	Col.: Chrysomelidae: Clytrinae	1906	1-87(1-5)	15.x. 1906	10.xi.1906	
+49bis	Jacoby, M. & H. Clavareau	Col.: Chrysomelidae: Clytrinae	1907	88	15.iii.1907	3.iv,1907	
+50	Schwartz, 0.	Col.: Plastoceridae	1907	10 p	153.1907	26.iii.1907	
+51	Schwartz, O.	Col.: Dicronychidae	1907	5 p	15.i.1907	26.iii.1907	
+52	Schouteden, H.	Het.: Pentatomidae: Asopinae (Amyotinae)	1907	82 p	l.xi.1906	26.iii.1907	
+53	Olivier, E.	Col.: Lampyridae	1907	74 p	I5.U907	18.ii.1907	e
+54	Kieffer, J.J.	Hym. Dryinidae	1907	33 p	15.ix.1906	26.iii.1907	
+55	Shelford, R.	Orth.: Blattidae: Ectobinae	1907	13 p	I5.ii.1907	26.iii.1907	f
+56	Kellogg, V.L.	Dipt.: Blepharoceridae	1907	15 p	I5.iii.l907	26.iii.1907	
+57	Rothschild, W. & K. Jordan	Lep.: Sphingidae	1907	157 p	l.v.1907	6.ix.l907	
+58	Stichel, H.	Lep.: Papilionidae: Pamassiinae	1907	60 p	15.iii. 1907	25.vi.1907	g
+59	Stichel, H.	Lep.: Papilionidae: Zerynthiinae	1907	27 p	15.V.1907	6.ix.l907	
+60a	Ulmer, G.	Trichoptera	1907	1-124	—	6.ix.l907	
+60b	Ulmer, G.	Trichoptera	1907	125-259(1-41)	l.viii.1907	6.ix.l907	
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+U\
+4^
+Fasc.	Author(s)	Contents*	Printed year	Pages (plates)	Colophon date	Earliest date Notes found**
+61	Schulz, W.A.	Hym.: Trigonaloidae	1907	24 p	12. i i i. 1907	31.xii.19071
+62	Schmiedeknecht, 0.	Hym.: Ichneumonidae: Pimplinae	1907	120 p	15.viii.1907	17.iii.1908
+63	Stichel, H.	Lep.: Nymphalidae: Dioninae	1907	38 p	15.iv.l907	17.iii.1908
+64	Raffray, A.	Col.: Pselaphidae	1908	487 p	15.ii. 1908	17.iii.1908
+65	Schonfeldt, H.	Col.: Brenthidae	1908	88 p	15.iii.1908	23.vi.1908
+66	Kellogg, V.L.	Mallophaga	1908	87 p	15.iii.1908	23.vi.1908
+67	Enderlein, G.	Neur.: Coniopterygidae	1908	18 p	15.iv.1908	23.vi.1908
+68	Hendel, F.	Dipt.: Muscaridae: Lauxaninae	1908	66 p	15.iv. 1907	23.vi.1908
+69	Bovie, A.	Col.: Curculionidae: Entiminae	1908	7p	15.iv.1908	23.vi.1908
+70	Bovie, A.	Col.: Curculionidae: Cryptoderminae	1908	3 p	15.iv. 1908	23.vi.1908
+71	Bovie, A.	Col.: Curculionidae: Alcidinae	1908	6 p	15.iv. 1908	23.vi.1908
+72	Caudell, A.N.	Orth.: Locustidae: Decticinae	1908	43 p	15.viii.1908	25.viii.1908
+73	Shelford, R.	Orth.: Blattidae: Phyllodromiinae	1908	29 p	15.V.1908	25. viii.1908 h
+74	Shelford, R.	Orth.: Blattidae: Nyctiborinae	1908	5 p	15.V.1908	25. viii.1908
+75	Schmiedeknecht, 0.	Hym.: Ichneumonidae: Cryptinae	1908	165 p	1 .viii.1908	23.vi.1908
+76	Kieffer, J.J.	Hym.: Bethylidae	1908	50 p	30.viii.I908	15.xii.19081
+77	Kieffer, J.J.	Hym.: Stephanidae	1908	10 p	30.ix.1908	15.xii.19081
+78	Fowler, W.W.	Col.: Erotylidae: Languriinae	1908	45 p	21. x i i. 1908	14.iv.1909
+79	Hendel, F.	Dipt.: Muscaridae: Pyrgotinae	1908	33 p	15. i x. 1908	14.iv.1909
+80a	Brues, C.T.	Hym.: Scelionidae	1908	1-59(1-2)	—	14.iv.1909
+80b	Brues, C.T.	Hym.: Scelionidae. Addenda et corrigenda	1910	61-112(3)	15.x.1910	31.xii.19I0
+81	Dalla Torre, K. von	Anoplura	1908	22 p	15.ix.1908	14.iv.1909
+82a	Horn, W.	Col.: Carabidae: Cicindelinae	1908	1-104(1-5)	—	14.iv.1909
+82b	Horn, W.	Col.: Carabidae: Cicindelinae	1910	105-208(6-15)	—	12.vii.1910
+82c	Horn, W.	Col.: Carabidae: Cicindelinae	1915	209^86(16-43)	15.iv.1915	12.vii.19155
+83	Rousseau, E.	Col.: Carabidae: Omophroninae	1908	5 p	15.i.I908	14.iv.1909
+84	Rousseau, E.	Col.: Carabidae: Promecognathinae	1908	4 P	15.i. 1908	14.iv.1909
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+Author(s)	Contents*	Printed	Pages	Colophon	Earliest date	Notes
+		year	(plates)	date	found**	
+85	Rousseau, E.	Col.: Carabidae: Pamborinae	1908	3p	15.ii.1908	14.iv.1909
+86	Rousseau, E.	Col.: Carabidae: Lorocerinae	1908	4 P	15.1.1908	14.iv.1909
+87	Quaintance, A.L.	Horn.: Aleyrodidae	1908	11 p	15.ix. 1908	14.iv.1909
+88	Kuhnt, P	Col.: Erotylidae: Erotylinae	1909	139 p	15.iii.1909	14.iv.1909
+89	Bovie, A.	Col.: Curculionidae: Laemosaccinae	1909	15 p	15.L1909	14.iv.1909
+90	Bolivar, I.	Orth.: Acridiidae: Pyrgomorphinae	1909	58 p	15. i. 1909	14.iv.1909
+91	Lea, A.M. & A. Bovie	Col.: Curculionidae: Belinae	1909	13 P	15.U909	14.iv. 1909
+92	Bovie, A.	Col.: Curculionidae: Gymnetrinae	1909	20 p	Lit. 1909	14.iv.1909
+93	Johannsen, O.	Dipt.: Mycetophilidae	1909	141 p	15.vi.1909	18.xii.1909
+94	Kieffer, J.J.	Hym.: Ceraphronidae	1909	27 p	15.vi.1909	18.xii.1909
+95	Kieffer, J.J.	Hym.: Serphidae	1909	10 p	15.vi.1909	18.xii.1909
+96	Hendel, F.	Dipt.: Muscaridae: Pterocallinae	1909	50 p	154.1909	25.X.19094
+97	Schmiedeknecht, O.	Hym.: Chalcididae	1909	550 p	1 .ix. 1909	18.xii.1909
+98	Bovie, A.	Col.: Curculionidae: Nanophyinae	1909	11 p	17.ix.1909	18.xii.1909
+99	Bovie, A.	Col.: Curculionidae: Brachycerinae	1909	38 p	1.x. 1909	18.xii.1909
+100	Meyrick, E.	Lep.: Pterophoridae	1910	22 p	15.vi.1908	25.vi.1910
+101	Shelford, R.	Orth.: Blattidae: Epilamprinae	1910	21 p	15.xii. 1909	25.vi.1910
+102	Emery, C.	Hym.: Formicidae: Dorylinae	1910	34 p	I5.xii.1909	25.vi.1910
+103	Prout, L.B.	Lep.: Geometridae: Brephinae	1910	16 p	15.ii.1910	25.vi.1910
+104	Prout, L.B.	Lep.: Geometridae: Oenochrominae	1910	120 p	15.iv. 1910	25.vi.1910
+105	Turner, R.E.	Hym.: Thynnidae	1910	62 p	31 .iii. 1910	25.vi.1910
+106	Hendel, F.	Dipt.: Muscaridae: Ulidiinae	1910	76 p	15.V.1910	25.vi.1910
+107	Kieffer, J.J.	Hym.: Belytidae	1910	47 p	4.V.1910	25.vi.1910
+108	Meyrick, E.	Lep.: Omeodidae	1910	4 p	15.V.1910	31.xii.1910
+109	Shelford, R.	Orth.: Blattidae: Blattinae (=Periplanetinae)	1910	27 p	15.vii.1910	31.xii.1910
+110	Schmidt, A.	Col.: Aphodiidae	1910	155 p	15.xii.1909	31.xii.1910
+111	Hagedom, M.	Col.: Ipidae	1910	178 p	15.x.1910	31.xii.1910
+THE PUBLICATION AND DATING OF WYTSMAN'S GENERA INSECTORUM
+Fasc.	Author(s)	Contents*	Printed year	Pages (plates)	Colophon date	Earliest date found**
+112a	Stichel, H.	Lep.: Riodinidae: Riodininae.ltcr Teil	1910	1-238(1-23)	—	3Lxii.l910
+112b	Stichel, H.	Lep.: Riodinidae: Riodininae. 2ter Teil	1911	239^152(24-27)	15.x.1910	I5.vi.19111
+113	Hendel, F.	Dipt.: Muscaridae: Richardiinae	1911	56 p	15.xii. 1910	9.ix.l911
+114	Szepligeti, G.V.	Hym.: Ichneumonidae: Mesochoroidae (Limnerinae, Mesochorinae, Adelognathinae, Plectiscinae, Banchinae, Neomesochorinae, Megacerinae, Paniscinae)	1911	100 p	1 .iii. 1910	9.ix.l911
+115	Martin, R.	Odon.: Aeschnidae: Aeschninae	1911	34 p	15.iv. 1911	9.ix.l911
+116	Dupuis, P.	Col.: Carabidae: Metriinae et Mystro-pominae	1911	4 p	15. v. 1911	9.ix.l911
+117	Dupuis, P.	Col.: Carabidae: Apotominae	1911	4 p	15.V.1911	9.ix.l911
+118	Emery, C.	Hym.: Formicidae: Ponerinae	1911	125 p	15.vii.1911	9.ix.l911
+119	Rehn, J.A.G.	Orth.: Mantidae: Vatinae	1911	28 p	15.iv.l9l 1	9.ix.l911
+120	Caudell, A.N.	Orth.: Locustidae: Prophalangopsinae	1911	7p	15.vi.1911	9.ix.l911
+121	Pierce, W.D.	Strepsiptera	1911	54 p	15.V.1911	9.ix.l911
+122	Burr, M.	Dermaptera	1911	112 p	15.vii.1911	30.xii.19114
+123	Dupuis, P.	Col.: Carabidae: Psydrinae	1911	2p	15.ix.1911	25.V.1912
+124	Kieffer, J.J.	Hym.: Diapriidae	1911	75 p	15.xii.1911	25.V.1912
+125	Weise, J.	Col.: Chrysomelidae: Hispinae	1911	124 p	1 .xii.1911	25. v. 1912
+126	Dupuis, P.	Col.: Carabidae: Opisthiinae	1912	2p	15.i.1912	25. v. 1912
+127	Dalla Torre, K. von	Col.: Cebrionidae	1912	17 p	15.xi.1911	25. v. 1912
+128	Meyrick, E.	Lep.: Gracilariadae [sic]	1912	36 p	15.x.1911	25. v. 1912
+129	Prout, L.B.	Lep.: Geometridae: Hermitheinae	1912	274 p	8.ii.l912	16.iv.1912
+130	Wagner, H.	Col.: Curculionidae: Apioninae	1912	109 p	15.i.1912	25. v. 1912
+131	Kamy, H.	Orth.: Locustidae: Listroscelinae	1912	20 p	15.xi.1911	8.iii.l913
+132	Meyrick, E.	Lep.: Micropterygidae	1912	9 P	15.i.1912	15.vi.1912*
+133	Meyrick, E.	Lep.: Adelidae	1912	12 p	15.i.1912	15.vi.19121
+Notes
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+Fuse.	Authors)	Contents*	Printed	Pages	Colophon	Earliest date	Notes
+			year	(plates)	date	found**	
+134	Dupuis, P.	Col.: Carabidae: Notiophilinae	1912	7p	15.i.1912	8.iii.l913	
+135	Karny, H.	Orth.: Locustidae: Coniocephalinae	1912	17 p	I5.iii.1912	8JH.1913	
+136	Navas, R.P.L.	Neur.: Nemopteridae	1912	23 p	15. v. 1912	8.iii.l913	
+137	Emery, C.	Hym.: Formicidae: Dolichoderinae	1912	50 p	—	8.iii.l913	
+138	Caudell, A.N.	Orth.: Locustidae: Meconeminae,	1912	25 p	15.viii. 1912	8.iii.l913	
+		Phyllophorinae, Tympanophorinae, Phasconeurinae, Phasmodinae, Bradyporinae					
+139	Caudell, A.N.	Orth.: Locustidae: Copiphorinae	1912	50 p	I5.iii.l912	8.iii. 1913	
+140	Caudell, A.N.	Orth.: Locustidae: Ephippigerinae (=	1912	10 p	15.ix.1912	8.iii.l913	
+		Pycnogasteridae)					
+141	Karny, H.	Orth.: Locustidae: Agraeciinae	1912	47 p	15.iii.1912	8.iii.l913	
+142	Distant, W.L.	Horn.: Cicadidae: Cicadinae	1912	64 p	15.x.1912	8.iii.l913	
+143	Lallemand, V.	Horn.: Cercopidae	1912	167 p	20-i. 1913	12.iii.1913	j
+144	Giglio-Tos, E.	Orth.: Mantidae: Perlamantinae	1913	13 P	12.x.1912	Lxi.1913	
+145	Dupuis, P.	Col.: Carabidae: Pentagonicinae	1913	4 p	15.i.1913	Lxi.1913	
+146	Dupuis, P.	Col.: Carabidae: Peleciinae	1913	5 P	15.ii.1913	l.xi.1913	
+147	Dupuis, P.	Col.: Carabidae: Hexagoniinae	1913	4 P	15.xii. 1912	Lxi.1913	
+148	Krober, O.	Dipt.: Therevidae	1913	69 p	15.x.1912	Lxi.1913	
+149	Meyrick, E.	Lep.: Tortricidae	1913	81 p	I5.iii.1913	l.xi.1913	
+150	Schmidt, A.	Col.: Scarabaeidae: Aegialiinae, Chironinae,	1913	87 p	15.V.1913	Lxi.1913	
+		Dynamopinae, Hybosorinae, Idiostominae, Ochodaeinae, Orphninae					
+151	Bischoff, H.	Hym.: Chrysididae	1913	86 p	15.vi.1913	8.xi.l913	
+152	Kieffer, J.J.	Dipt.: Cecidomyiidae	1913	346 p	15.vi.1913	8.xi.l913	
+153	Schouteden, H.	Het.: Pentatomidae: Dinidorinae	1913	19 p	15.ix.1913	8.xi.l913	
+154	Petersen, E.	Odon.: Raphididae	1913	13 p	15.xi.1913	30.vi.19141	
+155	Martin. R.	Odon.: Libellulidae: Cordulinae	1914	32 p	15.xii.1913	30.vi.19141	
+THE PUBLICATION AND DATING OF WYTSMAN S GENERA INSECTORUM
+L/l
+oo
+Fuse.	Author(s)	Contents*	Printed year	Pages (plates)	Colophon date	Earliest date found**	Notes
+156	Navas, R.P.L.	Neur.: Dilaridae	1914	14 p	15.xii.1913	30.vi.19141	
+157	Hendel, F.	Dipt.: Muscaridae: Platystomatinae	1914	179 p	15.iv. 1914	10.vi.1914	
+158	Distant, W.L.	Horn.: Cicadidae: Gaeaninae	1914	38 p	15.ii.1914	20.vi.1914	
+159	Achard, J.	Col.: Chrysomelidae: Lamprosominae	1914	14 p	15.ii.1914	20.vi.1914	
+160	Achard, J.	Col.: Chrysomelidae: Chlamydinae, Sphaerocharinae	1914	25 p	5.iii.l914	20.vi.1914	
+161	Krober, 0.	Dipt.: Omphralidae	1914	16 p	1 .v. 1914	20.vi.1914	
+162	Strohmeyer, H.	Col.: Chapuisiidae	1914	6 p	15.V.19I4	20.vi.1914	
+163	Strohmeyer, H.	Col.: Platypodidae	1914	55 p	15.V.19I4	20. vi. 1914	
+164	Meyrick, E.	Lep.: Glyphipterygidae	1914	39 p	15.vi.1914	20. vi. 1914	
+165	Meyrick, E.	Lep.: Heliodinidae	1914	29 p	15.iii.1914	20. vi. 1914	
+166a	Bickhardt, H.	Col.: Histeridae	1916	1-112(1-15)	—	30.ix.1916*	
+166b	Bickhardt, H.	Col.: Histeridae	1917	113-301	15.xti.1913	19.V.19195	
+167	Caudell, A.N.	Orth.: Locustidae: Saginae	1916	10 p	15.vi.1914	30.ix.1916*	
+168	Caudell, A.N.	Orth.: Locustidae: Heterodinae	1916	13 p	15.vi.1914	30.ix.1916*	
+169	Jordan, K. & H. Eltringham	Lep.: Nymphalidae: Acraeinae	1916	81 p	15.vii.1916	30.ix.1916*	
+170	Bolivar, I.	Orth.: Acridiidae: Pamphaginae	1916	40 p	1 S.iii. 1916	30.ix.1916*	
+171	Caudell, A.N.	Orth.: Locustidae: Mecopodinae	1916	32 p	15.vii.1914	30.ix.1916*	
+172	Lameere, A.	Col.: Cerambycidae: Prioninae	1919	189 p	15.iii. 1919	19.V.19195	
+173a	Fenyes, A.	Col.: Staphylinidae: Aleocharinae	1918	1-110(1-7)	—	18.vi.1919	k
+173b	Fenyes, A.	Col.: Staphylinidae: Aleocharinae	1920	111—414	—	31.viii.1920*	k
+173c	Fenyes, A.	Col.: Staphylinidae: Aleocharinae	1921	415—453	31.xii.1913	l.vi.1921	k
+174a	Emery, C.	Hym.: Formicidae: Myrmicinae	1921	1-94(1-7)	—	l.vi.1921	
+174b	Emery, C.	Hym.: Formicidae: Myrmicinae	1922	95-206	—	2.ix.l922	
+174c	Emery, C.	Hym.: Formicidae: Myrmicinae	1922	207-397	20.xii.1922	24.vi.19242	
+175	Surcouf, J.	Dipt.: Tabanidae	1921	1-182(1-5)	15.V.1921	l.vi.1921	
+175suppl	Surcouf, J.	Dipt.: Tabanidae	1921	183-205	no date	4.ix.l9222	
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+Fasc.	Author(s)	Contents*	Printed year	Pages (plates)	Colophon date	Earliest date found**	Notes
+176	Chatanay, J.	Col.: Tenebrionidae: Zophosinae	1921	50 p	24.viii.1921	4.x. 19212	1
+177	Giglio-Tos, E.	Orth.: Mantidae: Eremiaphilinae	1921	36 p	15.ix. 1921	12.ix.1922	
+178	Boppe, P.	Col.: Cerambycidae: Disteniinae— Lepturinae	1921	121 p	19.viii.1921	4.ix.l9222	m
+179	Meyrick, E.	Lep.: Carposinidae	1922	10 p	5.ix.l922	31.xii.19231	
+180	Meyrick, E.	Lep.: Oecophoridae	1922	224 p	15.x.1922	31.xii.19231	
+181	Meade-Waldo, G.	Hym.: Apidae: Prosopidinae	1923	45 p	20. v. 1922	31.xii.19231	
+182	Melichar, L.	Horn.: Acanaloniidae, Flatidae et Ricaniidae	1923	185 p	14.viii.1923	31.xii.19231	
+183	Emery, C.	Hym.: Formicidae: Formicinae	1925	302 p	15.1.1925	31.xii.19251	
+184	Meyrick, E.	Lep.: Gelechiadae [sic]	1925	290 p	22.vii.l924	l.ii.19265	
+185	Melander, A.L.	Dipt.: Empididae	1927	434 p	21 .vi. 1927	15.iii.19286	n
+186	Pierre, C.	Dipt.: Tipulidae: Tipulinae	1926	68 p	I5.vii.1925	15.iii.19286	
+187	Alexander, C.P.	Dipt.: Tipulidae: Cylindrotominae	1927	16 p	15.vii.1925	15.iii.19286	
+188	Alexander, C.P	Dipt.: Ptychopteridae	1927	12 p	1 .vi. 1926	15.iii.19286	
+189	Alexander, C.P.	Dipt.: Tanyderidae	1927	13 p	1 .vi. 1926	15.iii.19286	
+190	Edwards, F.W.—with descriptions of early stages by D. Keilin	Dipt.: Protorhyphidae, Anisopodidae, Pachyneuridae, Trichoceridae	1928	41 p	30.vi.1924	—.viii.1928	0
+191	Hulstaert, R.P.G.	Lep.: Anthelidae	1928	13 p	“1924”	4.xi.1929s	
+192	Vacher de Lapouge, G.	Col.: Carabidae: Carabinae. Premiere partie	1929	1-153(1-7)	—	4.xi.1929s	
+192a	Vacher de Lapouge, G.	Col.: Carabidae: carabinae. Deuxieme partie	1930	155-291	—	18. vi.1930s	
+192b	Vacher de Lapouge, G.	Col.: Carabidae: Carabinae. Troisieme partie	1931	293-580	—	13.V.19315	
+192c	Vacher de Lapouge, G.	Col.: Carabidae: Carabinae. Quatrieme partie	1932	581-747	no date	l.v.19332	
+192e	Vacher de Lapouge, G.	Col.: Carabidae: Carabinae. Plates	1953	no text (2-10)	no date	5.vi.l9532	P
+193	Hulstaert, R.P.G.	Lep.: Danaidae: Danaidinae, Tellervinae	1931	215 p	20.xi. 1931	21.iii.19322	
+194	Edwards, F.W.	Dipt.: Culicidae	1932	258 p	5.iv.l931	31.X.19327	
+195	Ohaus, F.	Col.: Scarabaeidae: Euchirinae— Phaenomerinae	1933	18 p	30.xi.1933	28.ii.19347	
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+SO
+Fasc.	Author(s)	Contents*	Printed year	Pages (plates)	Colophon date	Earliest date found**	Notes
+196	Beier, M.	Orth.: Mantidae: Hymenopodinae	1934	37 p	no date	2.vii.l9342	
+196nach	Beier, M.	Orth.: Mantidae: Hymenopodinae. Nachtrage	1937	[21 p	no date	9.viii.l9372	
+197	Beier, M.	Orth.: Mantidae: Sibyllinae, Empusinae	1934	10 p	no date	2.vii.l9342	
+198	Beier, M.	Orth.: Mantidae: Toxoderinae	1934	9 P	no date	2.vii.l9342	
+198nach	Beier, M.	Orth.: Mantidae: Toxoderinae. Nachtrage	1937	hip	no date	9.viii.I9372	
+199a	Ohaus, F.	Col.: Scarabaeidae: Rutelinae. Erster Teil	1934	1-172(1-6)	x.1934	30.xi.19347	
+199b	Machatschke, J.W.	Col.: Scarabaeidae: Rutelinae. Zweiter Teil	1957	1-219(1-6)	“Ostern 1956”	30.vi.19582	q
+199c	Machatschke, J.W.	Col.: Scarabaeidae: Rutelinae. Dritter Teil	1965	1-145(1-2)	“Februar 1965”	14.iii.I9662	q
+200	Beier, M.	Orth.: Mantidae: Thespinae	1935	1-32(1-2)	no date	2.xii.l9352	
+200nach	Beier, M.	Orth.: Mantidae: Thespinae. Nachtrage	1937	[UP	no date	9.viii.l9372	
+201	Beier, M.	Orth.: Mantidae: Orthoderinae— Choeradodinae, Deroplatynae	1935	10 p	no date	2.xii.l9352	
+202	Gardner, J.C.M.	Col.: Histeridae: Niponiinae	1935	6 p	no date	31.xii.19357	
+203	Beier, M.	Orth.: Mantidae: Mantinae	1935	146 p	no date	17.ii.19362	
+203nach	Beier, M.	Orth.: Mantidae: Mantinae. Nachtrage	1937	10 p	no date	9.viii.l9372	r
+204	Borchman, Fr.	Col.: Lagriidae	1936	561 p	3 l.xii.1934	16.xi.19362	
+205	Seguy, E.	Dipt.: Muscidae	1937	604 p	no date	9.viii.l9372	
+206	Karny, H.H.	Orth.: Gryllacridiidae: Omnes	1937	317 p	l.ii.1937	15. vi. 1938	
+207	Kleine, R.	Col.: Brenthidae (revision)	1938	197 p	no date	7.iii.l9392	s
+208	Funkhouser, W.D.	Horn.: Membracidae	1950	383 p	no date	24.iv.1951	
+209	Seguy, E.	Dipt.: Scatophagidae	1952	107 p	no date	14.iii.1952	
+210	Strohecker, H.F.	Col.: Endomychiidae	1953	140 p	no date	4.vi.l9532	
+211	Paclt, J.	Protura	1955	35 p	no date	ll.viii.19552	
+212	Paclt, J.	Diplura	1957	123 p	no date	24.iii.19582	
+213	John, H.	Col.: Discolomidae (= Notiophygidae)	1959	56 p	no date	S.v.19592	
+214	Kiriakoff, S.G.	Lep.: Thyretidae	1960	66 p	no date	20.ii.19612	
+215	Schedl, K.E.	Col.: Coptonotidae	1962	13 P	no date	18.vi.19632	
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+Fasc.	Author(s)	Contents*	Printed year	Pages (plates)	Colophon date	Earliest date found**
+216	Paclt, J.	Thysanura: Nicoletiidae	1963	58 p	no date	18.vi.19632
+217a	Kiriakoff, S.G.	Lep.: Notodontidae. Pars prima. Genera Aethiopica et Malgassica	1964	213 p	no date	21.iv.19652
+217A suppl	Kiriakoff, S.G.	Lep.: Notodontidae: Addenda et corrigenda ad partim primam Genera Aethiopica et Malgassica	1970	74 p	no date	3.iv.l970
+217b	Kiriakoff, S.G.	Lep.: Notodontidae. Pars secunda. Genera Palaearctica	1967	238 p	no date	22.xii.19672
+217c	Kiriakoff, S.G.	Lep.: Notodontidae. Pers tertia. Genera lndo-Australica	1968	269 p	no date	20.xi.19682
+218	Paclt, J.	Thysanura: Lepidotrichidae, Maindroniidae, Lepismatidae	1967	86 p	no date	22.xii.19672
+219	Kiriakoff, S.G.	Lep.: Thaumetopoeidae	1970	54 p	no date	3.iv.l970
+Footnotes to Table II.
+* Abbreviations of orders in contents section: Col.=Coleoptera; Colm.=Collembola; Dipt.=Diptera; Het.=Heteroptera; Hom.=Homoptera; Hym.=Hymenoptera; Iso.=lsoptera;
+Lep.=Lepidoptera; Neur.=Neuroptera; Odon.=Odonata; Orth.=Orthoptera.
+** The earliest date found is the stamped date of receipt of the BMNH library unless otherwise noted.
+1.	Date recorded in Naturae Novitates.
+2.	Date received at South African Museum, Cape Town.
+3.	Date received at Smithsonian Institution, Entomology Library, Washington, D.C.
+4.	Handwritten notation of date received directly from author of fascicle.
+5.	Date received at Institut Royal des Sciences Naturelles de Belgique, Brussels.
+6.	Date recorded in Repertorium Entomologicum.
+7.	Date recorded in Bibliographie Belgique.
+8.	Date received at the Museum National d’Histoire Naturelles, Paris.
+Explanation of Notes in Table II.
+a. See note to fascicle 31 concerning corrigenda to this fascicle.
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+Explanation of Notes in Table II (continued)	ps
+b.	Though the colophon date is 15 July 1904, an addendum on p 98 mentions a letter received from J. Martin on 20 December 1904, which lends further support to an early
+1905 publication date rather than the printed date of 1904.
+c.	The wrapper on all copies seen of this fascicle has the printed fascicle number “27me” crossed out and the number	28 penned above it in	black ink.
+d.	The last page of this fascicle contains a corrigenda to fascicle 20.
+e.	Recorded at the 18 February 1907 meeting of the Academy of Sciences, Paris.
+f.	A supplement to this fascicle (p. 14-15) was bound at the beginning of fascicle 73 and takes that date of publication.
+g.	Reviewed in Societas Entomologica 22: 76 by H. Fruhstorfer, in which the review article bears the date 25 June 1907.
+h.	See note to fascicle 55.
+THE PUBLICATION AND DATING OF WYTSMAN’S GENERA INSECTORUM
+i.	Page 178 has a small slip of paper with a printed “Errata et Corrigenda” glued to it.
+j.	The colophon date of 20 January 1913 is later than the printed year (1912) on the wrapper.
+k.	The wrapper to	173a says it contains 7 plates; a handwritten note in copies seen during this study says that the plates could not be sent with that fascicle. The wrapper to
+173c	states that it contains the continuation of the plates,	yet it does not. The plates are actually contained in fascicle 173b, thus dating from 1920 rather than 1921.
+l.	Original colophon date was 17.V.1914; printing was delayed due to WW1 and the fact that the author was killed 15 October 1914 in combat. The colophon date is the
+editor's.
+m.	Page 121 has an editor’s paragraph stating that the manuscript was originally received at the end	of May 1914, but printing was delayed due to WWI.
+n.	The original manuscript was received by the editor on 10 January 1925. P. Wytsman died during	the editing process	and there was a delay	in printing. Final proofs were
+returned to the printer on 21 June 1927, which, according to the editor, Mile H. Wytsman, is the reason for the “1927” date on the wrapper. See also Arnaud (1966) for further details on the dating of this fascicle.
+o.	Though the colophon is dated 1924, page 41 has a line stating that new species were added until December 1926.
+p.	The wrapper lists this fascicle as I92e. There is no 192d, but because the first fascicle in this series had no subletter “a”, and this is the fifth fascicle in the series, it was
+thus labelled as 192e.
+q.	The colophon date here is actually taken from the date of the “Vorwort”.
+r.	Though	there is	no colophon date, the latest reference cited	in the work is that of Annals and Magazine of Natural History (10) 19: 378, which was published March 1937.
+s.	Though	there is	no colophon date, the latest reference cited	in the work is that of Revue Frangise d'Entomologie 5: 102, which was published 20 June 1938.
+has “1927”, but correspondence from the editor, Mile H. Wytsman, indicated that it was probably not issued until February or March of 1928.
+Amaud’s (1966) paper relates a portion of Mile Wytsman’s letter, in which she explains the apparent reason for discrepancies with the printed year versus the actual publication date. Concerning Melander’s fascicle 185 with “1927” on the wrapper, she wrote: “The date of a book is always that of typographic composition and to the last corrections and additions of the author. After that the last 50 [or] 100 pages, the Index must be printed upon the definitive paper, the fascicle must be stiched . . . [That] leads us till February or March 1928 for the delivery to the subscribers.” Her belief that the date of a book is that of the typographic composition after author’s corrections explains the printed years on the wrappers of fascicles in this series, some of which are in striking contrast to actual receipt dates at various libraries.
+With this evidence from the editor of the series, the year on the wrapper must then be considered as indicative of the final composition of the work or, more likely, the year in which it was printed, but not necessarily the year of publication (i.e. the year in which it was sent to subscribers).
+Publication Process
+In order to obtain accurate dates of publication for each fascicle, the process by which the fascicles were issued by the publisher is an important factor. It is evident that only the early fascicles through fascicle 12a were issued individually. Succeeding fascicles were apparently issued in batches. Given that Wytsman published the first 111 fascicles privately (see table I), issuing fascicles in batches would undoubtedly have saved him money on postage, which was probably a major consideration in trying to keep such a large and ambitious endeavor alive. This process of issuing fascicles in batches continued until the final years of publication, when fascicles were published sporadically. The fact that fascicles were issued simultaneously in batches is corroborated by dates of receipt at numerous libraries as well as evidence of receipts in recording journals.
+Given this type of publication, the actual date of publication for some fascicles can be one or even two years after the printed year on the wrapper. For example, fascicles 185-189 were issued simultaneously in 1928 with the earliest recorded receipt as 15 March. Fascicles 185 and 187-189 have “1927” on the wrapper. Fascicle 186 has “1926” printed on the wrapper. It is most likely that fascicle 186 was ready to be sent to subscribers as early as mid-1926, but could not be sent until fascicles 185 and 187-189 were finished. After binding them, they were then sent to subscribers as a batch in March of 1928.
+Results of Research
+The earliest dates obtained for each fascicle from the libraries and journals listed below are given in Table II. Table II gives for each fascicle the author, contents, year printed on the wrapper, number of pages, number of plates [only enumerated for those fascicles that were published in parts so as to pinpoint the date of publication of each plate], “colophon” date, and earliest recorded date of receipt in a library or journal. Additional notes clarifying publication or editing anomalies are also given.
+The use here of the term “colophon” is not bibliographically correct and is used only as a matter of convenience, there being no other term for this printed date. This is not the printer’s colophon, but is essentially the date given by the editor after the manuscript had been received from the author, though confusing the issue is the fact that the date is prefaced by the city of the author (e.g., for fascicle 72: “Washington, D.C., August 15, 1908”). The colophon date is usually placed at the end of the manuscript proper and before the figure legends or before the taxonomic index, but can be found after the index and/or figure legends in other fascicles. There is not a great deal of consistency either in the timing of the colophon date given by the editor. In some cases, it was when the original manuscript was received. In other cases, it is the date when the corrected manuscript was received. In any case, this date is useful in noticing how slow or fast actual publication took place. For example, fascicle 72 has a colophon date of 15 August 1908, but the date of receipt at the Natural History Museum, London was 26 August 1908—only eleven days later! This date can also give an indication as to the general order of fascicles published as well as illuminate any publishing anomalies. In one case (fascicle 143), the “colophon” date is 20 January 1913, while the wrapper has the printed date of “1912”!
+No confirmed dates of publication could be ascertained from the publishers; hence, the dates given in Table II as the earliest dates found thus far should be considered as publication dates until such time as further evidence is found to suggest earlier dates. Given the evidence shown in this study that the method of printing dates on the wrappers indicates when a fascicle was printed rather than when it was sent to subscribers, the dates given in Table II can be safely considered as the earliest dates of publication for each fascicle concerned.
+Comments on Dates of Receipt
+Dates of receipt were recorded from the libraries and journals listed below and the earliest date placed in Table II. Originally, it was thought that libraries or recording journals in Brussels would have the earliest dates of receipt since the fascicles were published there or near there throughout most of their history. However, results of the dating research showed otherwise. In most cases, the Entomological Library at the Natural History Museum had the earliest dates of receipt—sometimes months earlier than those recorded in Bibliographie de Belgique (the journal giving the accessions of the national library in Brussels) or those found in the Institut Royal des Sciences Naturelles de Belgique. The biggest surprise was finding that the South African Museum library in Cape Town had earlier dates of receipt for some fascicles than any European library or journal!
+The reasons for these dating patterns most likely have a lot to do with the recording procedures in libraries. In larger libraries, many journals arrive each day waiting to be stamped as received. A long waiting period before the journal is recorded or stamped as received may be reflected in the relatively late dates of receipt at various libraries. This could well be the reason that the national library in Brussels was slow to record each fascicle that came in. The method of recording journals received at the South African Museum was to stamp the date of receipt the day a publication from the South African Museum was received and to stamp the remainder of the journals at the end of
+the week. Being a smaller library, this method was kept for many years and probably resulted in some receipt dates being earlier than for larger libraries thousands of miles closer to the publisher.
+Sources Consulted
+The following libraries were visited personally or were researched by others: Bishop Museum, Honolulu, Hawaii; Hawaiian Sugar Planters’ Association, Aiea, Hawaii; Entomology Library, University of California, Berkeley; Entomology Library, Smithsonian Institution, Washington, D.C.; Entomology Library, the Natural History Museum, London; Institut Royal des Sciences Naturelles de Belgique, Brussels; South African Museum, Cape Town; Entomology Library, California Academy of Sciences, San Francisco.
+In addition, the following journals were consulted for dates of receipt: Annals and Magazine of Natural History, London; Bibliographic de Belgique, Brussels; Bibliographic de la France, Paris; Bulletin et Annales de la Societe Entomologique de Belgique, Brussels; Comptes Rendus Hebdomaires de VAcademie des Sciences, Paris; Entomologische Literatur Blatter, Berlin; Naturae Novitates, Berlin; Repertorium Entomologicum, Berlin; Wiener Entomologische Zeitung, Vienna; Zoologischer Anzeiger (Bibliographia Zoologic a), Leipzig.
+ACKNOWLEDGEMENTS
+The dating of the fascicles of this publication was made possible by the courteous and generous assistance of various librarians and access to the holdings in their respective collections. Special thanks are due to the librarians and staff of the Natural History Museum, London, the South African Museum, Cape Town, the Smithsonian Institution, Washington, D.C., the Bishop Museum, Honolulu, the University of California, Berkeley, and the Hawaiian Sugar Planters’ Association, Aiea.
+In addition, I am indebted to Dr Patrick Grootaert, Institut Royal des Sciences Naturelles de Belgique, Brussels, and Dr Paul H. Arnaud, Jr., California Academy of Sciences, San Francisco, for their kind help in obtaining records of receipts in their respective libraries. Special thanks go to Margie Cochrane, South African Museum, for help in obtaining data missed during my initial visit there.
+Dr David K. McAlpine, Australian Museum, Sydney, kindly informed me of the receipt date at the Museum National d’Histoire Naturelle, Paris for Fascicle 157.
+REFERENCES
+ARNAUD, P.H., Jr., 1966 Date of publication of Genera Insectorum, Fascicle^JS^J^amil^ Axel^eonardNIeland42: 337-338.
+BOYD, M. and RICKETTS, V., 1987 Indexes for “Genera Insectorum". Fascicle index, author index, taxon index. Entomology Division, Department of Scientific and Industrial Research, Mt Albert, New Zealand. [iv]+20 pp.
+SEGUY, E., 1940 Genera Insectorum de P. Wytsman. f Advertisement). Tervuren, Belgium. 16 pp.
+TOWNSEND, L.H., 1937 A list of the fascicles of “Genera Insectorum”, with author and family index. Revista de Entomologia 7: 217-230.
+ZIMMER, J.T., 1926 Catalogue of the Eward E. Ayer Ornithological Library, parts 1 & 2. Field Museum of Natural History (Zoology) 16: 1-706.
+(Accepted 29 November 1992.)
