@@ -1,0 +1,5 @@
+{
+    "require": {
+        "patrickschur/language-detection": "^3.4"
+    }
+}
